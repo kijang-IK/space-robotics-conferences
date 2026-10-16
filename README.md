@@ -8,9 +8,20 @@ A curated list of major international conferences in **space, aerospace, robotic
 타임라인·캘린더·정렬 표, 학회별 발표 키워드 히트맵, 역대 개최지 검색, 구글 캘린더/.ics 내보내기를 지원합니다.  
 Timeline, calendar and sortable table views, a conference × topic heatmap, venue search, and Google Calendar / .ics export.
 
+**공유 링크 / Share links** — 화면 상태가 주소에 저장되어, 링크를 받은 사람도 같은 화면에서 남은 시간을 바로 봅니다.
+
+| 예시 | 의미 |
+|---|---|
+| [`?c=icra`](https://kijang-ik.github.io/space-robotics-conferences/?c=icra) | 특정 학회의 다음 마감 카드로 바로 이동 |
+| [`?list=icra,iros,iac`](https://kijang-ik.github.io/space-robotics-conferences/?list=icra,iros,iac) | 고른 학회들만 보기 (내 학회 목록 공유) |
+| [`?cat=space-robotics`](https://kijang-ik.github.io/space-robotics-conferences/?cat=space-robotics) | 분야 필터 (space, aerospace, space-robotics, robotics, control) |
+| [`?view=topics&picks=spacecraft-gnc,space-robotics`](https://kijang-ik.github.io/space-robotics-conferences/?view=topics&picks=spacecraft-gnc,space-robotics) | 키워드 매칭 결과 공유 |
+
 > **기준일 / As of: 2026-10-16** · 학회 35개 conferences · 개최 기록 354건 editions  
 > 모든 값에는 출처 URL이 붙어 있습니다 / Every value has a source URL (`data/conferences/*.json`).  
 > 마감일은 자주 연장되니 **제출 전 반드시 공식 사이트를 확인하세요.** / Deadlines change often — **always check the official site before submitting.**
+
+> ⚠️ **검증 상태 / Status:** 1차 조사(출처 기반) 완료, 독립 교차검증 진행 전입니다. 오류는 Issue로 알려주세요. · First-pass research with sources; independent cross-check pending.
 
 - `OPEN` 공지된 마감일이 기준일 이후 / announced deadline is still ahead · `CLOSED` 마감 지남 / passed · `TBA` 미공지 / not announced
 - abstract 단계가 없는 학회(ICRA, IROS 등)는 **full paper 마감일**을 표기합니다. / For full-paper venues (ICRA, IROS, …) the **paper deadline** is shown.

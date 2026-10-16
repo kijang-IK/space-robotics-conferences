@@ -5,6 +5,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Conference Launch Window</title>
 <meta name="description" content="학회 런치 윈도우 — 우주·로봇 분야 주요 국제학회의 마감일, 개최지, 발표 키워드 트래커 / Deadline tracker for space & robotics conferences">
+<meta property="og:type" content="website">
+<meta property="og:title" content="학회 런치 윈도우 · 우주·로봇 학회 마감 T-minus">
+<meta property="og:description" content="IAC, ICRA, IROS, SciTech, IEEE Aerospace 등 우주·로봇 주요 학회 35곳의 마감까지 남은 시간, 개최지, 발표 키워드를 한눈에. 모든 값에 출처 링크.">
+<meta property="og:url" content="https://kijang-ik.github.io/space-robotics-conferences/">
+<meta property="og:locale" content="ko_KR">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="학회 런치 윈도우 · Conference Launch Window">
+<meta name="twitter:description" content="우주·로봇 주요 학회 마감 T-minus 트래커 — deadlines, venues & topics with sources.">
+<meta name="theme-color" content="#070a12">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%23070a12'/%3E%3Cellipse cx='32' cy='32' rx='26' ry='9' fill='none' stroke='%234cc9f0' stroke-width='3' transform='rotate(-20 32 32)'/%3E%3Ccircle cx='32' cy='32' r='8' fill='%234cc9f0'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
@@ -340,6 +350,11 @@ table.heat td.cell:hover, table.heat td.cell:focus { outline: 2px solid var(--in
 #tip strong { font-size: 14px; display: block; }
 #tip .t-sub { color: var(--muted); }
 #tip .t-ev { color: var(--ink-2); margin-top: 4px; }
+#toast { position: fixed; left: 50%; bottom: 24px; transform: translate(-50%, 20px); opacity: 0; transition: all .2s; z-index: 60; background: var(--ink); color: var(--page); font-weight: 600; font-size: 13px; padding: 9px 16px; border-radius: 999px; pointer-events: none; max-width: calc(100vw - 32px); }
+#toast.on { opacity: 1; transform: translate(-50%, 0); }
+.toggle.share { color: var(--accent); border-color: color-mix(in srgb, var(--accent) 50%, transparent); }
+.shared-banner { display: inline-flex; align-items: center; gap: 6px; font-size: 12.5px; color: var(--ink); background: color-mix(in srgb, var(--accent) 14%, transparent); border: 1px solid color-mix(in srgb, var(--accent) 45%, transparent); border-radius: 999px; padding: 3px 4px 3px 10px; }
+.shared-banner button { font: inherit; font-size: 12px; color: var(--ink-2); background: var(--surface); border: 1px solid var(--ring); border-radius: 999px; padding: 1px 8px; cursor: pointer; }
 footer { color: var(--muted); font-size: 12px; padding: 24px 0 40px; border-top: 1px solid var(--grid); line-height: 1.8; }
 @media (max-width: 860px) {
   .hero-grid { grid-template-columns: minmax(0, 1fr); padding-top: 36px; }
@@ -486,6 +501,7 @@ footer { color: var(--muted); font-size: 12px; padding: 24px 0 40px; border-top:
   </section>
 
   <footer>
+    <b>검증 상태:</b> 1차 조사(출처 기반) 완료 · 독립 교차검증 진행 전 — 오류를 발견하면 <a href="https://github.com/kijang-IK/space-robotics-conferences/issues" target="_blank" rel="noopener">Issue</a>로 알려주세요. · Status: first-pass research with sources; independent cross-check pending.<br>
     마감 시각은 AoE(UTC−12) 기준으로 계산합니다. 마감일은 자주 연장·변경되니 제출 전 반드시 공식 사이트를 확인하세요. · Deadlines are treated as end-of-day AoE; always confirm on the official site.<br>
     데이터 <a href="https://github.com/kijang-IK/space-robotics-conferences/tree/main/data" target="_blank" rel="noopener">data/conferences/*.json</a> ·
     키워드 분류 <a href="https://github.com/kijang-IK/space-robotics-conferences/blob/main/data/keywords/taxonomy.json" target="_blank" rel="noopener">taxonomy.json</a> ·
@@ -494,6 +510,7 @@ footer { color: var(--muted); font-size: 12px; padding: 24px 0 40px; border-top:
   </footer>
 </main>
 <div id="tip" role="tooltip"></div>
+<div id="toast" role="status" aria-live="polite"></div>
 
 <script id="data" type="application/json">/*__DATA__*/</script>
 <script>
@@ -615,8 +632,61 @@ const state = {
   view: store.get('lw-view', 'board'), q: '', cats: new Set(CAT_ORDER), past: false, starOnly: false, kw: null,
   stars: new Set(store.get('lw-stars', [])), picks: new Set(store.get('lw-picks', [])),
   sort: { key: 'deadline', dir: 1 }, vsort: { key: 'year', dir: -1 }, heatSort: null, open: new Set(),
+  list: null, focus: null,
 };
-if (!['board', 'calendar', 'table', 'topics', 'venues'].includes(state.view)) state.view = 'board';
+const VIEWS = ['board', 'calendar', 'table', 'topics', 'venues'];
+if (!VIEWS.includes(state.view)) state.view = 'board';
+// Shareable state: everything on screen can be reproduced from the query string.
+(() => {
+  const P = new URLSearchParams(location.search);
+  const ids = new Set(DATA.conferences.map((c) => c.id));
+  const csv = (k) => (P.get(k) || '').split(',').map((x) => x.trim()).filter(Boolean);
+  if (VIEWS.includes(P.get('view'))) state.view = P.get('view');
+  if (P.get('q')) state.q = P.get('q');
+  const cats = csv('cat').filter((k) => CAT[k]);
+  if (cats.length) state.cats = new Set(cats);
+  if (P.get('past') === '1') state.past = true;
+  if (KW[P.get('kw')]) { state.kw = P.get('kw'); state.heatSort = state.kw; }
+  const picks = csv('picks').filter((k) => KW[k]);
+  if (picks.length) state.picks = new Set(picks);
+  const list = csv('list').filter((k) => ids.has(k));
+  if (list.length) state.list = new Set(list);
+  if (ids.has(P.get('c'))) state.focus = P.get('c');
+})();
+function shareParams() {
+  const p = new URLSearchParams();
+  if (state.view !== 'board') p.set('view', state.view);
+  if (state.q.trim()) p.set('q', state.q.trim());
+  if (state.cats.size !== CAT_ORDER.length) p.set('cat', [...state.cats].join(','));
+  if (state.past) p.set('past', '1');
+  if (state.kw) p.set('kw', state.kw);
+  if (state.view === 'topics' && state.picks.size) p.set('picks', [...state.picks].join(','));
+  const lst = state.list || (state.starOnly && state.stars.size ? state.stars : null);
+  if (lst) p.set('list', [...lst].join(','));
+  if (state.focus) p.set('c', state.focus);
+  return p;
+}
+const baseURL = () => `${location.origin}${location.pathname}`;
+const urlFor = (p) => { const qs = p.toString().replace(/%2C/gi, ','); return qs ? `${baseURL()}?${qs}` : baseURL(); };
+function syncURL() {
+  const qs = shareParams().toString().replace(/%2C/gi, ',');
+  try { history.replaceState(null, '', qs ? `?${qs}` : location.pathname); } catch (e) { /* file:// or sandboxed */ }
+}
+let toastTimer;
+function toast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg; t.classList.add('on');
+  clearTimeout(toastTimer); toastTimer = setTimeout(() => t.classList.remove('on'), 2400);
+}
+async function shareLink(url, title) {
+  if (navigator.share && matchMedia('(pointer: coarse)').matches) {
+    try { await navigator.share({ title, url }); return; } catch (e) { if (e && e.name === 'AbortError') return; }
+  }
+  try { await navigator.clipboard.writeText(url); toast('링크를 복사했어요 · Link copied'); return; } catch (e) { /* fall through */ }
+  const ta = h('textarea', { style: 'position:fixed;opacity:0' }); ta.value = url; document.body.append(ta); ta.select();
+  try { document.execCommand('copy'); toast('링크를 복사했어요 · Link copied'); } catch (e) { toast(url); }
+  ta.remove();
+}
 const theme = store.get('lw-theme', null);
 if (theme) document.documentElement.dataset.theme = theme;
 
@@ -624,6 +694,7 @@ function matchConf(c, ignoreCat) {
   const q = state.q.trim().toLowerCase();
   return (ignoreCat || state.cats.has(c.category)) &&
     (!state.starOnly || state.stars.has(c.id)) &&
+    (!state.list || state.list.has(c.id)) &&
     (!q || q.split(/\s+/).every((t) => c.hay.includes(t))) &&
     (!state.kw || (c.kwMap[state.kw] && c.kwMap[state.kw].weight >= 0.05));
 }
@@ -685,6 +756,10 @@ function renderCats() {
       onclick: () => { state.starOnly = !state.starOnly; render(); } }, '★ 내 학회', h('span', { class: 'n' }, state.stars.size)),
     h('button', { type: 'button', class: 'toggle', 'aria-pressed': String(state.past), onclick: () => { state.past = !state.past; render(); } }, '↺ 지난 마감 포함'),
     state.kw ? h('button', { type: 'button', class: 'toggle kwchip', 'aria-pressed': 'true', onclick: () => setKw(state.kw) }, `키워드: ${KW[state.kw].ko} ✕`) : null,
+    state.list ? h('span', { class: 'shared-banner' }, `공유받은 목록 ${state.list.size}곳`,
+      h('button', { type: 'button', onclick: () => { state.list.forEach((id) => state.stars.add(id)); store.set('lw-stars', [...state.stars]); toast('내 학회에 추가했어요 ★'); render(); } }, '★ 내 학회에 추가'),
+      h('button', { type: 'button', 'aria-label': '공유 목록 해제', onclick: () => { state.list = null; render(); } }, '✕')) : null,
+    h('button', { type: 'button', class: 'toggle share', onclick: () => shareLink(urlFor(shareParams()), document.title) }, '🔗 이 화면 링크 복사'),
     h('span', { class: 'count', id: 'count' })].filter(Boolean));
 }
 
@@ -817,6 +892,7 @@ function missionCard(x) {
       d >= 0 ? h('a', { href: gcal(x) }, icon('cal'), '캘린더') : null,
       x.e.source ? h('a', { href: x.e.source }, icon('doc'), '출처') : null,
       h('button', { type: 'button', 'aria-expanded': String(open), onclick: () => { if (state.open.has(x.key)) state.open.delete(x.key); else state.open.add(x.key); render(); } }, icon('info'), open ? '접기' : '상세'),
+      h('button', { type: 'button', title: '이 학회만 가리키는 링크 복사', onclick: () => shareLink(urlFor(new URLSearchParams({ c: x.c.id })), `${x.c.short_name} ${x.e.year} 마감`) }, '🔗 링크'),
       x.c.official_url ? h('a', { class: 'go', href: x.c.official_url }, '공식 사이트', icon('ext')) : null));
   if (open) el.append(h('div', { class: 'detail' }, detail(x.c)));
   return el;
@@ -1127,10 +1203,33 @@ function render() {
   if (state.view === 'table') renderTable(list);
   if (state.view === 'topics') renderKeywords(list);
   if (state.view === 'venues') renderVenues(list);
+  syncURL();
+}
+function updateTitle() {
+  const nxt = ENTRIES.find((x) => aoeEnd(x.date) > Date.now());
+  document.title = nxt ? `T-${days(nxt.date, TODAY)} ${nxt.c.short_name} · 학회 런치 윈도우` : '학회 런치 윈도우 · Conference Launch Window';
+}
+// Deep link ?c=<id>: jump to that conference's next deadline card (or its table row).
+function applyFocus() {
+  const id = state.focus;
+  if (!id) return;
+  const c = DATA.conferences.find((x) => x.id === id);
+  const x = ENTRIES.find((e) => e.c.id === id && e.date >= TODAY);
+  state.cats.add(c.category);
+  // ?c stays in the address bar for this jump; the next interaction drops it.
+  setTimeout(() => { state.focus = null; }, 0);
+  if (x) { focusEntry(x); toast(`${c.short_name} ${x.e.year} · ${x.date} 마감까지 ${days(x.date, TODAY)}일`); return; }
+  state.view = 'table'; state.open.add(id); render();
+  const row = document.querySelector('#conf-table tr.open');
+  if (row) row.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  toast(`${c.short_name}: 다가오는 마감이 아직 공지되지 않았어요`);
 }
 renderStats();
 renderTminus();
+updateTitle();
+if (state.q) qEl.value = state.q;
 render();
+setTimeout(applyFocus, 0);
 })();
 </script>
 </body>
