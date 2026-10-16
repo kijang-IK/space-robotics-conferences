@@ -46,7 +46,7 @@
       "abstract_deadline": "2024-05-27",
       "source": "https://spaice.esa.int/2024/",
       "edition": "1st (joint ESA SPAICE / IAA Conference on AI in and for Space)",
-      "notes": "Key-dates page shows paper deadline 19 May 2024 replaced by 27 May 2024 (extended): https://spaice.esa.int/2024/key-dates/",
+      "notes": "Key-dates page shows paper deadline 19 May 2024 replaced by 27 May 2024 (extended): https://spaice.esa.int/2024/key-dates/. Cross-checked 2026-10-16: city wording differs from independent pass (\"Harwell (Oxfordshire)\") but is the same place (ESA ECSAT, Harwell Campus); no change.",
       "continent": "Europe"
     },
     {
@@ -92,6 +92,7 @@
   "notes": "User-requested top-priority series. Official name on its site: '3rd IAA Conference on AI for Space' (header also says '3rd IAA Conference on AI in and for Space'; short name IAA SpaceAI). No 4th edition announced on iaaspace.org or iaa-aispace.org as of 2026-10-16 (annual cadence suggests 2027 but unverified). Korean involvement verified: Jeju National University is host/local organizer; KAIST and Konkuk Univ. professors chair the OC; KARI, KASI, KAI and ETRI researchers sit on the Scientific Committee. KARI/KASA/KSAS are NOT listed as organizers. A separate sample site (jejuai.bo9jeong.co.kr, titled '(sample) Jeju National Univ. AI international conference') mirrors the content; iaa-aispace.org is treated as official. iaa-aispace.org returns 403 to some fetchers; content was retrieved with a browser user-agent.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

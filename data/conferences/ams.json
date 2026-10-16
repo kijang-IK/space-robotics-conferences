@@ -94,10 +94,13 @@
       "venue": "Virtual (originally planned for Houston, hosted by NASA Johnson Space Center)",
       "start_date": "2022-05-11",
       "end_date": "2022-05-13",
-      "abstract_deadline": null,
-      "source": "https://eprints.soton.ac.uk/492356/1/46th_AMS_Proceedings_Final_1_.pdf",
+      "abstract_deadline": "2021-12-03",
+      "source": "https://aeromechanisms.com/wp-content/uploads/2021/10/46th-AMS-Call-for-Papers-v2a.pdf",
       "continent": null,
-      "notes": "46th AMS; proceedings NASA/CP-2022-20220006415 (per https://aeromechanisms.com/past-symposia/)."
+      "notes": "46th AMS; proceedings NASA/CP-2022-20220006415 (per https://aeromechanisms.com/past-symposia/). Cross-checked 2026-10-16: abstract_deadline filled 2021-12-03 (summaries due 3 December 2021, official 46th AMS call for papers v2a).",
+      "extra_sources": [
+        "https://eprints.soton.ac.uk/492356/1/46th_AMS_Proceedings_Final_1_.pdf"
+      ]
     },
     {
       "year": 2024,
@@ -107,10 +110,13 @@
       "venue": "Virginia Beach Convention Center",
       "start_date": "2024-05-15",
       "end_date": "2024-05-17",
-      "abstract_deadline": null,
-      "source": "https://aeromechanisms.com/47th-ams-program-2024/",
+      "abstract_deadline": "2023-11-15",
+      "source": "https://aeromechanisms.com/wp-content/uploads/2023/05/47th-AMS-Call-for-Papers.pdf",
       "continent": "North America",
-      "notes": "47th AMS, hosted by NASA Langley Research Center and Lockheed Martin Space; proceedings NASA/CP-20240005548."
+      "notes": "47th AMS, hosted by NASA Langley Research Center and Lockheed Martin Space; proceedings NASA/CP-20240005548. Cross-checked 2026-10-16: abstract_deadline filled 2023-11-15 (summaries due 15 November 2023, official 47th AMS call for papers; no later extension found).",
+      "extra_sources": [
+        "https://aeromechanisms.com/47th-ams-program-2024/"
+      ]
     },
     {
       "year": 2026,
@@ -124,6 +130,19 @@
       "source": "https://aeromechanisms.com/48th-ams-program-2026/",
       "continent": "North America",
       "notes": "48th AMS, hosted by NASA Marshall Space Flight Center and Lockheed Martin Space. The summary deadline was extended from 16 Nov 2025 to 30 Nov 2025 (https://aeromechanisms.com/). The AMS past-symposia page lists 15-17 May 2026, but the official programme and the call for papers both give 13-15 May 2026."
+    },
+    {
+      "year": 2028,
+      "city": "Kennedy Space Center",
+      "region": "Florida",
+      "country": "United States",
+      "venue": "NASA Kennedy Space Center",
+      "start_date": null,
+      "end_date": null,
+      "abstract_deadline": null,
+      "source": "https://aeromechanisms.com/",
+      "continent": "North America",
+      "notes": "49th AMS, 'NASA Kennedy Space Center, Florida - May 2028', in co-operation with NASA KSC and Lockheed Martin Space (official aeromechanisms.com homepage). Exact dates and summary deadline not announced. Cross-checked 2026-10-16: edition added from the independent pass and confirmed on the official AMS homepage."
     }
   ],
   "sources": [
@@ -146,6 +165,7 @@
   "notes": "The AMS is often described as 'NASA/Lockheed'. Formally it is organised by the non-profit Mechanisms Education Association, with a NASA center and Lockheed Martin Space as hosts, and the proceedings appear as NASA Conference Publications. Papers are archived at https://www.esmats.eu/amspapers/. The 48th AMS (2026) opened with a dedicated 'Deployables' session (6 papers), and its poster session included several origami/deployable telescope and hinge papers. Summary deadlines for 2014-2024 were not found. The 45th (2020) was cancelled, with proceedings only, and the 46th (2022) was held virtually.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

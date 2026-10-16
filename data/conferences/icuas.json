@@ -211,6 +211,7 @@
   "notes": "Next edition ICUAS'27 in Fortaleza, Brazil, June 14-17, 2027 at Gran Mareiro Hotel (official uasconferences.com page; theme AI-based aerial robotics and ethical AI); full-paper deadline Feb 5, 2027 - not yet passed (status 'open' = announced and in the future; submission-site opening not verified). Beware: WASET and other aggregator events reuse the 'ICUAS' name (e.g., Nice, Zurich, Amsterdam, Istanbul, Osaka listings) - they are NOT this conference. 2026: official page says paper/simulation dates 'have been updated' without showing the revised dates, so 2026-02-27 may not be the final deadline; 2026 venue (Divani Corfu Palace) from clocate aggregator only. 2024 deadline (Feb 4, 2024) is from an aggregator (myhuiban), not the official site. 2020 edition moved from June to Sep 1-4, 2020 (COVID-19); many registrants could not travel. 2016 location from IEEE CSS event listing; 2019 location (Atlanta) from IEEE RAS aerial robotics TC activities page. Paper deadlines for 2015-2023 not verified (null). Older official ICUAS pages (2022-2024) returned HTTP 500 at time of research.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

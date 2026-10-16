@@ -101,9 +101,10 @@
       "venue": null,
       "start_date": "2023-06-12",
       "end_date": "2023-06-16",
-      "abstract_deadline": null,
-      "source": "https://indico.esa.int/event/449/",
-      "continent": "Europe"
+      "abstract_deadline": "2023-01-20",
+      "source": "https://atpi.eventsair.com/gnc2023/calendar-of-events",
+      "continent": "Europe",
+      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2023-01-20 from official calendar of events (no extension shown). Indico page: https://indico.esa.int/event/449/."
     },
     {
       "year": 2026,
@@ -134,6 +135,7 @@
   "notes": "The most recent edition, Sevilla, 28 Sep - 2 Oct 2026, ended two weeks before the research date, and no next edition is announced. The 2014 Porto dates come from a TU Dresden publication citation ('Oporto, Portugal, 2-6 June 2014') as surfaced in search, not an ESA page. 2021 dates: GMV says 21-25 June; another listing says 22-25 June. The 2023 venue in Sopot is not named on Indico. Do not confuse this series with CEAS EuroGNC, a separate biennial conference. Abstract deadlines before 2026 were not found. The 2016 and 2018 entries are standalone ICATT editions, included because ICATT is now merged with GNC.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

@@ -186,10 +186,10 @@
       "venue": "University of Southern California",
       "start_date": "2025-06-21",
       "end_date": "2025-06-25",
-      "abstract_deadline": "2025-01-24",
+      "abstract_deadline": "2025-01-31",
       "source": "https://roboticsconference.org/2025/",
       "abstract_registration_deadline": "2025-01-17",
-      "notes": "Abstract/title deadline Jan 17, 2025; initial (semi-complete) paper Jan 24, 2025; final PDF Jan 31, 2025 (AoE).",
+      "notes": "Abstract/title deadline Jan 17, 2025; initial (semi-complete) paper Jan 24, 2025; final PDF Jan 31, 2025 (AoE). Cross-checked 2026-10-16: abstract_deadline changed 2025-01-24 -> 2025-01-31 to hold the full-paper (Final PDF) deadline, consistent with other editions' full-paper deadlines; abstract/title Jan 17 kept in abstract_registration_deadline, semi-complete initial paper was due Jan 24.",
       "continent": "North America"
     },
     {
@@ -244,6 +244,7 @@
   "notes": "RSS 2027 is the 23rd edition. Unverified: RSS 2017 paper deadline (null), RSS 2018 venue (null); RSS 2018 and 2019 deadlines rely on third-party sources. RSS 2020/2021 virtual (city null).",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

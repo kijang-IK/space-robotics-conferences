@@ -88,6 +88,7 @@
   "notes": "Included because it is the IAA series most directly on GNC/dynamics, but it appears DORMANT: IAA's historic-events chronicle lists DyCoSS 2012 Porto, 2014 Roma, 2017 Moscow, 2018 Changsha only; searches for a 5th edition found nothing, and DyCoSS is not in the current IAA conference portfolio. No official series website. 1st edition: Porto, Portugal, 19-21 Mar 2012 (outside 2014+ window).",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

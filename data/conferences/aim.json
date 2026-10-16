@@ -124,9 +124,13 @@
       "venue": "Royton Sapporo (hybrid)",
       "start_date": "2022-07-11",
       "end_date": "2022-07-15",
-      "abstract_deadline": null,
-      "source": "https://sice.jp/info/info_event/event_20220711.html",
-      "continent": "Asia"
+      "abstract_deadline": "2022-03-11",
+      "source": "https://www.aim2022.org/",
+      "continent": "Asia",
+      "extra_sources": [
+        "https://sice.jp/info/info_event/event_20220711.html"
+      ],
+      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2022-03-11 (contributed papers, official aim2022.org Important Dates)."
     },
     {
       "year": 2023,
@@ -134,11 +138,15 @@
       "region": null,
       "country": "United States",
       "venue": null,
-      "start_date": "2023-06-28",
-      "end_date": "2023-06-30",
-      "abstract_deadline": null,
-      "source": "https://asme.org/getmedia/b841d3bb-9cdd-4f81-a545-135e42653d68/aim2023_cfp.pdf",
-      "continent": "North America"
+      "start_date": "2023-06-27",
+      "end_date": "2023-07-01",
+      "abstract_deadline": "2023-02-10",
+      "source": "https://aim2023.org/",
+      "continent": "North America",
+      "extra_sources": [
+        "https://asme.org/getmedia/b841d3bb-9cdd-4f81-a545-135e42653d68/aim2023_cfp.pdf"
+      ],
+      "notes": "Cross-checked 2026-10-16: start/end changed 2023-06-28/2023-06-30 -> 2023-06-27/2023-07-01 per official aim2023.org ('June 27-July 1 (Tue-Sat), 2023'); technical sessions ran June 28-30 per the official Program at a Glance. Cross-checked 2026-10-16: abstract_deadline filled 2023-02-10 (contributed papers, extended from Feb 1, official aim2023.org)."
     },
     {
       "year": 2024,
@@ -205,6 +213,7 @@
   "notes": "Next edition AIM 2027, Calgary, Canada, June 29-July 2, 2027 (official aim2027.com; venue 'coming soon'). Deadline conflict: official site lists contributed/invited papers due 2027-01-26, while the IEEE RAS event calendar lists a paper submission deadline of 2027-03-02 (used official value; verify). IEEE IES calendar lists Calgary but July 12-15, 2027 (outlier). The Georgia Tech AIM history page lists AIM 2027 as Boulder, CO, July 12-16 - appears outdated; superseded by the official site. Georgia Tech page also lists AIM 2022 as 'Hakodate' but SICE/proceedings records say Sapporo (Sapporo used); it also lists AIM 2026 as July 7-11 vs official July 7-10 (official used). AIM 2023: CFP says June 28-30; welcome message/MDPI list June 27-July 1 (incl. tutorials). AIM 2024: PaperCept pages vary between July 15-18 and 15-19. AIM 2020 dates from Georgia Tech page (July 6-10). Paper deadlines for 2015-2025 not verified (null); an aggregator mention of 2020-01-08 for AIM 2020 was not confirmed. Edition dates 2015-2021 rely on the Georgia Tech AIM history page (aimrl.gatech.edu) because dblp was blocked.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

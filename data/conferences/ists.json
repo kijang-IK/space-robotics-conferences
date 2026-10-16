@@ -79,7 +79,8 @@
       "end_date": "2022-03-04",
       "abstract_deadline": "2021-08-16",
       "source": "https://ists.ne.jp/the33rd/",
-      "continent": "Asia"
+      "continent": "Asia",
+      "notes": "Cross-checked 2026-10-16: confirmed all-online format (official site: symposium style \"all-online\", nominal host Beppu, Oita); city kept as \"Beppu (online)\"."
     },
     {
       "year": 2023,
@@ -101,9 +102,10 @@
       "venue": "ASTY Tokushima",
       "start_date": "2025-07-12",
       "end_date": "2025-07-18",
-      "abstract_deadline": "2024-11-05",
-      "source": "https://ists.ne.jp/the35th/wp-content/uploads/2024/06/Call-for-PapersISTS_A4_0521-1.pdf",
-      "continent": "Asia"
+      "abstract_deadline": "2024-11-19",
+      "source": "https://ists.ne.jp/the35th/whatsnew/page/2",
+      "continent": "Asia",
+      "notes": "Cross-checked 2026-10-16: abstract_deadline changed 2024-11-05 -> 2024-11-19; official What's New post (5 Nov 2024) extended the Call for Papers to 19 Nov 2024 (original 5 Nov per CFP https://ists.ne.jp/the35th/wp-content/uploads/2024/06/Call-for-PapersISTS_A4_0521-1.pdf)."
     },
     {
       "year": 2027,
@@ -132,6 +134,7 @@
   "notes": "No ISTS edition was held in 2014; the 29th was in 2013. The 36th (2027) is joint with the 8th TiS International Conference on Tethers in Space. The ists.ne.jp home page confirmed on 2026-10-16 that abstract submission opened 17 Sep 2026; no extension is mentioned. The 33rd (2022) was all-online despite the Beppu/Oita branding. 2019 Fukui: the venue is not verified, and the year comes from the source post date (July 2019) plus the Yamaguchi University and Tokyo University of Science calendars. 2017: the Matsuyama city report (in Japanese) names Himegin Hall, and some secondary reports name the Ehime Prefectural Citizens' Culture Center; these are believed to be the same building, but that is not verified from an official source. Abstract deadlines for 2015-2019 were not found.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

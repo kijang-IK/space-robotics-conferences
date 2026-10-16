@@ -17,11 +17,11 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [`?cat=space-robotics`](https://kijang-ik.github.io/space-robotics-conferences/?cat=space-robotics) | 분야 필터 (space, aerospace, space-robotics, robotics, control) |
 | [`?view=topics&picks=spacecraft-gnc,space-robotics`](https://kijang-ik.github.io/space-robotics-conferences/?view=topics&picks=spacecraft-gnc,space-robotics) | 키워드 매칭 결과 공유 |
 
-> **기준일 / As of: 2026-10-16** · 학회 39개 conferences · 개최 기록 379건 editions  
+> **기준일 / As of: 2026-10-16** · 학회 39개 conferences · 개최 기록 381건 editions  
 > 모든 값에는 출처 URL이 붙어 있습니다 / Every value has a source URL (`data/conferences/*.json`).  
 > 마감일은 자주 연장되니 **제출 전 반드시 공식 사이트를 확인하세요.** / Deadlines change often — **always check the official site before submitting.**
 
-> ⚠️ **검증 상태 / Status:** 1차 조사(출처 기반) 완료, 독립 교차검증 진행 전입니다. 오류는 Issue로 알려주세요. · First-pass research with sources; independent cross-check pending.
+> ⚠️ **검증 상태 / Status:** 2022년 이후 회차는 독립 재조사로 교차검증 완료 (2026-10-16, 판정 72건 → [검증 기록](data/verification/2026-10-16-crosscheck.md)). 2021년 이전 회차·키워드 비중은 1차 조사 값입니다. 오류는 Issue로 알려주세요. · 2022+ editions cross-checked by an independent blind re-research; see the log.
 
 - `OPEN` 공지된 마감일이 기준일 이후 / announced deadline is still ahead · `CLOSED` 마감 지남 / passed · `TBA` 미공지 / not announced
 - abstract 단계가 없는 학회(ICRA, IROS 등)는 **full paper 마감일**을 표기합니다. / For full-paper venues (ICRA, IROS, …) the **paper deadline** is shown.
@@ -49,7 +49,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | 학회 Conference | 주기·시기 Frequency | 제출 방식 Submission | 통상 마감 Typical deadline | 다음 회차 Next | 마감 Deadline | 상태 Status |
 |---|---|---|---|---|---|---|
 | [AAS GN&C Conference (Breckenridge)](https://aas-rocky-mountain-section.org/)<br><sub>Annual AAS Guidance, Navigation and Control Conference (AAS Rocky Mountain Section)</sub> | annual<br><sub>late January / early February</sub> | abstract-only submission (paper or poster) via the AAS GN&C abstract system; papers appea… | early-to-mid September of the previous year (6 Sep 2024, 8 Sep 2025, 14 Sep 2026) | 2027 Breckenridge, United States<br><sub>2027-02-05 ~ 02-10</sub> | 2026-09-14 | CLOSED |
-| [AMS](https://aeromechanisms.com/)<br><sub>Aerospace Mechanisms Symposium</sub> | Biennial (even years), alternating with ESMATS in odd years<br><sub>May</sub> | Summary of about 1000 words plus figures (4 pages max) e-mailed to the general chair; acc… | Mid-to-late November of the year before (about 6 months before the symposium) | 2028 United States<br><sub>TBA</sub> | – | TBA |
+| [AMS](https://aeromechanisms.com/)<br><sub>Aerospace Mechanisms Symposium</sub> | Biennial (even years), alternating with ESMATS in odd years<br><sub>May</sub> | Summary of about 1000 words plus figures (4 pages max) e-mailed to the general chair; acc… | Mid-to-late November of the year before (about 6 months before the symposium) | 2028 Kennedy Space Center, United States<br><sub>TBA</sub> | – | TBA |
 | [ASC](https://www.space-flight.org/)<br><sub>AAS/AIAA Astrodynamics Specialist Conference</sub> | annual<br><sub>August (July in 2026; September in 2016)</sub> | extended abstract or draft manuscript (PDF, min. 1,000 words) + 100-word condensed abstra… | early-to-mid April of the event year (late March for 2026) | 2027 TBA<br><sub>TBA</sub> | – | TBA |
 | [ASCEND](https://www.ascend.events/)<br><sub>ASCEND (Accelerating Space Commerce, Exploration, and New Discovery)</sub> | annual (since 2020)<br><sub>May (2026-2027); earlier October/November (2020-2023) and July (2024-2025); June listed for 2028</sub> | abstract of minimum 1,000 words (Word/PDF via ScholarOne) for technical papers; separate … | late September / early October of the previous year (25 Sep 2025 extended, for ASCEND 202… | 2027 Washington, United States<br><sub>2027-05-18 ~ 05-20</sub> | 2026-10-08 | CLOSED |
 | [ECSSMET](https://ecssmet2026.welcome-manager.de/)<br><sub>European Conference on Spacecraft Structures, Materials and Environmental Testing</sub> | Roughly every two years but irregular (2014, 2016, 2018, 2021 virtual, 2023, 2024, 2026)<br><sub>Varies: March-June or September</sub> | Abstract submission reviewed by the technical committee, then a full paper for the procee… | About 4-6 months before the conference | TBA | – | TBA |
@@ -117,8 +117,8 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [2027](https://aas-rocky-mountain-section.org/wp-content/uploads/2026/08/49th_AAS_GNC_Conference_Flyer_RevD.pdf) | Breckenridge, United States | Beaver Run Resort & Conference Center | 2027-02-05 ~ 02-10 | 2026-09-14 |
 | [2026](https://aas-rocky-mountain-section.org/wp-content/uploads/2025/07/48th_AAS_GNC_Conference_Flyer.pdf) | Breckenridge, United States | Beaver Run Resort & Conference Center | 2026-01-30 ~ 02-04 | 2025-09-08 |
 | [2025](https://aas-rocky-mountain-section.org/wp-content/uploads/2024/10/47th_AAS_GNC_Conference_Flyer_RevE.pdf) | Breckenridge, United States | Beaver Run Resort & Conference Center | 2025-01-31 ~ 02-05 | 2024-09-06 |
-| [2024](https://aas-rocky-mountain-section.org/wp-content/uploads/2024/02/46th-AAS_GNC_Conf_Program-Feb-2024.pdf) | Breckenridge, United States | Beaver Run Resort & Conference Center | 2024-02-02 ~ 02-07 | – |
-| [2023](https://aas-rocky-mountain-section.org/wp-content/uploads/2023/06/Updated-AAS-45th_Conference_Call_For_Papers.pdf) | Breckenridge, United States | Beaver Run Resort & Conference Center | 2023-02-02 ~ 02-08 | 2022-09-13 |
+| [2024](https://aas-rocky-mountain-section.org/wp-content/uploads/2023/08/46th_AAS_GNC_Conference_Flyer_v6.pdf) | Breckenridge, United States | Beaver Run Resort & Conference Center | 2024-02-02 ~ 02-07 | 2023-09-08 |
+| [2023](https://web.archive.org/web/20221206190719/https://aas-rocky-mountain-section.org/wp-content/uploads/2022/10/45th_AAS_GNC_Conference_Call_For_Papers_v2.pdf) | Breckenridge, United States | Beaver Run Resort & Conference Center | 2023-02-02 ~ 02-08 | 2022-09-13 |
 | [2022](https://aas-rocky-mountain-section.org/wp-content/uploads/2022/01/44th_AAS_GNC_Conf_Program-2022_Draft-Final.pdf) | Breckenridge, United States | Beaver Run Resort & Conference Center | 2022-02-04 ~ 02-09 | – |
 | [2020](https://aas-rocky-mountain-section.org/wp-content/uploads/2023/06/Updated-43rdAAS_GandC_Conference2020.pdf) | Breckenridge, United States | Beaver Run Resort & Conference Center | 2020-01-30 ~ 02-05 | – |
 | [2019](https://aas-rocky-mountain-section.org/wp-content/uploads/2023/06/Updated-42ndAAS_GandC_Conference2019.pdf) | Breckenridge, United States | Beaver Run Resort & Conference Center | 2019-01-31 ~ 02-06 | – |
@@ -129,13 +129,14 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 
 </details>
 
-<details><summary><b>AMS</b> — Aerospace Mechanisms Symposium (7)</summary>
+<details><summary><b>AMS</b> — Aerospace Mechanisms Symposium (8)</summary>
 
 | 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
 |---|---|---|---|---|
+| [2028](https://aeromechanisms.com/) | Kennedy Space Center, United States | NASA Kennedy Space Center | TBA | – |
 | [2026](https://aeromechanisms.com/48th-ams-program-2026/) | Huntsville, United States | Von Braun Center | 2026-05-13 ~ 05-15 | 2025-11-30 |
-| [2024](https://aeromechanisms.com/47th-ams-program-2024/) | Virginia Beach, United States | Virginia Beach Convention Center | 2024-05-15 ~ 05-17 | – |
-| [2022](https://eprints.soton.ac.uk/492356/1/46th_AMS_Proceedings_Final_1_.pdf) | Virtual | Virtual (originally planned for Houston, hosted by NASA Johnson Space Center) | 2022-05-11 ~ 05-13 | – |
+| [2024](https://aeromechanisms.com/wp-content/uploads/2023/05/47th-AMS-Call-for-Papers.pdf) | Virginia Beach, United States | Virginia Beach Convention Center | 2024-05-15 ~ 05-17 | 2023-11-15 |
+| [2022](https://aeromechanisms.com/wp-content/uploads/2021/10/46th-AMS-Call-for-Papers-v2a.pdf) | Virtual | Virtual (originally planned for Houston, hosted by NASA Johnson Space Center) | 2022-05-11 ~ 05-13 | 2021-12-03 |
 | [2020](https://ntrs.nasa.gov/citations/20205009766) | Houston, United States | Cancelled (COVID-19); proceedings published only | 2020-05-13 ~ 05-15 | – |
 | [2018](https://aeromechanisms.com/44th-ams-program-2018/) | Cleveland, United States | Hilton Cleveland Downtown | 2018-05-16 ~ 05-18 | – |
 | [2016](https://aeromechanisms.com/43rd-ams-program-2016/) | Santa Clara, United States | Biltmore Hotel | 2016-05-04 ~ 05-06 | – |
@@ -149,7 +150,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 |---|---|---|---|---|
 | [2026](https://www.space-flight.org/docs/2026_summer/2026_summer.html) | Whistler, Canada | Hilton Whistler Resort & Spa | 2026-07-26 ~ 07-30 | 2026-03-29 |
 | [2025](https://www.space-flight.org/docs/2025_summer/2025_summer.html) | Boston, United States | Hyatt Regency Boston | 2025-08-10 ~ 08-14 | 2025-04-18 |
-| [2024](https://www.space-flight.org/docs/2024_summer/2024_summer.html) | Broomfield, United States | Omni Interlocken Resort | 2024-08-11 ~ 08-15 | 2024-04-19 |
+| [2024](https://web.archive.org/web/20240414113423/https://www.space-flight.org/docs/2024_summer/2024_summer.html) | Broomfield, United States | Omni Interlocken Resort | 2024-08-11 ~ 08-15 | 2024-04-19 |
 | [2023](https://www.space-flight.org/docs/2023_summer/2023_summer.html) | Big Sky, United States | Big Sky Resort | 2023-08-13 ~ 08-17 | 2023-04-07 |
 | [2022](https://www.space-flight.org/docs/2022_summer/2022_summer.html) | Charlotte, United States | Sheraton / Le Meridien Charlotte | 2022-08-07 ~ 08-11 | 2022-04-01 |
 | [2021](https://www.space-flight.org/docs/2021_summer/2021_summer.html) | Virtual | Virtual (originally Big Sky, MT) | 2021-08-09 ~ 08-11 | 2021-04-30 |
@@ -169,9 +170,9 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [2028](https://aiaa.org/events_category/forums) | TBA | – | 2028-06-19 ~ 06-21 | – |
 | [2027](https://www.ascend.events/presenters/submission-guide/) | Washington, United States | – | 2027-05-18 ~ 05-20 | 2026-10-08 |
 | [2026](https://aiaa.org/2026/03/31/ascend-2026-assembles-space-industrys-most-influential-voices-in-washington-d-c/) | Washington, United States | Washington Hilton | 2026-05-19 ~ 05-21 | 2025-09-25 |
-| [2025](https://aiaa.org/2024/08/21/aiaa-accelerates-the-future-of-aviation-and-space-at-2024-aiaa-aviation-forum-and-2024-ascend/) | Las Vegas, United States | Caesars Forum | 2025-07-22 ~ 07-24 | – |
-| [2024](https://aiaa.org/2024/08/21/aiaa-accelerates-the-future-of-aviation-and-space-at-2024-aiaa-aviation-forum-and-2024-ascend/) | Las Vegas, United States | Caesars Forum | TBA | – |
-| [2023](https://www.proceedings.com/72326.html) | Las Vegas, United States | Caesars Forum | 2023-10-23 ~ 10-25 | – |
+| [2025](https://web.archive.org/web/20241126211950/https://www.ascend.events/presenters/submission-guide/) | Las Vegas, United States | Caesars Forum | 2025-07-22 ~ 07-24 | 2024-11-21 |
+| [2024](https://web.archive.org/web/20240226050259/https://www.ascend.events/presenters/submission-guide/) | Las Vegas, United States | Caesars Forum | 2024-07-30 ~ 08-01 | 2023-12-12 |
+| [2023](https://web.archive.org/web/20230330103126/https://www.ascend.events/call-for-content/) | Las Vegas, United States | Caesars Forum | 2023-10-23 ~ 10-25 | 2023-03-22 |
 | [2022](https://aiaa.org/event_tag/commerce/) | Las Vegas, United States | Caesars Forum | 2022-10-24 ~ 10-26 | – |
 | [2021](https://aiaa.org/?p=4405) | Las Vegas, United States | Caesars Forum | 2021-11-15 ~ 11-17 | – |
 | [2020](https://aiaa.org/2020/07/01/ascend-goes-fully-online-16-18-november-and-reimagines-the-future-of-aerospace-events-and-life-off-earth/) | Virtual | Virtual event (originally planned for Las Vegas) | 2020-11-16 ~ 11-18 | – |
@@ -197,7 +198,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
 |---|---|---|---|---|
 | [2026](https://atpi.eventsair.com/gncicatt/calendar-of-events) | Sevilla, Spain | Melia Sevilla (13th GNC & 10th ICATT) | 2026-09-28 ~ 10-02 | 2026-02-27 |
-| [2023](https://indico.esa.int/event/449/) | Sopot, Poland | – | 2023-06-12 ~ 06-16 | – |
+| [2023](https://atpi.eventsair.com/gnc2023/calendar-of-events) | Sopot, Poland | – | 2023-06-12 ~ 06-16 | 2023-01-20 |
 | [2021](https://gmv.com/en/communication/events/gnc-icatt-2021) | Virtual | Online (11th GNC & 8th ICATT) | 2021-06-21 ~ 06-25 | – |
 | [2018](https://indico.esa.int/event/224/) | Oberpfaffenhofen (near Munich), Germany | DLR Oberpfaffenhofen (7th ICATT, standalone) | 2018-11-06 ~ 11-09 | – |
 | [2017](https://insidegnss.com/guidance-navigation-and-control-2017-10th-esa-gnc-conference/) | Salzburg, Austria | Crowne Plaza Salzburg - The Pitter (10th GNC) | 2017-05-29 ~ 06-02 | – |
@@ -212,7 +213,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 |---|---|---|---|---|
 | [2027](https://esmats.eu/milan/) | Milan, Italy | – | 2027-10-06 ~ 10-08 | – |
 | [2025](https://www.esmats.eu/lausanne/agenda/) | Lausanne, Switzerland | SwissTech Convention Center (EPFL campus) | 2025-09-24 ~ 09-26 | – |
-| [2023](https://astronika.pl/we-are-hosting-esmats-2023/) | Warsaw, Poland | POLIN Museum of the History of Polish Jews | 2023-09-20 ~ 09-22 | – |
+| [2023](https://www.esmats.eu/warsaw/wp-content/uploads/2023/09/ESMATS-2023-v11b.pdf) | Warsaw, Poland | POLIN Museum of the History of Polish Jews | 2023-09-20 ~ 09-22 | 2023-02-01 |
 | [2021](https://spaceoneers.io/events/19th-european-space-mechanisms-and-tribology-symposium/) | Virtual | Virtual (LetsGetDigital platform; afternoon sessions only) | 2021-09-20 ~ 09-24 | – |
 | [2019](https://www.esmats.eu/munich/) | Munich, Germany | Gasteig Cultural and Conference Centre | 2019-09-18 ~ 09-20 | – |
 | [2017](https://www.ebad.com/ebad-and-nea-electronics-to-exhibit-at-esmats-2017/) | Hatfield, United Kingdom | University of Hertfordshire | 2017-09-20 ~ 09-22 | – |
@@ -246,8 +247,8 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
 |---|---|---|---|---|
 | [2026](https://iaaspace.org/event/5th-iaa-conference-on-space-situational-awareness-icssa-2026/) | Tres Cantos (Madrid), Spain | GMV | 2026-04-07 ~ 04-09 | 2026-01-05 |
-| [2024](https://iaaspace.org/icssa) | Daytona Beach, FL, United States | – | 2024-05-08 ~ 05-10 | – |
-| [2022](https://iaaspace.org/icssa) | Madrid, Spain | – | 2022-04-04 ~ 04-06 | – |
+| [2024](https://iaaspace.org/event/4th-iaa-conference-on-space-situational-awareness-icssa-2024/) | Daytona Beach, FL, United States | – | 2024-05-08 ~ 05-10 | 2024-02-29 |
+| [2022](https://iaaspace.org/event/3rd-iaa-conference-on-space-situational-awareness-icssa-2022/) | Madrid, Spain | – | 2022-04-04 ~ 04-06 | 2022-01-27 |
 | [2020](https://iaaspace.org/icssa) | Washington, DC, United States | – | 2020-01-14 ~ 01-16 | – |
 | [2017](https://iaaspace.org/icssa) | Orlando, FL, United States | – | 2017-11-13 ~ 11-15 | – |
 
@@ -282,7 +283,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
 |---|---|---|---|---|
 | [2025](https://iaaspace.org/sseo) | Berlin, Germany | Ludwig-Erhard-Haus (IHK Berlin), Fasanenstrasse 85 | 2025-05-04 ~ 05-08 | 2025-02-15 |
-| [2023](https://event.dlr.de/en/event/the-14th-iaa-symposium-on-small-satellites-for-earth-system-observation/) | Berlin, Germany | Ludwig-Erhard-Haus (IHK Berlin), Fasanenstrasse 85 | 2023-05-07 ~ 05-11 | – |
+| [2023](https://iaaspace.org/event/14th-iaa-symposium-on-small-satellites-for-earth-system-observation-2023/) | Berlin, Germany | Ludwig-Erhard-Haus (IHK Berlin), Fasanenstrasse 85 | 2023-05-07 ~ 05-11 | 2022-11-28 |
 | [2021](https://spacepolicyonline.com/?p=40253) | Virtual (originally planned for Berlin), Germany | – | 2021-04-27 ~ 04-29 | – |
 | [2019](https://iaaspace.org/event/12th-iaa-symposium-on-small-satellites-for-earth-observation-2019/) | Berlin, Germany | Berlin-Brandenburg Academy of Sciences and Humanities (BBAW) | 2019-05-06 ~ 05-10 | – |
 | [2017](https://www.sitael.com/sitael-at-11th-iaa-symposium-small-satellites/) | Berlin, Germany | Berlin-Brandenburg Academy of Sciences and Humanities (BBAW), Gendarmenmarkt | 2017-04-24 ~ 04-28 | – |
@@ -295,11 +296,11 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
 |---|---|---|---|---|
 | [2027](https://iaaspace.org/event/13th-space-traffic-conference-2027/) | Austin, TX, United States | The University of Texas at Austin | 2027-03-03 ~ 03-04 | 2026-10-14 |
-| [2026](https://www.strausscenter.org/events/operational-assurance-for-all-12th-annual-space-traffic-conference/) | Austin, TX, United States | Bass Lecture Hall, LBJ School, UT Austin | 2026-02-18 ~ 02-19 | – |
-| [2025](https://www.strausscenter.org/events/stm-from-the-ground-up-and-back-11th-annual-space-traffic-management-conference/) | Austin, TX, United States | Bass Lecture Hall, LBJ School, UT Austin | 2025-03-04 ~ 03-05 | – |
-| [2024](https://iaaspace.org/event/10th-space-traffic-management-conference-2024/) | Austin, TX, United States | Bass Lecture Hall, LBJ School, UT Austin | 2024-02-27 ~ 02-28 | – |
-| [2023](https://iaaspace.org/event/9th-space-traffic-management-conference-2023/) | Austin, TX, United States | UT Austin | 2023-03-01 ~ 03-02 | – |
-| [2022](https://iaaspace.org/event/8th-space-traffic-management-conference-2022/) | Austin, TX, United States | UT Austin (hybrid) | 2022-03-02 ~ 03-03 | – |
+| [2026](https://iaaspace.org/event/12th-space-traffic-conference-2026/) | Austin, TX, United States | Bass Lecture Hall, LBJ School, UT Austin | 2026-02-18 ~ 02-19 | 2025-09-24 |
+| [2025](https://iaaspace.org/event/11th-space-traffic-management-conference-2025/) | Austin, TX, United States | Bass Lecture Hall, LBJ School, UT Austin | 2025-03-04 ~ 03-05 | 2024-10-04 |
+| [2024](https://iaaspace.org/event/10th-space-traffic-management-conference-2024/) | Austin, TX, United States | Bass Lecture Hall, LBJ School, UT Austin | 2024-02-27 ~ 02-28 | 2023-09-30 |
+| [2023](https://iaaspace.org/event/9th-space-traffic-management-conference-2023/) | Austin, TX, United States | UT Austin | 2023-03-01 ~ 03-02 | 2022-12-16 |
+| [2022](https://iaaspace.org/event/8th-space-traffic-management-conference-2022/) | Austin, TX, United States | UT Austin (hybrid) | 2022-03-02 ~ 03-03 | 2022-01-14 |
 | [2021](https://iaaspace.org/event/7th-space-traffic-management-conference-2021/) | Virtual, United States | – | 2021-01-26 ~ 01-27 | 2021-01-08 |
 | [2020](https://iaaspace.org/events/iaa-conferences/iaa-ut-space-traffic-management-conference/) | Austin, TX, United States | Mulva Conference Center, EER Building, UT Austin | 2020-02-19 ~ 02-20 | – |
 | [2019](https://spacepolicyonline.com/events/space-traffic-management-2019-progress-through-collaboration-feb-26-27-2019-austin-tx/) | Austin, TX, United States | Bass Lecture Hall, LBJ School of Public Affairs, UT Austin | 2019-02-26 ~ 02-27 | – |
@@ -310,15 +311,16 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 
 </details>
 
-<details><summary><b>IAC</b> — International Astronautical Congress (14)</summary>
+<details><summary><b>IAC</b> — International Astronautical Congress (15)</summary>
 
 | 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
 |---|---|---|---|---|
+| [2029](https://www.iafastro.org/news/iac-2026-press-release-advancing-international-cooperation-for-a-future-with-more-space.html) | Geneva, Switzerland | Palexpo | 2029-10-08 ~ 10-12 | – |
 | [2028](https://www.iafastro.org/events/iac/international-astronautical-congress-2028.html) | Samarkand, Uzbekistan | – | 2028-10-09 ~ 10-13 | – |
 | [2027](https://www.iafastro.org/assets/files/events/iac/2027/IAC2027_Call_for_papers.pdf) | Poznan, Poland | Poznan International Fair (MTP), ul. Glogowska 10 | 2027-09-27 ~ 10-01 | 2027-02-28 |
-| [2026](https://www.iafastro.org/events/iac/international-astronautical-congress-2026/) | Antalya (Belek, Serik), Turkey | NEST Congress & Exhibition Center, Belek | 2026-10-05 ~ 10-09 | 2026-02-28 |
-| [2025](https://www.iafastro.org/events/iac/international-astronautical-congress-2025/) | Sydney, Australia | International Convention Centre Sydney (ICC Sydney) | 2025-09-29 ~ 10-03 | 2025-02-28 |
-| [2024](https://www.iafastro.org/news/submit-your-abstract-for-iac-2024-by-28-february.html) | Milan, Italy | Allianz MiCo (Milano Convention Centre) | 2024-10-14 ~ 10-18 | 2024-02-28 |
+| [2026](https://x.com/iafastro/status/2027432808856125724) | Antalya (Belek, Serik), Turkey | NEST Congress & Exhibition Center, Belek | 2026-10-05 ~ 10-09 | 2026-03-09 |
+| [2025](https://www.iafastro.org/news/iac-2025-call-for-ground-breaking-research.html) | Sydney, Australia | International Convention Centre Sydney (ICC Sydney) | 2025-09-29 ~ 10-03 | 2025-03-07 |
+| [2024](https://www.iafastro.org/news/the-call-for-iac-2024-late-breaking-abstracts-lba-is-open-for-two-weeks.html) | Milan, Italy | Allianz MiCo (Milano Convention Centre) | 2024-10-14 ~ 10-18 | 2024-03-11 |
 | [2023](https://www.iafastro.org/news/iac-2023-call-for-abstracts-extended-to-10-march.html) | Baku, Azerbaijan | Baku Convention Centre and Heydar Aliyev Centre (with temporary exhibition pavilion) | 2023-10-02 ~ 10-06 | 2023-03-10 |
 | [2022](https://www.iafastro.org/news/iac-2022-call-for-session-proposals-and-abstracts.html) | Paris, France | Paris Convention Centre (Paris Expo Porte de Versailles) | 2022-09-18 ~ 09-22 | 2022-02-28 |
 | [2021](https://www.iafastro.org/news/iac-2021-call-for-session-proposals-and-abstracts.html) | Dubai, United Arab Emirates | Dubai World Trade Centre | 2021-10-25 ~ 10-29 | 2021-02-28 |
@@ -336,7 +338,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
 |---|---|---|---|---|
 | [2025](https://tudelft.nl/lr/isss-2025) | Delft, Netherlands | Echo building, Delft University of Technology | 2025-06-30 ~ 07-04 | 2025-02-14 |
-| [2023](https://www.citytech.cuny.edu/isss2023/docs/ISSS2023_Second_Announcement.pdf) | New York, United States | New York City College of Technology (City Tech), CUNY, Brooklyn | 2023-06-05 ~ 06-09 | 2023-03-15 |
+| [2023](https://www.citytech.cuny.edu/isss2023/timeline.aspx) | New York, United States | New York City College of Technology (City Tech), CUNY, Brooklyn | 2023-06-05 ~ 06-09 | 2023-04-02 |
 | [2019](https://www.citytech.cuny.edu/isss2023/docs/presentations/Welcome_Remarks_Roman.pdf) | Aachen, Germany | FH Aachen University of Applied Sciences | 2019-07-30 ~ 08-02 | – |
 | [2017](https://www.citytech.cuny.edu/isss2023/docs/presentations/Welcome_Remarks_Roman.pdf) | Kyoto, Japan | Kyoto Research Park | 2017-01-17 ~ 01-20 | – |
 
@@ -347,7 +349,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
 |---|---|---|---|---|
 | [2027](https://ists.ne.jp/the36th/wp-content/uploads/2026/02/ISTS_A2_20260225_B_04-mini.pdf) | Toyama, Japan | Toyama International Conference Center | 2027-07-17 ~ 07-23 | 2026-12-17 |
-| [2025](https://ists.ne.jp/the35th/wp-content/uploads/2024/06/Call-for-PapersISTS_A4_0521-1.pdf) | Tokushima, Japan | ASTY Tokushima | 2025-07-12 ~ 07-18 | 2024-11-05 |
+| [2025](https://ists.ne.jp/the35th/whatsnew/page/2) | Tokushima, Japan | ASTY Tokushima | 2025-07-12 ~ 07-18 | 2024-11-19 |
 | [2023](https://ists.ne.jp/the34th/wp-content/uploads/2022/06/ISTS_kurume_A4_0615.pdf) | Kurume, Japan | Kurume City Plaza | 2023-06-03 ~ 06-09 | 2022-10-31 |
 | [2022](https://ists.ne.jp/the33rd/) | Beppu (online), Japan | All-online (planned for Beppu, Oita) | 2022-02-26 ~ 03-04 | 2021-08-16 |
 | [2019](https://cfml.eng.hokudai.ac.jp/en/news/news_20190613_en.html) | Fukui, Japan | – | 2019-06-15 ~ 06-21 | – |
@@ -362,7 +364,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 |---|---|---|---|---|
 | [2027](https://www.space-flight.org/docs/2027_winter/2027_winter.html) | New Orleans, United States | Loews New Orleans Hotel | 2027-01-17 ~ 01-21 | 2026-10-04 |
 | [2026](https://www.space-flight.org/docs/2026_winter/2026_winter.html) | Orlando, United States | Hyatt Regency Orlando (AIAA SciTech 2026) | 2026-01-12 ~ 01-16 | 2025-05-22 |
-| [2025](https://www.space-flight.org/docs/2025_winter/2025_winter.html) | Lihue (Kaua'i), United States | The Royal Sonesta Kaua'i Resort | 2025-01-19 ~ 01-23 | 2024-09-22 |
+| [2025](https://web.archive.org/web/20240920154852/http://space-flight.org/docs/2025_winter/CallForPapers_AASAIAA_Jan2025_final2.pdf) | Lihue (Kaua'i), United States | The Royal Sonesta Kaua'i Resort | 2025-01-19 ~ 01-23 | 2024-09-22 |
 | [2024](https://www.space-flight.org/docs/2024_winter/2024_winter.html) | Orlando, United States | Hyatt Regency Orlando (AIAA SciTech 2024) | 2024-01-08 ~ 01-12 | 2023-05-25 |
 | [2023](https://www.space-flight.org/docs/2023_winter/2023_winter.html) | Austin, United States | The LINE Austin | 2023-01-15 ~ 01-19 | 2022-09-30 |
 | [2022](https://www.space-flight.org/docs/2022_winter/2022_winter.html) | San Diego, United States | Manchester Grand Hyatt San Diego (AIAA SciTech 2022) | 2022-01-03 ~ 01-07 | 2021-06-01 |
@@ -403,10 +405,10 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [2028](https://aviation.aiaa.org/about/future-aviation-dates/) | San Diego, United States | – | 2028-06-05 ~ 06-09 | – |
 | [2027](https://aviation.aiaa.org/about/future-aviation-dates/) | San Diego, United States | – | 2027-06-07 ~ 06-11 | 2026-11-12 |
 | [2026](https://aviation.aiaa.org/about/past-forums/) | San Diego, United States | Manchester Grand Hyatt San Diego | 2026-06-08 ~ 06-12 | 2025-11-13 |
-| [2025](https://aviation.aiaa.org/about/past-forums/) | Las Vegas, United States | Caesars Forum | 2025-07-21 ~ 07-25 | – |
-| [2024](https://aviation.aiaa.org/about/past-forums/) | Las Vegas, United States | Caesars Forum | 2024-07-29 ~ 08-02 | – |
-| [2023](https://aviation.aiaa.org/about/past-forums/) | San Diego, United States | Manchester Grand Hyatt San Diego | 2023-06-12 ~ 06-16 | – |
-| [2022](https://aviation.aiaa.org/about/past-forums/) | Chicago, United States | Hilton Chicago | 2022-06-27 ~ 07-01 | – |
+| [2025](https://web.archive.org/web/20241212144642/https://www.aiaa.org/aviation/call-for-content) | Las Vegas, United States | Caesars Forum | 2025-07-21 ~ 07-25 | 2024-11-21 |
+| [2024](https://web.archive.org/web/20231210194639/https://www.aiaa.org/aviation/call-for-content) | Las Vegas, United States | Caesars Forum | 2024-07-29 ~ 08-02 | 2023-12-12 |
+| [2023](https://web.archive.org/web/20221114112558/https://www.aiaa.org/aviation/presentations-papers/call-for-papers) | San Diego, United States | Manchester Grand Hyatt San Diego | 2023-06-12 ~ 06-16 | 2022-11-10 |
+| [2022](https://web.archive.org/web/20211207104144/https://www.aiaa.org/aviation/presentations-papers/call-for-papers) | Chicago, United States | Hilton Chicago | 2022-06-27 ~ 07-01 | 2021-11-10 |
 | [2021](https://aviation.aiaa.org/about/past-forums/) | Virtual | Virtual event | 2021-08-02 ~ 08-06 | – |
 | [2020](https://aviation.aiaa.org/about/past-forums/) | Virtual | Virtual event | 2020-06-15 ~ 06-19 | – |
 | [2019](https://aviation.aiaa.org/about/past-forums/) | Dallas, United States | Hilton Anatole | 2019-06-17 ~ 06-21 | – |
@@ -426,7 +428,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [2026](https://www.space-flight.org/docs/2026_winter/CallForPapers_SFM2026.pdf) | Orlando, United States | Hyatt Regency Orlando | 2026-01-12 ~ 01-16 | 2025-05-22 |
 | [2025](https://scitech.aiaa.org/about/past-forums/) | Orlando, United States | Hyatt Regency Orlando | 2025-01-06 ~ 01-10 | 2024-05-23 |
 | [2024](https://scitech.aiaa.org/about/past-forums/) | Orlando, United States | Hyatt Regency Orlando | 2024-01-08 ~ 01-12 | 2023-05-25 |
-| [2023](https://scitech.aiaa.org/about/past-forums/) | National Harbor, United States | Gaylord National Resort & Convention Center | 2023-01-23 ~ 01-27 | – |
+| [2023](https://web.archive.org/web/20220706215448/https://www.aiaa.org/SciTech/presentations-papers/call-for-papers) | National Harbor, United States | Gaylord National Resort & Convention Center | 2023-01-23 ~ 01-27 | 2022-06-01 |
 | [2022](https://scitech.aiaa.org/about/past-forums/) | San Diego, United States | Manchester Grand Hyatt San Diego | 2022-01-03 ~ 01-07 | 2021-06-01 |
 | [2021](https://scitech.aiaa.org/about/past-forums/) | Virtual | Virtual event | 2021-01-11 ~ 01-21 | – |
 | [2020](https://scitech.aiaa.org/about/past-forums/) | Orlando, United States | Hyatt Regency Orlando | 2020-01-06 ~ 01-10 | 2019-06-11 |
@@ -443,9 +445,9 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
 |---|---|---|---|---|
 | [2026](https://smartconf.jp/content/apisat2026/) | Sapporo, Japan | Sapporo Convention Center | 2026-10-27 ~ 10-29 | 2026-06-05 |
-| [2025](https://www.raes.org.au/events/conferences/apisat2025/) | Seoul, South Korea | Seoul Olympic Parktel | 2025-10-27 ~ 10-29 | 2025-05-30 |
+| [2025](https://apisat2025.org/) | Seoul, South Korea | Seoul Olympic Parktel | 2025-10-27 ~ 10-29 | 2025-06-13 |
 | [2024](https://www.raes.org.au/eventdetails/24186/asia-pacific-international-symposium-on-aerospace-technology-2024) | Adelaide, Australia | Adelaide Convention Centre | 2024-10-28 ~ 10-30 | 2024-06-27 |
-| [2023](https://www.raes.org.au/eventdetails/18396/asia-pacific-international-symposium-on-aerospace-technology) | Lingshui, China | The Westin Blue Bay Resort & Spa | 2023-10-16 ~ 10-18 | 2023-05-15 |
+| [2023](http://2023.apisat.org/) | Lingshui, China | The Westin Blue Bay Resort & Spa | 2023-10-16 ~ 10-18 | 2023-05-31 |
 | [2022](https://smartconf.jp/content/apisat2022) | Niigata, Japan | Toki Messe Niigata Convention Center | 2022-10-12 ~ 10-14 | 2022-05-23 |
 | [2021](https://link.springer.com/article/10.1007/s42405-022-00520-0) | Jeju, South Korea | Ramada Plaza Jeju Hotel (hybrid format) | 2021-11-15 ~ 11-17 | – |
 | [2020](https://apisat2021.org/) | TBA | Not held: postponed to 2021 (Jeju) because of COVID-19 | TBA | – |
@@ -468,9 +470,9 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
 |---|---|---|---|---|
 | [2027](https://eucass2027.eu/eucass-keydates/) | Glasgow, United Kingdom | Scottish Event Campus (SEC) (per spaceagenda listing; not confirmed on official site) | 2027-06-28 ~ 07-02 | 2027-01-15 |
-| [2025](https://www.eucass.eu/2025/?p=1122) | Rome, Italy | Congress Center Auditorium della Tecnica | 2025-06-30 ~ 07-04 | 2025-01-15 |
+| [2025](https://www.eucass.eu/2025/keydates/) | Rome, Italy | Congress Center Auditorium della Tecnica | 2025-06-30 ~ 07-04 | 2025-02-15 |
 | [2023](https://eucass.eu/eucass-ceas-2023/index.htm) | Lausanne, Switzerland | SwissTech Convention Center, EPFL (joint 10th EUCASS - 9th CEAS, Aerospace Europe Conference 2023) | 2023-07-09 ~ 07-13 | – |
-| [2022](https://www.eucass.eu/conferences-and-publications/archives/archives-eucass/eucass-2022) | Lille, France | Lille Grand Palais (EUCASS-3AF 2022) | 2022-06-27 ~ 07-01 | – |
+| [2022](https://www.eucass.eu/2022) | Lille, France | Lille Grand Palais (EUCASS-3AF 2022) | 2022-06-27 ~ 07-01 | 2022-03-15 |
 | [2019](https://www.eucass.eu/2019/) | Madrid, Spain | ETSIAE-UPM School of Aeronautics and Space Engineering | 2019-07-01 ~ 07-04 | 2019-03-10 |
 | [2017](https://www.eucass.eu/conferences-and-publications/archives/archives-eucass/eucass-2017-milan/eucass-2017) | Milan, Italy | Politecnico di Milano, Bovisa Campus | 2017-07-03 ~ 07-06 | – |
 | [2015](https://www.eucass.eu/conferences-and-publications/archives/archives-eucass/eucass-2015-krakow) | Krakow, Poland | ICE Krakow Congress Centre | 2015-06-29 ~ 07-03 | – |
@@ -500,10 +502,10 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 |---|---|---|---|---|
 | [2027](https://www.aeroconf.org/key-dates) | Big Sky, United States | Yellowstone Conference Center | 2027-03-06 ~ 03-13 | 2026-07-01 |
 | [2026](https://2026.aeroconf.org/) | Big Sky, United States | Yellowstone Conference Center | 2026-03-07 ~ 03-14 | – |
-| [2025](https://2025.aeroconf.org/) | Big Sky, United States | Yellowstone Conference Center | 2025-03-01 ~ 03-08 | – |
-| [2024](https://2024.aeroconf.org/) | Big Sky, United States | Yellowstone Conference Center | 2024-03-02 ~ 03-09 | – |
+| [2025](https://web.archive.org/web/20240715081712/https://aeroconf.org/key-dates) | Big Sky, United States | Yellowstone Conference Center | 2025-03-01 ~ 03-08 | 2024-07-01 |
+| [2024](https://web.archive.org/web/20230921151147/https://www.aeroconf.org/key-dates) | Big Sky, United States | Yellowstone Conference Center | 2024-03-02 ~ 03-09 | 2023-07-01 |
 | [2023](https://ieee-aess.org/files/ieeeaess/2022-06/one_page_cfp.pdf) | Big Sky, United States | Yellowstone Conference Center | 2023-03-04 ~ 03-11 | 2022-07-01 |
-| [2022](https://2022.aeroconf.org/) | Big Sky, United States | Yellowstone Conference Center | 2022-03-05 ~ 03-12 | – |
+| [2022](https://web.archive.org/web/20210617171848/https://aeroconf.org/key-dates) | Big Sky, United States | Yellowstone Conference Center | 2022-03-05 ~ 03-12 | 2021-07-01 |
 | [2021](https://2021.aeroconf.org/) | Online | Virtual | 2021-03-06 ~ 03-20 | – |
 | [2020](https://2020.aeroconf.org/) | Big Sky, United States | Yellowstone Conference Center | 2020-03-07 ~ 03-14 | – |
 | [2019](https://2019.aeroconf.org/) | Big Sky, United States | Yellowstone Conference Center | 2019-03-02 ~ 03-09 | – |
@@ -519,8 +521,8 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
 |---|---|---|---|---|
 | [2025](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Proceedings_of_ASTRA) | Leiden, Netherlands | – | 2025-10-07 ~ 10-09 | – |
-| [2023](https://atpi.eventsair.com/astra2023/) | Leiden, Netherlands | Scheltema | 2023-10-18 ~ 10-20 | – |
-| [2022](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Proceedings_of_ASTRA) | Noordwijk, Netherlands | ESA ESTEC | 2022-06-01 ~ 06-02 | – |
+| [2023](https://atpi.eventsair.com/astra2023/calendar-of-events) | Leiden, Netherlands | Scheltema | 2023-10-18 ~ 10-20 | 2023-07-07 |
+| [2022](https://atpi.eventsair.com/astra2022/calendar-of-events) | Noordwijk, Netherlands | ESA ESTEC | 2022-06-01 ~ 06-02 | 2022-03-11 |
 | [2019](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Proceedings_of_ASTRA) | Noordwijk, Netherlands | ESA ESTEC | 2019-05-27 ~ 05-28 | – |
 | [2017](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Proceedings_of_ASTRA) | Leiden, Netherlands | – | 2017-06-20 ~ 06-22 | – |
 | [2015](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Proceedings_of_ASTRA) | Noordwijk, Netherlands | ESA ESTEC | 2015-05-11 ~ 05-13 | – |
@@ -546,7 +548,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 |---|---|---|---|---|
 | [2026](https://www.isairas-isparo.de/front/content.php?id_article=583) | Cologne, Germany | Confex Cologne (joint i-SAIRAS & iSpaRo) | 2026-11-03 ~ 11-06 | 2026-06-24 |
 | [2025](https://www.isparo2025.space/) | Sendai, Japan | Sendai International Center | 2025-12-01 ~ 12-04 | 2025-08-12 |
-| [2024](https://www.spacer.lu/isparo_24/call_for_papers) | Luxembourg City, Luxembourg | Neumunster Abbey | 2024-06-24 ~ 06-27 | 2023-12-10 |
+| [2024](https://web.archive.org/web/20240415034417/https://www.isparo.space/contribute) | Luxembourg City, Luxembourg | Neumunster Abbey | 2024-06-24 ~ 06-27 | 2024-02-17 |
 
 </details>
 
@@ -558,8 +560,8 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [2026](https://aim2026.com) | Genoa (Genova), Italy | Magazzini del Cotone, Porto Antico | 2026-07-07 ~ 07-10 | 2026-03-24 |
 | [2025](https://ras.papercept.net/conferences/conferences/AIM25/program) | Hangzhou, China | – | 2025-07-14 ~ 07-18 | – |
 | [2024](https://ras.papercept.net/images/temp/AIM/AIM24_ProgramAtAGlanceMedia.html) | Boston, Massachusetts, United States | – | 2024-07-15 ~ 07-19 | – |
-| [2023](https://asme.org/getmedia/b841d3bb-9cdd-4f81-a545-135e42653d68/aim2023_cfp.pdf) | Seattle, Washington, United States | – | 2023-06-28 ~ 06-30 | – |
-| [2022](https://sice.jp/info/info_event/event_20220711.html) | Sapporo, Japan | Royton Sapporo (hybrid) | 2022-07-11 ~ 07-15 | – |
+| [2023](https://aim2023.org/) | Seattle, Washington, United States | – | 2023-06-27 ~ 07-01 | 2023-02-10 |
+| [2022](https://www.aim2022.org/) | Sapporo, Japan | Royton Sapporo (hybrid) | 2022-07-11 ~ 07-15 | 2022-03-11 |
 | [2021](https://aimrl.gatech.edu/AIM.htm) | Delft (virtual), Netherlands | Virtual | 2021-07-12 ~ 07-16 | – |
 | [2020](https://aimrl.gatech.edu/AIM.htm) | Boston (virtual), United States | Virtual | 2020-07-06 ~ 07-10 | – |
 | [2019](https://aimrl.gatech.edu/AIM.htm) | Hong Kong, China (Hong Kong SAR) | – | 2019-07-08 ~ 07-12 | – |
@@ -574,7 +576,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 
 | 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
 |---|---|---|---|---|
-| [2028](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case/past-and-future-venues/) | Chicago, Illinois, United States | – | 2028-08-16 ~ 08-20 | – |
+| [2028](https://www.ieee-ras.org/event/2028-ieee-24th-international-conference-on-automation-science-and-engineering-case-71117/) | Chicago, Illinois, United States | – | 2028-08-16 ~ 08-20 | 2028-03-01 |
 | [2027](https://2027.ieeecase.org/key-dates/) | Linz, Austria | – | 2027-08-23 ~ 08-27 | 2027-03-01 |
 | [2026](https://www.ieee-ras.org/event/2026-ieee-22nd-international-conference-on-automation-science-and-engineering-case-69030/) | Shenyang, Liaoning, China | Shenyang New World EXPO | 2026-08-17 ~ 08-21 | 2026-03-15 |
 | [2025](https://mailman.clemson.edu/pipermail/iefac.list/2025-March/006867.html) | Los Angeles, California, United States | – | 2025-08-17 ~ 08-21 | 2025-03-15 |
@@ -613,10 +615,10 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
 |---|---|---|---|---|
 | [2026](https://2026.ieee-humanoids.org) | Santa Clara, California, United States | Santa Clara Convention Center | 2026-12-06 ~ 12-09 | 2026-07-24 |
-| [2025](https://robogaku.jp/news/2025/202504211830.html) | Seoul, South Korea | COEX (co-located with CoRL 2025) | 2025-09-30 ~ 10-02 | 2025-05-01 |
+| [2025](https://2025humanoids.org/) | Seoul, South Korea | COEX (co-located with CoRL 2025) | 2025-09-30 ~ 10-02 | 2025-05-15 |
 | [2024](https://2024.ieee-humanoids.org/) | Nancy, France | Prouve Convention Centre (Centre de Congres Prouve) | 2024-11-22 ~ 11-24 | 2024-07-15 |
 | [2023](https://www.ieee-ras.org/about-ras/latest-news/cfp-humanoids-2023-in-austin-tx-usa) | Austin, Texas, United States | – | 2023-12-12 ~ 12-14 | 2023-07-22 |
-| [2022](https://confident-conference.org/index.php/Humanoids_2022) | Ginowan, Okinawa, Japan | Okinawa Convention Center | 2022-11-28 ~ 11-30 | – |
+| [2022](https://www.humanoids2022.org/) | Ginowan, Okinawa, Japan | Okinawa Convention Center | 2022-11-28 ~ 11-30 | 2022-07-15 |
 | [2020](https://humanoids2020.dlr.de/) | Munich (virtual), Germany | Fully virtual (originally planned for Munich, Dec 2020; postponed to July 2021) | 2021-07-19 ~ 07-21 | – |
 | [2019](https://www.ieee-ras.org/about-ras/ras-calendar/event/1599-humanoids-2019-call-for-papers-deadline) | Toronto, Canada | – | 2019-10-15 ~ 10-17 | 2019-07-07 |
 | [2018](https://www.ieee-ras.org/about-ras/ras-calendar/event/1399-humanoids-2018-call-for-papers-deadline) | Beijing, China | Beijing Friendship Hotel | 2018-11-06 ~ 11-09 | 2018-07-20 |
@@ -630,8 +632,8 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 
 | 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
 |---|---|---|---|---|
-| [2030](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive/) | Bangkok, Thailand | – | 2030-05-13 ~ 05-17 | – |
-| [2029](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive/) | Milan, Italy | – | 2029-05-07 ~ 05-12 | – |
+| [2030](https://www.ieee-ras.org/event/2030-ieee-international-conference-on-robotics-and-automation-icra-74057/) | Bangkok, Thailand | – | 2030-05-13 ~ 05-17 | 2029-09-15 |
+| [2029](https://www.ieee-ras.org/event/2029-ieee-international-conference-on-robotics-and-automation-icra-68559/) | Milan, Italy | – | 2029-05-07 ~ 05-12 | 2028-09-15 |
 | [2028](https://www.ieee-ras.org/event/deadlines-paper-submission-deadline-icra-2028-ieee-international-conference-on-robotics-and-automation-icra-29490-0/) | Rio de Janeiro, Brazil | Riocentro | 2028-05-15 ~ 05-19 | 2027-09-15 |
 | [2027](https://2027.ieee-icra.org/?p=1964) | Seoul, South Korea | COEX Convention & Exhibition Center | 2027-05-24 ~ 05-28 | 2026-09-16 |
 | [2026](https://2026.ieee-icra.org/contribute/call-for-icra-2026-papers-now-accepting-submissions/) | Vienna, Austria | VIECON / Messe Wien (Messeplatz 1, 1020 Vienna) | 2026-06-01 ~ 06-05 | 2025-09-15 |
@@ -676,7 +678,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [2028](https://www.besydney.com.au/news-insights/australia-s-robotics-research-credentials-open-door-to-20b-global-ai-robotics-industry/) | Sydney, Australia | International Convention Centre Sydney (ICC Sydney) | 2028-10-02 ~ 10-06 | – |
 | [2027](https://www.ieee-ras.org/event/call-for-papers-paper-submission-deadline-iros-2027-ieee-rsj-international-conference-on-intelligent-robots-and-systems-iros-27403-0/) | Florence, Italy | Fortezza da Basso | 2027-09-27 ~ 10-01 | 2027-03-01 |
 | [2026](https://2026.ieee-iros.org/contribute/call-for-papers/) | Pittsburgh, United States | David L. Lawrence Convention Center | 2026-09-27 ~ 10-01 | 2026-03-02 |
-| [2025](https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/iros.yml) | Hangzhou, China | Hangzhou International Expo Center | 2025-10-19 ~ 10-25 | 2025-03-01 |
+| [2025](https://www.iros25.org/) | Hangzhou, China | Hangzhou International Expo Center | 2025-10-19 ~ 10-25 | 2025-03-02 |
 | [2024](https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml) | Abu Dhabi, United Arab Emirates | ADNEC (Abu Dhabi National Exhibition Centre) | 2024-10-14 ~ 10-18 | 2024-03-01 |
 | [2023](https://ieee-ras.org/about-ras/latest-news/cfp-iros-2023-in-detroit) | Detroit, United States | Huntington Place | 2023-10-01 ~ 10-05 | 2023-03-01 |
 | [2022](https://iros2022.org/) | Kyoto, Japan | Kyoto International Conference Center | 2022-10-23 ~ 10-27 | 2022-03-01 |
@@ -696,7 +698,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 |---|---|---|---|---|
 | [2027](https://roboticsconference.org/information/cfp/) | Athens, Greece | Megaron Athens International Conference Centre (MAICC) | 2027-07-06 ~ 07-11 | 2026-12-04 |
 | [2026](https://roboticsconference.org/2026/) | Sydney, Australia | University of Technology Sydney / International Convention Centre Sydney | 2026-07-13 ~ 07-17 | 2026-01-30 |
-| [2025](https://roboticsconference.org/2025/) | Los Angeles, United States | University of Southern California | 2025-06-21 ~ 06-25 | 2025-01-24 |
+| [2025](https://roboticsconference.org/2025/) | Los Angeles, United States | University of Southern California | 2025-06-21 ~ 06-25 | 2025-01-31 |
 | [2024](https://roboticsconference.org/2024/) | Delft, Netherlands | Delft University of Technology | 2024-07-15 ~ 07-19 | 2024-02-02 |
 | [2023](https://roboticsconference.org/2023/) | Daegu, South Korea | Daegu Exhibition and Convention Center (EXCO) | 2023-07-10 ~ 07-14 | 2023-02-03 |
 | [2022](https://roboticsconference.org/2022/) | New York City, United States | Columbia University | 2022-06-27 ~ 07-01 | 2022-01-29 |
@@ -715,10 +717,10 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
 |---|---|---|---|---|
 | [2026](https://2026.ubiquitousrobots.org/) | Ibaraki, Osaka, Japan | Ritsumeikan University, Osaka Ibaraki Campus (OIC) | 2026-07-15 ~ 07-18 | 2026-02-27 |
-| [2025](https://www.massrobotics.org/event/the-22nd-international-conference-on-ubiquitous-robots/) | College Station, Texas, United States | Texas A&M University | 2025-06-30 ~ 07-02 | – |
-| [2024](https://www.proceedings.com/75390.html) | New York, New York, United States | NYU Kimmel Center for University Life | 2024-06-24 ~ 06-27 | – |
-| [2023](https://www.proceedings.com/70202.html) | Honolulu, Hawaii, United States | Hawai'i Convention Center | 2023-06-25 ~ 06-28 | – |
-| [2022](https://research.com/conference/19th-international-conference-on-ubiquitous-robots-ur-2022) | Jeju, South Korea | Ramada Plaza Jeju | 2022-07-04 ~ 07-06 | – |
+| [2025](https://2025.ubiquitousrobots.org/) | College Station, Texas, United States | Texas A&M University | 2025-06-30 ~ 07-02 | 2025-03-08 |
+| [2024](https://2024.ubiquitousrobots.org/call-for-papers/) | New York, New York, United States | NYU Kimmel Center for University Life | 2024-06-24 ~ 06-27 | 2024-02-02 |
+| [2023](https://2023.ubiquitousrobots.org/) | Honolulu, Hawaii, United States | Hawai'i Convention Center | 2023-06-25 ~ 06-28 | 2023-02-18 |
+| [2022](https://2022.ubiquitousrobots.org/) | Jeju, South Korea | Ramada Plaza Jeju | 2022-07-04 ~ 07-06 | 2022-02-18 |
 | [2021](https://www.ieee-ras.org/about-ras/ras-calendar/upcoming-ras-events/event/2012-ur-2021-call-for-papers-deadline) | Gangneung, South Korea | Lakai Sandpine Resort (hybrid) | 2021-07-12 ~ 07-14 | 2021-03-31 |
 | [2020](https://cvim.ipsj.or.jp/imageml-archive/image/2020-February/003890.html) | Kyoto (virtual), Japan | Online (originally Ritsumeikan University Suzaku Campus) | 2020-06-22 ~ 06-26 | 2020-02-15 |
 | [2019](https://www.ieee-ras.org/about-ras/ras-calendar/event/1585-ur-2019-call-for-papers-deadline) | Jeju, South Korea | Maison Glad Jeju | 2019-06-24 ~ 06-27 | – |
@@ -736,9 +738,9 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [2027](https://icros.org/eng/sub/sub04_1.asp) | Jeju, South Korea | Sheraton Jeju Hotel | 2027-11-02 ~ 11-05 | – |
 | [2026](https://2026.iccas.org/) | Sapporo, Japan | Hotel Emisia Sapporo | 2026-10-27 ~ 10-30 | 2026-06-15 |
 | [2025](https://2025.iccas.org/) | Incheon, South Korea | Songdo ConvensiA | 2025-11-04 ~ 11-07 | 2025-07-04 |
-| [2024](https://icros.org/eng/sub/sub04_1.asp) | Jeju, South Korea | Jeju Shinhwa World | 2024-10-29 ~ 11-01 | – |
-| [2023](https://icros.org/eng/sub/sub04_1.asp) | Yeosu, South Korea | Yeosu Venezia Hotel & Utop Marina Hotel | 2023-10-17 ~ 10-20 | – |
-| [2022](https://icros.org/eng/sub/sub04_1.asp) | Busan, South Korea | BEXCO (hybrid) | 2022-11-27 ~ 12-01 | – |
+| [2024](https://2024.iccas.org/) | Jeju, South Korea | Jeju Shinhwa World | 2024-10-29 ~ 11-01 | 2024-06-14 |
+| [2023](https://2023.iccas.org/) | Yeosu, South Korea | Yeosu Venezia Hotel & Utop Marina Hotel | 2023-10-17 ~ 10-20 | 2023-06-30 |
+| [2022](https://2022.iccas.org/) | Busan, South Korea | BEXCO (hybrid) | 2022-11-27 ~ 12-01 | 2022-07-31 |
 | [2021](https://www.ieee-ras.org/about-ras/ras-calendar/event/2018-iccas-2021-call-for-papers-deadline) | Jeju, South Korea | Ramada Plaza Jeju | 2021-10-12 ~ 10-15 | 2021-06-07 |
 | [2020](https://icros.org/eng/sub/sub04_1.asp) | Busan (online), South Korea | BEXCO (Online) | 2020-10-13 ~ 10-16 | – |
 | [2019](https://www.ieee-ras.org/about-ras/ras-calendar/event/1684-call-for-papers-iccas-2019) | Jeju, South Korea | ICC Jeju | 2019-10-15 ~ 10-18 | 2019-06-30 |
@@ -756,7 +758,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [2032](https://ifac-control.org/conferences/ifac-congresses/) | Honolulu, Hawaii, United States | – | TBA | – |
 | [2029](https://conferences.ifac-control.org/wc2029/) | Amsterdam, Netherlands | Amsterdam RAI Convention Centre | 2029-07-08 ~ 07-13 | – |
 | [2026](https://ifac2026.org/) | Busan, South Korea | BEXCO | 2026-08-23 ~ 08-28 | 2025-12-05 |
-| [2023](https://car.osu.edu/sites/default/files/2022-08/IFAC2023_2ndCFP.pdf) | Yokohama, Japan | PACIFICO Yokohama | 2023-07-09 ~ 07-14 | 2022-10-31 |
+| [2023](https://web.archive.org/web/20221208083417/https://www.ifac2023.org/) | Yokohama, Japan | PACIFICO Yokohama | 2023-07-09 ~ 07-14 | 2022-11-11 |
 | [2020](https://ifac2020.org/) | Berlin (virtual), Germany | Entirely virtual (IFAC-V 2020) | 2020-07-12 ~ 07-17 | 2019-10-31 |
 | [2017](https://ifac2017.org/node/41.html) | Toulouse, France | – | 2017-07-09 ~ 07-14 | 2016-11-11 |
 
@@ -768,6 +770,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 data/conferences/<id>.json   학회별 원본 데이터 (출처·노트 포함) / per-conference source of truth, with sources & notes
 data/organizations/*.json    주최 기관 정보 / organizing bodies (e.g. IAA)
 data/keywords/taxonomy.json  공통 키워드 분류 / shared topic taxonomy
+data/verification/           교차검증 기록·독립 재조사 원본 / cross-check log & blind-pass data
 data/keywords/<id>.json      학회별 발표 키워드 비중 (세션·논문 집계, 출처 포함) / topic shares per conference
 data/editions.csv            개최 기록 평탄화 / flattened editions (for diff & cross-check)
 data/upcoming.csv            다음 회차·마감 요약 / next edition & deadline per conference

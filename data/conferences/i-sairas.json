@@ -115,6 +115,7 @@
   "notes": "ESA's list counts 16 editions up to Brisbane 2024, which is the 16th. The 2026 Cologne edition is held jointly with iSpaRo; its home page says 3-6 Nov 2026, while the Important Dates page says sessions run 3-5 Nov with an optional DLR tour on 6 Nov. The 2018 end date is 5 Jun on the current ESA page; an older ESA page version reportedly gave 6 Jun. Venues for 2014-2018 are not verified. No edition after 2026 has been announced; by the biennial pattern the next would be 2028, rotating continent (America/Asia/Europe), but this is unverified. Abstract deadlines for 2014-2020 were not found. ESA notes that i-SAIRAS and ASTRA are staggered so one runs each year.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

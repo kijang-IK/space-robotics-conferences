@@ -197,9 +197,13 @@
       "venue": null,
       "start_date": "2028-08-16",
       "end_date": "2028-08-20",
-      "abstract_deadline": null,
-      "source": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case/past-and-future-venues/",
-      "continent": "North America"
+      "abstract_deadline": "2028-03-01",
+      "source": "https://www.ieee-ras.org/event/2028-ieee-24th-international-conference-on-automation-science-and-engineering-case-71117/",
+      "continent": "North America",
+      "notes": "Cross-checked 2026-10-16: start/end dates kept at 2028-08-16/2028-08-20 (IEEE RAS venues page) but UNRESOLVED: the IEEE RAS event page https://www.ieee-ras.org/event/2028-ieee-24th-international-conference-on-automation-science-and-engineering-case-71117/ lists August 13-17, 2028 at University of Illinois Chicago (UIC); no CASE 2028 site exists yet to settle it. Cross-checked 2026-10-16: abstract_deadline filled 2028-03-01 from the IEEE RAS CASE 2028 event page (provisional RAS calendar date; no CASE 2028 call for papers yet).",
+      "extra_sources": [
+        "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case/past-and-future-venues/"
+      ]
     }
   ],
   "sources": [
@@ -224,6 +228,7 @@
   "notes": "Next edition CASE 2027 (Linz, Austria; hosted by Johannes Kepler University Linz; General Chair Manuel Wimmer) full-paper deadline 2027-03-01 has not passed; status 'open' means the deadline is announced and in the future (whether the PaperCept submission site is already accepting papers was not verified). The official CASE 2027 homepage does not name the venue (mentions JKU LIT Factory); venue null. CASE 2028 Chicago (Aug 16-20) is listed by RAS. Discrepancies: CASE 2016 end date RAS list says Aug 21-24; CASE 2020 RAS venue list says Aug 20-24 but the virtual conference was held Aug 20-21 per RAS CFP page; CASE 2023 CFP said Aug 26-29 while site/RAS say Aug 26-30. Deadlines are extended/final values: 2017 extended to Mar 15; 2019 extended to Mar 15; 2020 revised (COVID) to Mar 29 (original Mar 1); 2021 Mar 1 -> Mar 15 -> Mar 18 (firm); 2022 'final, no further extension' Mar 18 (archived page partly garbled); 2023 extended to Mar 17 (hard); 2024 extended from Mar 1 to Mar 25; 2025 moved from Mar 1 to Mar 15. CASE 2018 deadline not found (null). CASE 2026 venue (Shenyang New World EXPO) comes from an aggregator listing, not the official site. Most venues not verified -> null.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

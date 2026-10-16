@@ -134,9 +134,9 @@
       "start_date": "2023-02-02",
       "end_date": "2023-02-08",
       "abstract_deadline": "2022-09-13",
-      "source": "https://aas-rocky-mountain-section.org/wp-content/uploads/2023/06/Updated-AAS-45th_Conference_Call_For_Papers.pdf",
+      "source": "https://web.archive.org/web/20221206190719/https://aas-rocky-mountain-section.org/wp-content/uploads/2022/10/45th_AAS_GNC_Conference_Call_For_Papers_v2.pdf",
       "continent": "North America",
-      "notes": "45th. Original deadline 9 Sep 2022 (official CFP), extended to 13 Sep 2022 per archived CFP v2 https://web.archive.org/web/20221206190719/https://aas-rocky-mountain-section.org/wp-content/uploads/2022/10/45th_AAS_GNC_Conference_Call_For_Papers_v2.pdf"
+      "notes": "45th. Original deadline 9 Sep 2022 (official CFP), extended to 13 Sep 2022 per archived CFP v2 https://web.archive.org/web/20221206190719/https://aas-rocky-mountain-section.org/wp-content/uploads/2022/10/45th_AAS_GNC_Conference_Call_For_Papers_v2.pdf. Cross-checked 2026-10-16: confirmed 2022-09-13; original 2022-09-09 extended to 2022-09-13 per official CFP v2 (\"Extended to September 13, 2022\"). Original-date CFP: https://aas-rocky-mountain-section.org/wp-content/uploads/2023/06/Updated-AAS-45th_Conference_Call_For_Papers.pdf"
     },
     {
       "year": 2024,
@@ -146,10 +146,10 @@
       "venue": "Beaver Run Resort & Conference Center",
       "start_date": "2024-02-02",
       "end_date": "2024-02-07",
-      "abstract_deadline": null,
-      "source": "https://aas-rocky-mountain-section.org/wp-content/uploads/2024/02/46th-AAS_GNC_Conf_Program-Feb-2024.pdf",
+      "abstract_deadline": "2023-09-08",
+      "source": "https://aas-rocky-mountain-section.org/wp-content/uploads/2023/08/46th_AAS_GNC_Conference_Flyer_v6.pdf",
       "continent": "North America",
-      "notes": "46th."
+      "notes": "46th. Cross-checked 2026-10-16: filled 2023-09-08 from official 46th flyer v6 (\"Abstracts are due by September 8, 2023\"); no extension notice found. Dates per https://aas-rocky-mountain-section.org/wp-content/uploads/2024/02/46th-AAS_GNC_Conf_Program-Feb-2024.pdf"
     },
     {
       "year": 2025,
@@ -210,6 +210,7 @@
   "notes": "Edition numbering (43rd in 2020, 44th in 2022) indicates no 2021 conference (reason not verified). Date ranges are as printed on programs/flyers, which include the classified-session days. Abstract deadlines for 2016, 2018-2020, 2022, 2024 not verified (null).",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

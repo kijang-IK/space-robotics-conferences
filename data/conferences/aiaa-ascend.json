@@ -80,10 +80,10 @@
       "venue": "Caesars Forum",
       "start_date": "2023-10-23",
       "end_date": "2023-10-25",
-      "abstract_deadline": null,
-      "source": "https://www.proceedings.com/72326.html",
+      "abstract_deadline": "2023-03-22",
+      "source": "https://web.archive.org/web/20230330103126/https://www.ascend.events/call-for-content/",
       "continent": "North America",
-      "notes": "Venue per AIAA release https://aiaa.org/?p=4138"
+      "notes": "Venue per AIAA release https://aiaa.org/?p=4138. Cross-checked 2026-10-16: filled 2023-03-22; original 2023-03-15 (AIAA release 2 Mar 2023) extended to 2023-03-22 per official ascend.events call-for-content page (archived 30 Mar 2023)."
     },
     {
       "year": 2024,
@@ -91,12 +91,12 @@
       "region": "Nevada",
       "country": "United States",
       "venue": "Caesars Forum",
-      "start_date": null,
-      "end_date": null,
-      "abstract_deadline": null,
-      "source": "https://aiaa.org/2024/08/21/aiaa-accelerates-the-future-of-aviation-and-space-at-2024-aiaa-aviation-forum-and-2024-ascend/",
+      "start_date": "2024-07-30",
+      "end_date": "2024-08-01",
+      "abstract_deadline": "2023-12-12",
+      "source": "https://web.archive.org/web/20240226050259/https://www.ascend.events/presenters/submission-guide/",
       "continent": "North America",
-      "notes": "Co-located with AVIATION 2024 during the week of 28 Jul-2 Aug 2024; exact ASCEND-only dates not verified."
+      "notes": "Co-located with AVIATION 2024 during the week of 28 Jul-2 Aug 2024; exact ASCEND-only dates not verified. Cross-checked 2026-10-16: filled start 2024-07-30, end 2024-08-01 and abstract deadline 2023-12-12 from official 2024 ASCEND submission guide (archived 26 Feb 2024, post-deadline, no extension); dates also in https://aerospaceamerica.aiaa.org/departments/summer-2024-two-events-one-venue/"
     },
     {
       "year": 2025,
@@ -106,10 +106,10 @@
       "venue": "Caesars Forum",
       "start_date": "2025-07-22",
       "end_date": "2025-07-24",
-      "abstract_deadline": null,
-      "source": "https://aiaa.org/2024/08/21/aiaa-accelerates-the-future-of-aviation-and-space-at-2024-aiaa-aviation-forum-and-2024-ascend/",
+      "abstract_deadline": "2024-11-21",
+      "source": "https://web.archive.org/web/20241126211950/https://www.ascend.events/presenters/submission-guide/",
       "continent": "North America",
-      "notes": "Venue per pre-event AIAA plan (https://aerospaceamerica.aiaa.org/departments/summer-2024-two-events-one-venue/); co-located with AVIATION 2025."
+      "notes": "Venue per pre-event AIAA plan (https://aerospaceamerica.aiaa.org/departments/summer-2024-two-events-one-venue/); co-located with AVIATION 2025. Cross-checked 2026-10-16: filled 2024-11-21 from official 2025 ASCEND submission guide (archived 9 Oct and 26 Nov 2024; closed, no extension)."
     },
     {
       "year": 2026,
@@ -163,9 +163,10 @@
     "https://aiaa.org/?p=4138",
     "https://www.proceedings.com/72326.html"
   ],
-  "notes": "First held 2020, so no 2015-2019 editions. Abstract deadlines for 2020-2025 not verified (null). ASCEND 2024 exact dates not verified. 2027 venue/city and 2028 location not confirmed on official pages.",
+  "notes": "First held 2020, so no 2015-2019 editions. Abstract deadlines for 2020-2025 not verified (null). ASCEND 2024 exact dates not verified. 2027 venue/city and 2028 location not confirmed on official pages. [Update 2026-10-16: the 2022+ deadlines/dates listed as unverified above were confirmed during the cross-check; see each edition note.]",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

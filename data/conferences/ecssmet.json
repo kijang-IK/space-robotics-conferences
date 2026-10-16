@@ -147,6 +147,7 @@
   "notes": "There is no permanent ECSSMET website; each edition runs its own site (ecssmet2023.com, atpi.eventsair.com/ecssmet2024, ecssmet2026.welcome-manager.de), so official_url points to the latest one. The 2026 programme has three dedicated 'Deployable structures' sessions plus three 'Mechanism Testing' sessions, most of whose talks cover deployment hardware. Abstract deadlines for 2014-2021 were not found. The 2023 Toulouse venue is not verified. The 2016 dates and venue rest on secondary sources only.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

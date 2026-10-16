@@ -146,10 +146,10 @@
       "venue": "Gaylord National Resort & Convention Center",
       "start_date": "2023-01-23",
       "end_date": "2023-01-27",
-      "abstract_deadline": null,
-      "source": "https://scitech.aiaa.org/about/past-forums/",
+      "abstract_deadline": "2022-06-01",
+      "source": "https://web.archive.org/web/20220706215448/https://www.aiaa.org/SciTech/presentations-papers/call-for-papers",
       "continent": "North America",
-      "notes": "Hybrid (National Harbor & online). Venue per https://files.smithbucklin.com/ss-files/AIAA_SciTech_2023_Final.pdf"
+      "notes": "Hybrid (National Harbor & online). Venue per https://files.smithbucklin.com/ss-files/AIAA_SciTech_2023_Final.pdf. Cross-checked 2026-10-16: filled 2022-06-01 from official AIAA SciTech 2023 call for papers (archived 6 Jul 2022, post-deadline, no extension). Dates per https://scitech.aiaa.org/about/past-forums/"
     },
     {
       "year": 2024,
@@ -237,6 +237,7 @@
   "notes": "AIAA stated it holds a contract with Hyatt Regency Orlando for 2025-2028 (AIAA SciTech travel page, Oct 2023). Abstract deadlines for 2015, 2016, 2017, 2019, 2021, 2023 not verified (null). 2015 venue not verified (null). 2022 venue from a third-party listing only. Even-year deadlines come from the co-located AAS/AIAA Space Flight Mechanics pages (they follow the SciTech call).",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

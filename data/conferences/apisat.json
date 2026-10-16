@@ -210,9 +210,10 @@
       "venue": "The Westin Blue Bay Resort & Spa",
       "start_date": "2023-10-16",
       "end_date": "2023-10-18",
-      "abstract_deadline": "2023-05-15",
-      "source": "https://www.raes.org.au/eventdetails/18396/asia-pacific-international-symposium-on-aerospace-technology",
-      "continent": "Asia"
+      "abstract_deadline": "2023-05-31",
+      "source": "http://2023.apisat.org/",
+      "continent": "Asia",
+      "notes": "Cross-checked 2026-10-16: abstract_deadline changed 2023-05-15 -> 2023-05-31; official site shows 15 May struck through and 31 May 2023."
     },
     {
       "year": 2024,
@@ -234,9 +235,10 @@
       "venue": "Seoul Olympic Parktel",
       "start_date": "2025-10-27",
       "end_date": "2025-10-29",
-      "abstract_deadline": "2025-05-30",
-      "source": "https://www.raes.org.au/events/conferences/apisat2025/",
-      "continent": "Asia"
+      "abstract_deadline": "2025-06-13",
+      "source": "https://apisat2025.org/",
+      "continent": "Asia",
+      "notes": "Cross-checked 2026-10-16: abstract_deadline changed 2025-05-30 -> 2025-06-13; official site shows the May 1-30 call extended to 13 Jun 2025."
     },
     {
       "year": 2026,
@@ -281,6 +283,7 @@
   "notes": "Edition numbering (consistent across sources): 2009 = 1st, 2015 = 7th, 2018 = 10th, 2019 = 11th, 2021 = 12th, 2022 = 13th, 2024 = 15th, 2025 = 16th, 2026 = 17th. The 2014 = 6th and 2016 = 8th labels are inferred; Crossref labels 2018 as the 9th, which conflicts with RAeS's 10th. The host rotates CSAA -> RAeS -> JSASS/KSAS. The official site apisat.org reset connections on every fetch attempt. Unverifiable fields: 2011 is not verified (rotation suggests Australia, possibly Melbourne, but no source was found). 2009, 2012 and 2014 rely on search-result text from sources I could not fetch directly (aconf CFP; a ScienceDirect paper citing 'Jeju, Korea, November 13-15, 2012'; the Procedia Engineering vol. 99 header 'APISAT2014 September 24-26, 2014 Shanghai'). 2013: the Sunport Hall venue comes only from the @APISAT2013 X account via search; 2013-06-25 is the EXTENDED abstract deadline; the manuscript deadline was extended from 13 Sep to 20 Sep 2013. 2016: JSASS lists 24-27 Oct 2016, joint with the 53rd Aircraft Symposium, so the APISAT core days may be shorter. 2018: RAeS and Springer give 16-18 Oct 2018 (the event site reportedly said 15-19 Oct including side events); venue not found. 2019: RAeS lists 'Surfers Paradise Marriot Resort', while 10times says 'JW Marriott Gold Coast Resort & Spa' (likely the same property); the 2019 proceedings were published by Engineers Australia. 2020: per apisat2021.org (via search; the site's TLS certificate had expired), a 'Notice of Postponement' dated 1 Jul 2020 moved APISAT 2020 to 2021 by agreement of the member societies, so there was no 2020 edition. 2021: hybrid format at Ramada Plaza Jeju Hotel, hosted by KSAS (Springer IJASS editorial and the apisat2021 call for papers, via search). 2024: the 27 Jun 2024 extended abstract deadline comes from apisat2024.org via search (that domain no longer resolves); RAeS confirms only that abstracts closed, with notification 16 Jul 2024. 2023 venue and deadlines are from the RAeS event page; hosts were CSAA, Tsinghua, BUAA, CAUC and the AVIC Aerodynamics Research Institute. NEXT: APISAT 2026 (Sapporo, 27-29 Oct 2026) is upcoming but its abstract deadline has passed. APISAT 2027: not announced as of 2026-10-16. An apisat.org news item on APISAT2023 (via search) quotes the KSAS president expecting to attend APISAT2027, and the rotation suggests a China (CSAA) host, but host, dates and deadline are unverified. Do not confuse APISAT with APASE 2027 (Harbin, Jan 2027), a different conference.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

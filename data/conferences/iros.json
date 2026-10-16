@@ -210,14 +210,15 @@
       "venue": "Hangzhou International Expo Center",
       "start_date": "2025-10-19",
       "end_date": "2025-10-25",
-      "abstract_deadline": "2025-03-01",
-      "source": "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/iros.yml",
+      "abstract_deadline": "2025-03-02",
+      "source": "https://www.iros25.org/",
       "extra_sources": [
+        "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/iros.yml",
         "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/",
         "https://iten.ieee-ies.org/past-events/2025/2025-iros-international-conference-on-intelligent-robots/",
         "https://www.vicon.com/event/iros-2025/"
       ],
-      "notes": "Deadline March 1, 2025 (UTC-8) per ccf-deadlines/ServiceNow; IEEE IES listing says March 2. Official iros25.org had an expired certificate.",
+      "notes": "Deadline March 1, 2025 (UTC-8) per ccf-deadlines/ServiceNow; IEEE IES listing says March 2. Official iros25.org had an expired certificate. Cross-checked 2026-10-16: abstract_deadline changed 2025-03-01 -> 2025-03-02; official iros25.org states the contributed-paper deadline was extended to March 2, 2025 (23:59 PST) after a server breakdown.",
       "continent": "Asia"
     },
     {
@@ -283,6 +284,7 @@
   "notes": "IROS 2026 (Pittsburgh) ended Oct 1, 2026, so the next edition is IROS 2027 Florence. Unverified/conflicting: IROS 2021 (Mar 1 vs Mar 5) and IROS 2024 (Mar 1 vs Mar 15) deadlines; IROS 2016 deadline from a third-party calendar; IROS 2028 Sydney not yet on the IEEE RAS venues page.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

@@ -64,9 +64,13 @@
       "venue": "PACIFICO Yokohama",
       "start_date": "2023-07-09",
       "end_date": "2023-07-14",
-      "abstract_deadline": "2022-10-31",
-      "source": "https://car.osu.edu/sites/default/files/2022-08/IFAC2023_2ndCFP.pdf",
-      "continent": "Asia"
+      "abstract_deadline": "2022-11-11",
+      "source": "https://web.archive.org/web/20221208083417/https://www.ifac2023.org/",
+      "continent": "Asia",
+      "extra_sources": [
+        "https://car.osu.edu/sites/default/files/2022-08/IFAC2023_2ndCFP.pdf"
+      ],
+      "notes": "Cross-checked 2026-10-16: abstract_deadline changed 2022-10-31 -> 2022-11-11 (official extension of regular/invited paper deadline, archived ifac2023.org); a further 'grace period' to Nov 18, 2022 was announced but is not called an extension, so it is excluded."
     },
     {
       "year": 2026,
@@ -121,6 +125,7 @@
   "notes": "Triennial; only the 2017, 2020, 2023, 2026 congresses fall in 2015+, plus announced 2029 (Amsterdam) and 2032 (Honolulu, no dates). 2026 (23rd) Busan congress is over (Aug 23-28, 2026; 3,898 regular/invited papers submitted per IFAC Dec 2025 newsletter). Next: 24th IFAC World Congress, Amsterdam, July 8-13, 2029, Amsterdam RAI (General Chairs Ming Cao and Manuel Mazo per IFAC); its paper deadline is NOT yet published - by past pattern it would be roughly Oct-Dec 2028 (inference only). 2020 congress was entirely virtual (organizer site says congress week July 11-17; VDI/VDE hosted July 12-17); its Oct 31, 2019 deadline comes from an IFAC President's column (Aug 2019), not a congress page. 2023 deadline Oct 31, 2022 from IFAC newsletter / 2nd CFP (not confirmed on ifac2023.org; possible extension not checked). 2017 deadline extended Oct 31 -> Nov 8 -> Nov 11, 2016. 2017 venue (Toulouse congress centre) not verified -> null. 2014 Cape Town congress is outside the 2015+ window.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

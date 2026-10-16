@@ -78,9 +78,10 @@
       "venue": "Lille Grand Palais (EUCASS-3AF 2022)",
       "start_date": "2022-06-27",
       "end_date": "2022-07-01",
-      "abstract_deadline": null,
-      "source": "https://www.eucass.eu/conferences-and-publications/archives/archives-eucass/eucass-2022",
-      "continent": "Europe"
+      "abstract_deadline": "2022-03-15",
+      "source": "https://www.eucass.eu/2022",
+      "continent": "Europe",
+      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2022-03-15 from official key dates (\"Deadline to submit or modify an existing submission\"); edition was postponed from 2021, so this is the final reopened submission deadline."
     },
     {
       "year": 2023,
@@ -102,9 +103,10 @@
       "venue": "Congress Center Auditorium della Tecnica",
       "start_date": "2025-06-30",
       "end_date": "2025-07-04",
-      "abstract_deadline": "2025-01-15",
-      "source": "https://www.eucass.eu/2025/?p=1122",
-      "continent": "Europe"
+      "abstract_deadline": "2025-02-15",
+      "source": "https://www.eucass.eu/2025/keydates/",
+      "continent": "Europe",
+      "notes": "Cross-checked 2026-10-16: abstract_deadline changed 2025-01-15 -> 2025-02-15; official key dates page shows 15 Jan 2025 struck through and 15 Feb 2025 as the abstract deadline."
     },
     {
       "year": 2027,
@@ -138,6 +140,7 @@
   "notes": "EUCASS 2027 is the 12th edition; the Call for Papers was issued 6 Oct 2026, and the eucass2027.eu banner said 'Submission now open' on 2026-10-16. 2027 key dates: notification 18 Mar 2027, proceedings deadline 20 Jun 2027. The 2027 venue (SEC) comes from a third-party listing only. 2023: registration opened 9 Jul, sessions ran 10-13 Jul and technical visits were on 14 Jul; the page listed a full paper deadline of 9 Jul 2023 but no abstract deadline. 2025: the venue comes from the space-innovation.ch event listing. No EUCASS edition was held in 2014; the 5th was Munich 2013. The 2019 abstract_deadline is the extended date; the original was 11 Feb 2019. Abstract deadlines for 2015, 2017, 2022 and 2023 were not found.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

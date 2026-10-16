@@ -171,8 +171,9 @@
       "start_date": "2025-01-19",
       "end_date": "2025-01-23",
       "abstract_deadline": "2024-09-22",
-      "source": "https://www.space-flight.org/docs/2025_winter/2025_winter.html",
-      "continent": "North America"
+      "source": "https://web.archive.org/web/20240920154852/http://space-flight.org/docs/2025_winter/CallForPapers_AASAIAA_Jan2025_final2.pdf",
+      "continent": "North America",
+      "notes": "Cross-checked 2026-10-16: confirmed 2024-09-22; original 2024-09-13 (CallForPapers_AASAIAA_Jan2025_final.pdf) extended to 2024-09-22 per revised CFP final2.pdf and official page archived 20 Sep 2024."
     },
     {
       "year": 2026,
@@ -222,6 +223,7 @@
   "notes": "All data from official space-flight.org pages and linked CFP PDFs. The 2026 CFP PDF calls it the '34th' meeting while the page says '36th' (page numbering used; 2027 is the 37th).",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

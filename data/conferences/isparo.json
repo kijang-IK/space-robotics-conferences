@@ -40,9 +40,10 @@
       "venue": "Neumunster Abbey",
       "start_date": "2024-06-24",
       "end_date": "2024-06-27",
-      "abstract_deadline": "2023-12-10",
-      "source": "https://www.spacer.lu/isparo_24/call_for_papers",
-      "continent": "Europe"
+      "abstract_deadline": "2024-02-17",
+      "source": "https://web.archive.org/web/20240415034417/https://www.isparo.space/contribute",
+      "continent": "Europe",
+      "notes": "Cross-checked 2026-10-16: abstract_deadline changed 2023-12-10 -> 2024-02-17; official iSpaRo'24 contribute page (archived 15 Apr 2024) lists \"February 17, 2024 (new)\" as the paper submission deadline. The SpaceR page https://www.spacer.lu/isparo_24/call_for_papers still shows the earlier 10 Dec 2023 date."
     },
     {
       "year": 2025,
@@ -85,6 +86,7 @@
   "notes": "The user confirmed that 'Ispro' = iSpaRo. 'abstract_deadline' in this object is the FULL-PAPER deadline, because iSpaRo has no abstract stage. 2026 is held JOINTLY with i-SAIRAS at Confex Cologne under a single registration; iSpaRo follows the Call for Papers (IEEE Xplore), while i-SAIRAS follows the Call for Abstracts (see the i-sairas entry). The 2026 event days are 3-5 Nov plus an optional DLR tour on 6 Nov (the home page says 3-6 Nov). Registration deadline: 23 Oct 2026. Late-breaking results submissions are closed, with feedback by 15 Oct 2026. Edition stats from the About page: 2024 had 200+ participants and 56 papers in IEEE Xplore; 2025 had 150+ submissions, 100 papers presented and 350+ attendees. The RAS Technical Activities Board endorsed continuing the series in Oct 2024. 2025 PaperCept code: ICRS25. 2027: the 2026 committee page lists a General Co-Chair seat for 'a representative of iSpaRo 2027 (to be determined)', which confirms a 2027 edition is planned, but no host, city, dates or deadline were announced as of 2026-10-16 (searched 'iSpaRo 2027'; nothing found). isparo.space is a frameset that loads isairas-isparo.de. The earlier unverified claim that Caltech/JPL took over organizing has been removed.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

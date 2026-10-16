@@ -14,13 +14,18 @@ if (!otherPath) {
 
 const FIELDS = ['city', 'country', 'start_date', 'end_date', 'abstract_deadline'];
 const key = (s) => String(s || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+const COUNTRY = { usa: 'United States', us: 'United States', unitedstatesofamerica: 'United States', korea: 'South Korea',
+  republicofkorea: 'South Korea', uk: 'United Kingdom', uae: 'United Arab Emirates', turkiye: 'Turkey' };
 const norm = (f, v) => {
   if (v == null || v === '') return null;
-  const s = String(v).trim();
-  if (f === 'country') return key({ usa: 'United States', us: 'United States', korea: 'South Korea', republicofkorea: 'South Korea' }[key(s)] || s);
-  if (f === 'city') return key(s.normalize('NFD').replace(/[̀-ͯ]/g, ''));
+  const s = String(v).trim().normalize('NFD').replace(/[̀-ͯ]/g, '');
+  if (f === 'country') return key(COUNTRY[key(s)] || s);
+  // Compare the core city name: "Austin, TX" = "Austin", "Jeju (Seogwipo)" = "Jeju".
+  if (f === 'city') return key(s.split(/[,(]/)[0]);
   return s;
 };
+// City names that differ only by a qualifier on one side ("Madrid" vs "Tres Cantos (Madrid)") are not conflicts.
+const sameCity = (a, b) => a === b || a.includes(b) || b.includes(a);
 
 const ours = fs.readdirSync(DATA).filter((f) => f.endsWith('.json'))
   .map((f) => JSON.parse(fs.readFileSync(path.join(DATA, f), 'utf8')));
@@ -42,11 +47,15 @@ for (const t of theirs) {
     if (!e1) { onlyTheirs.push({ id: c.id, year: y, e: e2 }); continue; }
     for (const f of FIELDS) {
       const a = norm(f, e1[f]), b = norm(f, e2[f]);
-      if (a && b && a !== b) conflicts.push({ id: c.id, year: y, f, ours: e1[f], theirs: e2[f], oSrc: e1.source, tSrc: e2.source });
+      const differ = f === 'city' ? !sameCity(a || '', b || '') && !sameCity(key(String(e1[f])), key(String(e2[f]))) : a !== b;
+      if (a && b && differ) conflicts.push({ id: c.id, year: y, f, ours: e1[f], theirs: e2[f], oSrc: e1.source, tSrc: e2.source });
       else if (!a && b) fills.push({ id: c.id, year: y, f, theirs: e2[f], tSrc: e2.source });
     }
   }
-  for (const y of oe.keys()) if (!te.has(y)) onlyOurs.push({ id: c.id, year: y });
+  // Only count our editions inside the year range the other dataset covers.
+  const theirYears = [...te.keys()];
+  const lo = Math.min(...theirYears), hi = Math.max(...theirYears);
+  for (const y of oe.keys()) if (!te.has(y) && y >= lo && y <= hi) onlyOurs.push({ id: c.id, year: y });
 }
 const notCovered = ours.filter((c) => !matched.has(c.id)).map((c) => c.short_name);
 
@@ -63,6 +72,7 @@ out.push('', '## ➕ 빈칸 보완 후보 (상대 값의 출처 확인 후 반�
 fills.forEach((x) => out.push(`| ${x.id} | ${x.year} | ${x.f} | ${md(x.theirs)} | ${src(x.tSrc)} |`));
 out.push('', '## 🆕 상대에만 있는 회차', '', '| 학회 | 연도 | 개최지 | 일정 | 출처 |', '|---|---|---|---|---|');
 onlyTheirs.forEach((x) => out.push(`| ${x.id} | ${x.year} | ${md([x.e.city, x.e.country].filter(Boolean).join(', '))} | ${md(x.e.start_date)} | ${src(x.e.source)} |`));
+out.push('', '## 🔍 우리에만 있는 회차 (상대 조사 범위 안)', '', onlyOurs.map((x) => `${x.id} ${x.year}`).join(' · ') || '없음');
 out.push('');
 
 fs.writeFileSync(reportPath, out.join('\n'));

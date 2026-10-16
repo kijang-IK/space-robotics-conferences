@@ -67,10 +67,11 @@
       "venue": null,
       "start_date": "2022-04-04",
       "end_date": "2022-04-06",
-      "abstract_deadline": null,
-      "source": "https://iaaspace.org/icssa",
+      "abstract_deadline": "2022-01-27",
+      "source": "https://iaaspace.org/event/3rd-iaa-conference-on-space-situational-awareness-icssa-2022/",
       "edition": "3rd",
-      "continent": "Europe"
+      "continent": "Europe",
+      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2022-01-27 from the IAA event page (no extension listed)."
     },
     {
       "year": 2024,
@@ -80,10 +81,11 @@
       "venue": null,
       "start_date": "2024-05-08",
       "end_date": "2024-05-10",
-      "abstract_deadline": null,
-      "source": "https://iaaspace.org/icssa",
+      "abstract_deadline": "2024-02-29",
+      "source": "https://iaaspace.org/event/4th-iaa-conference-on-space-situational-awareness-icssa-2024/",
       "edition": "4th",
-      "continent": "North America"
+      "continent": "North America",
+      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2024-02-29 from the IAA event page (no extension listed)."
     },
     {
       "year": 2026,
@@ -96,7 +98,7 @@
       "abstract_deadline": "2026-01-05",
       "source": "https://iaaspace.org/event/5th-iaa-conference-on-space-situational-awareness-icssa-2026/",
       "edition": "5th",
-      "notes": "Call PDF: https://iaaspace.org/wp-content/uploads/2025/12/2026ICSSAcall.pdf",
+      "notes": "Call PDF: https://iaaspace.org/wp-content/uploads/2025/12/2026ICSSAcall.pdf. Cross-checked 2026-10-16: city ordering differs from independent pass (\"Madrid (Tres Cantos)\") but is the same place (GMV, Tres Cantos); no change.",
       "continent": "Europe"
     }
   ],
@@ -110,6 +112,7 @@
   "notes": "6th ICSSA not announced as of 2026-10-16 (pattern suggests ~2028, unverified). Venues for 2017-2024 and abstract deadlines before 2026 not verified (null).",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

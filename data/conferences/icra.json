@@ -252,7 +252,7 @@
         "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive/",
         "https://www.beri.net/events/icra-2028"
       ],
-      "notes": "IEEE RAS (official) lists Rio de Janeiro / Riocentro, 15-19 May 2028, paper deadline Sep 15, 2027, website 2028.ieee-icra.org. CONFLICT: third-party aggregator beri.net lists ICRA 2028 in Guadalajara, Mexico (Expo Guadalajara) on the same dates - treated as outdated/incorrect; official RAS source preferred.",
+      "notes": "IEEE RAS (official) lists Rio de Janeiro / Riocentro, 15-19 May 2028, paper deadline Sep 15, 2027, website 2028.ieee-icra.org. CONFLICT: third-party aggregator beri.net lists ICRA 2028 in Guadalajara, Mexico (Expo Guadalajara) on the same dates - treated as outdated/incorrect; official RAS source preferred. Cross-checked 2026-10-16: host city Rio de Janeiro re-confirmed on the official IEEE RAS ICRA venues page (Rio de Janeiro, Brazil, May 15-19, 2028; General Chairs C. J. Taylor, Mario Campos, Fernando Lizarralde). The Guadalajara listing is an older RAS calendar entry/aggregator copy and is superseded.",
       "continent": "South America"
     },
     {
@@ -263,12 +263,13 @@
       "venue": null,
       "start_date": "2029-05-07",
       "end_date": "2029-05-12",
-      "abstract_deadline": null,
-      "source": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive/",
+      "abstract_deadline": "2028-09-15",
+      "source": "https://www.ieee-ras.org/event/2029-ieee-international-conference-on-robotics-and-automation-icra-68559/",
       "extra_sources": [
+        "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive/",
         "https://www.beri.net/events/icra-2029"
       ],
-      "notes": "IEEE RAS venues page: Milan, 7-12 May 2029. Venue (Allianz MiCo) and a Sep 15, 2028 deadline appear only on third-party beri.net - not verified, so set to null.",
+      "notes": "IEEE RAS venues page: Milan, 7-12 May 2029. Venue (Allianz MiCo) and a Sep 15, 2028 deadline appear only on third-party beri.net - not verified, so set to null. Cross-checked 2026-10-16: abstract_deadline filled 2028-09-15 from the IEEE RAS ICRA 2029 event page 'Important Dates' (Paper submission deadline: ICRA); provisional RAS calendar date, no ICRA 2029 call for papers yet. RAS event page also names Allianz MiCo as the venue.",
       "continent": "Europe"
     },
     {
@@ -279,10 +280,13 @@
       "venue": null,
       "start_date": "2030-05-13",
       "end_date": "2030-05-17",
-      "abstract_deadline": null,
-      "source": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive/",
-      "notes": "Listed on IEEE RAS ICRA venues page (General Chair: Jackrit Suthakorn). Venue and deadline not announced.",
-      "continent": "Asia"
+      "abstract_deadline": "2029-09-15",
+      "source": "https://www.ieee-ras.org/event/2030-ieee-international-conference-on-robotics-and-automation-icra-74057/",
+      "notes": "Listed on IEEE RAS ICRA venues page (General Chair: Jackrit Suthakorn). Venue and deadline not announced. Cross-checked 2026-10-16: abstract_deadline filled 2029-09-15 from the IEEE RAS ICRA 2030 event page 'Important Dates' (Paper submission deadline: ICRA); provisional RAS calendar date. RAS event page names Queen Sirikit National Convention Center as the venue.",
+      "continent": "Asia",
+      "extra_sources": [
+        "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive/"
+      ]
     }
   ],
   "sources": [
@@ -299,6 +303,7 @@
   "notes": "ICRA has run annually since 1984. Dates use the official conference website where available; IEEE RAS venues page sometimes differs by one day (noted per edition). Unverified/null: ICRA 2029 venue and deadline, ICRA 2030 venue and deadline. ICRA 2015 deadline from RAS calendar (possible 1-day extension). ICRA 2018, 2023, 2024, 2026 deadlines rely on third-party aggregators consistent with the standard Sep 15 pattern.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

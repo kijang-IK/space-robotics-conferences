@@ -103,7 +103,7 @@ out.push(`> **기준일 / As of: ${AS_OF}** · 학회 ${confs.length}개 confere
 out.push('> 모든 값에는 출처 URL이 붙어 있습니다 / Every value has a source URL (`data/conferences/*.json`).  ');
 out.push('> 마감일은 자주 연장되니 **제출 전 반드시 공식 사이트를 확인하세요.** / Deadlines change often — **always check the official site before submitting.**');
 out.push('');
-out.push('> ⚠️ **검증 상태 / Status:** 1차 조사(출처 기반) 완료, 독립 교차검증 진행 전입니다. 오류는 Issue로 알려주세요. · First-pass research with sources; independent cross-check pending.');
+out.push('> ⚠️ **검증 상태 / Status:** 2022년 이후 회차는 독립 재조사로 교차검증 완료 (2026-10-16, 판정 72건 → [검증 기록](data/verification/2026-10-16-crosscheck.md)). 2021년 이전 회차·키워드 비중은 1차 조사 값입니다. 오류는 Issue로 알려주세요. · 2022+ editions cross-checked by an independent blind re-research; see the log.');
 out.push('');
 out.push('- `OPEN` 공지된 마감일이 기준일 이후 / announced deadline is still ahead · `CLOSED` 마감 지남 / passed · `TBA` 미공지 / not announced');
 out.push('- abstract 단계가 없는 학회(ICRA, IROS 등)는 **full paper 마감일**을 표기합니다. / For full-paper venues (ICRA, IROS, …) the **paper deadline** is shown.');
@@ -162,6 +162,7 @@ out.push('```');
 out.push('data/conferences/<id>.json   학회별 원본 데이터 (출처·노트 포함) / per-conference source of truth, with sources & notes');
 out.push('data/organizations/*.json    주최 기관 정보 / organizing bodies (e.g. IAA)');
 out.push('data/keywords/taxonomy.json  공통 키워드 분류 / shared topic taxonomy');
+out.push('data/verification/           교차검증 기록·독립 재조사 원본 / cross-check log & blind-pass data');
 out.push('data/keywords/<id>.json      학회별 발표 키워드 비중 (세션·논문 집계, 출처 포함) / topic shares per conference');
 out.push('data/editions.csv            개최 기록 평탄화 / flattened editions (for diff & cross-check)');
 out.push('data/upcoming.csv            다음 회차·마감 요약 / next edition & deadline per conference');

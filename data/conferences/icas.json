@@ -150,7 +150,7 @@
       "abstract_deadline": "2026-01-24",
       "source": "https://www.icas2026.com/",
       "continent": "Oceania",
-      "notes": "35th Congress. Abstract deadline originally 10 Jan 2026, extended to 24 Jan 2026 23:59 CET; notifications 18 Mar 2026; full paper 15 Jun 2026. icas.org states 13-17 Sep 2026 while icas2026.com states 13-18 Sep 2026 (congress site used)."
+      "notes": "35th Congress. Abstract deadline originally 10 Jan 2026, extended to 24 Jan 2026 23:59 CET; notifications 18 Mar 2026; full paper 15 Jun 2026. icas.org states 13-17 Sep 2026 while icas2026.com states 13-18 Sep 2026 (congress site used). Cross-checked 2026-10-16: end_date 2026-09-18 kept; icas2026.com Key dates show \"13-18 September 2026\" (icas.org: 13-17; 18 Sep = technical tours). Abstract deadline 24 Jan 2026 re-confirmed on https://icas2026.dglr.de/."
     },
     {
       "year": 2028,
@@ -180,6 +180,7 @@
   "notes": "ICAS 2028 (36th) Montreal: month only (September 2028); dates, venue and call for papers not yet published as of 2026-10-16. Based on past cycles the abstract deadline would likely fall around January 2028 (inference, not announced). Abstract deadlines for 2010-2018 and 2020/21 not verified (null). Venues for 2010, 2014 and 2020/21 not verified.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

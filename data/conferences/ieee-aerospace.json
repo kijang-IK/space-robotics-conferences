@@ -135,9 +135,10 @@
       "venue": "Yellowstone Conference Center",
       "start_date": "2022-03-05",
       "end_date": "2022-03-12",
-      "abstract_deadline": null,
-      "source": "https://2022.aeroconf.org/",
-      "continent": "North America"
+      "abstract_deadline": "2021-07-01",
+      "source": "https://web.archive.org/web/20210617171848/https://aeroconf.org/key-dates",
+      "continent": "North America",
+      "notes": "Cross-checked 2026-10-16: filled 2021-07-01 from official Key Dates, 2022 IEEE Aerospace Conference (archived 17 Jun 2021); full paper deadline 15 Oct 2021."
     },
     {
       "year": 2023,
@@ -160,9 +161,10 @@
       "venue": "Yellowstone Conference Center",
       "start_date": "2024-03-02",
       "end_date": "2024-03-09",
-      "abstract_deadline": null,
-      "source": "https://2024.aeroconf.org/",
-      "continent": "North America"
+      "abstract_deadline": "2023-07-01",
+      "source": "https://web.archive.org/web/20230921151147/https://www.aeroconf.org/key-dates",
+      "continent": "North America",
+      "notes": "Cross-checked 2026-10-16: filled 2023-07-01 from official Key Dates, 2024 IEEE Aerospace Conference (archived 8 Jun and 21 Sep 2023; unchanged after deadline); full paper deadline 6 Oct 2023."
     },
     {
       "year": 2025,
@@ -172,9 +174,10 @@
       "venue": "Yellowstone Conference Center",
       "start_date": "2025-03-01",
       "end_date": "2025-03-08",
-      "abstract_deadline": null,
-      "source": "https://2025.aeroconf.org/",
-      "continent": "North America"
+      "abstract_deadline": "2024-07-01",
+      "source": "https://web.archive.org/web/20240715081712/https://aeroconf.org/key-dates",
+      "continent": "North America",
+      "notes": "Cross-checked 2026-10-16: filled 2024-07-01 from official Key Dates, 2025 IEEE Aerospace Conference (archived 15 Jul 2024, post-deadline, unchanged); full paper deadline 4 Oct 2024."
     },
     {
       "year": 2026,
@@ -214,6 +217,7 @@
   "notes": "Per-edition abstract deadlines for 2015-2022 and 2024-2026 not verified (null): the yearly subdomains (YYYY.aeroconf.org) show that year's dates in the header, but their key-dates pages now display the current 2027 cycle, and web.archive.org could not be fetched. Where verified (2023, 2027) the abstract deadline was July 1 of the preceding year. For the 2027 edition the abstract deadline has passed (closed); papers are under review. 2028 dates not yet announced.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

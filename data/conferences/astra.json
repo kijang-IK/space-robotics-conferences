@@ -76,9 +76,10 @@
       "venue": "ESA ESTEC",
       "start_date": "2022-06-01",
       "end_date": "2022-06-02",
-      "abstract_deadline": null,
-      "source": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Proceedings_of_ASTRA",
-      "continent": "Europe"
+      "abstract_deadline": "2022-03-11",
+      "source": "https://atpi.eventsair.com/astra2022/calendar-of-events",
+      "continent": "Europe",
+      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2022-03-11 from official calendar (28 Feb 2022 struck through, extended to 11 Mar 2022)."
     },
     {
       "year": 2023,
@@ -88,9 +89,10 @@
       "venue": "Scheltema",
       "start_date": "2023-10-18",
       "end_date": "2023-10-20",
-      "abstract_deadline": null,
-      "source": "https://atpi.eventsair.com/astra2023/",
-      "continent": "Europe"
+      "abstract_deadline": "2023-07-07",
+      "source": "https://atpi.eventsair.com/astra2023/calendar-of-events",
+      "continent": "Europe",
+      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2023-07-07 from official calendar (23 Jun 2023 struck through, extended to 7 Jul 2023)."
     },
     {
       "year": 2025,
@@ -114,6 +116,7 @@
   "notes": "ESA's Conferences page is stale: it says ASTRA is 'always held at ESTEC' and lists the 2025 edition as 6-9 Oct 2025, while the Proceedings page gives Leiden, 7-9 Oct 2025. ASTRA 2023 was the 17th Symposium, so 2025 was presumably the 18th. The 2025 venue (Scheltema, Leiden) appears only in a DFKI publication record surfaced by search; the page returned 403, so it is left null. Probable next edition: 2027 by the biennial pattern; not announced, and atpi.eventsair.com/astra2027 returns 404. Do not confuse this series with Embry-Riddle's ASTRA workshop (Oct 2026), IIST's ASTRA symposium (India) or NASA's Ad ASTRA.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

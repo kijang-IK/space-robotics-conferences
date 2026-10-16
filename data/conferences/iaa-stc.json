@@ -133,10 +133,11 @@
       "venue": "UT Austin (hybrid)",
       "start_date": "2022-03-02",
       "end_date": "2022-03-03",
-      "abstract_deadline": null,
+      "abstract_deadline": "2022-01-14",
       "source": "https://iaaspace.org/event/8th-space-traffic-management-conference-2022/",
       "edition": "8th",
-      "continent": "North America"
+      "continent": "North America",
+      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2022-01-14 from the IAA event page: \"The extended deadline for receipt of abstracts is January 14th, 2022.\""
     },
     {
       "year": 2023,
@@ -146,10 +147,11 @@
       "venue": "UT Austin",
       "start_date": "2023-03-01",
       "end_date": "2023-03-02",
-      "abstract_deadline": null,
+      "abstract_deadline": "2022-12-16",
       "source": "https://iaaspace.org/event/9th-space-traffic-management-conference-2023/",
       "edition": "9th",
-      "continent": "North America"
+      "continent": "North America",
+      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2022-12-16 from the IAA event page: \"The deadline for receipt of abstracts was December 16, 2022.\""
     },
     {
       "year": 2024,
@@ -159,10 +161,11 @@
       "venue": "Bass Lecture Hall, LBJ School, UT Austin",
       "start_date": "2024-02-27",
       "end_date": "2024-02-28",
-      "abstract_deadline": null,
+      "abstract_deadline": "2023-09-30",
       "source": "https://iaaspace.org/event/10th-space-traffic-management-conference-2024/",
       "edition": "10th",
-      "continent": "North America"
+      "continent": "North America",
+      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2023-09-30 from the IAA event page: \"30 September 2023 extended Abstracts deadline\" (student papers accepted until 1 Nov - excluded)."
     },
     {
       "year": 2025,
@@ -172,10 +175,11 @@
       "venue": "Bass Lecture Hall, LBJ School, UT Austin",
       "start_date": "2025-03-04",
       "end_date": "2025-03-05",
-      "abstract_deadline": null,
-      "source": "https://www.strausscenter.org/events/stm-from-the-ground-up-and-back-11th-annual-space-traffic-management-conference/",
+      "abstract_deadline": "2024-10-04",
+      "source": "https://iaaspace.org/event/11th-space-traffic-management-conference-2025/",
       "edition": "11th",
-      "continent": "North America"
+      "continent": "North America",
+      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2024-10-04 from the IAA event page: \"04 October 2024 Extended Abstracts due\" (student papers accepted until 1 Nov - excluded). Dates previously sourced from https://www.strausscenter.org/events/stm-from-the-ground-up-and-back-11th-annual-space-traffic-management-conference/."
     },
     {
       "year": 2026,
@@ -185,10 +189,11 @@
       "venue": "Bass Lecture Hall, LBJ School, UT Austin",
       "start_date": "2026-02-18",
       "end_date": "2026-02-19",
-      "abstract_deadline": null,
-      "source": "https://www.strausscenter.org/events/operational-assurance-for-all-12th-annual-space-traffic-conference/",
+      "abstract_deadline": "2025-09-24",
+      "source": "https://iaaspace.org/event/12th-space-traffic-conference-2026/",
       "edition": "12th",
-      "continent": "North America"
+      "continent": "North America",
+      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2025-09-24 from the IAA event page: \"24 September 2025 Abstracts due\" (student papers accepted until 1 Nov - excluded). Dates previously sourced from https://www.strausscenter.org/events/operational-assurance-for-all-12th-annual-space-traffic-conference/."
     },
     {
       "year": 2027,
@@ -219,6 +224,7 @@
   "notes": "Next edition: general abstract deadline (extended to 14 Oct 2026) passed 2 days before the research date, so status 'closed'; student papers with faculty recommendation still accepted until 2026-11-01. No 2017 calendar-year edition (4th was Jan 2018). Abstract deadlines for most past editions not verified. Edition numbering is continuous across the Embry-Riddle and UT Austin eras per ERAU/UT pages.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

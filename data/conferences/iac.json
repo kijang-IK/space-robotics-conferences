@@ -169,10 +169,10 @@
       "venue": "Allianz MiCo (Milano Convention Centre)",
       "start_date": "2024-10-14",
       "end_date": "2024-10-18",
-      "abstract_deadline": "2024-02-28",
-      "source": "https://www.iafastro.org/news/submit-your-abstract-for-iac-2024-by-28-february.html",
+      "abstract_deadline": "2024-03-11",
+      "source": "https://www.iafastro.org/news/the-call-for-iac-2024-late-breaking-abstracts-lba-is-open-for-two-weeks.html",
       "continent": "Europe",
-      "notes": "Venue per ConfIDent event listing (secondary)."
+      "notes": "Venue per ConfIDent event listing (secondary). Cross-checked 2026-10-16: abstract_deadline changed 2024-02-28 -> 2024-03-11; IAF LBA call news states the regular abstract deadline was 11 March (original 28 Feb per https://www.iafastro.org/news/submit-your-abstract-for-iac-2024-by-28-february.html)."
     },
     {
       "year": 2025,
@@ -182,10 +182,10 @@
       "venue": "International Convention Centre Sydney (ICC Sydney)",
       "start_date": "2025-09-29",
       "end_date": "2025-10-03",
-      "abstract_deadline": "2025-02-28",
-      "source": "https://www.iafastro.org/events/iac/international-astronautical-congress-2025/",
+      "abstract_deadline": "2025-03-07",
+      "source": "https://www.iafastro.org/news/iac-2025-call-for-ground-breaking-research.html",
       "continent": "Oceania",
-      "notes": "Deadline 28 Feb 2025 (before midnight CET) per IISL note https://iisl.space/?p=3865 (secondary); venue per https://iccsydney.com.au/?p=11000"
+      "notes": "Deadline 28 Feb 2025 (before midnight CET) per IISL note https://iisl.space/?p=3865 (secondary); venue per https://iccsydney.com.au/?p=11000. Cross-checked 2026-10-16: abstract_deadline changed 2025-02-28 -> 2025-03-07; IAF LBA call news cites \"the regular abstract deadline (March 7)\" (original 28 Feb)."
     },
     {
       "year": 2026,
@@ -195,10 +195,10 @@
       "venue": "NEST Congress & Exhibition Center, Belek",
       "start_date": "2026-10-05",
       "end_date": "2026-10-09",
-      "abstract_deadline": "2026-02-28",
-      "source": "https://www.iafastro.org/events/iac/international-astronautical-congress-2026/",
+      "abstract_deadline": "2026-03-09",
+      "source": "https://x.com/iafastro/status/2027432808856125724",
       "continent": "Europe",
-      "notes": "Abstract deadline 28 Feb 2026 23:59 CET per IAC 2026 Call for Papers https://www.iafastro.org/assets/files/events/iac/2026/IAC_2026_Call_for_Papers.pdf (a claimed extension to 6 Mar 2026 was NOT verified); manuscript deadline 14 Sep 2026; Late Breaking Abstracts 27 May-10 Jun 2026. Venue per https://www.bdli.de/en/dates/iac-antalya-2026 and https://www.space4water.org/events/77th-international-astronautical-congress-iac-2026 (secondary)."
+      "notes": "Abstract deadline 28 Feb 2026 23:59 CET per IAC 2026 Call for Papers https://www.iafastro.org/assets/files/events/iac/2026/IAC_2026_Call_for_Papers.pdf (a claimed extension to 6 Mar 2026 was NOT verified); manuscript deadline 14 Sep 2026; Late Breaking Abstracts 27 May-10 Jun 2026. Venue per https://www.bdli.de/en/dates/iac-antalya-2026 and https://www.space4water.org/events/77th-international-astronautical-congress-iac-2026 (secondary). Cross-checked 2026-10-16: abstract_deadline changed 2026-02-28 -> 2026-03-09; official IAF post (27 Feb 2026) announced the deadline \"officially extended to 9 March\". The earlier-noted 6 March claim is superseded."
     },
     {
       "year": 2027,
@@ -211,7 +211,7 @@
       "abstract_deadline": "2027-02-28",
       "source": "https://www.iafastro.org/assets/files/events/iac/2027/IAC2027_Call_for_papers.pdf",
       "continent": "Europe",
-      "notes": "78th IAC, theme 'One Space. Shared Future.' Host: European Space Foundation, MTP Group, The Way; co-host POLSA. Venue from event listing https://www.spaceagenda.com/?p=61281 (secondary; the CFP names MTP Group as host)."
+      "notes": "78th IAC, theme 'One Space. Shared Future.' Host: European Space Foundation, MTP Group, The Way; co-host POLSA. Venue from event listing https://www.spaceagenda.com/?p=61281 (secondary; the CFP names MTP Group as host). Cross-checked 2026-10-16: abstract_deadline 2027-02-28 confirmed from the IAC 2027 Call for Papers (\"28 February 2027 (23:59 CET) deadline\"); no extension announced as of this date."
     },
     {
       "year": 2028,
@@ -225,6 +225,19 @@
       "source": "https://www.iafastro.org/events/iac/international-astronautical-congress-2028.html",
       "continent": "Asia",
       "notes": "79th IAC. Host selected Oct 2025 (https://kun.uz/en/news/2025/10/04/samarkand-to-host-international-astronautical-congress-in-2028). IAF page gives 9-13 Oct 2028; a third-party listing (spaceagenda) gives 1-5 Sep 2028 - IAF dates used. Venue not announced."
+    },
+    {
+      "year": 2029,
+      "city": "Geneva",
+      "region": "Canton of Geneva",
+      "country": "Switzerland",
+      "venue": "Palexpo",
+      "start_date": "2029-10-08",
+      "end_date": "2029-10-12",
+      "abstract_deadline": null,
+      "source": "https://www.iafastro.org/news/iac-2026-press-release-advancing-international-cooperation-for-a-future-with-more-space.html",
+      "continent": "Europe",
+      "notes": "80th IAC. Cross-checked 2026-10-16: edition added; the IAF IAC 2026 press release states the IAF General Assembly (Antalya, Oct 2026) selected Geneva, Switzerland as host city for IAC 2029. Dates (8-12 Oct 2029) and venue (Palexpo) from the Swiss host-bid organiser release https://www.swissmem.ch/en/media-corner/media-releases/worlds-leading-space-congress-coming-to-geneva-in-2029.html (not yet on an IAF event page). Call for papers not yet published."
     }
   ],
   "sources": [
@@ -245,6 +258,7 @@
   "notes": "next_edition.status is 'not yet open' (outside the open/closed/not-yet-announced set): the IAC 2027 deadline IS announced (28 Feb 2027) but per the official CFP calendar (p.123) abstract submission opens 9 Nov 2026, after 2026-10-16. Per-edition deadlines for 2015-2019 and 2025 come from secondary sources (NASA/DLR/IISL/SpaceNews notices) rather than IAF pages. Several venues come from secondary listings (see edition notes). Regions are administrative regions added by the researcher.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

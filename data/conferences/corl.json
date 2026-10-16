@@ -214,6 +214,7 @@
   "notes": "CoRL founded 2017 (no 2015/2016 editions). 2026 is the 10th edition. Unverified/null: CoRL 2017 and 2018 paper deadlines; venues for 2018, 2019, 2021-2024; CoRL 2027 entirely not yet announced. 2021-2024 deadlines rely on paperswithcode ai-deadlines / ccf-deadlines.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

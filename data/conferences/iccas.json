@@ -124,9 +124,13 @@
       "venue": "BEXCO (hybrid)",
       "start_date": "2022-11-27",
       "end_date": "2022-12-01",
-      "abstract_deadline": null,
-      "source": "https://icros.org/eng/sub/sub04_1.asp",
-      "continent": "Asia"
+      "abstract_deadline": "2022-07-31",
+      "source": "https://2022.iccas.org/",
+      "continent": "Asia",
+      "extra_sources": [
+        "https://icros.org/eng/sub/sub04_1.asp"
+      ],
+      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2022-07-31 (regular papers, extended from Jun 30, official 2022.iccas.org)."
     },
     {
       "year": 2023,
@@ -136,9 +140,13 @@
       "venue": "Yeosu Venezia Hotel & Utop Marina Hotel",
       "start_date": "2023-10-17",
       "end_date": "2023-10-20",
-      "abstract_deadline": null,
-      "source": "https://icros.org/eng/sub/sub04_1.asp",
-      "continent": "Asia"
+      "abstract_deadline": "2023-06-30",
+      "source": "https://2023.iccas.org/",
+      "continent": "Asia",
+      "extra_sources": [
+        "https://icros.org/eng/sub/sub04_1.asp"
+      ],
+      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2023-06-30 (initial paper submission, extended from Jun 16, official 2023.iccas.org)."
     },
     {
       "year": 2024,
@@ -148,9 +156,13 @@
       "venue": "Jeju Shinhwa World",
       "start_date": "2024-10-29",
       "end_date": "2024-11-01",
-      "abstract_deadline": null,
-      "source": "https://icros.org/eng/sub/sub04_1.asp",
-      "continent": "Asia"
+      "abstract_deadline": "2024-06-14",
+      "source": "https://2024.iccas.org/",
+      "continent": "Asia",
+      "extra_sources": [
+        "https://icros.org/eng/sub/sub04_1.asp"
+      ],
+      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2024-06-14 (initial paper submission, extended from May 31, official 2024.iccas.org)."
     },
     {
       "year": 2025,
@@ -203,6 +215,7 @@
   "notes": "Next edition ICCAS 2026 (26th) in Sapporo, Japan, Oct 27-30, 2026 - still upcoming as of 2026-10-16 but submissions closed (full papers May 31 -> June 15, 2026; late-result papers July 15, 2026). The 26th edition is the first in the list held outside Korea. ICCAS 2027 (27th) is announced by ICROS: Nov 2-5, 2027, Sheraton Jeju Hotel, Jeju, Korea (General Co-Chair Jinwhan Kim, KAIST); its paper deadline is NOT yet published (2027.iccas.org had an invalid certificate). 2026 deadline: RAS calendar lists May 31, 2026; official site shows both May 31 and June 15 (June 15 recorded as the final extended date - verify). 2025: official site shows May 31, June 15 and July 04 (bold) - July 4, 2025 recorded as final. 2024 end date: ICROS list says Nov 1; 2025 site history page says Nov 2; an aggregator says Nov 1 (Nov 1 used). 2019 deadline June 30 was an extended date. Deadlines for 2015, 2016, 2020, 2022-2024 not verified (null). Many unrelated events also use the 'ICCAS' acronym (e.g., itrgroup events in India/UK, WASET Tokyo) - not this conference.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

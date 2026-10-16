@@ -98,6 +98,7 @@
   "notes": "13th edition 2027 in Turin appears only on a third-party aggregator (newspaceeconomy.ca) with dates pending; not on iaaspace.org as of 2026-10-16 - treat as unverified. No edition 2020-2024 found.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

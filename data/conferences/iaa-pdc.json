@@ -143,6 +143,7 @@
   "notes": "2027: abstract submission opened 2026-09-04; deadline 2026-11-23 (student competition enrollment proof same day); notifications by 2027-01-22; manuscripts/posters due 2027-04-28. The PDC portfolio page's schedule section says the submission window closes in 'December 2026', conflicting with the 23 Nov date - confirm with organizers. Abstract deadlines for 2015-2021 not verified (null). PDC 2013 Flagstaff predates the 2014 window.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

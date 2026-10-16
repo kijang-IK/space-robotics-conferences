@@ -159,8 +159,9 @@
       "start_date": "2024-08-11",
       "end_date": "2024-08-15",
       "abstract_deadline": "2024-04-19",
-      "source": "https://www.space-flight.org/docs/2024_summer/2024_summer.html",
-      "continent": "North America"
+      "source": "https://web.archive.org/web/20240414113423/https://www.space-flight.org/docs/2024_summer/2024_summer.html",
+      "continent": "North America",
+      "notes": "Cross-checked 2026-10-16: confirmed 2024-04-19; original CFP deadline 2024-04-12 (CallForPapers_AAS_Aug2024.pdf) extended to 2024-04-19 per archived official page (14 Apr 2024 capture)."
     },
     {
       "year": 2025,
@@ -209,6 +210,7 @@
   "notes": "All 2015-2026 dates, venues and abstract deadlines from official space-flight.org conference pages and their linked call-for-papers PDFs.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

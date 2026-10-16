@@ -125,9 +125,13 @@
       "venue": "Ramada Plaza Jeju",
       "start_date": "2022-07-04",
       "end_date": "2022-07-06",
-      "abstract_deadline": null,
-      "source": "https://research.com/conference/19th-international-conference-on-ubiquitous-robots-ur-2022",
-      "continent": "Asia"
+      "abstract_deadline": "2022-02-18",
+      "source": "https://2022.ubiquitousrobots.org/",
+      "continent": "Asia",
+      "extra_sources": [
+        "https://research.com/conference/19th-international-conference-on-ubiquitous-robots-ur-2022"
+      ],
+      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2022-02-18 (paper deadline extended to Feb 18, 2022, official 2022.ubiquitousrobots.org)."
     },
     {
       "year": 2023,
@@ -137,9 +141,13 @@
       "venue": "Hawai'i Convention Center",
       "start_date": "2023-06-25",
       "end_date": "2023-06-28",
-      "abstract_deadline": null,
-      "source": "https://www.proceedings.com/70202.html",
-      "continent": "North America"
+      "abstract_deadline": "2023-02-18",
+      "source": "https://2023.ubiquitousrobots.org/",
+      "continent": "North America",
+      "extra_sources": [
+        "https://www.proceedings.com/70202.html"
+      ],
+      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2023-02-18 (regular/WIP papers, extended from Feb 1, official 2023.ubiquitousrobots.org)."
     },
     {
       "year": 2024,
@@ -149,9 +157,13 @@
       "venue": "NYU Kimmel Center for University Life",
       "start_date": "2024-06-24",
       "end_date": "2024-06-27",
-      "abstract_deadline": null,
-      "source": "https://www.proceedings.com/75390.html",
-      "continent": "North America"
+      "abstract_deadline": "2024-02-02",
+      "source": "https://2024.ubiquitousrobots.org/call-for-papers/",
+      "continent": "North America",
+      "extra_sources": [
+        "https://www.proceedings.com/75390.html"
+      ],
+      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2024-02-02 (regular paper & WIP submission, official UR 2024 call for papers; no extension shown)."
     },
     {
       "year": 2025,
@@ -161,9 +173,13 @@
       "venue": "Texas A&M University",
       "start_date": "2025-06-30",
       "end_date": "2025-07-02",
-      "abstract_deadline": null,
-      "source": "https://www.massrobotics.org/event/the-22nd-international-conference-on-ubiquitous-robots/",
-      "continent": "North America"
+      "abstract_deadline": "2025-03-08",
+      "source": "https://2025.ubiquitousrobots.org/",
+      "continent": "North America",
+      "extra_sources": [
+        "https://www.massrobotics.org/event/the-22nd-international-conference-on-ubiquitous-robots/"
+      ],
+      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2025-03-08 (regular papers & WIP, extended from Feb 14, official 2025.ubiquitousrobots.org)."
     },
     {
       "year": 2026,
@@ -199,6 +215,7 @@
   "notes": "UR 2026 (23rd) took place July 15-18, 2026 in Ibaraki, Osaka - already past. UR 2027 (24th): no city, dates or deadline found anywhere (2027.ubiquitousrobots.org does not resolve as of 2026-10-16) -> 'not yet announced'. Based on recent cycles the paper deadline would likely be Feb-Mar 2027, but this is an inference, not a verified fact. 2015-2017 editions were named URAI (12th-14th). UR 2020 held online on its original dates (June 22-26); its regular/WIP deadline was originally Jan 31, 2020, reported extended to Feb 15, 2020 (mailing-list subject line; body partly garbled). UR 2015 deadline (July 20, 2015) is from an aggregator listing. UR 2025 site (2025.ubiquitousrobots.org) has an expired certificate; event header there reportedly says June 30-July 3. Deadlines for 2016-2019, 2022-2025 not verified (null). Region for Honolulu given as 'North America (Pacific)'.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

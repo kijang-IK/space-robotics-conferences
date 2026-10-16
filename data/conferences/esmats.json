@@ -94,10 +94,13 @@
       "venue": "POLIN Museum of the History of Polish Jews",
       "start_date": "2023-09-20",
       "end_date": "2023-09-22",
-      "abstract_deadline": null,
-      "source": "https://astronika.pl/we-are-hosting-esmats-2023/",
+      "abstract_deadline": "2023-02-01",
+      "source": "https://www.esmats.eu/warsaw/wp-content/uploads/2023/09/ESMATS-2023-v11b.pdf",
       "continent": "Europe",
-      "notes": "20th ESMATS, hosted by Astronika. Venue from https://www.esmats.eu/warsaw/"
+      "notes": "20th ESMATS, hosted by Astronika. Venue from https://www.esmats.eu/warsaw/ Cross-checked 2026-10-16: abstract_deadline filled 2023-02-01 (official ESMATS 2023 flyer: abstracts due 1 February 2023; no extension found).",
+      "extra_sources": [
+        "https://astronika.pl/we-are-hosting-esmats-2023/"
+      ]
     },
     {
       "year": 2025,
@@ -143,6 +146,7 @@
   "notes": "ESMATS was first held in 1983 and is ESA's main venue for space mechanisms. The ESMATS 2027 page lists 'robotics and deployable systems' within its scope. The 2025 programme had deployment-related papers spread across the Testing, Mechanisms, Tribology and Exploration sessions, not a dedicated session. Abstract deadlines for every edition are unverified (null). The 2015 Bilbao venue is unknown. The 2021 online edition ran on afternoons of 20-24 Sep 2021, with training in the mornings and the previous week.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

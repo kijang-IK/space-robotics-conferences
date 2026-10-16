@@ -112,9 +112,13 @@
       "venue": "Okinawa Convention Center",
       "start_date": "2022-11-28",
       "end_date": "2022-11-30",
-      "abstract_deadline": null,
-      "source": "https://confident-conference.org/index.php/Humanoids_2022",
-      "continent": "Asia"
+      "abstract_deadline": "2022-07-15",
+      "source": "https://www.humanoids2022.org/",
+      "continent": "Asia",
+      "extra_sources": [
+        "https://confident-conference.org/index.php/Humanoids_2022"
+      ],
+      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2022-07-15 (regular paper deadline extended from Jul 1 to Jul 15, 2022, official humanoids2022.org)."
     },
     {
       "year": 2023,
@@ -148,9 +152,13 @@
       "venue": "COEX (co-located with CoRL 2025)",
       "start_date": "2025-09-30",
       "end_date": "2025-10-02",
-      "abstract_deadline": "2025-05-01",
-      "source": "https://robogaku.jp/news/2025/202504211830.html",
-      "continent": "Asia"
+      "abstract_deadline": "2025-05-15",
+      "source": "https://2025humanoids.org/",
+      "continent": "Asia",
+      "extra_sources": [
+        "https://robogaku.jp/news/2025/202504211830.html"
+      ],
+      "notes": "Cross-checked 2026-10-16: abstract_deadline changed 2025-05-01 -> 2025-05-15; official 2025humanoids.org lists the paper deadline extended from May 1 to May 15, 2025."
     },
     {
       "year": 2026,
@@ -186,6 +194,7 @@
   "notes": "Today is 2026-10-16: Humanoids 2026 (25th) has not yet taken place, but its paper deadline has passed, so the next edition's status is 'closed'. Humanoids 2027 location/dates NOT announced in any source found (one aggregator lists a 2027 placeholder with no city). The 2020 edition (20th) was postponed and held fully virtually July 19-21, 2021 (July 19 workshops); there was no separate 2021 edition. 2017 location: RAS activities page says 'Birmingham, USA' but the RAS event page names The REP Theatre, Birmingham, UK (UK used). Deadlines: 2015 listed as 'June 30 -> July 7' (extension); 2017 July 25 is the extended deadline; 2018 extended from July 7 to July 20; 2023 earlier drafts listed July 1 / July 15, official RAS CFP says July 22 11:59pm PDT. 2016 paper deadline not verified (garbled listing suggests extension to July 28, 2016) -> null. 2022 deadline not found -> null. 2020 deadline not found -> null. 2026 venue (Santa Clara Convention Center) from humanoid.guide / aggregator; official homepage only says Santa Clara, CA. Venues null where not found. DBLP was blocked (bot protection) so edition dates for 2015-2019 come from RAS pages/archived sites. 'region' = world region.",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }

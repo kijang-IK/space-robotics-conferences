@@ -132,10 +132,10 @@
       "venue": "Hilton Chicago",
       "start_date": "2022-06-27",
       "end_date": "2022-07-01",
-      "abstract_deadline": null,
-      "source": "https://aviation.aiaa.org/about/past-forums/",
+      "abstract_deadline": "2021-11-10",
+      "source": "https://web.archive.org/web/20211207104144/https://www.aiaa.org/aviation/presentations-papers/call-for-papers",
       "continent": "North America",
-      "notes": "Hybrid (Chicago & online). Venue per https://aiaa.org/2022/06/16/press-passes-available-for-2022-aiaa-aviation-forum"
+      "notes": "Hybrid (Chicago & online). Venue per https://aiaa.org/2022/06/16/press-passes-available-for-2022-aiaa-aviation-forum. Cross-checked 2026-10-16: filled 2021-11-10 from official AIAA AVIATION 2022 call for papers (archived 7 Dec 2021, post-deadline, no extension)."
     },
     {
       "year": 2023,
@@ -145,10 +145,10 @@
       "venue": "Manchester Grand Hyatt San Diego",
       "start_date": "2023-06-12",
       "end_date": "2023-06-16",
-      "abstract_deadline": null,
-      "source": "https://aviation.aiaa.org/about/past-forums/",
+      "abstract_deadline": "2022-11-10",
+      "source": "https://web.archive.org/web/20221114112558/https://www.aiaa.org/aviation/presentations-papers/call-for-papers",
       "continent": "North America",
-      "notes": "Hybrid. Venue per https://aiaa.org/events/2023-aiaa-aviation-and-aeronautics-forum-and-exposition-aiaa-aviation-forum/"
+      "notes": "Hybrid. Venue per https://aiaa.org/events/2023-aiaa-aviation-and-aeronautics-forum-and-exposition-aiaa-aviation-forum/. Cross-checked 2026-10-16: filled 2022-11-10 from official AIAA AVIATION 2023 call for papers (archived 14 Nov 2022, post-deadline, no extension)."
     },
     {
       "year": 2024,
@@ -158,10 +158,10 @@
       "venue": "Caesars Forum",
       "start_date": "2024-07-29",
       "end_date": "2024-08-02",
-      "abstract_deadline": null,
-      "source": "https://aviation.aiaa.org/about/past-forums/",
+      "abstract_deadline": "2023-12-12",
+      "source": "https://web.archive.org/web/20231210194639/https://www.aiaa.org/aviation/call-for-content",
       "continent": "North America",
-      "notes": "Co-located with ASCEND 2024. Venue per https://aiaa.org/2024/08/21/aiaa-accelerates-the-future-of-aviation-and-space-at-2024-aiaa-aviation-forum-and-2024-ascend/"
+      "notes": "Co-located with ASCEND 2024. Venue per https://aiaa.org/2024/08/21/aiaa-accelerates-the-future-of-aviation-and-space-at-2024-aiaa-aviation-forum-and-2024-ascend/. Cross-checked 2026-10-16: filled 2023-12-12 from official AIAA AVIATION 2024 call for content (archived 10 Dec 2023); shared deadline confirmed closed 12 Dec 2023 by the archived 2024 ASCEND guide (Feb 2024)."
     },
     {
       "year": 2025,
@@ -171,10 +171,10 @@
       "venue": "Caesars Forum",
       "start_date": "2025-07-21",
       "end_date": "2025-07-25",
-      "abstract_deadline": null,
-      "source": "https://aviation.aiaa.org/about/past-forums/",
+      "abstract_deadline": "2024-11-21",
+      "source": "https://web.archive.org/web/20241212144642/https://www.aiaa.org/aviation/call-for-content",
       "continent": "North America",
-      "notes": "Co-located with ASCEND 2025. Venue per pre-event AIAA plan (https://aerospaceamerica.aiaa.org/departments/summer-2024-two-events-one-venue/); no post-event confirmation found."
+      "notes": "Co-located with ASCEND 2025. Venue per pre-event AIAA plan (https://aerospaceamerica.aiaa.org/departments/summer-2024-two-events-one-venue/); no post-event confirmation found. Cross-checked 2026-10-16: filled 2024-11-21 from official AIAA AVIATION 2025 call for content (archived 7 Nov and 12 Dec 2024; post-deadline capture shows no extension)."
     },
     {
       "year": 2026,
@@ -227,9 +227,10 @@
     "https://aiaa.org/events/2023-aiaa-aviation-and-aeronautics-forum-and-exposition-aiaa-aviation-forum/",
     "https://www.nasa.gov/news-release/nasa-highlights-research-in-x-planes-safer-greener-aviation-at-aviation-2016"
   ],
-  "notes": "Abstract deadlines for 2015-2025 editions not verified (null). 2017 venue unverified. 2027/2028 venues not stated on official pages.",
+  "notes": "Abstract deadlines for 2015-2025 editions not verified (null). 2017 venue unverified. 2027/2028 venues not stated on official pages. [Update 2026-10-16: the 2022+ deadlines/dates listed as unverified above were confirmed during the cross-check; see each edition note.]",
   "verification": {
     "claude": "researched 2026-10-16",
+    "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
     "gpt": null
   }
 }
