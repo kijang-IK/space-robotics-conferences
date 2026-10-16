@@ -1,0 +1,36 @@
+id,short_name,category,next_year,next_place,next_dates,next_deadline_for,next_deadline,status,official_url
+aas-aiaa-asc,ASC,space,2027,TBA,TBA,2027,,TBA,https://www.space-flight.org/
+aas-aiaa-sfm,SFM,space,2027,"New Orleans, United States",2027-01-17 ~ 01-21,2027,2026-10-04,CLOSED,https://www.space-flight.org/
+aas-gnc-breckenridge,AAS GN&C Conference (Breckenridge),space,2027,"Breckenridge, United States",2027-02-05 ~ 02-10,2027,2026-09-14,CLOSED,https://aas-rocky-mountain-section.org/
+aiaa-ascend,ASCEND,space,2027,"Washington, United States",2027-05-18 ~ 05-20,2027,2026-10-08,CLOSED,https://www.ascend.events/
+aiaa-aviation,AIAA AVIATION Forum,aerospace,2027,"San Diego, United States",2027-06-07 ~ 06-11,2027,2026-11-12,OPEN,https://aviation.aiaa.org/
+aiaa-scitech,AIAA SciTech Forum,aerospace,2027,"Orlando, United States",2027-01-11 ~ 01-15,2027,2026-05-21,CLOSED,https://scitech.aiaa.org/
+aim,AIM,robotics,2027,"Calgary, Alberta, Canada",2027-06-29 ~ 07-02,2027,2027-01-26,OPEN,https://aim2027.com/
+apisat,APISAT,aerospace,2026,"Sapporo, Japan",2026-10-27 ~ 10-29,2026,2026-06-05,CLOSED,https://smartconf.jp/content/apisat2026/
+astra,ASTRA,space-robotics,,TBA,TBA,,,TBA,https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Conferences_and_Symposia
+case,CASE,robotics,2027,"Linz, Austria",2027-08-23 ~ 08-27,2027,2027-03-01,OPEN,https://2027.ieeecase.org/
+corl,CoRL,robotics,2026,"Austin, United States",2026-11-09 ~ 11-12,2026,2026-05-28,CLOSED,https://www.corl.org/
+esa-gnc-icatt,ESA GNC & ICATT,space,,TBA,TBA,,,TBA,https://atpi.eventsair.com/gncicatt/
+eucass,EUCASS,aerospace,2027,"Glasgow, United Kingdom",2027-06-28 ~ 07-02,2027,2027-01-15,OPEN,https://www.eucass.eu/
+humanoids,Humanoids,robotics,2026,"Santa Clara, California, United States",2026-12-06 ~ 12-09,2026,2026-07-24,CLOSED,https://2026.ieee-humanoids.org
+i-sairas,i-SAIRAS,space-robotics,2026,"Cologne, Germany",2026-11-03 ~ 11-06,2026,2026-06-24,CLOSED,https://www.isairas-isparo.de/front/index.php
+iaa-ai-for-space,IAA SpaceAI,space,,TBA,TBA,,,TBA,https://www.iaa-aispace.org
+iaa-dycoss,IAA DyCoSS,space,,TBA,TBA,,,TBA,
+iaa-fse,IAA FSE,space,2027,"Turin, Italy",TBA,2027,,TBA,https://iaaspace.org/fse
+iaa-icssa,IAA ICSSA,space,,TBA,TBA,,,TBA,https://iaaspace.org/icssa
+iaa-pdc,IAA PDC,space,2027,"Montreal, Quebec, Canada",2027-05-03 ~ 05-07,2027,2026-11-23,OPEN,https://iaaspace.org/pdc
+iaa-sseo,IAA SSEO,space,2027,"Berlin (expected), Germany",TBA,2027,,TBA,https://iaaspace.org/sseo
+iaa-stc,IAA STC (formerly STM Conference),space,2027,"Austin, TX, United States",2027-03-03 ~ 03-04,2027,2026-10-14,CLOSED,https://iaaspace.org/stc
+iac,IAC,space,2027,"Poznan, Poland",2027-09-27 ~ 10-01,2027,2027-02-28,OPEN,https://www.iafastro.org/events/iac/
+icas,ICAS,aerospace,2028,"Montreal, Canada",TBA,2028,,TBA,https://www.icas.org/
+iccas,ICCAS,control,2026,"Sapporo, Japan",2026-10-27 ~ 10-30,2026,2026-06-15,CLOSED,https://2026.iccas.org/
+icra,ICRA,robotics,2027,"Seoul, South Korea",2027-05-24 ~ 05-28,2028,2027-09-15,OPEN,https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
+icuas,ICUAS,robotics,2027,"Fortaleza, Brazil",2027-06-14 ~ 06-17,2027,2027-02-05,OPEN,https://uasconferences.com/2027_icuas/
+ieee-aerospace,IEEE AeroConf,aerospace,2027,"Big Sky, United States",2027-03-06 ~ 03-13,2027,2026-07-01,CLOSED,https://www.aeroconf.org/
+ifac_wc,IFAC WC,control,2029,"Amsterdam, Netherlands",2029-07-08 ~ 07-13,2029,,TBA,https://conferences.ifac-control.org/wc2029/
+iros,IROS,robotics,2027,"Florence, Italy",2027-09-27 ~ 10-01,2027,2027-03-01,OPEN,https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros
+isparo,iSpaRo,space-robotics,2026,"Cologne, Germany",2026-11-03 ~ 11-06,2026,2026-06-24,CLOSED,https://www.isparo.space/
+ists,ISTS,space,2027,"Toyama, Japan",2027-07-17 ~ 07-23,2027,2026-12-17,OPEN,https://ists.ne.jp/
+rss,RSS,robotics,2027,"Athens, Greece",2027-07-06 ~ 07-11,2027,2026-12-04,OPEN,https://roboticsconference.org/
+smallsat,SmallSat,space,2027,United States,2027-08-01 ~ 08-04,2027,,TBA,https://smallsat.org/
+ur,UR,robotics,2027,TBA,TBA,2027,,TBA,https://2026.ubiquitousrobots.org/

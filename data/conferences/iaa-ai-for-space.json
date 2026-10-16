@@ -1,0 +1,97 @@
+{
+  "id": "iaa-ai-for-space",
+  "short_name": "IAA SpaceAI",
+  "full_name": "IAA Conference on AI for Space (also titled 'IAA Conference on AI in and for Space'; 1st edition held jointly with ESA's SPAICE conference)",
+  "category": "space",
+  "organizer": "International Academy of Astronautics (IAA). 2024: joint with ESA (SPAICE, ESA Advanced Concepts Team) at ECSAT. 2025: IAA in collaboration with ESA SPAICE series (IAA-SPAICE 2025), Suzhou. 2026 (3rd, Jeju): Organized by IAA; hosted and locally organized by Jeju National University; site footer also shows logos linking to Jeju Special Self-Governing Province, KAIST Space Institute (ksi.kaist.ac.kr), Jeju Tourism Organization and Mobilint (exact co-organizer vs supporter role per logo not separable from page text). Organizing Committee chairs: Nam Seo Goo (Konkuk Univ.), Jae-Hung Han (KAIST), Hyojung Ahn (Jeju National Univ.). General Chair: Olivier Contant (IAA Executive Director).",
+  "fields": [
+    "AI",
+    "autonomy",
+    "GNC",
+    "onboard/edge AI",
+    "space robotics",
+    "SSA/STM",
+    "neuromorphic computing",
+    "Earth observation"
+  ],
+  "frequency": "annual (2024, 2025, 2026 so far)",
+  "typical_month": "August-November (Sep 2024, Nov 2025, Aug 2026)",
+  "official_url": "https://www.iaa-aispace.org",
+  "submission": {
+    "type": "short paper (up to 4 pages excl. references) -> single-round double-blind review -> oral/poster; accepted oral papers submit revised manuscript for proceedings",
+    "typical_abstract_deadline": "May-August (2024: 27 May; 2025: 20 Aug; 2026: 15 Jun - all after extensions)",
+    "typical_final_deadline": "~2-4 weeks before conference (2024: 1 Aug; 2026: 9 Aug)",
+    "notes": "2026 deadlines differ between sources: iaaspace.org event page says abstract 'May 01, 2026 extended to May 25, 2026', final paper Aug 2, 2026; the official site iaa-aispace.org shows abstract May 01 (also shown as May 10) -> June 15, 2026, notification June 1 -> June 30, final paper Aug 2 -> Aug 9, 2026. 2024: special issues in Acta Astronautica and Springer Astrodynamics."
+  },
+  "next_edition": {
+    "year": null,
+    "city": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "abstract_deadline": null,
+    "status": "not yet announced",
+    "source": "https://iaaspace.org/events/",
+    "continent": null
+  },
+  "editions": [
+    {
+      "year": 2024,
+      "city": "Didcot (Harwell Campus)",
+      "region": null,
+      "country": "United Kingdom",
+      "venue": "ESA European Centre for Space Applications and Telecommunications (ECSAT)",
+      "start_date": "2024-09-17",
+      "end_date": "2024-09-19",
+      "abstract_deadline": "2024-05-27",
+      "source": "https://spaice.esa.int/2024/",
+      "edition": "1st (joint ESA SPAICE / IAA Conference on AI in and for Space)",
+      "notes": "Key-dates page shows paper deadline 19 May 2024 replaced by 27 May 2024 (extended): https://spaice.esa.int/2024/key-dates/",
+      "continent": "Europe"
+    },
+    {
+      "year": 2025,
+      "city": "Suzhou",
+      "region": null,
+      "country": "China",
+      "venue": null,
+      "start_date": "2025-11-01",
+      "end_date": "2025-11-03",
+      "abstract_deadline": "2025-08-20",
+      "source": "https://iaaspace.org/2nd-iaa-conference-on-ai-in-and-for-space/",
+      "edition": "2nd (IAA-SPAICE 2025)",
+      "notes": "Deadline from https://spaice.esa.int/2025/ which shows '15. July 20. Aug 2025' (15 Jul original, 20 Aug apparent extension). Venue not stated.",
+      "continent": "Asia"
+    },
+    {
+      "year": 2026,
+      "city": "Jeju (Seogwipo)",
+      "region": null,
+      "country": "South Korea",
+      "venue": "Jeju Shinhwa World Hotel",
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-28",
+      "abstract_deadline": "2026-06-15",
+      "source": "https://www.iaa-aispace.org",
+      "edition": "3rd",
+      "notes": "Abstract deadline is the latest extension on the official site; iaaspace.org says extended to 2026-05-25. Event page: https://iaaspace.org/event/3rd-iaa-conference-on-ai-for-space/ (its address field wrongly says Montreal). Held alongside the 2026 Jeju Global Future Aerospace Confesta (Aug 27-28) at the same venue.",
+      "continent": "Asia"
+    }
+  ],
+  "sources": [
+    "https://www.iaa-aispace.org",
+    "https://www.iaa-aispace.org/About",
+    "https://www.iaa-aispace.org/Program",
+    "https://www.iaa-aispace.org/Venue",
+    "https://iaaspace.org/event/3rd-iaa-conference-on-ai-for-space/",
+    "https://iaaspace.org/2nd-iaa-conference-on-ai-in-and-for-space/",
+    "https://spaice.esa.int/2025/",
+    "https://spaice.esa.int/2024/",
+    "https://spaice.esa.int/2024/key-dates/"
+  ],
+  "notes": "User-requested top-priority series. Official name on its site: '3rd IAA Conference on AI for Space' (header also says '3rd IAA Conference on AI in and for Space'; short name IAA SpaceAI). No 4th edition announced on iaaspace.org or iaa-aispace.org as of 2026-10-16 (annual cadence suggests 2027 but unverified). Korean involvement verified: Jeju National University is host/local organizer; KAIST and Konkuk Univ. professors chair the OC; KARI, KASI, KAI and ETRI researchers sit on the Scientific Committee. KARI/KASA/KSAS are NOT listed as organizers. A separate sample site (jejuai.bo9jeong.co.kr, titled '(sample) Jeju National Univ. AI international conference') mirrors the content; iaa-aispace.org is treated as official. iaa-aispace.org returns 403 to some fetchers; content was retrieved with a browser user-agent.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

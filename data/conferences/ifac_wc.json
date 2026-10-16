@@ -1,0 +1,126 @@
+{
+  "id": "ifac_wc",
+  "short_name": "IFAC WC",
+  "full_name": "IFAC World Congress (World Congress of the International Federation of Automatic Control)",
+  "category": "control",
+  "organizer": "International Federation of Automatic Control (IFAC), with a national member organization as host (e.g., ICROS/Korea for 2026)",
+  "fields": [
+    "control theory",
+    "automatic control",
+    "systems",
+    "automation",
+    "aerospace and robotics control"
+  ],
+  "frequency": "triennial (every 3 years)",
+  "typical_month": "July (2026: August)",
+  "official_url": "https://conferences.ifac-control.org/wc2029/",
+  "submission": {
+    "type": "full paper (regular/survey papers, 6 pages in IFAC-PapersOnLine; invited sessions/open invited tracks; journal option; late-breaking/discussion papers not in proceedings)",
+    "typical_abstract_deadline": "Late October to early December of the year before the congress (2017: Nov 11, 2016; 2020: Oct 31, 2019; 2023: Oct 31, 2022; 2026: Dec 5, 2025)",
+    "typical_final_deadline": "March-May of the congress year (2026: May 19, 2026; 2017: Apr 10, 2017)",
+    "notes": "No separate abstract stage. 'abstract_deadline' holds the regular/invited paper submission deadline (final value after extensions where known). IFAC 2026 dates: submission site opened Jun 16, 2025; invited session proposals Oct 9, 2025; journal option Nov 2, 2025; regular/survey/demo papers Nov 26 -> Dec 5, 2025 ('new deadline (FIRM!)'); late-breaking Feb 28, 2026; notification Apr 15, 2026; final paper May 19, 2026."
+  },
+  "next_edition": {
+    "year": 2029,
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "start_date": "2029-07-08",
+    "end_date": "2029-07-13",
+    "abstract_deadline": null,
+    "status": "not yet announced",
+    "source": "https://conferences.ifac-control.org/wc2029/",
+    "continent": "Europe"
+  },
+  "editions": [
+    {
+      "year": 2017,
+      "city": "Toulouse",
+      "region": null,
+      "country": "France",
+      "venue": null,
+      "start_date": "2017-07-09",
+      "end_date": "2017-07-14",
+      "abstract_deadline": "2016-11-11",
+      "source": "https://ifac2017.org/node/41.html",
+      "continent": "Europe"
+    },
+    {
+      "year": 2020,
+      "city": "Berlin (virtual)",
+      "region": null,
+      "country": "Germany",
+      "venue": "Entirely virtual (IFAC-V 2020)",
+      "start_date": "2020-07-12",
+      "end_date": "2020-07-17",
+      "abstract_deadline": "2019-10-31",
+      "source": "https://ifac2020.org/",
+      "continent": "Europe"
+    },
+    {
+      "year": 2023,
+      "city": "Yokohama",
+      "region": null,
+      "country": "Japan",
+      "venue": "PACIFICO Yokohama",
+      "start_date": "2023-07-09",
+      "end_date": "2023-07-14",
+      "abstract_deadline": "2022-10-31",
+      "source": "https://car.osu.edu/sites/default/files/2022-08/IFAC2023_2ndCFP.pdf",
+      "continent": "Asia"
+    },
+    {
+      "year": 2026,
+      "city": "Busan",
+      "region": null,
+      "country": "South Korea",
+      "venue": "BEXCO",
+      "start_date": "2026-08-23",
+      "end_date": "2026-08-28",
+      "abstract_deadline": "2025-12-05",
+      "source": "https://ifac2026.org/",
+      "continent": "Asia"
+    },
+    {
+      "year": 2029,
+      "city": "Amsterdam",
+      "region": null,
+      "country": "Netherlands",
+      "venue": "Amsterdam RAI Convention Centre",
+      "start_date": "2029-07-08",
+      "end_date": "2029-07-13",
+      "abstract_deadline": null,
+      "source": "https://conferences.ifac-control.org/wc2029/",
+      "continent": "Europe"
+    },
+    {
+      "year": 2032,
+      "city": "Honolulu, Hawaii",
+      "region": null,
+      "country": "United States",
+      "venue": null,
+      "start_date": null,
+      "end_date": null,
+      "abstract_deadline": null,
+      "source": "https://ifac-control.org/conferences/ifac-congresses/",
+      "continent": "North America"
+    }
+  ],
+  "sources": [
+    "https://ifac-control.org/conferences/ifac-congresses/",
+    "https://ifac-control.org/",
+    "https://conferences.ifac-control.org/wc2029/",
+    "https://ifac-control.org/publications/ifac_newsletter_2022_4/",
+    "https://ifac2026.org/",
+    "https://ifac-control.org/conferences/23rd-ifac-world-congress-in-busan/",
+    "https://car.osu.edu/sites/default/files/2022-08/IFAC2023_2ndCFP.pdf",
+    "https://mecc2022.a2c2.org/Resources/IFAC Newsletter 2022 August.pdf",
+    "https://ifac2020.org/",
+    "https://www.ifac-control.org/about/presidents-columns/august-2019",
+    "https://ifac2017.org/node/41.html"
+  ],
+  "notes": "Triennial; only the 2017, 2020, 2023, 2026 congresses fall in 2015+, plus announced 2029 (Amsterdam) and 2032 (Honolulu, no dates). 2026 (23rd) Busan congress is over (Aug 23-28, 2026; 3,898 regular/invited papers submitted per IFAC Dec 2025 newsletter). Next: 24th IFAC World Congress, Amsterdam, July 8-13, 2029, Amsterdam RAI (General Chairs Ming Cao and Manuel Mazo per IFAC); its paper deadline is NOT yet published - by past pattern it would be roughly Oct-Dec 2028 (inference only). 2020 congress was entirely virtual (organizer site says congress week July 11-17; VDI/VDE hosted July 12-17); its Oct 31, 2019 deadline comes from an IFAC President's column (Aug 2019), not a congress page. 2023 deadline Oct 31, 2022 from IFAC newsletter / 2nd CFP (not confirmed on ifac2023.org; possible extension not checked). 2017 deadline extended Oct 31 -> Nov 8 -> Nov 11, 2016. 2017 venue (Toulouse congress centre) not verified -> null. 2014 Cape Town congress is outside the 2015+ window.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

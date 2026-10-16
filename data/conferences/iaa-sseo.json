@@ -1,0 +1,134 @@
+{
+  "id": "iaa-sseo",
+  "short_name": "IAA SSEO",
+  "full_name": "IAA Symposium on Small Satellites for Earth System Observation (formerly 'Small Satellites for Earth Observation')",
+  "category": "space",
+  "organizer": "International Academy of Astronautics (IAA) with a Local Organizing Committee in Berlin (DLR involvement: contact SSEO15@dlr.de, listed on event.dlr.de; 2023 hosted by DLR Institute of Solar-Terrestrial Physics with TU Berlin; proceedings published by TU Berlin Chair of Space Technology)",
+  "fields": [
+    "small satellites",
+    "Earth observation",
+    "remote sensing",
+    "mission design",
+    "CubeSats"
+  ],
+  "frequency": "biennial (odd years)",
+  "typical_month": "April-May",
+  "official_url": "https://iaaspace.org/sseo",
+  "submission": {
+    "type": "abstract -> selected contributed papers; full paper for proceedings",
+    "typical_abstract_deadline": "mid-February of conference year (2025: 15 Feb)",
+    "typical_final_deadline": "first day of the symposium (2025: 4 May)",
+    "notes": "Call for papers ~November of preceding year; student prize paper competition (Bachelor/Master)."
+  },
+  "next_edition": {
+    "year": 2027,
+    "city": "Berlin (expected)",
+    "country": "Germany",
+    "start_date": null,
+    "end_date": null,
+    "abstract_deadline": null,
+    "status": "not yet announced",
+    "source": "https://iaaspace.org/sseo",
+    "continent": "Europe"
+  },
+  "editions": [
+    {
+      "year": 2015,
+      "city": "Berlin",
+      "region": null,
+      "country": "Germany",
+      "venue": null,
+      "start_date": "2015-04-20",
+      "end_date": "2015-04-24",
+      "abstract_deadline": null,
+      "source": "https://research.tudelft.nl/en/publications/increasing-computing-performance-of-adcs-subsystems-in-small-sate",
+      "edition": "10th",
+      "notes": "Dates also in IAA list https://iaaspace.org/?p=5787. Venue not verified.",
+      "continent": "Europe"
+    },
+    {
+      "year": 2017,
+      "city": "Berlin",
+      "region": null,
+      "country": "Germany",
+      "venue": "Berlin-Brandenburg Academy of Sciences and Humanities (BBAW), Gendarmenmarkt",
+      "start_date": "2017-04-24",
+      "end_date": "2017-04-28",
+      "abstract_deadline": null,
+      "source": "https://www.sitael.com/sitael-at-11th-iaa-symposium-small-satellites/",
+      "edition": "11th",
+      "notes": "Dates per https://www.copernicus.eu/en/node/6966",
+      "continent": "Europe"
+    },
+    {
+      "year": 2019,
+      "city": "Berlin",
+      "region": null,
+      "country": "Germany",
+      "venue": "Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)",
+      "start_date": "2019-05-06",
+      "end_date": "2019-05-10",
+      "abstract_deadline": null,
+      "source": "https://iaaspace.org/event/12th-iaa-symposium-on-small-satellites-for-earth-observation-2019/",
+      "edition": "12th",
+      "continent": "Europe"
+    },
+    {
+      "year": 2021,
+      "city": "Virtual (originally planned for Berlin)",
+      "region": null,
+      "country": "Germany",
+      "venue": null,
+      "start_date": "2021-04-27",
+      "end_date": "2021-04-29",
+      "abstract_deadline": null,
+      "source": "https://spacepolicyonline.com/?p=40253",
+      "edition": "13th",
+      "notes": "Moved online due to COVID-19.",
+      "continent": "Europe"
+    },
+    {
+      "year": 2023,
+      "city": "Berlin",
+      "region": null,
+      "country": "Germany",
+      "venue": "Ludwig-Erhard-Haus (IHK Berlin), Fasanenstrasse 85",
+      "start_date": "2023-05-07",
+      "end_date": "2023-05-11",
+      "abstract_deadline": null,
+      "source": "https://event.dlr.de/en/event/the-14th-iaa-symposium-on-small-satellites-for-earth-system-observation/",
+      "edition": "14th",
+      "continent": "Europe"
+    },
+    {
+      "year": 2025,
+      "city": "Berlin",
+      "region": null,
+      "country": "Germany",
+      "venue": "Ludwig-Erhard-Haus (IHK Berlin), Fasanenstrasse 85",
+      "start_date": "2025-05-04",
+      "end_date": "2025-05-08",
+      "abstract_deadline": "2025-02-15",
+      "source": "https://iaaspace.org/sseo",
+      "edition": "15th",
+      "notes": "Venue per https://event.dlr.de/en/event/15th-iaa-symposium-on-small-satellites-in-earth-system-observation-2025-sseo15/",
+      "continent": "Europe"
+    }
+  ],
+  "sources": [
+    "https://iaaspace.org/sseo",
+    "https://event.dlr.de/en/event/15th-iaa-symposium-on-small-satellites-in-earth-system-observation-2025-sseo15/",
+    "https://event.dlr.de/en/event/the-14th-iaa-symposium-on-small-satellites-for-earth-system-observation/",
+    "https://spacepolicyonline.com/?p=40253",
+    "https://iaaspace.org/event/12th-iaa-symposium-on-small-satellites-for-earth-observation-2019/",
+    "https://www.copernicus.eu/en/node/6966",
+    "https://www.sitael.com/sitael-at-11th-iaa-symposium-small-satellites/",
+    "https://iaaspace.org/?p=5787",
+    "https://depositonce.tu-berlin.de/items/7aee472a-49d6-495a-803b-3c17d1f9898f/full"
+  ],
+  "notes": "Held in Berlin every odd year since 1996. A 16th edition in 2027 would follow the biennial pattern but no announcement was found on iaaspace.org, event.dlr.de or by web search as of 2026-10-16; year/city in next_edition are inferred, not verified. Abstract deadlines before 2025 not verified.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

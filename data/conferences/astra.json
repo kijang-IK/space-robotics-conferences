@@ -1,0 +1,119 @@
+{
+  "id": "astra",
+  "short_name": "ASTRA",
+  "full_name": "ESA Symposium (formerly Workshop) on Advanced Space Technologies in Robotics and Automation",
+  "category": "space-robotics",
+  "organizer": "ESA Automation and Robotics Section (ESTEC), with the ESA Conference Bureau / ATPI",
+  "fields": [
+    "space robotics",
+    "automation",
+    "planetary rovers",
+    "in-orbit servicing",
+    "AI/autonomy"
+  ],
+  "frequency": "Biennial (odd years, plus 2022), staggered with i-SAIRAS",
+  "typical_month": "Varies: May-June (2015-2022), October (2023, 2025)",
+  "official_url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Conferences_and_Symposia",
+  "submission": {
+    "type": "Abstract submission (extended abstract), then paper for proceedings published on ESA's Proceedings of ASTRA page",
+    "typical_abstract_deadline": null,
+    "typical_final_deadline": null,
+    "notes": "No call for abstracts with dated deadlines could be retrieved for any recent edition; the astra2023 site links an 'Abstract submission' page, but no dates were captured."
+  },
+  "next_edition": {
+    "year": null,
+    "city": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "abstract_deadline": null,
+    "status": "not yet announced",
+    "source": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Conferences_and_Symposia",
+    "continent": null
+  },
+  "editions": [
+    {
+      "year": 2015,
+      "city": "Noordwijk",
+      "region": "South Holland",
+      "country": "Netherlands",
+      "venue": "ESA ESTEC",
+      "start_date": "2015-05-11",
+      "end_date": "2015-05-13",
+      "abstract_deadline": null,
+      "source": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Proceedings_of_ASTRA",
+      "continent": "Europe"
+    },
+    {
+      "year": 2017,
+      "city": "Leiden",
+      "region": "South Holland",
+      "country": "Netherlands",
+      "venue": null,
+      "start_date": "2017-06-20",
+      "end_date": "2017-06-22",
+      "abstract_deadline": null,
+      "source": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Proceedings_of_ASTRA",
+      "continent": "Europe"
+    },
+    {
+      "year": 2019,
+      "city": "Noordwijk",
+      "region": "South Holland",
+      "country": "Netherlands",
+      "venue": "ESA ESTEC",
+      "start_date": "2019-05-27",
+      "end_date": "2019-05-28",
+      "abstract_deadline": null,
+      "source": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Proceedings_of_ASTRA",
+      "continent": "Europe"
+    },
+    {
+      "year": 2022,
+      "city": "Noordwijk",
+      "region": "South Holland",
+      "country": "Netherlands",
+      "venue": "ESA ESTEC",
+      "start_date": "2022-06-01",
+      "end_date": "2022-06-02",
+      "abstract_deadline": null,
+      "source": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Proceedings_of_ASTRA",
+      "continent": "Europe"
+    },
+    {
+      "year": 2023,
+      "city": "Leiden",
+      "region": "South Holland",
+      "country": "Netherlands",
+      "venue": "Scheltema",
+      "start_date": "2023-10-18",
+      "end_date": "2023-10-20",
+      "abstract_deadline": null,
+      "source": "https://atpi.eventsair.com/astra2023/",
+      "continent": "Europe"
+    },
+    {
+      "year": 2025,
+      "city": "Leiden",
+      "region": "South Holland",
+      "country": "Netherlands",
+      "venue": null,
+      "start_date": "2025-10-07",
+      "end_date": "2025-10-09",
+      "abstract_deadline": null,
+      "source": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Proceedings_of_ASTRA",
+      "continent": "Europe"
+    }
+  ],
+  "sources": [
+    "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Proceedings_of_ASTRA",
+    "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Conferences_and_Symposia",
+    "https://atpi.eventsair.com/astra2023/",
+    "https://www.gmv.com/en/communication/events/astra"
+  ],
+  "notes": "ESA's Conferences page is stale: it says ASTRA is 'always held at ESTEC' and lists the 2025 edition as 6-9 Oct 2025, while the Proceedings page gives Leiden, 7-9 Oct 2025. ASTRA 2023 was the 17th Symposium, so 2025 was presumably the 18th. The 2025 venue (Scheltema, Leiden) appears only in a DFKI publication record surfaced by search; the page returned 403, so it is left null. Probable next edition: 2027 by the biennial pattern; not announced, and atpi.eventsair.com/astra2027 returns 404. Do not confuse this series with Embry-Riddle's ASTRA workshop (Oct 2026), IIST's ASTRA symposium (India) or NASA's Ad ASTRA.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

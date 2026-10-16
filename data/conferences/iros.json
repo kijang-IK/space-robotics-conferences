@@ -1,0 +1,288 @@
+{
+  "id": "iros",
+  "short_name": "IROS",
+  "full_name": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
+  "category": "robotics",
+  "organizer": "IEEE (Robotics and Automation Society; Industrial Electronics Society) and the Robotics Society of Japan (RSJ), with SICE among co-sponsors (financially co-sponsored by IEEE RAS)",
+  "fields": [
+    "robotics",
+    "intelligent systems",
+    "autonomous systems",
+    "robot perception",
+    "robot learning",
+    "human-robot interaction"
+  ],
+  "frequency": "annual",
+  "typical_month": "late September to October (Nov in 2019)",
+  "official_url": "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros",
+  "submission": {
+    "type": "full paper (no abstract-only stage for papers); double-anonymous review; PaperPlaza",
+    "typical_abstract_deadline": "No separate abstract stage. Full paper deadline ~March 1 (23:59 US Pacific) of the conference year (2026: March 2, edits allowed to March 5).",
+    "typical_final_deadline": "Notification mid/late June (2026: June 16; 2023: June 30); final paper ~mid/late July (2026: July 16; 2023: July 31).",
+    "notes": "abstract_deadline fields in this record hold the FULL PAPER submission deadline. Page limit (IROS 2026): up to 8 pages incl. references and appendices, no paid extra pages. Review (IROS 2026): 'double-anonymous (both reviewers and authors stay anonymous)'. RA-L option: historically 'RA-L with IROS option' with an earlier deadline (e.g. Feb 24, 2018; Feb 1 -> Feb 24, 2019). IROS 2026 CFP explicitly states 'IROS no longer offers an RA-L+IROS submission option'; instead published RA-L (non-evolutionary), RAM, T-ASE and T-RO papers are eligible for presentation at IROS during an eligibility window."
+  },
+  "next_edition": {
+    "year": 2027,
+    "city": "Florence",
+    "country": "Italy",
+    "start_date": "2027-09-27",
+    "end_date": "2027-10-01",
+    "abstract_deadline": "2027-03-01",
+    "status": "not yet announced",
+    "status_note": "Deadline (March 1, 2027) is listed in the IEEE RAS events calendar, but the official IROS 2027 call for papers / submission site is not yet published as of 2026-10-16, so submissions are not yet open.",
+    "source": "https://www.ieee-ras.org/event/call-for-papers-paper-submission-deadline-iros-2027-ieee-rsj-international-conference-on-intelligent-robots-and-systems-iros-27403-0/",
+    "continent": "Europe"
+  },
+  "editions": [
+    {
+      "year": 2015,
+      "city": "Hamburg",
+      "region": null,
+      "country": "Germany",
+      "venue": "Congress Center Hamburg (CCH)",
+      "start_date": "2015-09-28",
+      "end_date": "2015-10-02",
+      "abstract_deadline": "2015-03-01",
+      "source": "https://www.ieee-ras.org/component/rseventspro/print/401-iros-2015-ieee-rsj-international-conference-on-intelligent-robots-and-systems?Itemid=101",
+      "extra_sources": [
+        "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/",
+        "https://iros2015.informatik.uni-hamburg.de/index.php/contributing/call-for-papers"
+      ],
+      "notes": "IEEE RAS venues page gives 28 Sep - 3 Oct (incl. workshops). Deadline 1 March 2015 per IEEE RAS listing ('UPDATED'); VRVis calendar lists March 6, 2015.",
+      "continent": "Europe"
+    },
+    {
+      "year": 2016,
+      "city": "Daejeon",
+      "region": null,
+      "country": "South Korea",
+      "venue": "Daejeon Convention Center",
+      "start_date": "2016-10-09",
+      "end_date": "2016-10-14",
+      "abstract_deadline": "2016-03-01",
+      "source": "https://confcal.vrvis.at/conferences/iros/iros-2016/",
+      "extra_sources": [
+        "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/",
+        "https://ewh.ieee.org/soc/ras/conf/financiallycosponsored/IROS/2016/iros2016.org/call_for_papers.html"
+      ],
+      "notes": "Deadline from third-party VRVis conference calendar; official CFP PDF exists but date not extracted.",
+      "continent": "Asia"
+    },
+    {
+      "year": 2017,
+      "city": "Vancouver",
+      "region": null,
+      "country": "Canada",
+      "venue": "Vancouver Convention Centre",
+      "start_date": "2017-09-24",
+      "end_date": "2017-09-28",
+      "abstract_deadline": "2017-03-01",
+      "source": "https://www.ieee-ras.org/about-ras/latest-news/iros-2017-call-for-contributions",
+      "extra_sources": [
+        "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/",
+        "https://ewh.ieee.org/conf/iros/2017/iros2017.org/info/venue.html"
+      ],
+      "continent": "North America"
+    },
+    {
+      "year": 2018,
+      "city": "Madrid",
+      "region": null,
+      "country": "Spain",
+      "venue": "Madrid Municipal Conference Centre",
+      "start_date": "2018-10-01",
+      "end_date": "2018-10-05",
+      "abstract_deadline": "2018-03-01",
+      "source": "https://www.ieee-ras.org/about-ras/ras-calendar/event/1143-iros-2018-call-for-papers-deadline",
+      "extra_sources": [
+        "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/"
+      ],
+      "notes": "RA-L with IROS option deadline 2018-02-24.",
+      "continent": "Europe"
+    },
+    {
+      "year": 2019,
+      "city": "Macau",
+      "region": null,
+      "country": "China",
+      "venue": "The Venetian Macao",
+      "start_date": "2019-11-04",
+      "end_date": "2019-11-08",
+      "abstract_deadline": "2019-03-01",
+      "source": "https://www.ieee-ras.org/about-ras/ras-calendar/event/1553-iros-2019-call-for-papers-deadline",
+      "extra_sources": [
+        "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/",
+        "https://www.cityu.edu.hk/iros2019/about"
+      ],
+      "notes": "RA-L with IROS option deadline Feb 1, 2019 extended to Feb 24, 2019.",
+      "continent": "Asia"
+    },
+    {
+      "year": 2020,
+      "city": "Las Vegas",
+      "region": null,
+      "country": "United States",
+      "venue": "Virtual (on-demand); originally planned for Las Vegas",
+      "start_date": "2020-10-25",
+      "end_date": "2020-10-29",
+      "abstract_deadline": "2020-03-01",
+      "source": "https://ewh.ieee.org/soc/ras/conf/financiallycosponsored/IROS/IROS2020/www.iros2020.org/2submission/CallforPapers.html",
+      "format": "virtual",
+      "extra_sources": [
+        "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/"
+      ],
+      "notes": "Held as an on-demand virtual conference due to COVID-19.",
+      "continent": "North America"
+    },
+    {
+      "year": 2021,
+      "city": "Prague",
+      "region": null,
+      "country": "Czech Republic",
+      "venue": "Virtual (planned at O2 universum, Prague)",
+      "start_date": "2021-09-27",
+      "end_date": "2021-10-01",
+      "abstract_deadline": "2021-03-01",
+      "source": "https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml",
+      "format": "virtual",
+      "extra_sources": [
+        "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/",
+        "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/iros.yml"
+      ],
+      "notes": "Held online. Deadline conflict: paperswithcode ai-deadlines lists 2021-03-01; ccf-deadlines lists 2021-03-05 for conference papers (RA-L+IROS 2021-02-24). Official iros2021.org page could not be fetched.",
+      "continent": "Europe"
+    },
+    {
+      "year": 2022,
+      "city": "Kyoto",
+      "region": null,
+      "country": "Japan",
+      "venue": "Kyoto International Conference Center",
+      "start_date": "2022-10-23",
+      "end_date": "2022-10-27",
+      "abstract_deadline": "2022-03-01",
+      "source": "https://iros2022.org/",
+      "extra_sources": [
+        "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/"
+      ],
+      "notes": "IEEE RAS venues page erroneously shows '23-27 September'; official site says October 23-27, 2022.",
+      "continent": "Asia"
+    },
+    {
+      "year": 2023,
+      "city": "Detroit",
+      "region": null,
+      "country": "United States",
+      "venue": "Huntington Place",
+      "start_date": "2023-10-01",
+      "end_date": "2023-10-05",
+      "abstract_deadline": "2023-03-01",
+      "source": "https://ieee-ras.org/about-ras/latest-news/cfp-iros-2023-in-detroit",
+      "extra_sources": [
+        "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/",
+        "https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml"
+      ],
+      "continent": "North America"
+    },
+    {
+      "year": 2024,
+      "city": "Abu Dhabi",
+      "region": null,
+      "country": "United Arab Emirates",
+      "venue": "ADNEC (Abu Dhabi National Exhibition Centre)",
+      "start_date": "2024-10-14",
+      "end_date": "2024-10-18",
+      "abstract_deadline": "2024-03-01",
+      "source": "https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml",
+      "extra_sources": [
+        "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/",
+        "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/iros.yml",
+        "https://ai.ucf.edu/ucf-researchers-have-5-papers-accepted-in-iros-2024/"
+      ],
+      "notes": "Deadline conflict: ai-deadlines and ServiceNow list March 1, 2024; ccf-deadlines and hyper.ai list March 15, 2024 (possible extension). Official site iros2024-abudhabi.org returned 403.",
+      "continent": "Asia"
+    },
+    {
+      "year": 2025,
+      "city": "Hangzhou",
+      "region": null,
+      "country": "China",
+      "venue": "Hangzhou International Expo Center",
+      "start_date": "2025-10-19",
+      "end_date": "2025-10-25",
+      "abstract_deadline": "2025-03-01",
+      "source": "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/iros.yml",
+      "extra_sources": [
+        "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/",
+        "https://iten.ieee-ies.org/past-events/2025/2025-iros-international-conference-on-intelligent-robots/",
+        "https://www.vicon.com/event/iros-2025/"
+      ],
+      "notes": "Deadline March 1, 2025 (UTC-8) per ccf-deadlines/ServiceNow; IEEE IES listing says March 2. Official iros25.org had an expired certificate.",
+      "continent": "Asia"
+    },
+    {
+      "year": 2026,
+      "city": "Pittsburgh",
+      "region": null,
+      "country": "United States",
+      "venue": "David L. Lawrence Convention Center",
+      "start_date": "2026-09-27",
+      "end_date": "2026-10-01",
+      "abstract_deadline": "2026-03-02",
+      "source": "https://2026.ieee-iros.org/contribute/call-for-papers/",
+      "extra_sources": [
+        "https://2026.ieee-iros.org/",
+        "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/"
+      ],
+      "notes": "Submissions could be modified (not started) through March 5. Notification 2026-06-16; final paper 2026-07-16.",
+      "continent": "North America"
+    },
+    {
+      "year": 2027,
+      "city": "Florence",
+      "region": null,
+      "country": "Italy",
+      "venue": "Fortezza da Basso",
+      "start_date": "2027-09-27",
+      "end_date": "2027-10-01",
+      "abstract_deadline": "2027-03-01",
+      "source": "https://www.ieee-ras.org/event/call-for-papers-paper-submission-deadline-iros-2027-ieee-rsj-international-conference-on-intelligent-robots-and-systems-iros-27403-0/",
+      "extra_sources": [
+        "https://2027.ieee-iros.org/",
+        "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/"
+      ],
+      "notes": "Official site and IEEE RAS give Sep 27 - Oct 1, 2027 (some aggregators and the site's countdown script use Sep 26, likely workshop/registration day). Deadline Mar 1, 2027 per IEEE RAS calendar; official CFP not yet published.",
+      "continent": "Europe"
+    },
+    {
+      "year": 2028,
+      "city": "Sydney",
+      "region": null,
+      "country": "Australia",
+      "venue": "International Convention Centre Sydney (ICC Sydney)",
+      "start_date": "2028-10-02",
+      "end_date": "2028-10-06",
+      "abstract_deadline": null,
+      "source": "https://www.besydney.com.au/news-insights/australia-s-robotics-research-credentials-open-door-to-20b-global-ai-robotics-industry/",
+      "extra_sources": [
+        "https://kongres-magazine.eu/2025/03/sydney-wins-bid-to-host-iros-2028/"
+      ],
+      "notes": "Announced by BESydney (bid winner; first Southern Hemisphere IROS). Not yet listed on the IEEE RAS IROS venues page; deadline not announced.",
+      "continent": "Oceania"
+    }
+  ],
+  "sources": [
+    "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/",
+    "https://2026.ieee-iros.org/contribute/call-for-papers/",
+    "https://2027.ieee-iros.org/",
+    "https://www.ieee-ras.org/event/call-for-papers-paper-submission-deadline-iros-2027-ieee-rsj-international-conference-on-intelligent-robots-and-systems-iros-27403-0/",
+    "https://iros2022.org/",
+    "https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml",
+    "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/iros.yml"
+  ],
+  "notes": "IROS 2026 (Pittsburgh) ended Oct 1, 2026, so the next edition is IROS 2027 Florence. Unverified/conflicting: IROS 2021 (Mar 1 vs Mar 5) and IROS 2024 (Mar 1 vs Mar 15) deadlines; IROS 2016 deadline from a third-party calendar; IROS 2028 Sydney not yet on the IEEE RAS venues page.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

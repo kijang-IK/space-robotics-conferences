@@ -1,0 +1,148 @@
+{
+  "id": "iaa-pdc",
+  "short_name": "IAA PDC",
+  "full_name": "IAA Planetary Defense Conference",
+  "category": "space",
+  "organizer": "International Academy of Astronautics (IAA), with rotating hosts (ESA 2015; JAXA 2017; NASA & JHU/APL 2019; UNOOSA with ESA 2021 virtual; Vienna Intl. Centre & Austrian Academy of Sciences 2023; Stellenbosch LOC 2025; McGill University 2027)",
+  "fields": [
+    "planetary defense",
+    "NEO/asteroids/comets",
+    "mission design",
+    "impact risk",
+    "space policy"
+  ],
+  "frequency": "biennial (odd years)",
+  "typical_month": "April-May",
+  "official_url": "https://iaaspace.org/pdc",
+  "submission": {
+    "type": "abstract (250-500 words) -> extended abstract / full manuscript + poster/presentation for proceedings",
+    "typical_abstract_deadline": "late November-December of the preceding year",
+    "typical_final_deadline": "late April (approx. 1 week before conference)",
+    "notes": "Student paper competition with separate requirements. Abstract submission for 2027 via Indico at iaa.spacescience.ro."
+  },
+  "next_edition": {
+    "year": 2027,
+    "city": "Montreal, Quebec",
+    "country": "Canada",
+    "start_date": "2027-05-03",
+    "end_date": "2027-05-07",
+    "abstract_deadline": "2026-11-23",
+    "status": "open",
+    "source": "https://iaaspace.org/event/10th-iaa-planetary-defense-conference-2027/",
+    "continent": "North America"
+  },
+  "editions": [
+    {
+      "year": 2015,
+      "city": "Frascati (Rome)",
+      "region": null,
+      "country": "Italy",
+      "venue": "ESA ESRIN",
+      "start_date": "2015-04-13",
+      "end_date": "2015-04-17",
+      "abstract_deadline": null,
+      "source": "https://www.esa.int/Space_Safety/Call_for_Media_ESA_Hosts_IAA_Planetary_Defence_Conference_2015",
+      "edition": "4th IAA PDC",
+      "continent": "Europe"
+    },
+    {
+      "year": 2017,
+      "city": "Tokyo",
+      "region": null,
+      "country": "Japan",
+      "venue": "National Museum of Emerging Science and Innovation (Miraikan)",
+      "start_date": "2017-05-15",
+      "end_date": "2017-05-19",
+      "abstract_deadline": null,
+      "source": "https://asteroidday.org/updates/planetary-defense-conference-may-2017-tokyo-japan/",
+      "edition": "5th IAA PDC",
+      "notes": "Hosted by JAXA. Venue per https://www.spacetechasia.com/asteroid-impact-threat-exercise-currently-being-conducted-in-planetary-defense-conference-in-tokyo/",
+      "continent": "Asia"
+    },
+    {
+      "year": 2019,
+      "city": "College Park, MD (Washington DC area)",
+      "region": null,
+      "country": "United States",
+      "venue": "The Hotel at the University of Maryland",
+      "start_date": "2019-04-29",
+      "end_date": "2019-05-03",
+      "abstract_deadline": null,
+      "source": "https://spacepolicyonline.com/events/iaa-planetary-defense-conference-2019-apr-29-may-3-2019-college-park-md/",
+      "edition": "6th IAA PDC",
+      "notes": "Co-sponsored by NASA and JHU/APL.",
+      "continent": "North America"
+    },
+    {
+      "year": 2021,
+      "city": "Virtual (originally planned for Vienna)",
+      "region": null,
+      "country": "Austria",
+      "venue": null,
+      "start_date": "2021-04-26",
+      "end_date": "2021-04-30",
+      "abstract_deadline": null,
+      "source": "https://un-spider.org/news-and-events/events/7th-iaa-planetary-defense-conference",
+      "edition": "7th IAA PDC",
+      "notes": "Hosted virtually by UNOOSA in collaboration with ESA due to COVID-19. Held virtually; host UNOOSA (Vienna).",
+      "continent": "Europe"
+    },
+    {
+      "year": 2023,
+      "city": "Vienna",
+      "region": null,
+      "country": "Austria",
+      "venue": "Vienna International Centre and Austrian Academy of Sciences",
+      "start_date": "2023-04-03",
+      "end_date": "2023-04-07",
+      "abstract_deadline": "2022-12-23",
+      "source": "https://iaaspace.org/event/8th-iaa-planetary-defense-conference-2023/",
+      "edition": "8th IAA PDC",
+      "notes": "Abstract deadline is the 'fully extended' date.",
+      "continent": "Europe"
+    },
+    {
+      "year": 2025,
+      "city": "Stellenbosch (Cape Town)",
+      "region": null,
+      "country": "South Africa",
+      "venue": "Protea Hotel by Marriott Stellenbosch & Conference Centre",
+      "start_date": "2025-05-05",
+      "end_date": "2025-05-09",
+      "abstract_deadline": "2024-12-15",
+      "source": "https://iaaspace.org/event/9th-iaa-planetary-defense-conference-2025/",
+      "edition": "9th IAA PDC",
+      "notes": "IAA page states abstract deadline Dec 15, 2024; third-party announcements gave Nov 29, 2024 (likely original, then extended).",
+      "continent": "Africa"
+    },
+    {
+      "year": 2027,
+      "city": "Montreal, Quebec",
+      "region": null,
+      "country": "Canada",
+      "venue": "McGill University",
+      "start_date": "2027-05-03",
+      "end_date": "2027-05-07",
+      "abstract_deadline": "2026-11-23",
+      "source": "https://iaaspace.org/event/10th-iaa-planetary-defense-conference-2027/",
+      "edition": "10th IAA PDC",
+      "continent": "North America"
+    }
+  ],
+  "sources": [
+    "https://iaaspace.org/pdc",
+    "https://iaaspace.org/event/10th-iaa-planetary-defense-conference-2027/",
+    "https://iaa.spacescience.ro/indico/event/5/",
+    "https://iaaspace.org/event/9th-iaa-planetary-defense-conference-2025/",
+    "https://iaaspace.org/event/8th-iaa-planetary-defense-conference-2023/",
+    "https://un-spider.org/news-and-events/events/7th-iaa-planetary-defense-conference",
+    "https://spacepolicyonline.com/events/iaa-planetary-defense-conference-2019-apr-29-may-3-2019-college-park-md/",
+    "https://asteroidday.org/updates/planetary-defense-conference-may-2017-tokyo-japan/",
+    "https://www.esa.int/Space_Safety/Call_for_Media_ESA_Hosts_IAA_Planetary_Defence_Conference_2015"
+  ],
+  "notes": "2027: abstract submission opened 2026-09-04; deadline 2026-11-23 (student competition enrollment proof same day); notifications by 2027-01-22; manuscripts/posters due 2027-04-28. The PDC portfolio page's schedule section says the submission window closes in 'December 2026', conflicting with the 23 Nov date - confirm with organizers. Abstract deadlines for 2015-2021 not verified (null). PDC 2013 Flagstaff predates the 2014 window.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

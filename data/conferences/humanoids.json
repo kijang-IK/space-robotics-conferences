@@ -1,0 +1,191 @@
+{
+  "id": "humanoids",
+  "short_name": "Humanoids",
+  "full_name": "IEEE-RAS International Conference on Humanoid Robots",
+  "category": "robotics",
+  "organizer": "IEEE Robotics and Automation Society (RAS), fully sponsored",
+  "fields": [
+    "robotics",
+    "humanoid robots",
+    "legged locomotion",
+    "manipulation",
+    "human-robot interaction"
+  ],
+  "frequency": "annual",
+  "typical_month": "Late in the year (Oct-Dec); 2025 edition was Sep 30-Oct 2",
+  "official_url": "https://2026.ieee-humanoids.org",
+  "submission": {
+    "type": "full paper (6-8 page conference paper, peer reviewed); optional supplementary video",
+    "typical_abstract_deadline": "July (2025 was an exception: May 1)",
+    "typical_final_deadline": "Camera-ready ~late Sep to late Oct (e.g., 2026-10-26)",
+    "notes": "No separate abstract stage. The 'abstract_deadline' field holds the full-paper submission deadline (final, after any extension). 2026: paper deadline July 24, 2026 AoE; manuscript updates allowed until July 27, 2026 AoE (organizers say this is not an extension; the official homepage displays July 27). Notification Oct 6, 2026; camera-ready Oct 26, 2026."
+  },
+  "next_edition": {
+    "year": 2026,
+    "city": "Santa Clara, California",
+    "country": "United States",
+    "start_date": "2026-12-06",
+    "end_date": "2026-12-09",
+    "abstract_deadline": "2026-07-24",
+    "status": "closed",
+    "source": "https://lists.robocup.org/archives/list/robocup-nao@lists.robocup.org/thread/TPFKZEUS4P7BAXPS7GERTJIJCAHDMYZG/",
+    "continent": "North America"
+  },
+  "editions": [
+    {
+      "year": 2015,
+      "city": "Seoul",
+      "region": null,
+      "country": "South Korea",
+      "venue": "Korea Institute of Science and Technology (KIST)",
+      "start_date": "2015-11-03",
+      "end_date": "2015-11-05",
+      "abstract_deadline": "2015-07-07",
+      "source": "https://ewh.ieee.org/soc/ras/conf/fullysponsored/humanoids/2015/www.humanoids2015.org/main/index.html",
+      "continent": "Asia"
+    },
+    {
+      "year": 2016,
+      "city": "Cancun",
+      "region": null,
+      "country": "Mexico",
+      "venue": null,
+      "start_date": "2016-11-15",
+      "end_date": "2016-11-17",
+      "abstract_deadline": null,
+      "source": "https://www.ieee-ras.org/humanoid-robotics/activities",
+      "continent": "North America"
+    },
+    {
+      "year": 2017,
+      "city": "Birmingham",
+      "region": null,
+      "country": "United Kingdom",
+      "venue": "The REP Theatre",
+      "start_date": "2017-11-15",
+      "end_date": "2017-11-17",
+      "abstract_deadline": "2017-07-25",
+      "source": "https://www.ieee-ras.org/about-ras/ras-calendar/event/1206-humanoids-2017-ieee-ras-international-conference-on-humanoid-robots",
+      "continent": "Europe"
+    },
+    {
+      "year": 2018,
+      "city": "Beijing",
+      "region": null,
+      "country": "China",
+      "venue": "Beijing Friendship Hotel",
+      "start_date": "2018-11-06",
+      "end_date": "2018-11-09",
+      "abstract_deadline": "2018-07-20",
+      "source": "https://www.ieee-ras.org/about-ras/ras-calendar/event/1399-humanoids-2018-call-for-papers-deadline",
+      "continent": "Asia"
+    },
+    {
+      "year": 2019,
+      "city": "Toronto",
+      "region": null,
+      "country": "Canada",
+      "venue": null,
+      "start_date": "2019-10-15",
+      "end_date": "2019-10-17",
+      "abstract_deadline": "2019-07-07",
+      "source": "https://www.ieee-ras.org/about-ras/ras-calendar/event/1599-humanoids-2019-call-for-papers-deadline",
+      "continent": "North America"
+    },
+    {
+      "year": 2020,
+      "city": "Munich (virtual)",
+      "region": null,
+      "country": "Germany",
+      "venue": "Fully virtual (originally planned for Munich, Dec 2020; postponed to July 2021)",
+      "start_date": "2021-07-19",
+      "end_date": "2021-07-21",
+      "abstract_deadline": null,
+      "source": "https://humanoids2020.dlr.de/",
+      "continent": "Europe"
+    },
+    {
+      "year": 2022,
+      "city": "Ginowan, Okinawa",
+      "region": null,
+      "country": "Japan",
+      "venue": "Okinawa Convention Center",
+      "start_date": "2022-11-28",
+      "end_date": "2022-11-30",
+      "abstract_deadline": null,
+      "source": "https://confident-conference.org/index.php/Humanoids_2022",
+      "continent": "Asia"
+    },
+    {
+      "year": 2023,
+      "city": "Austin, Texas",
+      "region": null,
+      "country": "United States",
+      "venue": null,
+      "start_date": "2023-12-12",
+      "end_date": "2023-12-14",
+      "abstract_deadline": "2023-07-22",
+      "source": "https://www.ieee-ras.org/about-ras/latest-news/cfp-humanoids-2023-in-austin-tx-usa",
+      "continent": "North America"
+    },
+    {
+      "year": 2024,
+      "city": "Nancy",
+      "region": null,
+      "country": "France",
+      "venue": "Prouve Convention Centre (Centre de Congres Prouve)",
+      "start_date": "2024-11-22",
+      "end_date": "2024-11-24",
+      "abstract_deadline": "2024-07-15",
+      "source": "https://2024.ieee-humanoids.org/",
+      "continent": "Europe"
+    },
+    {
+      "year": 2025,
+      "city": "Seoul",
+      "region": null,
+      "country": "South Korea",
+      "venue": "COEX (co-located with CoRL 2025)",
+      "start_date": "2025-09-30",
+      "end_date": "2025-10-02",
+      "abstract_deadline": "2025-05-01",
+      "source": "https://robogaku.jp/news/2025/202504211830.html",
+      "continent": "Asia"
+    },
+    {
+      "year": 2026,
+      "city": "Santa Clara, California",
+      "region": null,
+      "country": "United States",
+      "venue": "Santa Clara Convention Center",
+      "start_date": "2026-12-06",
+      "end_date": "2026-12-09",
+      "abstract_deadline": "2026-07-24",
+      "source": "https://2026.ieee-humanoids.org",
+      "continent": "North America"
+    }
+  ],
+  "sources": [
+    "https://2026.ieee-humanoids.org",
+    "https://lists.robocup.org/archives/list/robocup-nao@lists.robocup.org/thread/TPFKZEUS4P7BAXPS7GERTJIJCAHDMYZG/",
+    "https://humanoid.guide/ieee-humanoids-2026-puts-factory-labor-at-center-of-agenda/",
+    "https://2024.ieee-humanoids.org/",
+    "https://www.loria.fr/event/ieee-ras-humanoids-2024/",
+    "https://robogaku.jp/news/2025/202504211830.html",
+    "https://www.ieee-ras.org/ras-events-at-humanoids-2025/",
+    "https://www.ieee-ras.org/about-ras/latest-news/cfp-humanoids-2023-in-austin-tx-usa",
+    "https://confident-conference.org/index.php/Humanoids_2022",
+    "https://humanoids2020.dlr.de/",
+    "https://www.dlr.de/en/rm/latest/news/2021/humanoids-2020",
+    "https://www.ieee-ras.org/about-ras/ras-calendar/event/1599-humanoids-2019-call-for-papers-deadline",
+    "https://www.ieee-ras.org/about-ras/ras-calendar/event/1399-humanoids-2018-call-for-papers-deadline",
+    "https://www.ieee-ras.org/about-ras/ras-calendar/event/1206-humanoids-2017-ieee-ras-international-conference-on-humanoid-robots",
+    "https://www.ieee-ras.org/humanoid-robotics/activities",
+    "https://ewh.ieee.org/soc/ras/conf/fullysponsored/humanoids/2015/www.humanoids2015.org/main/index.html"
+  ],
+  "notes": "Today is 2026-10-16: Humanoids 2026 (25th) has not yet taken place, but its paper deadline has passed, so the next edition's status is 'closed'. Humanoids 2027 location/dates NOT announced in any source found (one aggregator lists a 2027 placeholder with no city). The 2020 edition (20th) was postponed and held fully virtually July 19-21, 2021 (July 19 workshops); there was no separate 2021 edition. 2017 location: RAS activities page says 'Birmingham, USA' but the RAS event page names The REP Theatre, Birmingham, UK (UK used). Deadlines: 2015 listed as 'June 30 -> July 7' (extension); 2017 July 25 is the extended deadline; 2018 extended from July 7 to July 20; 2023 earlier drafts listed July 1 / July 15, official RAS CFP says July 22 11:59pm PDT. 2016 paper deadline not verified (garbled listing suggests extension to July 28, 2016) -> null. 2022 deadline not found -> null. 2020 deadline not found -> null. 2026 venue (Santa Clara Convention Center) from humanoid.guide / aggregator; official homepage only says Santa Clara, CA. Venues null where not found. DBLP was blocked (bot protection) so edition dates for 2015-2019 come from RAS pages/archived sites. 'region' = world region.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

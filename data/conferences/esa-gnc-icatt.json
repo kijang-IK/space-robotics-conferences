@@ -1,0 +1,139 @@
+{
+  "id": "esa-gnc-icatt",
+  "short_name": "ESA GNC & ICATT",
+  "full_name": "ESA International Conference on Guidance, Navigation & Control Systems (GNC), joint with the International Conference on Astrodynamics Tools and Techniques (ICATT) since 2021",
+  "category": "space",
+  "organizer": "European Space Agency (ESA), with the ESA Conference Bureau / ATPI Corporate Events",
+  "fields": [
+    "guidance navigation and control",
+    "AOCS",
+    "astrodynamics",
+    "mission analysis",
+    "autonomous navigation",
+    "space systems"
+  ],
+  "frequency": "Irregular, about every 2-3 years (GNC: 2014, 2017, 2021, 2023, 2026; ICATT standalone in 2016 and 2018)",
+  "typical_month": "June (2014-2023); late September - early October (2026)",
+  "official_url": "https://atpi.eventsair.com/gncicatt/",
+  "submission": {
+    "type": "Abstract submission, then a mandatory full paper (PDF, STIX Two Text font, ESA template); each paper gets a DOI in a public repository",
+    "typical_abstract_deadline": "About 7 months before the event (2026: 27 Feb 2026)",
+    "typical_final_deadline": "About 1 month before the event (2026: 31 Jul, extended to 31 Aug 2026)",
+    "notes": "2026 calendar: call for abstracts 9 Jan 2026; abstract deadline 27 Feb 2026; notification 17 Apr 2026; full paper 31 Aug 2026 (extended) (https://atpi.eventsair.com/gncicatt/calendar-of-events)."
+  },
+  "next_edition": {
+    "year": null,
+    "city": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "abstract_deadline": null,
+    "status": "not yet announced",
+    "source": "https://atpi.eventsair.com/gncicatt/",
+    "continent": null
+  },
+  "editions": [
+    {
+      "year": 2014,
+      "city": "Porto",
+      "region": null,
+      "country": "Portugal",
+      "venue": null,
+      "start_date": "2014-06-02",
+      "end_date": "2014-06-06",
+      "abstract_deadline": null,
+      "source": "https://tu-dresden.de/ing/elektrotechnik/ifa/at/forschung/publikationen/publikationen-2014",
+      "continent": "Europe"
+    },
+    {
+      "year": 2016,
+      "city": "Darmstadt",
+      "region": "Hesse",
+      "country": "Germany",
+      "venue": "darmstadtium (6th ICATT, standalone)",
+      "start_date": "2016-03-14",
+      "end_date": "2016-03-17",
+      "abstract_deadline": null,
+      "source": "https://indico.esa.int/event/111",
+      "continent": "Europe"
+    },
+    {
+      "year": 2017,
+      "city": "Salzburg",
+      "region": null,
+      "country": "Austria",
+      "venue": "Crowne Plaza Salzburg - The Pitter (10th GNC)",
+      "start_date": "2017-05-29",
+      "end_date": "2017-06-02",
+      "abstract_deadline": null,
+      "source": "https://insidegnss.com/guidance-navigation-and-control-2017-10th-esa-gnc-conference/",
+      "continent": "Europe"
+    },
+    {
+      "year": 2018,
+      "city": "Oberpfaffenhofen (near Munich)",
+      "region": "Bavaria",
+      "country": "Germany",
+      "venue": "DLR Oberpfaffenhofen (7th ICATT, standalone)",
+      "start_date": "2018-11-06",
+      "end_date": "2018-11-09",
+      "abstract_deadline": null,
+      "source": "https://indico.esa.int/event/224/",
+      "continent": "Europe"
+    },
+    {
+      "year": 2021,
+      "city": "Virtual",
+      "region": null,
+      "country": null,
+      "venue": "Online (11th GNC & 8th ICATT)",
+      "start_date": "2021-06-21",
+      "end_date": "2021-06-25",
+      "abstract_deadline": null,
+      "source": "https://gmv.com/en/communication/events/gnc-icatt-2021",
+      "continent": null
+    },
+    {
+      "year": 2023,
+      "city": "Sopot",
+      "region": "Pomerania",
+      "country": "Poland",
+      "venue": null,
+      "start_date": "2023-06-12",
+      "end_date": "2023-06-16",
+      "abstract_deadline": null,
+      "source": "https://indico.esa.int/event/449/",
+      "continent": "Europe"
+    },
+    {
+      "year": 2026,
+      "city": "Sevilla",
+      "region": "Andalusia",
+      "country": "Spain",
+      "venue": "Melia Sevilla (13th GNC & 10th ICATT)",
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-02",
+      "abstract_deadline": "2026-02-27",
+      "source": "https://atpi.eventsair.com/gncicatt/calendar-of-events",
+      "continent": "Europe"
+    }
+  ],
+  "sources": [
+    "https://atpi.eventsair.com/gncicatt/",
+    "https://atpi.eventsair.com/gncicatt/calendar-of-events",
+    "https://atpi.eventsair.com/gncicatt/venue",
+    "https://atpi.eventsair.com/gncicatt/final-paper-submission",
+    "https://www.spaceagenda.com/event/esa-gnc-icatt-conference/",
+    "https://indico.esa.int/event/449/",
+    "https://indico.esa.int/event/224/",
+    "https://indico.esa.int/event/111",
+    "https://insidegnss.com/guidance-navigation-and-control-2017-10th-esa-gnc-conference/",
+    "https://gmv.com/en/communication/events/gnc-icatt-2021",
+    "https://tu-dresden.de/ing/elektrotechnik/ifa/at/forschung/publikationen/publikationen-2014"
+  ],
+  "notes": "The most recent edition, Sevilla, 28 Sep - 2 Oct 2026, ended two weeks before the research date, and no next edition is announced. The 2014 Porto dates come from a TU Dresden publication citation ('Oporto, Portugal, 2-6 June 2014') as surfaced in search, not an ESA page. 2021 dates: GMV says 21-25 June; another listing says 22-25 June. The 2023 venue in Sopot is not named on Indico. Do not confuse this series with CEAS EuroGNC, a separate biennial conference. Abstract deadlines before 2026 were not found. The 2016 and 2018 entries are standalone ICATT editions, included because ICATT is now merged with GNC.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

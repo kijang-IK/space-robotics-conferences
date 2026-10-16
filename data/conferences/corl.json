@@ -1,0 +1,219 @@
+{
+  "id": "corl",
+  "short_name": "CoRL",
+  "full_name": "Conference on Robot Learning",
+  "category": "robotics",
+  "organizer": "CoRL Board of Directors (robot-learning.org); proceedings published in PMLR",
+  "fields": [
+    "robot learning",
+    "machine learning",
+    "robotics",
+    "reinforcement learning",
+    "imitation learning",
+    "foundation models for robotics"
+  ],
+  "frequency": "annual",
+  "typical_month": "November (October-December; September in 2025)",
+  "official_url": "https://www.corl.org/",
+  "submission": {
+    "type": "full paper, double-blind, OpenReview/CMT; abstract registration ~3-7 days before the paper deadline since 2025",
+    "typical_abstract_deadline": "Full paper deadline historically June (2021: Jun 18; 2022: Jun 15; 2023: Jun 8; 2024: Jun 6), moved earlier to late April/May (2025: Apr 30; 2026: May 28, AoE).",
+    "typical_final_deadline": "Notification ~August-October (2019: Sep 7; 2020: Oct 14; 2025: Aug 1); camera-ready ~October (2026: Oct 12, 2026 AoE).",
+    "notes": "abstract_deadline fields hold the FULL PAPER deadline. Page limit (CoRL 2026): 8 pages main text for submission (references, acknowledgments and optional appendix excluded), 9 pages for camera-ready; CoRL 2019/2020: up to 8 pages + up to 2 pages of references. 'CoRL is double-blind'. No RA-L/IEEE journal option (non-IEEE, PMLR proceedings)."
+  },
+  "next_edition": {
+    "year": 2026,
+    "city": "Austin",
+    "country": "United States",
+    "start_date": "2026-11-09",
+    "end_date": "2026-11-12",
+    "abstract_deadline": "2026-05-28",
+    "status": "closed",
+    "source": "https://2026.corl.org/contributions",
+    "notes": "CoRL 2026 has not yet taken place (Nov 9-12, 2026) but its paper deadline (May 28, 2026 AoE) has passed. CoRL 2027 host city, dates and deadline: not yet announced as of 2026-10-16 (expected deadline ~April-June 2027 based on recent pattern).",
+    "continent": "North America"
+  },
+  "editions": [
+    {
+      "year": 2017,
+      "city": "Mountain View, CA",
+      "region": null,
+      "country": "United States",
+      "venue": "Google campus",
+      "start_date": "2017-11-13",
+      "end_date": "2017-11-15",
+      "abstract_deadline": null,
+      "source": "https://research.google/blog/a-summary-of-the-first-conference-on-robot-learning/",
+      "extra_sources": [
+        "https://www.robot-learning.org/past-conferences"
+      ],
+      "notes": "1st CoRL (PMLR vol. 78). Paper deadline not verified.",
+      "continent": "North America"
+    },
+    {
+      "year": 2018,
+      "city": "Zurich",
+      "region": null,
+      "country": "Switzerland",
+      "venue": null,
+      "start_date": "2018-10-29",
+      "end_date": "2018-10-31",
+      "abstract_deadline": null,
+      "source": "https://2018.corl.org",
+      "extra_sources": [
+        "https://www.robot-learning.org/past-conferences"
+      ],
+      "notes": "Paper deadline and venue not verified (2018.corl.org does not list them).",
+      "continent": "Europe"
+    },
+    {
+      "year": 2019,
+      "city": "Osaka",
+      "region": null,
+      "country": "Japan",
+      "venue": null,
+      "start_date": "2019-10-30",
+      "end_date": "2019-11-01",
+      "abstract_deadline": "2019-07-07",
+      "source": "https://2019.corl.org/home/paper-submission",
+      "extra_sources": [
+        "https://2019.corl.org/"
+      ],
+      "notes": "Deadline July 7, 2019 23:59 Pacific; notification Sep 7, 2019. Venue not verified.",
+      "continent": "Asia"
+    },
+    {
+      "year": 2020,
+      "city": "Cambridge, MA",
+      "region": null,
+      "country": "United States",
+      "venue": "Virtual (hosted by MIT)",
+      "start_date": "2020-11-16",
+      "end_date": "2020-11-18",
+      "abstract_deadline": "2020-07-28",
+      "source": "https://2020.corl.org/author-information/call-for-papers",
+      "format": "virtual",
+      "notes": "Held virtually; notification Oct 14, 2020.",
+      "continent": "North America"
+    },
+    {
+      "year": 2021,
+      "city": "London",
+      "region": null,
+      "country": "United Kingdom",
+      "venue": null,
+      "start_date": "2021-11-08",
+      "end_date": "2021-11-11",
+      "abstract_deadline": "2021-06-18",
+      "source": "https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml",
+      "format": "hybrid",
+      "extra_sources": [
+        "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/corl.yml"
+      ],
+      "notes": "Hybrid. Venue not verified.",
+      "continent": "Europe"
+    },
+    {
+      "year": 2022,
+      "city": "Auckland",
+      "region": null,
+      "country": "New Zealand",
+      "venue": null,
+      "start_date": "2022-12-14",
+      "end_date": "2022-12-18",
+      "abstract_deadline": "2022-06-15",
+      "source": "https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml",
+      "format": "hybrid",
+      "extra_sources": [
+        "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/corl.yml"
+      ],
+      "notes": "Hybrid. ai-deadlines lists Dec 14-18 and deadline Jun 15, 2022; ccf-deadlines lists main conference Dec 15-18 and flags conflicting official cutoffs. Venue not verified.",
+      "continent": "Oceania"
+    },
+    {
+      "year": 2023,
+      "city": "Atlanta",
+      "region": null,
+      "country": "United States",
+      "venue": null,
+      "start_date": "2023-11-06",
+      "end_date": "2023-11-09",
+      "abstract_deadline": "2023-06-08",
+      "source": "https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml",
+      "extra_sources": [
+        "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/corl.yml"
+      ],
+      "notes": "Venue not verified.",
+      "continent": "North America"
+    },
+    {
+      "year": 2024,
+      "city": "Munich",
+      "region": null,
+      "country": "Germany",
+      "venue": null,
+      "start_date": "2024-11-06",
+      "end_date": "2024-11-09",
+      "abstract_deadline": "2024-06-06",
+      "source": "https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml",
+      "extra_sources": [
+        "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/corl.yml"
+      ],
+      "notes": "Venue not verified.",
+      "continent": "Europe"
+    },
+    {
+      "year": 2025,
+      "city": "Seoul",
+      "region": null,
+      "country": "South Korea",
+      "venue": "COEX Convention & Exhibition Center",
+      "start_date": "2025-09-27",
+      "end_date": "2025-09-30",
+      "abstract_deadline": "2025-04-30",
+      "source": "https://www.corl.org/contributions",
+      "abstract_registration_deadline": "2025-04-23",
+      "extra_sources": [
+        "https://2025.corl.org/",
+        "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/corl.yml"
+      ],
+      "notes": "Abstract deadline Apr 23, 2025 per ccf-deadlines / ai-deadlines (third-party); paper deadline Apr 30, 2025 AoE. Co-located with Humanoids 2025.",
+      "continent": "Asia"
+    },
+    {
+      "year": 2026,
+      "city": "Austin",
+      "region": null,
+      "country": "United States",
+      "venue": "JW Marriott Austin / Hilton Austin (Bass Hall for reception)",
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-12",
+      "abstract_deadline": "2026-05-28",
+      "source": "https://2026.corl.org/contributions",
+      "abstract_registration_deadline": "2026-05-25",
+      "extra_sources": [
+        "https://2026.corl.org/",
+        "https://2026.corl.org/contributions/instruction-for-authors",
+        "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/corl.yml"
+      ],
+      "notes": "Main conference Nov 9-11, workshops Nov 12 (2026.corl.org; an older corl.org text said workshops Nov 9, main Nov 10-12). Abstract deadline May 25, 2026 per ccf-deadlines/PaperPilot (not verified on official page). Camera-ready Oct 12, 2026.",
+      "continent": "North America"
+    }
+  ],
+  "sources": [
+    "https://www.corl.org/",
+    "https://2026.corl.org/",
+    "https://2026.corl.org/contributions",
+    "https://2026.corl.org/contributions/instruction-for-authors",
+    "https://www.robot-learning.org/past-conferences",
+    "https://2019.corl.org/home/paper-submission",
+    "https://2020.corl.org/author-information/call-for-papers",
+    "https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml",
+    "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/corl.yml"
+  ],
+  "notes": "CoRL founded 2017 (no 2015/2016 editions). 2026 is the 10th edition. Unverified/null: CoRL 2017 and 2018 paper deadlines; venues for 2018, 2019, 2021-2024; CoRL 2027 entirely not yet announced. 2021-2024 deadlines rely on paperswithcode ai-deadlines / ccf-deadlines.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

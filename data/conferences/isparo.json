@@ -1,0 +1,90 @@
+{
+  "id": "isparo",
+  "short_name": "iSpaRo",
+  "full_name": "International Conference on Space Robotics (iSpaRo)",
+  "category": "space-robotics",
+  "organizer": "IEEE Robotics and Automation Society (RAS) technical co-sponsorship through the RAS Space Robotics Technical Committee (SRTC), which calls iSpaRo a 'flagship conference'; IEEE RAS is a technical co-sponsor, not the sole organizer. Local organizers per edition: University of Luxembourg SnT (2024; General Chair Miguel Olivares-Mendez, Co-Chair Genya Ishigami, Keio, spelled 'Kenya' on the 2024 CFP page); Keio University-led committee with JAXA and UNISEC support (2025); German Space Agency at DLR + DLR Institute of Robotics and Mechatronics (2026, General Chair Armin Wedler, joint with i-SAIRAS)",
+  "fields": [
+    "space robotics",
+    "in-orbit servicing",
+    "planetary exploration robotics",
+    "autonomy",
+    "manipulation"
+  ],
+  "frequency": "Annual (new series since 2024)",
+  "typical_month": "Varies: June (2024), December (2025), November (2026)",
+  "official_url": "https://www.isparo.space/",
+  "submission": {
+    "type": "Full paper only, no abstract stage. 6 pages (US letter) plus up to 2 optional extra pages (8 max, no extra-page charge), IEEE RAS template, single PDF up to 6 MB, optional 1-min video; submitted via RAS PaperCept (PaperPlaza); single-blind review with 2-3 reviewers; submitting authors must review at least one paper; in-person presentation and one registration per paper required; accepted papers go to IEEE Xplore",
+    "typical_abstract_deadline": "Full paper about 4-6 months before the event (2024: 10 Dec 2023; 2025: 12 Aug 2025; 2026: 24 Jun 2026 ext.)",
+    "typical_final_deadline": "Camera-ready about 6-12 weeks before the event (2024: 1 Apr 2024; 2025: 20 Oct 2025; 2026: 24 Sep 2026)",
+    "notes": "The page-limit and review rules are from the 2026 call for papers (https://www.isairas-isparo.de/front/content.php?id_article=607); the 6+2 page format was also confirmed for 2025 via search. 2026: full paper 16 Jun 2026, extended to 24 Jun 2026 (PST, 'no further extensions'); notification 31 Aug 2026 (IEEE notification 28 Aug); camera-ready 24 Sep 2026; half-day workshops on 5 Nov 2026; late-breaking results track. 2025: paper deadline 12 Aug, notification 22 Sep, camera-ready 20 Oct (23:59 PT; year implied by the 2025 site) (https://www.isparo2025.space/). 2024: paper deadline 10 Dec 2023, notification 25 Feb 2024, camera-ready 1 Apr 2024 (https://www.spacer.lu/isparo_24/call_for_papers); the 2024 page limit was not verified."
+  },
+  "next_edition": {
+    "year": 2026,
+    "city": "Cologne",
+    "country": "Germany",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-06",
+    "abstract_deadline": "2026-06-24",
+    "status": "closed",
+    "source": "https://www.isairas-isparo.de/front/content.php?id_article=583",
+    "continent": "Europe"
+  },
+  "editions": [
+    {
+      "year": 2024,
+      "city": "Luxembourg City",
+      "region": null,
+      "country": "Luxembourg",
+      "venue": "Neumunster Abbey",
+      "start_date": "2024-06-24",
+      "end_date": "2024-06-27",
+      "abstract_deadline": "2023-12-10",
+      "source": "https://www.spacer.lu/isparo_24/call_for_papers",
+      "continent": "Europe"
+    },
+    {
+      "year": 2025,
+      "city": "Sendai",
+      "region": "Miyagi",
+      "country": "Japan",
+      "venue": "Sendai International Center",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-04",
+      "abstract_deadline": "2025-08-12",
+      "source": "https://www.isparo2025.space/",
+      "continent": "Asia"
+    },
+    {
+      "year": 2026,
+      "city": "Cologne",
+      "region": "North Rhine-Westphalia",
+      "country": "Germany",
+      "venue": "Confex Cologne (joint i-SAIRAS & iSpaRo)",
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-06",
+      "abstract_deadline": "2026-06-24",
+      "source": "https://www.isairas-isparo.de/front/content.php?id_article=583",
+      "continent": "Europe"
+    }
+  ],
+  "sources": [
+    "https://www.isairas-isparo.de/front/index.php",
+    "https://www.isairas-isparo.de/front/content.php?id_article=583",
+    "https://www.isairas-isparo.de/front/content.php?id_article=604",
+    "https://www.isairas-isparo.de/front/content.php?id_article=607",
+    "https://www.isairas-isparo.de/front/content.php?id_article=579",
+    "https://www.isairas-isparo.de/front/content.php?id_article=575",
+    "https://www.isparo.space/",
+    "https://www.isparo2025.space/",
+    "https://ras.papercept.net/conferences/conferences/ICRS25/program/",
+    "https://www.spacer.lu/isparo_24/call_for_papers",
+    "https://eu-robotics.net/isparo2024/"
+  ],
+  "notes": "The user confirmed that 'Ispro' = iSpaRo. 'abstract_deadline' in this object is the FULL-PAPER deadline, because iSpaRo has no abstract stage. 2026 is held JOINTLY with i-SAIRAS at Confex Cologne under a single registration; iSpaRo follows the Call for Papers (IEEE Xplore), while i-SAIRAS follows the Call for Abstracts (see the i-sairas entry). The 2026 event days are 3-5 Nov plus an optional DLR tour on 6 Nov (the home page says 3-6 Nov). Registration deadline: 23 Oct 2026. Late-breaking results submissions are closed, with feedback by 15 Oct 2026. Edition stats from the About page: 2024 had 200+ participants and 56 papers in IEEE Xplore; 2025 had 150+ submissions, 100 papers presented and 350+ attendees. The RAS Technical Activities Board endorsed continuing the series in Oct 2024. 2025 PaperCept code: ICRS25. 2027: the 2026 committee page lists a General Co-Chair seat for 'a representative of iSpaRo 2027 (to be determined)', which confirms a 2027 edition is planned, but no host, city, dates or deadline were announced as of 2026-10-16 (searched 'iSpaRo 2027'; nothing found). isparo.space is a frameset that loads isairas-isparo.de. The earlier unverified claim that Caltech/JPL took over organizing has been removed.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

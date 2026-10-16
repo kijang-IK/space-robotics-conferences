@@ -1,0 +1,35 @@
+{
+  "id": "iaa-overview",
+  "short_name": "IAA",
+  "full_name": "International Academy of Astronautics",
+  "organizer": "International Academy of Astronautics (IAA), 6 rue Galilée, Paris, France. President: Dr. Peter Jankowitsch (Austria); Secretary General: Dr. Jean-Michel Contant (France) (per iaaspace.org/about, retrieved 2026-10-16).",
+  "fields": [
+    "astronautics",
+    "space science",
+    "space engineering",
+    "space policy",
+    "conference organizer"
+  ],
+  "frequency": "n/a (organization). IAA runs a portfolio of ~17 recurring stand-alone conference series plus IAA symposia embedded in the IAC; IAA states it organizes 15-20 stand-alone conferences/symposia per year.",
+  "typical_month": "n/a",
+  "submission": {
+    "type": "n/a",
+    "typical_abstract_deadline": null,
+    "typical_final_deadline": null,
+    "notes": "Each IAA series has its own submission process. Most use abstract-first (approx. 250-500 words) followed by full paper/manuscript for proceedings; selected papers are often invited to Acta Astronautica (the IAA journal)."
+  },
+  "official_url": "https://iaaspace.org/",
+  "editions": [],
+  "next_edition": null,
+  "sources": [
+    "https://iaaspace.org/about/",
+    "https://iaaspace.org/events/",
+    "https://iaaspace.org/events/iaa-conferences/",
+    "https://en.wikipedia.org/wiki/International_Academy_of_Astronautics",
+    "https://iafastro.directory/iac/archive/browse/IAC-10/E4/1/9184/",
+    "https://iafastro.directory/iac/browse/IAC-25/B4/",
+    "https://iafastro.directory/iac/browse/IAC-26/B4/",
+    "https://iafastro.directory/iac/browse/IAC-19/A6/catalog-technical-programme"
+  ],
+  "notes": "Founded 16 August 1960 in Stockholm by Theodore von Karman (first president); statutes adopted 15 Aug 1960 by the IAF as parent body, so IAA began as an activity of the International Astronautical Federation (IAF). Became an independent NGO with its own Paris headquarters after new statutes in 1983-84; UN-recognized NGO with consultative status since 1996. Approx. 1,200 members/corresponding members (iaaspace.org/about says 1,191 active members in 83 countries; same page elsewhere says ~65 countries - inconsistent). IAA publishes Acta Astronautica. Relation to IAC: the IAC is organized by the IAF together with IAA and IISL; the IAA coordinates several symposia inside the IAC technical programme, e.g. the 'IAA Symposium on Small Satellite Missions' (track B4; 32nd edition at IAC 2025, 33rd at IAC 2026), the 'IAA Symposium on Space Debris' (track A6; 17th at IAC 2019) and the joint A6/B4 small-sat/space-debris session; IAA also holds an 'Academy Day' at the IAC. Full list of IAA-coordinated IAC symposia not verified here (IAC is covered by another agent). IAA conference portfolio on iaaspace.org (Oct 2026): Humans in Space Symposium, Space Debris and Sustainability Conference, Conference on AI for Space, Planetary Defense Conference, Small Satellites for Earth (System) Observation, Future of Space Exploration, Space Traffic Conference, Conference on Space Situational Awareness, Moon Farside Protection, IRG Interstellar, Latin American CubeSat Workshop, Latin American Conference on Space and Society, IAA-ISRO-ASI Human Spaceflight Programme, IAA-ISRO-ASI SMOPS, IAA-CSA Advanced Space Technology, Intl. Conference on Space Sustainability, Intl. Symposium on the Peaceful Use of Space Technology (IPSPACE). Series considered but NOT selected: IAA Conference on University Satellite Missions & CubeSat Workshop (Rome, GAUSS+IAA; 4th 4-7 Dec 2017, 5th 28-31 Jan 2020; no 6th edition found - appears dormant; sources https://iaaspace.org/?p=6211, https://gaussteam.com/?p=5721); IAA Latin American CubeSat Workshop (Brazil, biennial; 2022 Brasilia 7-10 Nov, 2024 Salvador 22-24 Oct, 2026 Florianopolis 15-17 Mar; sources https://cubesat.ufsc.br/2022, https://cubesat.ufsc.br/2024/, https://cubesat.ufsc.br/2026/); Humans in Space Symposium (2026 edition listed for Montecatini, Italy, Apr 20-24 per search snippet only, unverified). Heads of Space Agencies (HOSA) Summits (2010, 2014, 2015) are listed as historic IAA events, not a recurring paper conference. iaaspace.org notes that >20 conferences are still being migrated to the new website, so the portfolio list may be incomplete."
+}

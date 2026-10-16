@@ -1,0 +1,103 @@
+{
+  "id": "iaa-fse",
+  "short_name": "IAA FSE",
+  "full_name": "IAA Symposium on the Future of Space Exploration",
+  "category": "space",
+  "organizer": "International Academy of Astronautics (IAA) with Politecnico di Torino; 2025 co-organized by AIDAA (Italian Association of Aeronautics and Astronautics), Day 1 at Thales Alenia Space Italia",
+  "fields": [
+    "space exploration",
+    "Moon/Mars",
+    "human spaceflight",
+    "mission architecture",
+    "space policy"
+  ],
+  "frequency": "biennial 2015-2019, then 2025 (irregular); 13th reportedly planned for 2027",
+  "typical_month": "June-July",
+  "official_url": "https://iaaspace.org/fse",
+  "submission": {
+    "type": "one-page abstract -> extended abstract/paper/presentation upload; best papers to Acta Astronautica",
+    "typical_abstract_deadline": "spring (2025: extended abstract 4 Apr 2025)",
+    "typical_final_deadline": "~1 week before symposium (2025: 5 Jun 2025)",
+    "notes": "2025 notification 29 Apr 2025; early-bird 15 May 2025."
+  },
+  "next_edition": {
+    "year": 2027,
+    "city": "Turin",
+    "country": "Italy",
+    "start_date": null,
+    "end_date": null,
+    "abstract_deadline": null,
+    "status": "not yet announced",
+    "source": "https://newspaceeconomy.ca/space-event/13th-iaa-symposium-on-future-space-exploration-2027/?amp=1",
+    "continent": "Europe"
+  },
+  "editions": [
+    {
+      "year": 2015,
+      "city": "Turin",
+      "region": null,
+      "country": "Italy",
+      "venue": null,
+      "start_date": null,
+      "end_date": null,
+      "abstract_deadline": null,
+      "source": "https://hal-ifp.archives-ouvertes.fr/hal-01263211",
+      "edition": "9th",
+      "notes": "Only 'July 2015, Turin' verified (via HAL citation in a search snippet; page itself bot-protected); exact dates and venue not verified.",
+      "continent": "Europe"
+    },
+    {
+      "year": 2017,
+      "city": "Turin",
+      "region": null,
+      "country": "Italy",
+      "venue": null,
+      "start_date": "2017-06-27",
+      "end_date": "2017-06-29",
+      "abstract_deadline": null,
+      "source": "https://spacepolicyonline.com/events/future-of-space-expl-towards-moon-village-beyond-iaa-june-2017-italy/",
+      "edition": "10th ('Towards the Moon Village and Beyond')",
+      "continent": "Europe"
+    },
+    {
+      "year": 2019,
+      "city": "Turin",
+      "region": null,
+      "country": "Italy",
+      "venue": null,
+      "start_date": "2019-06-17",
+      "end_date": "2019-06-19",
+      "abstract_deadline": null,
+      "source": "https://iaaspace.org/?p=3858",
+      "edition": "11th ('Moon, Mars and Beyond: Becoming an Interplanetary Civilization')",
+      "notes": "Organized by IAA and Politecnico di Torino.",
+      "continent": "Europe"
+    },
+    {
+      "year": 2025,
+      "city": "Turin",
+      "region": null,
+      "country": "Italy",
+      "venue": "Thales Alenia Space Italia (day 1) and Castello del Valentino, Politecnico di Torino (days 2-3)",
+      "start_date": "2025-06-09",
+      "end_date": "2025-06-11",
+      "abstract_deadline": "2025-04-04",
+      "source": "https://iaaspace.org/event/12th-iaa-symposium-on-the-future-of-space-exploration/",
+      "edition": "12th",
+      "notes": "4 Apr 2025 is labelled 'extended abstract' deadline on the IAA page.",
+      "continent": "Europe"
+    }
+  ],
+  "sources": [
+    "https://iaaspace.org/fse",
+    "https://iaaspace.org/event/12th-iaa-symposium-on-the-future-of-space-exploration/",
+    "https://iaaspace.org/?p=3858",
+    "https://spacepolicyonline.com/events/future-of-space-expl-towards-moon-village-beyond-iaa-june-2017-italy/",
+    "https://newspaceeconomy.ca/space-event/13th-iaa-symposium-on-future-space-exploration-2027/?amp=1"
+  ],
+  "notes": "13th edition 2027 in Turin appears only on a third-party aggregator (newspaceeconomy.ca) with dates pending; not on iaaspace.org as of 2026-10-16 - treat as unverified. No edition 2020-2024 found.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

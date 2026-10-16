@@ -1,0 +1,219 @@
+{
+  "id": "ieee-aerospace",
+  "short_name": "IEEE AeroConf",
+  "full_name": "IEEE Aerospace Conference",
+  "category": "aerospace",
+  "organizer": "IEEE (sponsored by the IEEE Aerospace and Electronic Systems Society, AESS); technical cosponsors AIAA and PHM Society",
+  "fields": [
+    "aerospace systems",
+    "space missions and science",
+    "avionics",
+    "communications and navigation",
+    "radar and sensors",
+    "spacecraft and launch systems",
+    "autonomy and software",
+    "prognostics and health management"
+  ],
+  "frequency": "annual",
+  "typical_month": "March (first/second week)",
+  "official_url": "https://www.aeroconf.org/",
+  "submission": {
+    "type": "abstract (300-500 words) for screening, then mandatory full paper (6-20 pages, IEEE template) peer-reviewed; final camera-ready paper + IEEE copyright for IEEE Xplore",
+    "typical_abstract_deadline": "July 1 of the year before the conference",
+    "typical_final_deadline": "early-to-mid January of the conference year (8 Jan 2027; 13 Jan 2023); full paper for review due early-to-mid October of the prior year (2 Oct 2026; 14 Oct 2022)",
+    "notes": "Abstract/paper limits (300-500 words; 6-20 pages) taken from the 2023 one-page CFP (https://ieee-aess.org/files/ieeeaess/2022-06/one_page_cfp.pdf); not re-verified for 2027. No appeal or secondary review. Registration required to appear in the schedule."
+  },
+  "next_edition": {
+    "year": 2027,
+    "city": "Big Sky",
+    "country": "United States",
+    "start_date": "2027-03-06",
+    "end_date": "2027-03-13",
+    "abstract_deadline": "2026-07-01",
+    "status": "closed",
+    "source": "https://www.aeroconf.org/key-dates",
+    "key_dates": {
+      "submissions_open": "2026-05-19",
+      "abstract_deadline": "2026-07-01",
+      "paper_submission_deadline": "2026-10-02",
+      "review_results": "2026-11-09",
+      "final_paper_and_copyright": "2027-01-08"
+    },
+    "continent": "North America"
+  },
+  "editions": [
+    {
+      "year": 2015,
+      "city": "Big Sky",
+      "region": "Montana",
+      "country": "United States",
+      "venue": "Yellowstone Conference Center",
+      "start_date": "2015-03-07",
+      "end_date": "2015-03-14",
+      "abstract_deadline": null,
+      "source": "https://2015.aeroconf.org/information",
+      "continent": "North America"
+    },
+    {
+      "year": 2016,
+      "city": "Big Sky",
+      "region": "Montana",
+      "country": "United States",
+      "venue": "Yellowstone Conference Center",
+      "start_date": "2016-03-05",
+      "end_date": "2016-03-12",
+      "abstract_deadline": null,
+      "source": "https://2016.aeroconf.org/",
+      "continent": "North America"
+    },
+    {
+      "year": 2017,
+      "city": "Big Sky",
+      "region": "Montana",
+      "country": "United States",
+      "venue": "Yellowstone Conference Center",
+      "start_date": "2017-03-04",
+      "end_date": "2017-03-11",
+      "abstract_deadline": null,
+      "source": "https://2017.aeroconf.org/",
+      "continent": "North America"
+    },
+    {
+      "year": 2018,
+      "city": "Big Sky",
+      "region": "Montana",
+      "country": "United States",
+      "venue": "Yellowstone Conference Center",
+      "start_date": "2018-03-03",
+      "end_date": "2018-03-10",
+      "abstract_deadline": null,
+      "source": "https://2018.aeroconf.org/",
+      "continent": "North America"
+    },
+    {
+      "year": 2019,
+      "city": "Big Sky",
+      "region": "Montana",
+      "country": "United States",
+      "venue": "Yellowstone Conference Center",
+      "start_date": "2019-03-02",
+      "end_date": "2019-03-09",
+      "abstract_deadline": null,
+      "source": "https://2019.aeroconf.org/",
+      "continent": "North America"
+    },
+    {
+      "year": 2020,
+      "city": "Big Sky",
+      "region": "Montana",
+      "country": "United States",
+      "venue": "Yellowstone Conference Center",
+      "start_date": "2020-03-07",
+      "end_date": "2020-03-14",
+      "abstract_deadline": null,
+      "source": "https://2020.aeroconf.org/",
+      "continent": "North America"
+    },
+    {
+      "year": 2021,
+      "city": "Online",
+      "region": null,
+      "country": null,
+      "venue": "Virtual",
+      "start_date": "2021-03-06",
+      "end_date": "2021-03-20",
+      "abstract_deadline": null,
+      "source": "https://2021.aeroconf.org/",
+      "continent": null,
+      "notes": "Held virtually; dates as shown in the official 2021 site header ('Mar 6 - Mar 20, 2021')."
+    },
+    {
+      "year": 2022,
+      "city": "Big Sky",
+      "region": "Montana",
+      "country": "United States",
+      "venue": "Yellowstone Conference Center",
+      "start_date": "2022-03-05",
+      "end_date": "2022-03-12",
+      "abstract_deadline": null,
+      "source": "https://2022.aeroconf.org/",
+      "continent": "North America"
+    },
+    {
+      "year": 2023,
+      "city": "Big Sky",
+      "region": "Montana",
+      "country": "United States",
+      "venue": "Yellowstone Conference Center",
+      "start_date": "2023-03-04",
+      "end_date": "2023-03-11",
+      "abstract_deadline": "2022-07-01",
+      "source": "https://ieee-aess.org/files/ieeeaess/2022-06/one_page_cfp.pdf",
+      "continent": "North America",
+      "notes": "Dates also on https://2023.aeroconf.org/. Paper deadline 14 Oct 2022; final paper 13 Jan 2023."
+    },
+    {
+      "year": 2024,
+      "city": "Big Sky",
+      "region": "Montana",
+      "country": "United States",
+      "venue": "Yellowstone Conference Center",
+      "start_date": "2024-03-02",
+      "end_date": "2024-03-09",
+      "abstract_deadline": null,
+      "source": "https://2024.aeroconf.org/",
+      "continent": "North America"
+    },
+    {
+      "year": 2025,
+      "city": "Big Sky",
+      "region": "Montana",
+      "country": "United States",
+      "venue": "Yellowstone Conference Center",
+      "start_date": "2025-03-01",
+      "end_date": "2025-03-08",
+      "abstract_deadline": null,
+      "source": "https://2025.aeroconf.org/",
+      "continent": "North America"
+    },
+    {
+      "year": 2026,
+      "city": "Big Sky",
+      "region": "Montana",
+      "country": "United States",
+      "venue": "Yellowstone Conference Center",
+      "start_date": "2026-03-07",
+      "end_date": "2026-03-14",
+      "abstract_deadline": null,
+      "source": "https://2026.aeroconf.org/",
+      "continent": "North America",
+      "notes": "47th conference. A third-party listing (spaceagenda) gave 1-8 Mar 2026; official site and AIAA (https://aiaa.org/events/2026-ieee-aerospace-conference/) say 7-14 Mar."
+    },
+    {
+      "year": 2027,
+      "city": "Big Sky",
+      "region": "Montana",
+      "country": "United States",
+      "venue": "Yellowstone Conference Center",
+      "start_date": "2027-03-06",
+      "end_date": "2027-03-13",
+      "abstract_deadline": "2026-07-01",
+      "source": "https://www.aeroconf.org/key-dates",
+      "continent": "North America",
+      "notes": "48th conference. Paper submission deadline 2 Oct 2026; final paper and copyright 8 Jan 2027."
+    }
+  ],
+  "sources": [
+    "https://www.aeroconf.org/",
+    "https://www.aeroconf.org/key-dates",
+    "https://www.aeroconf.org/paper-submission",
+    "https://ieee-aess.org/files/ieeeaess/2022-06/one_page_cfp.pdf",
+    "https://aiaa.org/events/2026-ieee-aerospace-conference/",
+    "https://2015.aeroconf.org/information"
+  ],
+  "notes": "Per-edition abstract deadlines for 2015-2022 and 2024-2026 not verified (null): the yearly subdomains (YYYY.aeroconf.org) show that year's dates in the header, but their key-dates pages now display the current 2027 cycle, and web.archive.org could not be fetched. Where verified (2023, 2027) the abstract deadline was July 1 of the preceding year. For the 2027 edition the abstract deadline has passed (closed); papers are under review. 2028 dates not yet announced.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

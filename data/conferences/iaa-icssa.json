@@ -1,0 +1,115 @@
+{
+  "id": "iaa-icssa",
+  "short_name": "IAA ICSSA",
+  "full_name": "IAA Conference on Space Situational Awareness",
+  "category": "space",
+  "organizer": "International Academy of Astronautics (IAA) with Embry-Riddle Aeronautical University (ERAU) and University of Central Florida (UCF); 2026 hosted by GMV (Tres Cantos). Chair: Riccardo Bevilacqua (ERAU). Logistics: University of Florida Conference Department.",
+  "fields": [
+    "space situational awareness",
+    "space debris",
+    "orbit determination",
+    "astrodynamics",
+    "GNC",
+    "space traffic management"
+  ],
+  "frequency": "roughly biennial (2017, 2020, 2022, 2024, 2026)",
+  "typical_month": "January-May (varies)",
+  "official_url": "https://iaaspace.org/icssa",
+  "submission": {
+    "type": "abstract (Word file via UF portal) -> paper; top papers invited to a special issue of Acta Astronautica",
+    "typical_abstract_deadline": "~3 months before conference (2026: 5 Jan 2026)",
+    "typical_final_deadline": "~1 month before conference (2026: 7 Mar 2026)",
+    "notes": "Presenting author must register. Best Student Paper Award (3 papers). An earlier 2026 call (Sep 2025) listed 15 Jan 2026; another IAA page listed 15 Dec 2025."
+  },
+  "next_edition": {
+    "year": null,
+    "city": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "abstract_deadline": null,
+    "status": "not yet announced",
+    "source": "https://iaaspace.org/icssa",
+    "continent": null
+  },
+  "editions": [
+    {
+      "year": 2017,
+      "city": "Orlando, FL",
+      "region": null,
+      "country": "United States",
+      "venue": null,
+      "start_date": "2017-11-13",
+      "end_date": "2017-11-15",
+      "abstract_deadline": null,
+      "source": "https://iaaspace.org/icssa",
+      "edition": "1st",
+      "continent": "North America"
+    },
+    {
+      "year": 2020,
+      "city": "Washington, DC",
+      "region": null,
+      "country": "United States",
+      "venue": null,
+      "start_date": "2020-01-14",
+      "end_date": "2020-01-16",
+      "abstract_deadline": null,
+      "source": "https://iaaspace.org/icssa",
+      "edition": "2nd",
+      "continent": "North America"
+    },
+    {
+      "year": 2022,
+      "city": "Madrid",
+      "region": null,
+      "country": "Spain",
+      "venue": null,
+      "start_date": "2022-04-04",
+      "end_date": "2022-04-06",
+      "abstract_deadline": null,
+      "source": "https://iaaspace.org/icssa",
+      "edition": "3rd",
+      "continent": "Europe"
+    },
+    {
+      "year": 2024,
+      "city": "Daytona Beach, FL",
+      "region": null,
+      "country": "United States",
+      "venue": null,
+      "start_date": "2024-05-08",
+      "end_date": "2024-05-10",
+      "abstract_deadline": null,
+      "source": "https://iaaspace.org/icssa",
+      "edition": "4th",
+      "continent": "North America"
+    },
+    {
+      "year": 2026,
+      "city": "Tres Cantos (Madrid)",
+      "region": null,
+      "country": "Spain",
+      "venue": "GMV",
+      "start_date": "2026-04-07",
+      "end_date": "2026-04-09",
+      "abstract_deadline": "2026-01-05",
+      "source": "https://iaaspace.org/event/5th-iaa-conference-on-space-situational-awareness-icssa-2026/",
+      "edition": "5th",
+      "notes": "Call PDF: https://iaaspace.org/wp-content/uploads/2025/12/2026ICSSAcall.pdf",
+      "continent": "Europe"
+    }
+  ],
+  "sources": [
+    "https://iaaspace.org/icssa",
+    "https://iaaspace.org/event/5th-iaa-conference-on-space-situational-awareness-icssa-2026/",
+    "https://iaaspace.org/wp-content/uploads/2025/12/2026ICSSAcall.pdf",
+    "https://iaaspace.org/wp-content/uploads/2025/09/ICSSA2026call.pdf",
+    "https://conferences.aa.ufl.edu/archives/2813"
+  ],
+  "notes": "6th ICSSA not announced as of 2026-10-16 (pattern suggests ~2028, unverified). Venues for 2017-2024 and abstract deadlines before 2026 not verified (null).",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "id": "i-sairas",
+  "short_name": "i-SAIRAS",
+  "full_name": "International Symposium on Artificial Intelligence, Robotics and Automation in Space",
+  "category": "space-robotics",
+  "organizer": "Jointly organised by CSA, DLR, ESA, JAXA and NASA; local host varies per edition (CNSA 2016, CSIRO 2024, German Space Agency at DLR + DLR Institute of Robotics and Mechatronics 2026)",
+  "fields": [
+    "space robotics",
+    "artificial intelligence",
+    "automation",
+    "autonomy",
+    "planetary exploration"
+  ],
+  "frequency": "Biennial (even years since 2010; no 2022 edition)",
+  "typical_month": "Varies: June (2014-2018), October-November (2020-2026)",
+  "official_url": "https://www.isairas-isparo.de/front/index.php",
+  "submission": {
+    "type": "Abstract-based (Call for Abstracts), with optional full paper after acceptance",
+    "typical_abstract_deadline": "About 5 months before the event (early June for a November event)",
+    "typical_final_deadline": "Optional full paper, about 2 weeks before the event (2026: 20 Oct 2026)",
+    "notes": "2026: abstract deadline 16 Jun 2026, extended to 24 Jun 2026; notification 31 Aug 2026; optional full paper 20 Oct 2026 (https://www.isairas-isparo.de/front/content.php?id_article=583). 2024: abstract deadline 3 Jun 2024."
+  },
+  "next_edition": {
+    "year": 2026,
+    "city": "Cologne",
+    "country": "Germany",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-06",
+    "abstract_deadline": "2026-06-24",
+    "status": "closed",
+    "source": "https://www.isairas-isparo.de/front/content.php?id_article=583",
+    "continent": "Europe"
+  },
+  "editions": [
+    {
+      "year": 2014,
+      "city": "Montreal",
+      "region": "Quebec",
+      "country": "Canada",
+      "venue": null,
+      "start_date": "2014-06-17",
+      "end_date": "2014-06-19",
+      "abstract_deadline": null,
+      "source": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/i-SAIRAS",
+      "continent": "North America"
+    },
+    {
+      "year": 2016,
+      "city": "Beijing",
+      "region": null,
+      "country": "China",
+      "venue": null,
+      "start_date": "2016-06-20",
+      "end_date": "2016-06-22",
+      "abstract_deadline": null,
+      "source": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/i-SAIRAS",
+      "continent": "Asia"
+    },
+    {
+      "year": 2018,
+      "city": "Madrid",
+      "region": null,
+      "country": "Spain",
+      "venue": null,
+      "start_date": "2018-06-04",
+      "end_date": "2018-06-05",
+      "abstract_deadline": null,
+      "source": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/i-SAIRAS",
+      "continent": "Europe"
+    },
+    {
+      "year": 2020,
+      "city": "Virtual",
+      "region": null,
+      "country": null,
+      "venue": "Online",
+      "start_date": "2020-10-19",
+      "end_date": "2020-10-23",
+      "abstract_deadline": null,
+      "source": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/i-SAIRAS",
+      "continent": null
+    },
+    {
+      "year": 2024,
+      "city": "Brisbane",
+      "region": "Queensland",
+      "country": "Australia",
+      "venue": "Brisbane Convention and Exhibition Centre",
+      "start_date": "2024-11-19",
+      "end_date": "2024-11-21",
+      "abstract_deadline": "2024-06-03",
+      "source": "https://spacepolicyonline.com/events/intl-symp-on-ai-robotics-and-automation-in-space-2024-nov-19-21-2024-brisbane-australia/",
+      "continent": "Oceania"
+    },
+    {
+      "year": 2026,
+      "city": "Cologne",
+      "region": "North Rhine-Westphalia",
+      "country": "Germany",
+      "venue": "Confex Cologne (joint i-SAIRAS & iSpaRo)",
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-06",
+      "abstract_deadline": "2026-06-24",
+      "source": "https://www.isairas-isparo.de/front/content.php?id_article=583",
+      "continent": "Europe"
+    }
+  ],
+  "sources": [
+    "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/i-SAIRAS",
+    "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Conferences_and_Symposia",
+    "https://www.isairas-isparo.de/front/index.php",
+    "https://www.isairas-isparo.de/front/content.php?id_article=583",
+    "https://spacepolicyonline.com/events/intl-symp-on-ai-robotics-and-automation-in-space-2024-nov-19-21-2024-brisbane-australia/"
+  ],
+  "notes": "ESA's list counts 16 editions up to Brisbane 2024, which is the 16th. The 2026 Cologne edition is held jointly with iSpaRo; its home page says 3-6 Nov 2026, while the Important Dates page says sessions run 3-5 Nov with an optional DLR tour on 6 Nov. The 2018 end date is 5 Jun on the current ESA page; an older ESA page version reportedly gave 6 Jun. Venues for 2014-2018 are not verified. No edition after 2026 has been announced; by the biennial pattern the next would be 2028, rotating continent (America/Asia/Europe), but this is unverified. Abstract deadlines for 2014-2020 were not found. ESA notes that i-SAIRAS and ASTRA are staggered so one runs each year.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

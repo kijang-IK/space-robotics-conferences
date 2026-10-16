@@ -1,0 +1,93 @@
+{
+  "id": "iaa-dycoss",
+  "short_name": "IAA DyCoSS",
+  "full_name": "IAA Conference on Dynamics and Control of Space Systems",
+  "category": "space",
+  "organizer": "International Academy of Astronautics (IAA) with the American Astronautical Society (AAS) (proceedings in AAS Advances in the Astronautical Sciences, Univelt); local hosts: GAUSS Srl (Rome 2014), RUDN University (Moscow 2017), National University of Defense Technology College of Aerospace Engineering (Changsha 2018)",
+  "fields": [
+    "astrodynamics",
+    "GNC",
+    "attitude dynamics and control",
+    "orbit determination",
+    "space structures/tethers",
+    "space robotics"
+  ],
+  "frequency": "nominally biennial (2012, 2014, 2017, 2018); no edition found after 2018",
+  "typical_month": "March-May",
+  "official_url": null,
+  "submission": {
+    "type": "abstract (max 500 words, via EasyChair) -> full manuscript for accepted papers; proceedings in AAS Advances in the Astronautical Sciences; selected papers to Acta Astronautica",
+    "typical_abstract_deadline": "January-March of conference year",
+    "typical_final_deadline": "~3-4 weeks before conference (1 May 2017; 7 May 2018)",
+    "notes": "2017 EasyChair lists abstract registration deadline 15 Mar 2017 but guidelines say 1 Mar 2017; 2018 EasyChair header says 28 Feb 2018 but guidelines say 31 Jan 2018."
+  },
+  "next_edition": {
+    "year": null,
+    "city": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "abstract_deadline": null,
+    "status": "not yet announced",
+    "source": "https://iaaspace.org/events/iaa-conferences/",
+    "continent": null
+  },
+  "editions": [
+    {
+      "year": 2014,
+      "city": "Rome",
+      "region": null,
+      "country": "Italy",
+      "venue": null,
+      "start_date": "2014-03-24",
+      "end_date": "2014-03-26",
+      "abstract_deadline": null,
+      "source": "https://portfolio.erau.edu/en/publications/differential-drag-based-roto-translational-control-for-propellant-2/",
+      "edition": "2nd",
+      "notes": "Proceedings: AAS Advances in the Astronautical Sciences vol. 153. Local organizer GAUSS (https://www.gaussteam.com/?p=6132).",
+      "continent": "Europe"
+    },
+    {
+      "year": 2017,
+      "city": "Moscow",
+      "region": null,
+      "country": "Russia",
+      "venue": "Peoples' Friendship University of Russia (RUDN University)",
+      "start_date": "2017-05-30",
+      "end_date": "2017-06-01",
+      "abstract_deadline": "2017-03-15",
+      "source": "https://easychair.org/cfp/DyCoSS-2017",
+      "edition": "3rd",
+      "notes": "Abstract deadline ambiguous: 15 Mar 2017 (EasyChair header) vs 1 Mar 2017 (guidelines). Proceedings AAS vol. 161.",
+      "continent": "Europe"
+    },
+    {
+      "year": 2018,
+      "city": "Changsha, Hunan",
+      "region": null,
+      "country": "China",
+      "venue": "National University of Defense Technology (NUDT)",
+      "start_date": "2018-05-21",
+      "end_date": "2018-05-23",
+      "abstract_deadline": "2018-02-28",
+      "source": "https://easychair.org/cfp/DYCOSS2018",
+      "edition": "4th",
+      "notes": "Abstract deadline ambiguous: 28 Feb 2018 (header) vs 31 Jan 2018 (guidelines). Proceedings AAS vol. 165 (https://www.univelt.com/linkedfiles/v165%20Contents.pdf).",
+      "continent": "Asia"
+    }
+  ],
+  "sources": [
+    "https://iaaspace.org/events/iaa-conferences/",
+    "https://easychair.org/cfp/DyCoSS-2017",
+    "https://easychair.org/cfp/DYCOSS2018",
+    "https://eng.rudn.ru/science/newsletter/2017/2/3d-iaa-conference-on-dynamics-and-control-of-space-systems-dycoss-2017",
+    "https://portfolio.erau.edu/en/publications/differential-drag-based-roto-translational-control-for-propellant-2/",
+    "https://www.univelt.com/linkedfiles/v165%20Contents.pdf",
+    "https://www.gaussteam.com/?p=6132"
+  ],
+  "notes": "Included because it is the IAA series most directly on GNC/dynamics, but it appears DORMANT: IAA's historic-events chronicle lists DyCoSS 2012 Porto, 2014 Roma, 2017 Moscow, 2018 Changsha only; searches for a 5th edition found nothing, and DyCoSS is not in the current IAA conference portfolio. No official series website. 1st edition: Porto, Portugal, 19-21 Mar 2012 (outside 2014+ window).",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

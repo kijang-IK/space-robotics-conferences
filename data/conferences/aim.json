@@ -1,0 +1,210 @@
+{
+  "id": "aim",
+  "short_name": "AIM",
+  "full_name": "IEEE/ASME International Conference on Advanced Intelligent Mechatronics",
+  "category": "robotics",
+  "organizer": "IEEE Robotics and Automation Society (RAS), IEEE Industrial Electronics Society (IES), ASME Dynamic Systems and Control Division (DSCD); flagship conference of IEEE/ASME Transactions on Mechatronics (TMECH)",
+  "fields": [
+    "mechatronics",
+    "robotics",
+    "control",
+    "actuators and sensors",
+    "dynamic systems"
+  ],
+  "frequency": "annual (biennial until 2007)",
+  "typical_month": "July (sometimes late June)",
+  "official_url": "https://aim2027.com/",
+  "submission": {
+    "type": "full paper (contributed/invited papers); also TMECH/AIM Focused Section (journal + conference) and late-breaking results",
+    "typical_abstract_deadline": "Late January to late March (2026: Mar 24; 2027: Jan 26)",
+    "typical_final_deadline": "Early May to early June (2026: Jun 1; 2027: May 3)",
+    "notes": "No separate abstract stage. 'abstract_deadline' holds the 'Contributed/Invited Papers & TMECH Presentation Only' deadline from the official site. AIM 2027 key dates (official aim2027.com): TMECH/AIM Focused Section Dec 23, 2026; invited/workshop/special session proposals Jan 21, 2027; contributed/invited papers Jan 26, 2027; TMECH/AIM first decision Feb 22, 2027; final decision Apr 23, 2027; final paper May 3, 2027; late-breaking May 9, 2027."
+  },
+  "next_edition": {
+    "year": 2027,
+    "city": "Calgary, Alberta",
+    "country": "Canada",
+    "start_date": "2027-06-29",
+    "end_date": "2027-07-02",
+    "abstract_deadline": "2027-01-26",
+    "status": "open",
+    "source": "https://aim2027.com/",
+    "continent": "North America"
+  },
+  "editions": [
+    {
+      "year": 2015,
+      "city": "Busan",
+      "region": null,
+      "country": "South Korea",
+      "venue": null,
+      "start_date": "2015-07-07",
+      "end_date": "2015-07-11",
+      "abstract_deadline": null,
+      "source": "https://aimrl.gatech.edu/AIM.htm",
+      "continent": "Asia"
+    },
+    {
+      "year": 2016,
+      "city": "Banff",
+      "region": null,
+      "country": "Canada",
+      "venue": null,
+      "start_date": "2016-07-12",
+      "end_date": "2016-07-15",
+      "abstract_deadline": null,
+      "source": "https://aimrl.gatech.edu/AIM.htm",
+      "continent": "North America"
+    },
+    {
+      "year": 2017,
+      "city": "Munich",
+      "region": null,
+      "country": "Germany",
+      "venue": null,
+      "start_date": "2017-07-03",
+      "end_date": "2017-07-07",
+      "abstract_deadline": null,
+      "source": "https://aimrl.gatech.edu/AIM.htm",
+      "continent": "Europe"
+    },
+    {
+      "year": 2018,
+      "city": "Auckland",
+      "region": null,
+      "country": "New Zealand",
+      "venue": null,
+      "start_date": "2018-07-09",
+      "end_date": "2018-07-12",
+      "abstract_deadline": null,
+      "source": "https://aimrl.gatech.edu/AIM.htm",
+      "continent": "Oceania"
+    },
+    {
+      "year": 2019,
+      "city": "Hong Kong",
+      "region": null,
+      "country": "China (Hong Kong SAR)",
+      "venue": null,
+      "start_date": "2019-07-08",
+      "end_date": "2019-07-12",
+      "abstract_deadline": null,
+      "source": "https://aimrl.gatech.edu/AIM.htm",
+      "continent": "Asia"
+    },
+    {
+      "year": 2020,
+      "city": "Boston (virtual)",
+      "region": null,
+      "country": "United States",
+      "venue": "Virtual",
+      "start_date": "2020-07-06",
+      "end_date": "2020-07-10",
+      "abstract_deadline": null,
+      "source": "https://aimrl.gatech.edu/AIM.htm",
+      "continent": "North America"
+    },
+    {
+      "year": 2021,
+      "city": "Delft (virtual)",
+      "region": null,
+      "country": "Netherlands",
+      "venue": "Virtual",
+      "start_date": "2021-07-12",
+      "end_date": "2021-07-16",
+      "abstract_deadline": null,
+      "source": "https://aimrl.gatech.edu/AIM.htm",
+      "continent": "Europe"
+    },
+    {
+      "year": 2022,
+      "city": "Sapporo",
+      "region": null,
+      "country": "Japan",
+      "venue": "Royton Sapporo (hybrid)",
+      "start_date": "2022-07-11",
+      "end_date": "2022-07-15",
+      "abstract_deadline": null,
+      "source": "https://sice.jp/info/info_event/event_20220711.html",
+      "continent": "Asia"
+    },
+    {
+      "year": 2023,
+      "city": "Seattle, Washington",
+      "region": null,
+      "country": "United States",
+      "venue": null,
+      "start_date": "2023-06-28",
+      "end_date": "2023-06-30",
+      "abstract_deadline": null,
+      "source": "https://asme.org/getmedia/b841d3bb-9cdd-4f81-a545-135e42653d68/aim2023_cfp.pdf",
+      "continent": "North America"
+    },
+    {
+      "year": 2024,
+      "city": "Boston, Massachusetts",
+      "region": null,
+      "country": "United States",
+      "venue": null,
+      "start_date": "2024-07-15",
+      "end_date": "2024-07-19",
+      "abstract_deadline": null,
+      "source": "https://ras.papercept.net/images/temp/AIM/AIM24_ProgramAtAGlanceMedia.html",
+      "continent": "North America"
+    },
+    {
+      "year": 2025,
+      "city": "Hangzhou",
+      "region": null,
+      "country": "China",
+      "venue": null,
+      "start_date": "2025-07-14",
+      "end_date": "2025-07-18",
+      "abstract_deadline": null,
+      "source": "https://ras.papercept.net/conferences/conferences/AIM25/program",
+      "continent": "Asia"
+    },
+    {
+      "year": 2026,
+      "city": "Genoa (Genova)",
+      "region": null,
+      "country": "Italy",
+      "venue": "Magazzini del Cotone, Porto Antico",
+      "start_date": "2026-07-07",
+      "end_date": "2026-07-10",
+      "abstract_deadline": "2026-03-24",
+      "source": "https://aim2026.com",
+      "continent": "Europe"
+    },
+    {
+      "year": 2027,
+      "city": "Calgary, Alberta",
+      "region": null,
+      "country": "Canada",
+      "venue": null,
+      "start_date": "2027-06-29",
+      "end_date": "2027-07-02",
+      "abstract_deadline": "2027-01-26",
+      "source": "https://aim2027.com/",
+      "continent": "North America"
+    }
+  ],
+  "sources": [
+    "https://aim2027.com/",
+    "https://www.ieee-ras.org/event/call-for-papers-paper-submission-deadline-aim-2027-ieee-asme-international-conference-on-advanced-intelligent-mechatronics-aim-27400-0/",
+    "https://www.ieee-ies.org/conferences",
+    "https://aim2026.com",
+    "https://aimrl.gatech.edu/AIM.htm",
+    "https://ras.papercept.net/conferences/conferences/AIM25/program",
+    "https://ras.papercept.net/images/temp/AIM/AIM24_ProgramAtAGlanceMedia.html",
+    "https://ras.papercept.net/images/temp/AIM/AIM24_WelcomeMedia.html",
+    "https://asme.org/getmedia/b841d3bb-9cdd-4f81-a545-135e42653d68/aim2023_cfp.pdf",
+    "https://sice.jp/info/info_event/event_20220711.html",
+    "https://iten.ieee-ies.org/announcement/2025/call-for-papers-the-seventh-edition-of-focused-section-on-tmech-aim-emerging-topics/"
+  ],
+  "notes": "Next edition AIM 2027, Calgary, Canada, June 29-July 2, 2027 (official aim2027.com; venue 'coming soon'). Deadline conflict: official site lists contributed/invited papers due 2027-01-26, while the IEEE RAS event calendar lists a paper submission deadline of 2027-03-02 (used official value; verify). IEEE IES calendar lists Calgary but July 12-15, 2027 (outlier). The Georgia Tech AIM history page lists AIM 2027 as Boulder, CO, July 12-16 - appears outdated; superseded by the official site. Georgia Tech page also lists AIM 2022 as 'Hakodate' but SICE/proceedings records say Sapporo (Sapporo used); it also lists AIM 2026 as July 7-11 vs official July 7-10 (official used). AIM 2023: CFP says June 28-30; welcome message/MDPI list June 27-July 1 (incl. tutorials). AIM 2024: PaperCept pages vary between July 15-18 and 15-19. AIM 2020 dates from Georgia Tech page (July 6-10). Paper deadlines for 2015-2025 not verified (null); an aggregator mention of 2020-01-08 for AIM 2020 was not confirmed. Edition dates 2015-2021 rely on the Georgia Tech AIM history page (aimrl.gatech.edu) because dblp was blocked.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

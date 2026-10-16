@@ -1,0 +1,143 @@
+{
+  "id": "eucass",
+  "short_name": "EUCASS",
+  "full_name": "European Conference for Aeronautics and Space Sciences (now styled 'European Conference for AeroSpace Sciences')",
+  "category": "aerospace",
+  "organizer": "EUCASS association (non-profit; European aerospace universities and research centres), with a local host per edition (e.g. 3AF in 2022, CEAS in 2023)",
+  "fields": [
+    "aeronautics",
+    "space sciences",
+    "propulsion",
+    "aerodynamics",
+    "flight mechanics / GNC",
+    "structures and materials",
+    "space systems"
+  ],
+  "frequency": "Biennial (odd years; 2022 and 2023 were back-to-back after the COVID shift)",
+  "typical_month": "Late June - early July",
+  "official_url": "https://www.eucass.eu/",
+  "submission": {
+    "type": "One-page A4 abstract (oral or poster); full paper for proceedings",
+    "typical_abstract_deadline": "Mid-January of the conference year (2025: 15 Jan; 2027: 15 Jan)",
+    "typical_final_deadline": "Proceedings deadline in mid/late June, just before the conference (2025: 25 Jun; 2027: 20 Jun)",
+    "notes": "Maximum of 3 papers per author; abstracts are uploaded as PDF through the website (https://eucass2027.eu/submission-guidelines/). 2019: abstract deadline 11 Feb 2019, extended to 10 Mar 2019."
+  },
+  "next_edition": {
+    "year": 2027,
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "start_date": "2027-06-28",
+    "end_date": "2027-07-02",
+    "abstract_deadline": "2027-01-15",
+    "status": "open",
+    "source": "https://eucass2027.eu/eucass-keydates/",
+    "continent": "Europe"
+  },
+  "editions": [
+    {
+      "year": 2015,
+      "city": "Krakow",
+      "region": "Lesser Poland",
+      "country": "Poland",
+      "venue": "ICE Krakow Congress Centre",
+      "start_date": "2015-06-29",
+      "end_date": "2015-07-03",
+      "abstract_deadline": null,
+      "source": "https://www.eucass.eu/conferences-and-publications/archives/archives-eucass/eucass-2015-krakow",
+      "continent": "Europe"
+    },
+    {
+      "year": 2017,
+      "city": "Milan",
+      "region": "Lombardy",
+      "country": "Italy",
+      "venue": "Politecnico di Milano, Bovisa Campus",
+      "start_date": "2017-07-03",
+      "end_date": "2017-07-06",
+      "abstract_deadline": null,
+      "source": "https://www.eucass.eu/conferences-and-publications/archives/archives-eucass/eucass-2017-milan/eucass-2017",
+      "continent": "Europe"
+    },
+    {
+      "year": 2019,
+      "city": "Madrid",
+      "region": "Community of Madrid",
+      "country": "Spain",
+      "venue": "ETSIAE-UPM School of Aeronautics and Space Engineering",
+      "start_date": "2019-07-01",
+      "end_date": "2019-07-04",
+      "abstract_deadline": "2019-03-10",
+      "source": "https://www.eucass.eu/2019/",
+      "continent": "Europe"
+    },
+    {
+      "year": 2022,
+      "city": "Lille",
+      "region": "Hauts-de-France",
+      "country": "France",
+      "venue": "Lille Grand Palais (EUCASS-3AF 2022)",
+      "start_date": "2022-06-27",
+      "end_date": "2022-07-01",
+      "abstract_deadline": null,
+      "source": "https://www.eucass.eu/conferences-and-publications/archives/archives-eucass/eucass-2022",
+      "continent": "Europe"
+    },
+    {
+      "year": 2023,
+      "city": "Lausanne",
+      "region": "Vaud",
+      "country": "Switzerland",
+      "venue": "SwissTech Convention Center, EPFL (joint 10th EUCASS - 9th CEAS, Aerospace Europe Conference 2023)",
+      "start_date": "2023-07-09",
+      "end_date": "2023-07-13",
+      "abstract_deadline": null,
+      "source": "https://eucass.eu/eucass-ceas-2023/index.htm",
+      "continent": "Europe"
+    },
+    {
+      "year": 2025,
+      "city": "Rome",
+      "region": "Lazio",
+      "country": "Italy",
+      "venue": "Congress Center Auditorium della Tecnica",
+      "start_date": "2025-06-30",
+      "end_date": "2025-07-04",
+      "abstract_deadline": "2025-01-15",
+      "source": "https://www.eucass.eu/2025/?p=1122",
+      "continent": "Europe"
+    },
+    {
+      "year": 2027,
+      "city": "Glasgow",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "venue": "Scottish Event Campus (SEC) (per spaceagenda listing; not confirmed on official site)",
+      "start_date": "2027-06-28",
+      "end_date": "2027-07-02",
+      "abstract_deadline": "2027-01-15",
+      "source": "https://eucass2027.eu/eucass-keydates/",
+      "continent": "Europe"
+    }
+  ],
+  "sources": [
+    "https://www.eucass.eu/conferences-and-publications/archives",
+    "https://eucass2027.eu",
+    "https://eucass2027.eu/eucass-keydates/",
+    "https://eucass2027.eu/submission-guidelines/",
+    "https://www.ukspace.org/event/eucass-2027/",
+    "https://www.spaceagenda.com/event/12th-european-conference-for-aerospace-sciences-eucass-2027/",
+    "https://www.eucass.eu/2025/?p=1122",
+    "https://space-innovation.ch/event/eucass-2025/",
+    "https://www.eucass.eu/2019/",
+    "https://www.eucass.eu/conferences-and-publications/archives/archives-eucass/eucass-2019",
+    "https://www.eucass.eu/conferences-and-publications/archives/archives-eucass/eucass-2015-krakow",
+    "https://www.eucass.eu/conferences-and-publications/archives/archives-eucass/eucass-2017-milan/eucass-2017",
+    "https://www.eucass.eu/conferences-and-publications/archives/archives-eucass/eucass-2022",
+    "https://eucass.eu/eucass-ceas-2023/index.htm"
+  ],
+  "notes": "EUCASS 2027 is the 12th edition; the Call for Papers was issued 6 Oct 2026, and the eucass2027.eu banner said 'Submission now open' on 2026-10-16. 2027 key dates: notification 18 Mar 2027, proceedings deadline 20 Jun 2027. The 2027 venue (SEC) comes from a third-party listing only. 2023: registration opened 9 Jul, sessions ran 10-13 Jul and technical visits were on 14 Jul; the page listed a full paper deadline of 9 Jul 2023 but no abstract deadline. 2025: the venue comes from the space-innovation.ch event listing. No EUCASS edition was held in 2014; the 5th was Munich 2013. The 2019 abstract_deadline is the extended date; the original was 11 Feb 2019. Abstract deadlines for 2015, 2017, 2022 and 2023 were not found.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

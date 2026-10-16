@@ -1,0 +1,208 @@
+{
+  "id": "iccas",
+  "short_name": "ICCAS",
+  "full_name": "International Conference on Control, Automation and Systems",
+  "category": "control",
+  "organizer": "Institute of Control, Robotics and Systems (ICROS), Korea; IEEE technical co-sponsorship (IEEE CSS listed on RAS calendar for 2026)",
+  "fields": [
+    "control theory",
+    "automation",
+    "robotics",
+    "systems engineering",
+    "autonomous vehicles"
+  ],
+  "frequency": "annual",
+  "typical_month": "October-November",
+  "official_url": "https://2026.iccas.org/",
+  "submission": {
+    "type": "full paper (regular 3-6 pages); late-result papers",
+    "typical_abstract_deadline": "Early June to mid July (initially May 31, routinely extended)",
+    "typical_final_deadline": "Late August (camera-ready, e.g., Aug 31, 2026)",
+    "notes": "No separate abstract stage. 'abstract_deadline' holds the full-paper submission deadline (final value after extensions where known). ICCAS 2026: official site shows full paper 'May 31, 2026' and 'June 15, 2026' (the second appears to be an extension; RAS calendar lists May 31); late-result papers Jul 15; notification Jul 31; camera-ready Aug 31, 2026 (all Pacific Time)."
+  },
+  "next_edition": {
+    "year": 2026,
+    "city": "Sapporo",
+    "country": "Japan",
+    "start_date": "2026-10-27",
+    "end_date": "2026-10-30",
+    "abstract_deadline": "2026-06-15",
+    "status": "closed",
+    "source": "https://2026.iccas.org/",
+    "continent": "Asia"
+  },
+  "editions": [
+    {
+      "year": 2015,
+      "city": "Busan",
+      "region": null,
+      "country": "South Korea",
+      "venue": "BEXCO",
+      "start_date": "2015-10-13",
+      "end_date": "2015-10-16",
+      "abstract_deadline": null,
+      "source": "https://icros.org/eng/sub/sub04_1.asp",
+      "continent": "Asia"
+    },
+    {
+      "year": 2016,
+      "city": "Gyeongju",
+      "region": null,
+      "country": "South Korea",
+      "venue": "HICO",
+      "start_date": "2016-10-16",
+      "end_date": "2016-10-19",
+      "abstract_deadline": null,
+      "source": "https://icros.org/eng/sub/sub04_1.asp",
+      "continent": "Asia"
+    },
+    {
+      "year": 2017,
+      "city": "Jeju",
+      "region": null,
+      "country": "South Korea",
+      "venue": "Ramada Plaza Jeju",
+      "start_date": "2017-10-18",
+      "end_date": "2017-10-21",
+      "abstract_deadline": "2017-07-15",
+      "source": "https://ewh.ieee.org/soc/ras/conf/technicallycosponsored/iccas/iccas2017/2017.iccas.org/index8db2.html?page_id=17",
+      "continent": "Asia"
+    },
+    {
+      "year": 2018,
+      "city": "PyeongChang",
+      "region": null,
+      "country": "South Korea",
+      "venue": "YongPyong Resort",
+      "start_date": "2018-10-17",
+      "end_date": "2018-10-20",
+      "abstract_deadline": "2018-06-17",
+      "source": "https://ewh.ieee.org/soc/ras/conf/technicallycosponsored/iccas/iccas2018/2018.iccas.org/index8a92.html?page_id=75",
+      "continent": "Asia"
+    },
+    {
+      "year": 2019,
+      "city": "Jeju",
+      "region": null,
+      "country": "South Korea",
+      "venue": "ICC Jeju",
+      "start_date": "2019-10-15",
+      "end_date": "2019-10-18",
+      "abstract_deadline": "2019-06-30",
+      "source": "https://www.ieee-ras.org/about-ras/ras-calendar/event/1684-call-for-papers-iccas-2019",
+      "continent": "Asia"
+    },
+    {
+      "year": 2020,
+      "city": "Busan (online)",
+      "region": null,
+      "country": "South Korea",
+      "venue": "BEXCO (Online)",
+      "start_date": "2020-10-13",
+      "end_date": "2020-10-16",
+      "abstract_deadline": null,
+      "source": "https://icros.org/eng/sub/sub04_1.asp",
+      "continent": "Asia"
+    },
+    {
+      "year": 2021,
+      "city": "Jeju",
+      "region": null,
+      "country": "South Korea",
+      "venue": "Ramada Plaza Jeju",
+      "start_date": "2021-10-12",
+      "end_date": "2021-10-15",
+      "abstract_deadline": "2021-06-07",
+      "source": "https://www.ieee-ras.org/about-ras/ras-calendar/event/2018-iccas-2021-call-for-papers-deadline",
+      "continent": "Asia"
+    },
+    {
+      "year": 2022,
+      "city": "Busan",
+      "region": null,
+      "country": "South Korea",
+      "venue": "BEXCO (hybrid)",
+      "start_date": "2022-11-27",
+      "end_date": "2022-12-01",
+      "abstract_deadline": null,
+      "source": "https://icros.org/eng/sub/sub04_1.asp",
+      "continent": "Asia"
+    },
+    {
+      "year": 2023,
+      "city": "Yeosu",
+      "region": null,
+      "country": "South Korea",
+      "venue": "Yeosu Venezia Hotel & Utop Marina Hotel",
+      "start_date": "2023-10-17",
+      "end_date": "2023-10-20",
+      "abstract_deadline": null,
+      "source": "https://icros.org/eng/sub/sub04_1.asp",
+      "continent": "Asia"
+    },
+    {
+      "year": 2024,
+      "city": "Jeju",
+      "region": null,
+      "country": "South Korea",
+      "venue": "Jeju Shinhwa World",
+      "start_date": "2024-10-29",
+      "end_date": "2024-11-01",
+      "abstract_deadline": null,
+      "source": "https://icros.org/eng/sub/sub04_1.asp",
+      "continent": "Asia"
+    },
+    {
+      "year": 2025,
+      "city": "Incheon",
+      "region": null,
+      "country": "South Korea",
+      "venue": "Songdo ConvensiA",
+      "start_date": "2025-11-04",
+      "end_date": "2025-11-07",
+      "abstract_deadline": "2025-07-04",
+      "source": "https://2025.iccas.org/",
+      "continent": "Asia"
+    },
+    {
+      "year": 2026,
+      "city": "Sapporo",
+      "region": null,
+      "country": "Japan",
+      "venue": "Hotel Emisia Sapporo",
+      "start_date": "2026-10-27",
+      "end_date": "2026-10-30",
+      "abstract_deadline": "2026-06-15",
+      "source": "https://2026.iccas.org/",
+      "continent": "Asia"
+    },
+    {
+      "year": 2027,
+      "city": "Jeju",
+      "region": null,
+      "country": "South Korea",
+      "venue": "Sheraton Jeju Hotel",
+      "start_date": "2027-11-02",
+      "end_date": "2027-11-05",
+      "abstract_deadline": null,
+      "source": "https://icros.org/eng/sub/sub04_1.asp",
+      "continent": "Asia"
+    }
+  ],
+  "sources": [
+    "https://icros.org/eng/sub/sub04_1.asp",
+    "https://2025.iccas.org/?page_id=949",
+    "https://2026.iccas.org/",
+    "https://www.ieee-ras.org/event/2026-26th-international-conference-on-control-automation-and-systems-iccas/",
+    "https://2025.iccas.org/",
+    "https://www.ieee-ras.org/about-ras/ras-calendar/event/2018-iccas-2021-call-for-papers-deadline",
+    "https://www.ieee-ras.org/about-ras/ras-calendar/event/1684-call-for-papers-iccas-2019",
+    "https://ewh.ieee.org/soc/ras/conf/technicallycosponsored/iccas/iccas2018/2018.iccas.org/index8a92.html?page_id=75",
+    "https://ewh.ieee.org/soc/ras/conf/technicallycosponsored/iccas/iccas2017/2017.iccas.org/index8db2.html?page_id=17"
+  ],
+  "notes": "Next edition ICCAS 2026 (26th) in Sapporo, Japan, Oct 27-30, 2026 - still upcoming as of 2026-10-16 but submissions closed (full papers May 31 -> June 15, 2026; late-result papers July 15, 2026). The 26th edition is the first in the list held outside Korea. ICCAS 2027 (27th) is announced by ICROS: Nov 2-5, 2027, Sheraton Jeju Hotel, Jeju, Korea (General Co-Chair Jinwhan Kim, KAIST); its paper deadline is NOT yet published (2027.iccas.org had an invalid certificate). 2026 deadline: RAS calendar lists May 31, 2026; official site shows both May 31 and June 15 (June 15 recorded as the final extended date - verify). 2025: official site shows May 31, June 15 and July 04 (bold) - July 4, 2025 recorded as final. 2024 end date: ICROS list says Nov 1; 2025 site history page says Nov 2; an aggregator says Nov 1 (Nov 1 used). 2019 deadline June 30 was an extended date. Deadlines for 2015, 2016, 2020, 2022-2024 not verified (null). Many unrelated events also use the 'ICCAS' acronym (e.g., itrgroup events in India/UK, WASET Tokyo) - not this conference.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

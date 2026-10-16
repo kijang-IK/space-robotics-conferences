@@ -1,0 +1,249 @@
+{
+  "id": "rss",
+  "short_name": "RSS",
+  "full_name": "Robotics: Science and Systems",
+  "category": "robotics",
+  "organizer": "RSS Foundation",
+  "fields": [
+    "robotics",
+    "robot learning",
+    "planning and control",
+    "perception",
+    "manipulation",
+    "field robotics",
+    "HRI"
+  ],
+  "frequency": "annual",
+  "typical_month": "June-July",
+  "official_url": "https://roboticsconference.org/",
+  "submission": {
+    "type": "full paper, single-track, double-blind; from RSS 2025 a title/abstract registration one week before the full paper; RSS 2027 introduces a two-stage process (6-page extended abstract -> rebuttal -> Extension Charter -> final paper)",
+    "typical_abstract_deadline": "Historically late January / early February (AoE) for the full paper (2022: Jan 29; 2023: Feb 3; 2024: Feb 2; 2025: Jan 24 with abstract Jan 17; 2026: Jan 30 with abstract Jan 23). RSS 2027: extended abstract due Dec 4, 2026.",
+    "typical_final_deadline": "Notification ~late April/May; camera-ready ~mid/late May (2023: May 28; 2027: final paper Apr 16, acceptance Apr 30, camera-ready May 14, 2027).",
+    "notes": "abstract_deadline fields hold the FULL PAPER (initial paper) deadline for 2015-2026; for 2027 it holds the Stage-1 extended abstract deadline, which is the first binding submission. Page limits: historically 8 pages + references (e.g. RSS 2016); RSS 2027 Stage 1 = 6 pages (5 content + 1 references), final paper max 8 pages excluding references. Double-blind (anonymized submissions). No RA-L/journal option (RSS is not an IEEE conference; proceedings at roboticsproceedings.org)."
+  },
+  "next_edition": {
+    "year": 2027,
+    "city": "Athens",
+    "country": "Greece",
+    "start_date": "2027-07-06",
+    "end_date": "2027-07-11",
+    "abstract_deadline": "2026-12-04",
+    "status": "open",
+    "source": "https://roboticsconference.org/information/cfp/",
+    "notes": "Call for papers published; Stage-1 extended abstract (6 pages: 5 content + 1 references, anonymized) due Dec 4, 2026 23:59 AoE. Final papers (max 8 pages excl. references) due Apr 16, 2027 for papers invited to Stage 2.",
+    "continent": "Europe"
+  },
+  "editions": [
+    {
+      "year": 2015,
+      "city": "Rome",
+      "region": null,
+      "country": "Italy",
+      "venue": "Sapienza University of Rome",
+      "start_date": "2015-07-13",
+      "end_date": "2015-07-17",
+      "abstract_deadline": "2015-01-22",
+      "source": "https://mailman.srv.cs.cmu.edu/pipermail/connectionists/2014-November/027492.html",
+      "notes": "From the RSS 2015 second CFP (mailing list): final paper deadline Jan 22, 2015; main conference Jul 13-15, workshops Jul 16-17.",
+      "continent": "Europe"
+    },
+    {
+      "year": 2016,
+      "city": "Ann Arbor",
+      "region": null,
+      "country": "United States",
+      "venue": "University of Michigan (Rackham Auditorium)",
+      "start_date": "2016-06-18",
+      "end_date": "2016-06-22",
+      "abstract_deadline": "2016-01-28",
+      "source": "https://rss2016.engin.umich.edu/callforpapers.html",
+      "extra_sources": [
+        "https://rss2016.engin.umich.edu"
+      ],
+      "notes": "Workshops Jun 18-19, main conference Jun 20-22. Deadline Jan 28, 2016 AoE.",
+      "continent": "North America"
+    },
+    {
+      "year": 2017,
+      "city": "Cambridge, MA",
+      "region": null,
+      "country": "United States",
+      "venue": "MIT (Kresge Auditorium)",
+      "start_date": "2017-07-12",
+      "end_date": "2017-07-16",
+      "abstract_deadline": null,
+      "source": "https://www.microsoft.com/en-us/research/wp-json/wp/v2/msr-event/391388",
+      "notes": "Paper deadline could not be verified (archived RSS 2017 site not found).",
+      "continent": "North America"
+    },
+    {
+      "year": 2018,
+      "city": "Pittsburgh",
+      "region": null,
+      "country": "United States",
+      "venue": null,
+      "start_date": "2018-06-26",
+      "end_date": "2018-06-30",
+      "abstract_deadline": "2018-02-01",
+      "source": "https://confident-conference.org/index.php/Event:RSS_2018",
+      "extra_sources": [
+        "https://cei.ece.cornell.edu/2017/12/11/submit-to-rss2018"
+      ],
+      "notes": "Deadline from third-party sources (ConfIDent, researcher conference list). Venue (likely Carnegie Mellon University) not verified - null.",
+      "continent": "North America"
+    },
+    {
+      "year": 2019,
+      "city": "Freiburg im Breisgau",
+      "region": null,
+      "country": "Germany",
+      "venue": "Messe Freiburg (main program); University of Freiburg Faculty of Engineering campus (workshops)",
+      "start_date": "2019-06-22",
+      "end_date": "2019-06-26",
+      "abstract_deadline": "2019-02-01",
+      "source": "https://www.brainlinks-braintools.uni-freiburg.de/news/id/601/",
+      "extra_sources": [
+        "https://www.myhuiban.com/conference/471?lang=en-us"
+      ],
+      "notes": "Deadline Feb 1, 2019 from third-party aggregators (myhuiban, resurchify); not verified on official site.",
+      "continent": "Europe"
+    },
+    {
+      "year": 2020,
+      "city": null,
+      "region": null,
+      "country": null,
+      "venue": "Virtual",
+      "start_date": "2020-07-12",
+      "end_date": "2020-07-16",
+      "abstract_deadline": "2020-01-31",
+      "source": "https://roboticsconference.org/2020/",
+      "format": "virtual",
+      "notes": "Held virtually due to COVID-19.",
+      "continent": null
+    },
+    {
+      "year": 2021,
+      "city": null,
+      "region": null,
+      "country": null,
+      "venue": "Virtual",
+      "start_date": "2021-07-12",
+      "end_date": "2021-07-16",
+      "abstract_deadline": "2021-03-01",
+      "source": "https://roboticsconference.org/2021/",
+      "format": "virtual",
+      "continent": null
+    },
+    {
+      "year": 2022,
+      "city": "New York City",
+      "region": null,
+      "country": "United States",
+      "venue": "Columbia University",
+      "start_date": "2022-06-27",
+      "end_date": "2022-07-01",
+      "abstract_deadline": "2022-01-29",
+      "source": "https://roboticsconference.org/2022/",
+      "format": "hybrid",
+      "extra_sources": [
+        "https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml",
+        "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/rss.yml"
+      ],
+      "notes": "Official homepage lists January 29th, 2022; the CFP/aggregators list January 28 (23:59 AoE). Hybrid.",
+      "continent": "North America"
+    },
+    {
+      "year": 2023,
+      "city": "Daegu",
+      "region": null,
+      "country": "South Korea",
+      "venue": "Daegu Exhibition and Convention Center (EXCO)",
+      "start_date": "2023-07-10",
+      "end_date": "2023-07-14",
+      "abstract_deadline": "2023-02-03",
+      "source": "https://roboticsconference.org/2023/",
+      "continent": "Asia"
+    },
+    {
+      "year": 2024,
+      "city": "Delft",
+      "region": null,
+      "country": "Netherlands",
+      "venue": "Delft University of Technology",
+      "start_date": "2024-07-15",
+      "end_date": "2024-07-19",
+      "abstract_deadline": "2024-02-02",
+      "source": "https://roboticsconference.org/2024/",
+      "continent": "Europe"
+    },
+    {
+      "year": 2025,
+      "city": "Los Angeles",
+      "region": null,
+      "country": "United States",
+      "venue": "University of Southern California",
+      "start_date": "2025-06-21",
+      "end_date": "2025-06-25",
+      "abstract_deadline": "2025-01-24",
+      "source": "https://roboticsconference.org/2025/",
+      "abstract_registration_deadline": "2025-01-17",
+      "notes": "Abstract/title deadline Jan 17, 2025; initial (semi-complete) paper Jan 24, 2025; final PDF Jan 31, 2025 (AoE).",
+      "continent": "North America"
+    },
+    {
+      "year": 2026,
+      "city": "Sydney",
+      "region": null,
+      "country": "Australia",
+      "venue": "University of Technology Sydney / International Convention Centre Sydney",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "abstract_deadline": "2026-01-30",
+      "source": "https://roboticsconference.org/2026/",
+      "abstract_registration_deadline": "2026-01-23",
+      "extra_sources": [
+        "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/rss.yml"
+      ],
+      "notes": "Abstract/title deadline Jan 23, 2026; initial paper deadline printed on the official page as 'January 30, 2025' (typo for 2026; ccf-deadlines records 2026-01-30).",
+      "continent": "Oceania"
+    },
+    {
+      "year": 2027,
+      "city": "Athens",
+      "region": null,
+      "country": "Greece",
+      "venue": "Megaron Athens International Conference Centre (MAICC)",
+      "start_date": "2027-07-06",
+      "end_date": "2027-07-11",
+      "abstract_deadline": "2026-12-04",
+      "source": "https://roboticsconference.org/information/cfp/",
+      "extra_sources": [
+        "https://roboticsconference.org/",
+        "https://roboticsconference.org/attending/travel/"
+      ],
+      "notes": "New two-stage process: Stage-1 6-page extended abstract due Dec 4, 2026 AoE; Stage-1 decision Feb 5, 2027; rebuttal Feb 12; Stage-2 decision Feb 26; final paper Apr 16; supplementary Apr 19; acceptance Apr 30; camera-ready May 14, 2027.",
+      "continent": "Europe"
+    }
+  ],
+  "sources": [
+    "https://roboticsconference.org/",
+    "https://roboticsconference.org/information/cfp/",
+    "https://roboticsconference.org/2026/",
+    "https://roboticsconference.org/2025/",
+    "https://roboticsconference.org/2024/",
+    "https://roboticsconference.org/2023/",
+    "https://roboticsconference.org/2022/",
+    "https://roboticsconference.org/2021/",
+    "https://roboticsconference.org/2020/",
+    "https://rss2016.engin.umich.edu/callforpapers.html",
+    "https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml",
+    "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/rss.yml"
+  ],
+  "notes": "RSS 2027 is the 23rd edition. Unverified: RSS 2017 paper deadline (null), RSS 2018 venue (null); RSS 2018 and 2019 deadlines rely on third-party sources. RSS 2020/2021 virtual (city null).",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

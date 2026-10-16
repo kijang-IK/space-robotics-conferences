@@ -1,0 +1,304 @@
+{
+  "id": "icra",
+  "short_name": "ICRA",
+  "full_name": "IEEE International Conference on Robotics and Automation",
+  "category": "robotics",
+  "organizer": "IEEE Robotics and Automation Society (RAS) - fully sponsored flagship conference",
+  "fields": [
+    "robotics",
+    "automation",
+    "robot perception",
+    "robot learning",
+    "manipulation",
+    "autonomous systems"
+  ],
+  "frequency": "annual",
+  "typical_month": "May (occasionally early June, e.g. 2026)",
+  "official_url": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra",
+  "submission": {
+    "type": "full paper (no abstract-only stage); double-anonymous review; PaperPlaza",
+    "typical_abstract_deadline": "No separate abstract stage. Full paper deadline ~September 15 of the previous year (23:59 US Pacific), often extended by ~1 day (e.g. 2025: Sep 16, 2024; 2027: Sep 16, 2026).",
+    "typical_final_deadline": "Notification ~January 31; final (camera-ready) submission opens early February (Feb 6 for 2026/2027) with final papers due Feb-Mar (e.g. ICRA 2019: Feb 28, 2019; ICRA 2020: Mar 10, 2020).",
+    "notes": "abstract_deadline fields in this record hold the FULL PAPER submission deadline (ICRA has no abstract-only stage). Page limit: ICRA 2026 and 2027 = 8 pages total including references; ICRA 2025 = 6 pages + unlimited references; ICRA 2017-2020 = 6 pages (+2 paid extra pages). Review: 'double anonymous review process as defined by RAS' (ICRA 2027 / 2026 CFP). RA-L option: up to ICRA 2022 there was a separate 'RA-L with ICRA presentation option' submission with an earlier deadline (e.g. Sep 10, 2018 for ICRA 2019; Sep 10, 2019 for ICRA 2020; Oct 15, 2020 for ICRA 2021; Sep 9, 2021 for ICRA 2022). Current model (ICRA 2026/2027): no joint RA-L+ICRA submission; accepted papers from RAS journals (RA-L, RAM, T-RO, T-ASE, etc.) are automatically offered the option to present at a RAS conference after acceptance, with a journal-transfer deadline (Dec 31, 2026 for ICRA 2027). The exact year the old RA-L+ICRA option was discontinued was not verified (ccf-deadlines lists it for ICRA 2021-2022 but not 2023+)."
+  },
+  "next_edition": {
+    "year": 2027,
+    "city": "Seoul",
+    "country": "South Korea",
+    "start_date": "2027-05-24",
+    "end_date": "2027-05-28",
+    "abstract_deadline": "2026-09-16",
+    "status": "closed",
+    "source": "https://2027.ieee-icra.org/?p=1964",
+    "notes": "Full-paper deadline Sep 16, 2026 23:59 PST (extended from Sep 15); site shows 'Call for Papers - Submission Closed'. Notification Jan 31, 2027. Journal-transfer (RA-L etc.) deadline Dec 31, 2026 is still open. The following edition, ICRA 2028 (Rio de Janeiro, May 15-19, 2028), has a paper deadline of Sep 15, 2027 per IEEE RAS calendar.",
+    "continent": "Asia"
+  },
+  "editions": [
+    {
+      "year": 2015,
+      "city": "Seattle",
+      "region": null,
+      "country": "United States",
+      "venue": "Washington State Convention Center",
+      "start_date": "2015-05-26",
+      "end_date": "2015-05-30",
+      "abstract_deadline": "2014-10-01",
+      "source": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive/",
+      "extra_sources": [
+        "https://www.ieee-ras.org/component/rseventspro/print/479-icra-2015-call-for-papers-deadline?Itemid=101"
+      ],
+      "notes": "Deadline from the IEEE RAS calendar entry 'ICRA 2015 - Call for Papers Deadline' (1 Oct 2014); a third-party listing (NTU iceira) reports an extension to 2 Oct 2014 - not verified on an official page. Venue per IEEE RAS ICRA 2015 call/video archive (search result).",
+      "continent": "North America"
+    },
+    {
+      "year": 2016,
+      "city": "Stockholm",
+      "region": null,
+      "country": "Sweden",
+      "venue": "Stockholm Waterfront Congress Centre",
+      "start_date": "2016-05-16",
+      "end_date": "2016-05-21",
+      "abstract_deadline": "2015-09-15",
+      "source": "http://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2016/www.icra2016.org/index.html",
+      "notes": "RA-L with ICRA option deadline: 2015-08-31.",
+      "continent": "Europe"
+    },
+    {
+      "year": 2017,
+      "city": "Singapore",
+      "region": null,
+      "country": "Singapore",
+      "venue": "Sands Expo and Convention Centre, Marina Bay Sands",
+      "start_date": "2017-05-29",
+      "end_date": "2017-06-03",
+      "abstract_deadline": "2016-09-15",
+      "source": "http://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2017/www.icra2017.org/contribute/paper-submission.html",
+      "extra_sources": [
+        "http://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2017/www.icra2017.org/index.html"
+      ],
+      "notes": "Conference site says May 29 - June 3, 2017; IEEE RAS venues page says 29 May - 2 June 2017.",
+      "continent": "Asia"
+    },
+    {
+      "year": 2018,
+      "city": "Brisbane",
+      "region": null,
+      "country": "Australia",
+      "venue": "Brisbane Convention & Exhibition Centre",
+      "start_date": "2018-05-21",
+      "end_date": "2018-05-25",
+      "abstract_deadline": "2017-09-15",
+      "source": "https://confident-conference.org/index.php/ICRA_2018",
+      "extra_sources": [
+        "http://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2018/ICRA2018/icra2018.org/index.html",
+        "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive/"
+      ],
+      "notes": "Conference site (archived) says 21-25 May 2018; IEEE RAS venues page says 21-26 May 2018. Deadline per IEEE RAS event listing and ConfIDent (third-party).",
+      "continent": "Oceania"
+    },
+    {
+      "year": 2019,
+      "city": "Montreal",
+      "region": null,
+      "country": "Canada",
+      "venue": "Palais des congres de Montreal (Montreal Convention Centre)",
+      "start_date": "2019-05-20",
+      "end_date": "2019-05-24",
+      "abstract_deadline": "2018-09-15",
+      "source": "https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/ICRA2019/www.icra2019.org/program/important-dates.html",
+      "notes": "RA-L with ICRA option deadline: 2018-09-10. Notification 2019-01-31; final paper 2019-02-28.",
+      "continent": "North America"
+    },
+    {
+      "year": 2020,
+      "city": "Paris",
+      "region": null,
+      "country": "France",
+      "venue": "Palais des Congres de Paris (planned; held virtually)",
+      "start_date": "2020-05-31",
+      "end_date": "2020-08-31",
+      "abstract_deadline": "2019-09-15",
+      "source": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive/",
+      "format": "virtual",
+      "extra_sources": [
+        "https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/ICRA2020/www.icra2020.org/call-for-papers.html"
+      ],
+      "notes": "Originally planned May 31 - June 4, 2020 at Palais des Congres de Paris; moved online due to COVID-19 - IEEE RAS lists 'May 31-August 31, 2020 (virtual event)'. RA-L option deadline 2019-09-10.",
+      "continent": "Europe"
+    },
+    {
+      "year": 2021,
+      "city": "Xi'an",
+      "region": null,
+      "country": "China",
+      "venue": "Xi'an International Convention and Exhibition Center",
+      "start_date": "2021-05-30",
+      "end_date": "2021-06-05",
+      "abstract_deadline": "2020-10-31",
+      "source": "https://www.ieee-ras.org/about-ras/ras-calendar/event/1908-icra-2021-call-for-papers-deadline",
+      "format": "hybrid",
+      "extra_sources": [
+        "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive/",
+        "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/icra.yml"
+      ],
+      "notes": "Hybrid event. RA-L with ICRA option due 2020-10-15 (IEEE RAS calendar via search). Shifted later than usual due to COVID-19.",
+      "continent": "Asia"
+    },
+    {
+      "year": 2022,
+      "city": "Philadelphia",
+      "region": null,
+      "country": "United States",
+      "venue": "Pennsylvania Convention Center",
+      "start_date": "2022-05-23",
+      "end_date": "2022-05-27",
+      "abstract_deadline": "2021-09-15",
+      "source": "https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2022/icra2022.org/contribute/call-for-papers.html",
+      "notes": "Official CFP shows 'paper deadline Sept 14, Sept 15 2021' (extended to Sep 15). RA-L with ICRA 2022 option: 2021-09-09.",
+      "continent": "North America"
+    },
+    {
+      "year": 2023,
+      "city": "London",
+      "region": null,
+      "country": "United Kingdom",
+      "venue": "ExCeL London",
+      "start_date": "2023-05-29",
+      "end_date": "2023-06-02",
+      "abstract_deadline": "2022-09-15",
+      "source": "https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml",
+      "extra_sources": [
+        "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive/",
+        "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/icra.yml"
+      ],
+      "continent": "Europe"
+    },
+    {
+      "year": 2024,
+      "city": "Yokohama",
+      "region": null,
+      "country": "Japan",
+      "venue": "PACIFICO Yokohama",
+      "start_date": "2024-05-13",
+      "end_date": "2024-05-17",
+      "abstract_deadline": "2023-09-15",
+      "source": "https://2024.ieee-icra.org/",
+      "extra_sources": [
+        "https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml",
+        "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/icra.yml"
+      ],
+      "notes": "Official site: May 13-17, 2024; IEEE RAS venues page says 13-18 May 2024. Deadline from paperswithcode ai-deadlines / ccf-deadlines (third-party).",
+      "continent": "Asia"
+    },
+    {
+      "year": 2025,
+      "city": "Atlanta",
+      "region": null,
+      "country": "United States",
+      "venue": "Georgia World Congress Center",
+      "start_date": "2025-05-19",
+      "end_date": "2025-05-23",
+      "abstract_deadline": "2024-09-16",
+      "source": "https://2025.ieee-icra.org/announcements/paper-submissions/",
+      "notes": "Official CFP: 'Deadline: 16 September 2024 (23:59 PST)' (extended; aggregators list Sep 15). Page limit 6 pages + references.",
+      "continent": "North America"
+    },
+    {
+      "year": 2026,
+      "city": "Vienna",
+      "region": null,
+      "country": "Austria",
+      "venue": "VIECON / Messe Wien (Messeplatz 1, 1020 Vienna)",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "abstract_deadline": "2025-09-15",
+      "source": "https://2026.ieee-icra.org/contribute/call-for-icra-2026-papers-now-accepting-submissions/",
+      "extra_sources": [
+        "https://www.servicenow.com/research/event/2026-icra.html",
+        "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/icra.yml",
+        "https://2026.ieee-icra.org/"
+      ],
+      "notes": "Official page confirms dates and 'no plan to extend' but the archived page no longer shows the date; 2025-09-15 from ServiceNow event listing and ccf-deadlines (third-party). Record 5,088 submissions. Notification 2026-01-31.",
+      "continent": "Europe"
+    },
+    {
+      "year": 2027,
+      "city": "Seoul",
+      "region": null,
+      "country": "South Korea",
+      "venue": "COEX Convention & Exhibition Center",
+      "start_date": "2027-05-24",
+      "end_date": "2027-05-28",
+      "abstract_deadline": "2026-09-16",
+      "source": "https://2027.ieee-icra.org/?p=1964",
+      "extra_sources": [
+        "https://2027.ieee-icra.org/",
+        "https://2027.ieee-icra.org/announcements/call-for-technical-papers/"
+      ],
+      "notes": "Official: 'Paper submission deadline: September 16, 2026 (23:59 PST)' (extended from Sep 15). Notification 2027-01-31; final submission opens 2027-02-06.",
+      "continent": "Asia"
+    },
+    {
+      "year": 2028,
+      "city": "Rio de Janeiro",
+      "region": null,
+      "country": "Brazil",
+      "venue": "Riocentro",
+      "start_date": "2028-05-15",
+      "end_date": "2028-05-19",
+      "abstract_deadline": "2027-09-15",
+      "source": "https://www.ieee-ras.org/event/deadlines-paper-submission-deadline-icra-2028-ieee-international-conference-on-robotics-and-automation-icra-29490-0/",
+      "extra_sources": [
+        "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive/",
+        "https://www.beri.net/events/icra-2028"
+      ],
+      "notes": "IEEE RAS (official) lists Rio de Janeiro / Riocentro, 15-19 May 2028, paper deadline Sep 15, 2027, website 2028.ieee-icra.org. CONFLICT: third-party aggregator beri.net lists ICRA 2028 in Guadalajara, Mexico (Expo Guadalajara) on the same dates - treated as outdated/incorrect; official RAS source preferred.",
+      "continent": "South America"
+    },
+    {
+      "year": 2029,
+      "city": "Milan",
+      "region": null,
+      "country": "Italy",
+      "venue": null,
+      "start_date": "2029-05-07",
+      "end_date": "2029-05-12",
+      "abstract_deadline": null,
+      "source": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive/",
+      "extra_sources": [
+        "https://www.beri.net/events/icra-2029"
+      ],
+      "notes": "IEEE RAS venues page: Milan, 7-12 May 2029. Venue (Allianz MiCo) and a Sep 15, 2028 deadline appear only on third-party beri.net - not verified, so set to null.",
+      "continent": "Europe"
+    },
+    {
+      "year": 2030,
+      "city": "Bangkok",
+      "region": null,
+      "country": "Thailand",
+      "venue": null,
+      "start_date": "2030-05-13",
+      "end_date": "2030-05-17",
+      "abstract_deadline": null,
+      "source": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive/",
+      "notes": "Listed on IEEE RAS ICRA venues page (General Chair: Jackrit Suthakorn). Venue and deadline not announced.",
+      "continent": "Asia"
+    }
+  ],
+  "sources": [
+    "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive/",
+    "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra",
+    "https://2027.ieee-icra.org/",
+    "https://2027.ieee-icra.org/?p=1964",
+    "https://2026.ieee-icra.org/contribute/call-for-icra-2026-papers-now-accepting-submissions/",
+    "https://2025.ieee-icra.org/announcements/paper-submissions/",
+    "https://www.ieee-ras.org/event/deadlines-paper-submission-deadline-icra-2028-ieee-international-conference-on-robotics-and-automation-icra-29490-0/",
+    "https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml",
+    "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/icra.yml"
+  ],
+  "notes": "ICRA has run annually since 1984. Dates use the official conference website where available; IEEE RAS venues page sometimes differs by one day (noted per edition). Unverified/null: ICRA 2029 venue and deadline, ICRA 2030 venue and deadline. ICRA 2015 deadline from RAS calendar (possible 1-day extension). ICRA 2018, 2023, 2024, 2026 deadlines rely on third-party aggregators consistent with the standard Sep 15 pattern.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

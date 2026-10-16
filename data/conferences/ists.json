@@ -1,0 +1,137 @@
+{
+  "id": "ists",
+  "short_name": "ISTS",
+  "full_name": "International Symposium on Space Technology and Science",
+  "category": "space",
+  "organizer": "Japan Society for Aeronautical and Space Sciences (JSASS) and the ISTS Organizing Committee; often held jointly with NSAT (Nano-Satellite Symposium) or other meetings",
+  "fields": [
+    "space technology",
+    "propulsion",
+    "astrodynamics / GNC",
+    "space robotics and exploration",
+    "small satellites",
+    "space science"
+  ],
+  "frequency": "Biennial (odd years; the 33rd ran in Feb-Mar 2022)",
+  "typical_month": "June-July",
+  "official_url": "https://ists.ne.jp/",
+  "submission": {
+    "type": "Online abstract submission, then a full paper upload; 'No Paper, No Presentation' policy",
+    "typical_abstract_deadline": "About 7-8 months before the event (Oct-Dec of the previous year)",
+    "typical_final_deadline": "About 1 month before the event (Apr-Jun)",
+    "notes": "36th (2027): abstract submission opened 17 Sep 2026, abstract deadline 17 Dec 2026, paper deadline 17 Jun 2027. 35th (2025): abstract deadline 5 Nov 2024, full paper deadline 30 May 2025 (TBD at the time). 34th (2023): abstract deadline 31 Oct 2022, paper upload 30 Apr 2023."
+  },
+  "next_edition": {
+    "year": 2027,
+    "city": "Toyama",
+    "country": "Japan",
+    "start_date": "2027-07-17",
+    "end_date": "2027-07-23",
+    "abstract_deadline": "2026-12-17",
+    "status": "open",
+    "source": "https://ists.ne.jp/the36th/wp-content/uploads/2026/02/ISTS_A2_20260225_B_04-mini.pdf",
+    "continent": "Asia"
+  },
+  "editions": [
+    {
+      "year": 2015,
+      "city": "Kobe",
+      "region": "Hyogo",
+      "country": "Japan",
+      "venue": "Kobe Convention Center",
+      "start_date": "2015-07-04",
+      "end_date": "2015-07-10",
+      "abstract_deadline": null,
+      "source": "https://archive.ists.ne.jp/conference/past30/",
+      "continent": "Asia"
+    },
+    {
+      "year": 2017,
+      "city": "Matsuyama",
+      "region": "Ehime",
+      "country": "Japan",
+      "venue": "Himegin Hall (Ehime Prefectural Citizens' Culture Center)",
+      "start_date": "2017-06-03",
+      "end_date": "2017-06-09",
+      "abstract_deadline": null,
+      "source": "https://www.city.matsuyama.ehime.jp/shisei/keikaku/ists-ehime-matsuyama.files/istshoukoku1.pdf",
+      "continent": "Asia"
+    },
+    {
+      "year": 2019,
+      "city": "Fukui",
+      "region": "Fukui",
+      "country": "Japan",
+      "venue": null,
+      "start_date": "2019-06-15",
+      "end_date": "2019-06-21",
+      "abstract_deadline": null,
+      "source": "https://cfml.eng.hokudai.ac.jp/en/news/news_20190613_en.html",
+      "continent": "Asia"
+    },
+    {
+      "year": 2022,
+      "city": "Beppu (online)",
+      "region": "Oita",
+      "country": "Japan",
+      "venue": "All-online (planned for Beppu, Oita)",
+      "start_date": "2022-02-26",
+      "end_date": "2022-03-04",
+      "abstract_deadline": "2021-08-16",
+      "source": "https://ists.ne.jp/the33rd/",
+      "continent": "Asia"
+    },
+    {
+      "year": 2023,
+      "city": "Kurume",
+      "region": "Fukuoka",
+      "country": "Japan",
+      "venue": "Kurume City Plaza",
+      "start_date": "2023-06-03",
+      "end_date": "2023-06-09",
+      "abstract_deadline": "2022-10-31",
+      "source": "https://ists.ne.jp/the34th/wp-content/uploads/2022/06/ISTS_kurume_A4_0615.pdf",
+      "continent": "Asia"
+    },
+    {
+      "year": 2025,
+      "city": "Tokushima",
+      "region": "Tokushima",
+      "country": "Japan",
+      "venue": "ASTY Tokushima",
+      "start_date": "2025-07-12",
+      "end_date": "2025-07-18",
+      "abstract_deadline": "2024-11-05",
+      "source": "https://ists.ne.jp/the35th/wp-content/uploads/2024/06/Call-for-PapersISTS_A4_0521-1.pdf",
+      "continent": "Asia"
+    },
+    {
+      "year": 2027,
+      "city": "Toyama",
+      "region": "Toyama",
+      "country": "Japan",
+      "venue": "Toyama International Conference Center",
+      "start_date": "2027-07-17",
+      "end_date": "2027-07-23",
+      "abstract_deadline": "2026-12-17",
+      "source": "https://ists.ne.jp/the36th/wp-content/uploads/2026/02/ISTS_A2_20260225_B_04-mini.pdf",
+      "continent": "Asia"
+    }
+  ],
+  "sources": [
+    "https://ists.ne.jp/",
+    "https://ists.ne.jp/the36th/wp-content/uploads/2026/02/ISTS_A2_20260225_B_04-mini.pdf",
+    "https://ists.ne.jp/the35th/wp-content/uploads/2024/06/Call-for-PapersISTS_A4_0521-1.pdf",
+    "https://ists.ne.jp/the34th/wp-content/uploads/2022/06/ISTS_kurume_A4_0615.pdf",
+    "https://ists.ne.jp/the33rd/wp-content/uploads/2020/07/33ISTS-CallforPaper-Posterbeppu_A1_20210209.pdf",
+    "https://ists.ne.jp/the33rd/",
+    "https://archive.ists.ne.jp/conference/past30/",
+    "https://www.city.matsuyama.ehime.jp/shisei/keikaku/ists-ehime-matsuyama.files/istshoukoku1.pdf",
+    "https://cfml.eng.hokudai.ac.jp/en/news/news_20190613_en.html"
+  ],
+  "notes": "No ISTS edition was held in 2014; the 29th was in 2013. The 36th (2027) is joint with the 8th TiS International Conference on Tethers in Space. The ists.ne.jp home page confirmed on 2026-10-16 that abstract submission opened 17 Sep 2026; no extension is mentioned. The 33rd (2022) was all-online despite the Beppu/Oita branding. 2019 Fukui: the venue is not verified, and the year comes from the source post date (July 2019) plus the Yamaguchi University and Tokyo University of Science calendars. 2017: the Matsuyama city report (in Japanese) names Himegin Hall, and some secondary reports name the Ehime Prefectural Citizens' Culture Center; these are believed to be the same building, but that is not verified from an official source. Abstract deadlines for 2015-2019 were not found.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

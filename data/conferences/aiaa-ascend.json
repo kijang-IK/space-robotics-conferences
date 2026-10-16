@@ -1,0 +1,171 @@
+{
+  "id": "aiaa-ascend",
+  "short_name": "ASCEND",
+  "full_name": "ASCEND (Accelerating Space Commerce, Exploration, and New Discovery)",
+  "category": "space",
+  "organizer": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "fields": [
+    "space commerce",
+    "space exploration",
+    "space systems",
+    "space policy",
+    "space sustainability",
+    "astronautics"
+  ],
+  "frequency": "annual (since 2020)",
+  "typical_month": "May (2026-2027); earlier October/November (2020-2023) and July (2024-2025); June listed for 2028",
+  "official_url": "https://www.ascend.events/",
+  "submission": {
+    "type": "abstract of minimum 1,000 words (Word/PDF via ScholarOne) for technical papers; separate session proposals; full final manuscript required (No Paper, No Podium)",
+    "typical_abstract_deadline": "late September / early October of the previous year (25 Sep 2025 extended, for ASCEND 2026; 8 Oct 2026 for ASCEND 2027), 8 p.m. ET",
+    "typical_final_deadline": "mid-April of the event year (13 Apr 2027 for ASCEND 2027)",
+    "notes": "ASCEND 2027 cycle: submission opened 21 Jul 2026; abstracts due 8 Oct 2026; notifications 19 Jan 2027; manuscripts due 13 Apr 2027."
+  },
+  "next_edition": {
+    "year": 2027,
+    "city": "Washington (third-party listings; not confirmed officially)",
+    "country": "United States",
+    "start_date": "2027-05-18",
+    "end_date": "2027-05-20",
+    "abstract_deadline": "2026-10-08",
+    "status": "closed",
+    "source": "https://www.ascend.events/presenters/submission-guide/",
+    "notes": "ascend.events homepage states the call for technical paper abstracts and session proposals has ended. Manuscripts due 13 Apr 2027.",
+    "continent": "North America"
+  },
+  "editions": [
+    {
+      "year": 2020,
+      "city": "Virtual",
+      "region": null,
+      "country": null,
+      "venue": "Virtual event (originally planned for Las Vegas)",
+      "start_date": "2020-11-16",
+      "end_date": "2020-11-18",
+      "abstract_deadline": null,
+      "source": "https://aiaa.org/2020/07/01/ascend-goes-fully-online-16-18-november-and-reimagines-the-future-of-aerospace-events-and-life-off-earth/",
+      "continent": null
+    },
+    {
+      "year": 2021,
+      "city": "Las Vegas",
+      "region": "Nevada",
+      "country": "United States",
+      "venue": "Caesars Forum",
+      "start_date": "2021-11-15",
+      "end_date": "2021-11-17",
+      "abstract_deadline": null,
+      "source": "https://aiaa.org/?p=4405",
+      "continent": "North America",
+      "notes": "Hybrid: virtual week 8-10 Nov 2021, in-person 15-17 Nov 2021 in Las Vegas (plus a Washington DC hub on 15 Nov); venue per AIAA/spacepolicyonline listings."
+    },
+    {
+      "year": 2022,
+      "city": "Las Vegas",
+      "region": "Nevada",
+      "country": "United States",
+      "venue": "Caesars Forum",
+      "start_date": "2022-10-24",
+      "end_date": "2022-10-26",
+      "abstract_deadline": null,
+      "source": "https://aiaa.org/event_tag/commerce/",
+      "continent": "North America",
+      "notes": "Las Vegas & online; dates/venue from event listings (third-party for venue)."
+    },
+    {
+      "year": 2023,
+      "city": "Las Vegas",
+      "region": "Nevada",
+      "country": "United States",
+      "venue": "Caesars Forum",
+      "start_date": "2023-10-23",
+      "end_date": "2023-10-25",
+      "abstract_deadline": null,
+      "source": "https://www.proceedings.com/72326.html",
+      "continent": "North America",
+      "notes": "Venue per AIAA release https://aiaa.org/?p=4138"
+    },
+    {
+      "year": 2024,
+      "city": "Las Vegas",
+      "region": "Nevada",
+      "country": "United States",
+      "venue": "Caesars Forum",
+      "start_date": null,
+      "end_date": null,
+      "abstract_deadline": null,
+      "source": "https://aiaa.org/2024/08/21/aiaa-accelerates-the-future-of-aviation-and-space-at-2024-aiaa-aviation-forum-and-2024-ascend/",
+      "continent": "North America",
+      "notes": "Co-located with AVIATION 2024 during the week of 28 Jul-2 Aug 2024; exact ASCEND-only dates not verified."
+    },
+    {
+      "year": 2025,
+      "city": "Las Vegas",
+      "region": "Nevada",
+      "country": "United States",
+      "venue": "Caesars Forum",
+      "start_date": "2025-07-22",
+      "end_date": "2025-07-24",
+      "abstract_deadline": null,
+      "source": "https://aiaa.org/2024/08/21/aiaa-accelerates-the-future-of-aviation-and-space-at-2024-aiaa-aviation-forum-and-2024-ascend/",
+      "continent": "North America",
+      "notes": "Venue per pre-event AIAA plan (https://aerospaceamerica.aiaa.org/departments/summer-2024-two-events-one-venue/); co-located with AVIATION 2025."
+    },
+    {
+      "year": 2026,
+      "city": "Washington",
+      "region": "District of Columbia",
+      "country": "United States",
+      "venue": "Washington Hilton",
+      "start_date": "2026-05-19",
+      "end_date": "2026-05-21",
+      "abstract_deadline": "2025-09-25",
+      "source": "https://aiaa.org/2026/03/31/ascend-2026-assembles-space-industrys-most-influential-voices-in-washington-d-c/",
+      "continent": "North America",
+      "notes": "Abstract deadline extended to 25 Sep 2025 (https://aiaa.org/2025/09/18/call-for-content-deadline-extended-to-25-september/); original date not found."
+    },
+    {
+      "year": 2027,
+      "city": "Washington",
+      "region": "District of Columbia",
+      "country": "United States",
+      "venue": null,
+      "start_date": "2027-05-18",
+      "end_date": "2027-05-20",
+      "abstract_deadline": "2026-10-08",
+      "source": "https://www.ascend.events/presenters/submission-guide/",
+      "continent": "North America",
+      "notes": "Dates also on https://aiaa.org/events_category/forums ; Washington DC / Washington Hilton only from third-party listings (not confirmed on official pages)."
+    },
+    {
+      "year": 2028,
+      "city": null,
+      "region": null,
+      "country": null,
+      "venue": null,
+      "start_date": "2028-06-19",
+      "end_date": "2028-06-21",
+      "abstract_deadline": null,
+      "source": "https://aiaa.org/events_category/forums",
+      "continent": null,
+      "notes": "Location not announced."
+    }
+  ],
+  "sources": [
+    "https://www.ascend.events/",
+    "https://www.ascend.events/presenters/submission-guide/",
+    "https://aiaa.org/events_category/forums",
+    "https://aiaa.org/2026/03/31/ascend-2026-assembles-space-industrys-most-influential-voices-in-washington-d-c/",
+    "https://aiaa.org/2025/09/18/call-for-content-deadline-extended-to-25-september/",
+    "https://aiaa.org/2024/08/21/aiaa-accelerates-the-future-of-aviation-and-space-at-2024-aiaa-aviation-forum-and-2024-ascend/",
+    "https://aiaa.org/2020/07/01/ascend-goes-fully-online-16-18-november-and-reimagines-the-future-of-aerospace-events-and-life-off-earth/",
+    "https://aiaa.org/?p=4405",
+    "https://aiaa.org/?p=4138",
+    "https://www.proceedings.com/72326.html"
+  ],
+  "notes": "First held 2020, so no 2015-2019 editions. Abstract deadlines for 2020-2025 not verified (null). ASCEND 2024 exact dates not verified. 2027 venue/city and 2028 location not confirmed on official pages.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}
