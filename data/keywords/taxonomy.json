@@ -1,0 +1,75 @@
+{
+  "description": "Canonical keyword taxonomy used to compare what is presented at each conference. Each conference's data/keywords/<id>.json maps its official tracks/sessions onto these keywords.",
+  "groups": [
+    {
+      "group": "Space",
+      "keywords": [
+        { "id": "astrodynamics", "en": "Astrodynamics & Orbital Mechanics", "ko": "궤도역학" },
+        { "id": "trajectory", "en": "Trajectory Design & Optimization", "ko": "궤적 설계·최적화" },
+        { "id": "od-nav", "en": "Orbit Determination & Space Navigation", "ko": "궤도결정·항법" },
+        { "id": "spacecraft-gnc", "en": "Spacecraft GNC / AOCS", "ko": "위성 GNC·자세제어" },
+        { "id": "ssa-debris", "en": "Space Situational Awareness & Debris", "ko": "우주상황인식·우주잔해" },
+        { "id": "stm", "en": "Space Traffic Management", "ko": "우주교통관리" },
+        { "id": "smallsat", "en": "Small Satellites & CubeSats", "ko": "소형위성·큐브샛" },
+        { "id": "earth-obs", "en": "Earth Observation & Remote Sensing", "ko": "지구관측·원격탐사" },
+        { "id": "exploration", "en": "Lunar / Planetary Exploration", "ko": "달·행성 탐사" },
+        { "id": "human-spaceflight", "en": "Human Spaceflight", "ko": "유인 우주비행" },
+        { "id": "space-propulsion", "en": "Space Propulsion", "ko": "우주 추진" },
+        { "id": "launch", "en": "Launch Vehicles & Access to Space", "ko": "발사체" },
+        { "id": "space-systems", "en": "Space Systems & Mission Engineering", "ko": "우주 시스템·임무 설계" },
+        { "id": "space-comm", "en": "Space Communications", "ko": "우주 통신" },
+        { "id": "planetary-defense", "en": "Planetary Defense & NEOs", "ko": "행성 방어·근지구천체" },
+        { "id": "space-policy", "en": "Space Policy, Law & Economics", "ko": "우주 정책·법·경제" },
+        { "id": "space-science", "en": "Space Science & Astronomy", "ko": "우주과학" },
+        { "id": "osam", "en": "On-orbit Servicing, Assembly & Manufacturing", "ko": "궤도상 서비싱·조립" },
+        { "id": "space-robotics", "en": "Space Robotics & Manipulators", "ko": "우주 로봇" },
+        { "id": "rovers", "en": "Planetary Rovers & Surface Mobility", "ko": "행성 로버" }
+      ]
+    },
+    {
+      "group": "Aeronautics",
+      "keywords": [
+        { "id": "aerodynamics", "en": "Aerodynamics & Fluid Dynamics", "ko": "공기역학·유체역학" },
+        { "id": "aircraft-design", "en": "Aircraft Design & MDO", "ko": "항공기 설계" },
+        { "id": "structures", "en": "Structures, Materials & Aeroelasticity", "ko": "구조·재료·공탄성" },
+        { "id": "air-propulsion", "en": "Air-breathing Propulsion & Combustion", "ko": "항공 추진·연소" },
+        { "id": "flight-dynamics", "en": "Flight Dynamics & Flight Control", "ko": "비행역학·비행제어" },
+        { "id": "air-transport", "en": "Air Traffic & Air Transportation", "ko": "항공교통" },
+        { "id": "uav", "en": "UAV / Aerial Robotics", "ko": "무인기·비행로봇" },
+        { "id": "avionics", "en": "Avionics & Embedded Systems", "ko": "항공전자" }
+      ]
+    },
+    {
+      "group": "Robotics",
+      "keywords": [
+        { "id": "robot-learning", "en": "Robot Learning (RL / Imitation)", "ko": "로봇 학습" },
+        { "id": "foundation-models", "en": "Foundation Models / LLM / VLA for Robotics", "ko": "파운데이션 모델·VLA" },
+        { "id": "manipulation", "en": "Manipulation & Grasping", "ko": "조작·파지" },
+        { "id": "legged-humanoid", "en": "Legged & Humanoid Locomotion", "ko": "보행·휴머노이드" },
+        { "id": "motion-planning", "en": "Motion Planning", "ko": "모션 플래닝" },
+        { "id": "perception", "en": "Perception & Computer Vision", "ko": "인지·컴퓨터 비전" },
+        { "id": "slam", "en": "SLAM & Localization", "ko": "SLAM·위치추정" },
+        { "id": "multi-robot", "en": "Multi-Robot Systems & Swarms", "ko": "다중 로봇·군집" },
+        { "id": "hri", "en": "Human-Robot Interaction", "ko": "인간-로봇 상호작용" },
+        { "id": "medical-robotics", "en": "Medical & Surgical Robotics", "ko": "의료 로봇" },
+        { "id": "soft-robotics", "en": "Soft Robotics", "ko": "소프트 로봇" },
+        { "id": "field-robotics", "en": "Field & Mobile Robotics", "ko": "필드·이동 로봇" },
+        { "id": "autonomous-vehicles", "en": "Autonomous Driving", "ko": "자율주행" },
+        { "id": "mechanisms", "en": "Mechanism Design & Actuators", "ko": "메커니즘·구동기" },
+        { "id": "mechatronics", "en": "Mechatronics & Sensors", "ko": "메카트로닉스·센서" },
+        { "id": "automation", "en": "Industrial Automation & Manufacturing", "ko": "산업 자동화·제조" }
+      ]
+    },
+    {
+      "group": "Cross-cutting",
+      "keywords": [
+        { "id": "control-theory", "en": "Control Theory & Optimization (MPC, Robust, Nonlinear)", "ko": "제어 이론·최적화" },
+        { "id": "ai-ml", "en": "AI / Machine Learning (general)", "ko": "인공지능·머신러닝" },
+        { "id": "autonomy", "en": "Autonomy & Decision Making", "ko": "자율성·의사결정" },
+        { "id": "estimation", "en": "Estimation & Sensor Fusion", "ko": "추정·센서 융합" },
+        { "id": "phm", "en": "Health Monitoring & Reliability (PHM)", "ko": "고장진단·신뢰성" },
+        { "id": "education", "en": "Education & Workforce", "ko": "교육·인력" }
+      ]
+    }
+  ]
+}

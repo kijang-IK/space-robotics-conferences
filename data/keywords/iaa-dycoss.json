@@ -1,0 +1,112 @@
+{
+  "id": "iaa-dycoss",
+  "edition_analyzed": 2018,
+  "method": "paper-counts",
+  "method_note": "DyCoSS is dormant (last edition: 4th, Changsha, 21-23 May 2018); no session-level program was found, so papers were counted from the table of contents of the proceedings (AAS Advances in the Astronautical Sciences vol. 165, Univelt; contents PDF retrieved from the Internet Archive because univelt.com returned HTTP 500 on 2026-10-16). 181 published papers (codes IAA-AAS-DyCoSS4-X-Y) in 8 topical sections; the foreword states 194 accepted papers in 15 parallel sessions (185 presented), grouped into these 8 topics. Weight = share of papers, 50/50 split for two-keyword sections.",
+  "tracks": [
+    {
+      "name": "Satellite Constellations and Formation Flying",
+      "sessions": null,
+      "papers": 13,
+      "url": "http://web.archive.org/web/20241113234917/http://www.univelt.com/linkedfiles/v165%20Contents.pdf"
+    },
+    {
+      "name": "Spacecraft Guidance, Navigation and Control",
+      "sessions": null,
+      "papers": 37,
+      "url": "http://web.archive.org/web/20241113234917/http://www.univelt.com/linkedfiles/v165%20Contents.pdf"
+    },
+    {
+      "name": "Astrodynamics with Artificial Intelligence",
+      "sessions": null,
+      "papers": 12,
+      "url": "http://web.archive.org/web/20241113234917/http://www.univelt.com/linkedfiles/v165%20Contents.pdf"
+    },
+    {
+      "name": "Attitude Dynamics and Control",
+      "sessions": null,
+      "papers": 27,
+      "url": "http://web.archive.org/web/20241113234917/http://www.univelt.com/linkedfiles/v165%20Contents.pdf"
+    },
+    {
+      "name": "Space Mission Design and Optimization",
+      "sessions": null,
+      "papers": 31,
+      "url": "http://web.archive.org/web/20241113234917/http://www.univelt.com/linkedfiles/v165%20Contents.pdf"
+    },
+    {
+      "name": "Orbital Dynamics and Orbital Determination",
+      "sessions": null,
+      "papers": 32,
+      "url": "http://web.archive.org/web/20241113234917/http://www.univelt.com/linkedfiles/v165%20Contents.pdf"
+    },
+    {
+      "name": "Space Structures and Tethers",
+      "sessions": null,
+      "papers": 6,
+      "url": "http://web.archive.org/web/20241113234917/http://www.univelt.com/linkedfiles/v165%20Contents.pdf"
+    },
+    {
+      "name": "Attitude Sensors and Actuators",
+      "sessions": null,
+      "papers": 23,
+      "url": "http://web.archive.org/web/20241113234917/http://www.univelt.com/linkedfiles/v165%20Contents.pdf"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "spacecraft-gnc",
+      "weight": 0.453,
+      "evidence": "Satellite Constellations and Formation Flying (13 papers); Spacecraft Guidance, Navigation and Control (37 papers); Attitude Dynamics and Control (27 papers); Attitude Sensors and Actuators (23 papers)"
+    },
+    {
+      "id": "astrodynamics",
+      "weight": 0.157,
+      "evidence": "Satellite Constellations and Formation Flying (13 papers); Astrodynamics with Artificial Intelligence (12 papers); Orbital Dynamics and Orbital Determination (32 papers)"
+    },
+    {
+      "id": "od-nav",
+      "weight": 0.088,
+      "evidence": "Orbital Dynamics and Orbital Determination (32 papers)"
+    },
+    {
+      "id": "trajectory",
+      "weight": 0.086,
+      "evidence": "Space Mission Design and Optimization (31 papers)"
+    },
+    {
+      "id": "space-systems",
+      "weight": 0.086,
+      "evidence": "Space Mission Design and Optimization (31 papers)"
+    },
+    {
+      "id": "mechatronics",
+      "weight": 0.064,
+      "evidence": "Attitude Sensors and Actuators (23 papers)"
+    },
+    {
+      "id": "ai-ml",
+      "weight": 0.033,
+      "evidence": "Astrodynamics with Artificial Intelligence (12 papers)"
+    },
+    {
+      "id": "structures",
+      "weight": 0.033,
+      "evidence": "Space Structures and Tethers (6 papers)"
+    }
+  ],
+  "top_terms": [
+    "formation flying",
+    "lunar / cislunar missions",
+    "low-thrust trajectories",
+    "tethered systems",
+    "asteroid missions",
+    "rendezvous"
+  ],
+  "sources": [
+    "http://web.archive.org/web/20241113234917/http://www.univelt.com/linkedfiles/v165%20Contents.pdf",
+    "https://www.univelt.com/linkedfiles/v165%20Contents.pdf",
+    "https://easychair.org/cfp/DYCOSS2018"
+  ],
+  "retrieved": "2026-10-16"
+}

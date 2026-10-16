@@ -1,0 +1,190 @@
+{
+  "id": "aas-gnc-breckenridge",
+  "edition_analyzed": 2026,
+  "method": "program-sessions",
+  "method_note": "Official online program of the 48th AAS GN&C Conference (Breckenridge, 30 Jan-4 Feb 2026): 17 technical sessions (S01-S17) containing 103 AAS papers (AAS-26-xxx); the S18 poster session (7 papers), tutorials/workshops and the separate classified session were excluded. Weights are paper-weighted within the session structure (each session's papers split across at most 2 keywords). Keywords below 0.02 omitted (space-propulsion 0.019), so weights sum slightly below 1.",
+  "tracks": [
+    {
+      "name": "S01 Student Innovations",
+      "sessions": 1,
+      "papers": 7,
+      "url": "https://www.xcdsystem.com/aas/program/w8LRlcl/index.cfm"
+    },
+    {
+      "name": "S02 Autonomy in GN&C",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://www.xcdsystem.com/aas/program/w8LRlcl/index.cfm"
+    },
+    {
+      "name": "S03 Small Body Exploration",
+      "sessions": 1,
+      "papers": 8,
+      "url": "https://www.xcdsystem.com/aas/program/w8LRlcl/index.cfm"
+    },
+    {
+      "name": "S04 Pioneers in GN&C",
+      "sessions": 1,
+      "papers": 3,
+      "url": "https://www.xcdsystem.com/aas/program/w8LRlcl/index.cfm"
+    },
+    {
+      "name": "S05 Using AI/ML in GN&C",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://www.xcdsystem.com/aas/program/w8LRlcl/index.cfm"
+    },
+    {
+      "name": "S06 Advances in Propulsion and Slosh Dynamics",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.xcdsystem.com/aas/program/w8LRlcl/index.cfm"
+    },
+    {
+      "name": "S07 Advances in GN&C Software",
+      "sessions": 1,
+      "papers": 8,
+      "url": "https://www.xcdsystem.com/aas/program/w8LRlcl/index.cfm"
+    },
+    {
+      "name": "S08 Advances in GN&C Hardware",
+      "sessions": 1,
+      "papers": 8,
+      "url": "https://www.xcdsystem.com/aas/program/w8LRlcl/index.cfm"
+    },
+    {
+      "name": "S09 RPOD, Relative Navigation and State Estimation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://www.xcdsystem.com/aas/program/w8LRlcl/index.cfm"
+    },
+    {
+      "name": "S10 Advances in Navigation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://www.xcdsystem.com/aas/program/w8LRlcl/index.cfm"
+    },
+    {
+      "name": "S11 New Space and Cislunar Exploration",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://www.xcdsystem.com/aas/program/w8LRlcl/index.cfm"
+    },
+    {
+      "name": "S12 RPOD, Guidance/Targeting and Trajectory Design",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://www.xcdsystem.com/aas/program/w8LRlcl/index.cfm"
+    },
+    {
+      "name": "S13 Image Processing for Spaceborne Navigation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://www.xcdsystem.com/aas/program/w8LRlcl/index.cfm"
+    },
+    {
+      "name": "S14 GN&C Verification and Validation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://www.xcdsystem.com/aas/program/w8LRlcl/index.cfm"
+    },
+    {
+      "name": "S15 Small Satellite GN&C",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://www.xcdsystem.com/aas/program/w8LRlcl/index.cfm"
+    },
+    {
+      "name": "S16 Entry, Descent & Landing GN&C",
+      "sessions": 1,
+      "papers": 7,
+      "url": "https://www.xcdsystem.com/aas/program/w8LRlcl/index.cfm"
+    },
+    {
+      "name": "S17 Recent Experiences",
+      "sessions": 1,
+      "papers": 7,
+      "url": "https://www.xcdsystem.com/aas/program/w8LRlcl/index.cfm"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "spacecraft-gnc",
+      "weight": 0.388,
+      "evidence": "S01 Student Innovations (3.5 papers); S02 Autonomy in GN&C (3 papers); S06 Advances in Propulsion and Slosh Dynamics (2 papers); S07 Advances in GN&C Software (8 papers); S08 Advances in GN&C Hardware (8 papers); S14 GN&C Verification and Validation (6 papers); S15 Small Satellite GN&C (2.5 papers); S16 Entry, Descent & Landing GN&C (3.5 papers); S17 Recent Experiences (3.5 papers)"
+    },
+    {
+      "id": "od-nav",
+      "weight": 0.15,
+      "evidence": "S01 Student Innovations (3.5 papers); S09 RPOD, Relative Navigation and State Estimation (3 papers); S10 Advances in Navigation (6 papers); S13 Image Processing for Spaceborne Navigation (3 papers)"
+    },
+    {
+      "id": "exploration",
+      "weight": 0.097,
+      "evidence": "S03 Small Body Exploration (4 papers); S11 New Space and Cislunar Exploration (2.5 papers); S16 Entry, Descent & Landing GN&C (3.5 papers)"
+    },
+    {
+      "id": "osam",
+      "weight": 0.058,
+      "evidence": "S09 RPOD, Relative Navigation and State Estimation (3 papers); S12 RPOD, Guidance/Targeting and Trajectory Design (3 papers)"
+    },
+    {
+      "id": "trajectory",
+      "weight": 0.053,
+      "evidence": "S11 New Space and Cislunar Exploration (2.5 papers); S12 RPOD, Guidance/Targeting and Trajectory Design (3 papers)"
+    },
+    {
+      "id": "ai-ml",
+      "weight": 0.049,
+      "evidence": "S05 Using AI/ML in GN&C (5 papers)"
+    },
+    {
+      "id": "planetary-defense",
+      "weight": 0.039,
+      "evidence": "S03 Small Body Exploration (4 papers)"
+    },
+    {
+      "id": "space-systems",
+      "weight": 0.034,
+      "evidence": "S17 Recent Experiences (3.5 papers)"
+    },
+    {
+      "id": "autonomy",
+      "weight": 0.029,
+      "evidence": "S02 Autonomy in GN&C (3 papers)"
+    },
+    {
+      "id": "education",
+      "weight": 0.029,
+      "evidence": "S04 Pioneers in GN&C (3 papers)"
+    },
+    {
+      "id": "perception",
+      "weight": 0.029,
+      "evidence": "S13 Image Processing for Spaceborne Navigation (3 papers)"
+    },
+    {
+      "id": "smallsat",
+      "weight": 0.024,
+      "evidence": "S15 Small Satellite GN&C (2.5 papers)"
+    }
+  ],
+  "top_terms": [
+    "cislunar",
+    "optical navigation / camera calibration",
+    "RPOD",
+    "reinforcement learning",
+    "lunar landing (IM-1/IM-2, HLS)",
+    "Europa Clipper",
+    "sequential convex programming",
+    "non-Gaussian uncertainty",
+    "pursuit-evasion games",
+    "propellant slosh"
+  ],
+  "sources": [
+    "https://aas-rocky-mountain-section.org/index.php/conference-info/",
+    "https://www.xcdsystem.com/aas/program/w8LRlcl/index.cfm",
+    "https://aas-rms.org/wp-content/uploads/2026/01/2026-48th-AAS-GNC-Conf-Program.pdf"
+  ],
+  "retrieved": "2026-10-16"
+}

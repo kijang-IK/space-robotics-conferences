@@ -1,0 +1,178 @@
+{
+ "id": "isparo",
+ "edition_analyzed": 2025,
+ "method": "program-sessions",
+ "method_note": "Counted the 18 regular technical (oral) sessions of iSpaRo 2025 (Sendai, 1-4 Dec 2025) in the IEEE RAS PaperCept program (ICRS25); keynotes and the 4 half-day workshops (WS1-WS4) excluded. Each session = 1 unit, split across at most 2 keywords using session titles plus paper titles. 101 papers in 17 sessions plus at least 4 in C-6, whose full count was not captured (so the paper count for that track is null). The joint i-SAIRAS/iSpaRo 2026 edition (Cologne, 3-6 Nov 2026) has not yet taken place.",
+ "tracks": [
+  {
+   "name": "Manipulation in Space",
+   "sessions": 1,
+   "papers": 6,
+   "url": "https://ras.papercept.net/conferences/conferences/ICRS25/program/ICRS25_ProgramAtAGlanceWeb.html"
+  },
+  {
+   "name": "Intelligence and Autonomy for Planetary Exploration Robots",
+   "sessions": 3,
+   "papers": 18,
+   "url": "https://ras.papercept.net/conferences/conferences/ICRS25/program/ICRS25_ProgramAtAGlanceWeb.html"
+  },
+  {
+   "name": "Multi-Robot Cooperation/Collaboration",
+   "sessions": 1,
+   "papers": 6,
+   "url": "https://ras.papercept.net/conferences/conferences/ICRS25/program/ICRS25_ProgramAtAGlanceWeb.html"
+  },
+  {
+   "name": "In-Space Manufacturing, Assembly, and Deployment",
+   "sessions": 1,
+   "papers": 6,
+   "url": "https://ras.papercept.net/conferences/conferences/ICRS25/program/ICRS25_ProgramAtAGlanceWeb.html"
+  },
+  {
+   "name": "Mission Planning",
+   "sessions": 1,
+   "papers": 6,
+   "url": "https://ras.papercept.net/conferences/conferences/ICRS25/program/ICRS25_ProgramAtAGlanceWeb.html"
+  },
+  {
+   "name": "Orbital Servicing and Debris Removal",
+   "sessions": 1,
+   "papers": 7,
+   "url": "https://ras.papercept.net/conferences/conferences/ICRS25/program/ICRS25_ProgramAtAGlanceWeb.html"
+  },
+  {
+   "name": "Spacecraft/Satellite Technology",
+   "sessions": 1,
+   "papers": 7,
+   "url": "https://ras.papercept.net/conferences/conferences/ICRS25/program/ICRS25_ProgramAtAGlanceWeb.html"
+  },
+  {
+   "name": "Intelligence and Autonomy for Orbital Space Systems",
+   "sessions": 2,
+   "papers": 12,
+   "url": "https://ras.papercept.net/conferences/conferences/ICRS25/program/ICRS25_ProgramAtAGlanceWeb.html"
+  },
+  {
+   "name": "Space Robotic Locomotion",
+   "sessions": 3,
+   "papers": 17,
+   "url": "https://ras.papercept.net/conferences/conferences/ICRS25/program/ICRS25_ProgramAtAGlanceWeb.html"
+  },
+  {
+   "name": "Robotic Manipulation and ISRU for Planetary Missions",
+   "sessions": 1,
+   "papers": 6,
+   "url": "https://ras.papercept.net/conferences/conferences/ICRS25/program/ICRS25_ProgramAtAGlanceWeb.html"
+  },
+  {
+   "name": "Special Session: Current Insights from Space Agencies",
+   "sessions": 1,
+   "papers": 5,
+   "url": "https://ras.papercept.net/conferences/conferences/ICRS25/program/ICRS25_ProgramAtAGlanceWeb.html"
+  },
+  {
+   "name": "Prox Ops/Rendezvous/Docking",
+   "sessions": 1,
+   "papers": 5,
+   "url": "https://ras.papercept.net/conferences/conferences/ICRS25/program/ICRS25_ProgramAtAGlanceWeb.html"
+  },
+  {
+   "name": "Telerobotics and Planetary Simulation",
+   "sessions": 1,
+   "papers": null,
+   "url": "https://ras.papercept.net/conferences/conferences/ICRS25/program/ICRS25_ProgramAtAGlanceWeb.html"
+  }
+ ],
+ "keywords": [
+  {
+   "id": "rovers",
+   "weight": 0.194,
+   "evidence": "3.5 of 18 session-units: Space Robotic Locomotion (2); Intelligence and Autonomy for Planetary Exploration Robots (1.5)"
+  },
+  {
+   "id": "autonomy",
+   "weight": 0.139,
+   "evidence": "2.5 of 18 session-units: Intelligence and Autonomy for Planetary Exploration Robots (1.5); Intelligence and Autonomy for Orbital Space Systems (1)"
+  },
+  {
+   "id": "space-robotics",
+   "weight": 0.111,
+   "evidence": "2 of 18 session-units: Intelligence and Autonomy for Orbital Space Systems (1); Manipulation in Space (0.5); Special Session: Current Insights from Space Agencies (0.5)"
+  },
+  {
+   "id": "exploration",
+   "weight": 0.111,
+   "evidence": "2 of 18 session-units: Multi-Robot Cooperation/Collaboration (0.5); Robotic Manipulation and ISRU for Planetary Missions (0.5); Special Session: Current Insights from Space Agencies (0.5); Telerobotics and Planetary Simulation (0.5)"
+  },
+  {
+   "id": "osam",
+   "weight": 0.083,
+   "evidence": "1.5 of 18 session-units: In-Space Manufacturing, Assembly, and Deployment (1); Orbital Servicing and Debris Removal (0.5)"
+  },
+  {
+   "id": "manipulation",
+   "weight": 0.056,
+   "evidence": "1 of 18 session-units: Manipulation in Space (0.5); Robotic Manipulation and ISRU for Planetary Missions (0.5)"
+  },
+  {
+   "id": "space-systems",
+   "weight": 0.056,
+   "evidence": "1 of 18 session-units: Mission Planning (0.5); Spacecraft/Satellite Technology (0.5)"
+  },
+  {
+   "id": "spacecraft-gnc",
+   "weight": 0.056,
+   "evidence": "1 of 18 session-units: Spacecraft/Satellite Technology (0.5); Prox Ops/Rendezvous/Docking (0.5)"
+  },
+  {
+   "id": "legged-humanoid",
+   "weight": 0.056,
+   "evidence": "1 of 18 session-units: Space Robotic Locomotion (1)"
+  },
+  {
+   "id": "multi-robot",
+   "weight": 0.028,
+   "evidence": "0.5 of 18 session-units: Multi-Robot Cooperation/Collaboration (0.5)"
+  },
+  {
+   "id": "ai-ml",
+   "weight": 0.028,
+   "evidence": "0.5 of 18 session-units: Mission Planning (0.5)"
+  },
+  {
+   "id": "ssa-debris",
+   "weight": 0.028,
+   "evidence": "0.5 of 18 session-units: Orbital Servicing and Debris Removal (0.5)"
+  },
+  {
+   "id": "motion-planning",
+   "weight": 0.028,
+   "evidence": "0.5 of 18 session-units: Prox Ops/Rendezvous/Docking (0.5)"
+  },
+  {
+   "id": "hri",
+   "weight": 0.028,
+   "evidence": "0.5 of 18 session-units: Telerobotics and Planetary Simulation (0.5)"
+  }
+ ],
+ "top_terms": [
+  "free-flyer robots (Astrobee, Int-Ball)",
+  "lunar ISRU excavation (bucket drum)",
+  "MoonBot modular reconfigurable robots",
+  "terramechanics / rover wheel design",
+  "quadrupedal lunar robots",
+  "deep reinforcement learning control",
+  "sim2real gap",
+  "debris capture and detumbling",
+  "MMX rover IDEFIX",
+  "3D Gaussian splatting of spacecraft"
+ ],
+ "sources": [
+  "https://ras.papercept.net/conferences/conferences/ICRS25/program/ICRS25_ProgramAtAGlanceWeb.html",
+  "https://ras.papercept.net/conferences/conferences/ICRS25/program/ICRS25_ContentListWeb_1.html",
+  "https://ras.papercept.net/conferences/conferences/ICRS25/program/ICRS25_ContentListWeb_2.html",
+  "https://ras.papercept.net/conferences/conferences/ICRS25/program/ICRS25_ContentListWeb_3.html",
+  "https://www.isparo2025.space/"
+ ],
+ "retrieved": "2026-10-16"
+}

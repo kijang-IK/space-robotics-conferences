@@ -1,0 +1,197 @@
+{
+  "id": "aas-aiaa-asc",
+  "edition_analyzed": 2026,
+  "method": "program-sessions",
+  "method_note": "Counted oral technical sessions in the official 2026 ASC program (Whistler, 26-30 Jul 2026) 'Daily Session Decision Grids': 55 sessions (52 regular + 3 special sessions/panels); the poster session was excluded. The program lists 363 unique paper numbers (incl. posters). Numbered session series were grouped into their official topic tracks; each session split across at most 2 taxonomy keywords (0.5/0.5). Keywords below 0.02 omitted (space-robotics 0.009, space-science 0.009), so weights sum slightly below 1.",
+  "tracks": [
+    {
+      "name": "Trajectory Design and Optimization (I-X)",
+      "sessions": 10,
+      "papers": null,
+      "url": "https://www.space-flight.org/docs/2026_summer/Program.pdf"
+    },
+    {
+      "name": "Cislunar Astrodynamics (I-VI)",
+      "sessions": 6,
+      "papers": null,
+      "url": "https://www.space-flight.org/docs/2026_summer/Program.pdf"
+    },
+    {
+      "name": "Spacecraft Guidance, Navigation and Control (GNC) (I-V)",
+      "sessions": 5,
+      "papers": null,
+      "url": "https://www.space-flight.org/docs/2026_summer/Program.pdf"
+    },
+    {
+      "name": "Machine Learning and Artificial Intelligence Applied to Spaceflight (I-V)",
+      "sessions": 5,
+      "papers": null,
+      "url": "https://www.space-flight.org/docs/2026_summer/Program.pdf"
+    },
+    {
+      "name": "Orbit Determination and Estimation (I-IV)",
+      "sessions": 4,
+      "papers": null,
+      "url": "https://www.space-flight.org/docs/2026_summer/Program.pdf"
+    },
+    {
+      "name": "Dynamical Systems Theory Applied to Spaceflight Problems (I-IV)",
+      "sessions": 4,
+      "papers": null,
+      "url": "https://www.space-flight.org/docs/2026_summer/Program.pdf"
+    },
+    {
+      "name": "Rendezvous, Relative Motion, and Proximity Operations (I-III)",
+      "sessions": 3,
+      "papers": null,
+      "url": "https://www.space-flight.org/docs/2026_summer/Program.pdf"
+    },
+    {
+      "name": "Space Situational Awareness, Conjunction Analysis, and Collision Avoidance (I-III)",
+      "sessions": 3,
+      "papers": null,
+      "url": "https://www.space-flight.org/docs/2026_summer/Program.pdf"
+    },
+    {
+      "name": "Orbital Debris and Space Environment (I-III)",
+      "sessions": 3,
+      "papers": null,
+      "url": "https://www.space-flight.org/docs/2026_summer/Program.pdf"
+    },
+    {
+      "name": "Space Domain Awareness (SDA) and Space Surveillance (I-II)",
+      "sessions": 2,
+      "papers": null,
+      "url": "https://www.space-flight.org/docs/2026_summer/Program.pdf"
+    },
+    {
+      "name": "Satellite Constellations and Formations (I-II)",
+      "sessions": 2,
+      "papers": null,
+      "url": "https://www.space-flight.org/docs/2026_summer/Program.pdf"
+    },
+    {
+      "name": "Attitude Dynamics, Determination and Control",
+      "sessions": 1,
+      "papers": null,
+      "url": "https://www.space-flight.org/docs/2026_summer/Program.pdf"
+    },
+    {
+      "name": "Orbital Dynamics, Perturbations, and Stability",
+      "sessions": 1,
+      "papers": null,
+      "url": "https://www.space-flight.org/docs/2026_summer/Program.pdf"
+    },
+    {
+      "name": "Asteroid and Interplanetary Mission Design",
+      "sessions": 1,
+      "papers": null,
+      "url": "https://www.space-flight.org/docs/2026_summer/Program.pdf"
+    },
+    {
+      "name": "Earth Orbital and Planetary Mission Studies",
+      "sessions": 1,
+      "papers": null,
+      "url": "https://www.space-flight.org/docs/2026_summer/Program.pdf"
+    },
+    {
+      "name": "In-space Assembly, Manufacturing, and Space Robotics",
+      "sessions": 1,
+      "papers": null,
+      "url": "https://www.space-flight.org/docs/2026_summer/Program.pdf"
+    },
+    {
+      "name": "Special Session Panel: Extended Reality (XR) and Spatial Computing in Astrodynamics",
+      "sessions": 1,
+      "papers": null,
+      "url": "https://www.space-flight.org/docs/2026_summer/Program.pdf"
+    },
+    {
+      "name": "Special Session: Emirates Mission to the Asteroid Belt (EMA)",
+      "sessions": 1,
+      "papers": null,
+      "url": "https://www.space-flight.org/docs/2026_summer/Program.pdf"
+    },
+    {
+      "name": "Special Session: Space Weather Observations at L1 to Advance Readiness-1 (SOLAR-1)",
+      "sessions": 1,
+      "papers": null,
+      "url": "https://www.space-flight.org/docs/2026_summer/Program.pdf"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "trajectory",
+      "weight": 0.255,
+      "evidence": "Trajectory Design and Optimization (I-X) (10 sessions); Cislunar Astrodynamics (I-VI) (3 sessions); Asteroid and Interplanetary Mission Design (0.5 sessions); Special Session: Emirates Mission to the Asteroid Belt (EMA) (0.5 sessions)"
+    },
+    {
+      "id": "astrodynamics",
+      "weight": 0.173,
+      "evidence": "Cislunar Astrodynamics (I-VI) (3 sessions); Dynamical Systems Theory Applied to Spaceflight Problems (I-IV) (4 sessions); Satellite Constellations and Formations (I-II) (1 sessions); Orbital Dynamics, Perturbations, and Stability (1 sessions); Special Session Panel: Extended Reality (XR) and Spatial Computing in Astrodynamics (0.5 sessions)"
+    },
+    {
+      "id": "spacecraft-gnc",
+      "weight": 0.136,
+      "evidence": "Spacecraft Guidance, Navigation and Control (GNC) (I-V) (5 sessions); Rendezvous, Relative Motion, and Proximity Operations (I-III) (1.5 sessions); Attitude Dynamics, Determination and Control (1 sessions)"
+    },
+    {
+      "id": "ssa-debris",
+      "weight": 0.118,
+      "evidence": "Space Situational Awareness, Conjunction Analysis, and Collision Avoidance (I-III) (1.5 sessions); Orbital Debris and Space Environment (I-III) (3 sessions); Space Domain Awareness (SDA) and Space Surveillance (I-II) (2 sessions)"
+    },
+    {
+      "id": "ai-ml",
+      "weight": 0.091,
+      "evidence": "Machine Learning and Artificial Intelligence Applied to Spaceflight (I-V) (5 sessions)"
+    },
+    {
+      "id": "space-systems",
+      "weight": 0.045,
+      "evidence": "Satellite Constellations and Formations (I-II) (1 sessions); Earth Orbital and Planetary Mission Studies (0.5 sessions); Special Session Panel: Extended Reality (XR) and Spatial Computing in Astrodynamics (0.5 sessions); Special Session: Space Weather Observations at L1 to Advance Readiness-1 (SOLAR-1) (0.5 sessions)"
+    },
+    {
+      "id": "od-nav",
+      "weight": 0.036,
+      "evidence": "Orbit Determination and Estimation (I-IV) (2 sessions)"
+    },
+    {
+      "id": "estimation",
+      "weight": 0.036,
+      "evidence": "Orbit Determination and Estimation (I-IV) (2 sessions)"
+    },
+    {
+      "id": "osam",
+      "weight": 0.036,
+      "evidence": "Rendezvous, Relative Motion, and Proximity Operations (I-III) (1.5 sessions); In-space Assembly, Manufacturing, and Space Robotics (0.5 sessions)"
+    },
+    {
+      "id": "stm",
+      "weight": 0.027,
+      "evidence": "Space Situational Awareness, Conjunction Analysis, and Collision Avoidance (I-III) (1.5 sessions)"
+    },
+    {
+      "id": "exploration",
+      "weight": 0.027,
+      "evidence": "Asteroid and Interplanetary Mission Design (0.5 sessions); Earth Orbital and Planetary Mission Studies (0.5 sessions); Special Session: Emirates Mission to the Asteroid Belt (EMA) (0.5 sessions)"
+    }
+  ],
+  "top_terms": [
+    "cislunar",
+    "low-thrust trajectory optimization",
+    "initial orbit determination (angles-only)",
+    "conjunction analysis / collision avoidance",
+    "space domain awareness",
+    "quasi-periodic orbits",
+    "Hamiltonian normal forms / station-keeping",
+    "extended reality (XR) for mission design",
+    "space weather (L1)",
+    "solar sail"
+  ],
+  "sources": [
+    "https://www.space-flight.org/docs/2026_summer/2026_summer.html",
+    "https://www.space-flight.org/docs/2026_summer/Program.pdf",
+    "https://www.xcdsystem.com/aas/program/31gNo02/index.cfm"
+  ],
+  "retrieved": "2026-10-16"
+}

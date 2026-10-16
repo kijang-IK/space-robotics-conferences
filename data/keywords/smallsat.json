@@ -1,0 +1,254 @@
+{
+  "id": "smallsat",
+  "edition_analyzed": 2026,
+  "method": "program-sessions",
+  "method_note": "SmallSat 2026 (40th Small Satellite Conference, Salt Lake City, 23-26 Aug 2026). Counted the oral technical sessions in the official USU Digital Commons proceedings for 2026 that list at least one paper: 19 sessions (11 main 'E' sessions, 5 Research & Academia sessions and 4 Flash Talk sessions) with 116 papers. 'Future Directions' and Flash Talks 4 list no papers and were excluded, as were the keynote and 4 poster sessions (151 posters). Every session is about small satellites, so each was tagged 'smallsat'. Sessions whose papers share a clear sub-theme also got a second keyword, chosen from the session title and its paper titles and split 50/50: communications for Advanced Technologies 1 and 3 and Flash 1, AI/ML for Advanced Technologies 2 and R&A 1, propulsion for Launch & Propulsion, and GNC for R&A Advanced Technologies 2 and Flash 3. Mission-review sessions (Year in Review, Next on the Pad, their R&A versions, Flash 2 and Flash 5) are 'smallsat' only. Caveats: the session names are generic, so the second keyword reflects the dominant paper theme and mixed sessions are simplified. Dropped (<0.02): none; the kept raw session fractions summed to 1 and were renormalized to sum to 1 (raw counts are in each evidence string). In 'tracks', each entry is one program session and 'papers' is the number of entries listed.",
+  "tracks": [
+    {
+      "name": "Keynote 2026",
+      "sessions": 1,
+      "papers": 1,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/keynote2026/"
+    },
+    {
+      "name": "Year in Review",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/E-S1-2026/"
+    },
+    {
+      "name": "Next on the Pad",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/E-S2-2026/"
+    },
+    {
+      "name": "Advanced Technologies 1",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/E-S3-2026/"
+    },
+    {
+      "name": "Advanced Technologies 2",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/E-S4-2026/"
+    },
+    {
+      "name": "Future Directions",
+      "sessions": 1,
+      "papers": 0,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/E-S5-2026/"
+    },
+    {
+      "name": "Constellations",
+      "sessions": 1,
+      "papers": 7,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/E-S6-2026/"
+    },
+    {
+      "name": "Science/Mission Payloads",
+      "sessions": 1,
+      "papers": 7,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/E-S7-2026/"
+    },
+    {
+      "name": "Frank J. Redd Student Competition",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/E-S8-2026/"
+    },
+    {
+      "name": "Advanced Technologies 3",
+      "sessions": 1,
+      "papers": 8,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/E-S9-2026/"
+    },
+    {
+      "name": "Launch & Propulsion",
+      "sessions": 1,
+      "papers": 7,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/E-S10-2026/"
+    },
+    {
+      "name": "Ground Systems",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/E-S11-2026/"
+    },
+    {
+      "name": "Advanced Technologies Research & Academia 1",
+      "sessions": 1,
+      "papers": 7,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/RA-S1-2026/"
+    },
+    {
+      "name": "Year in Review Research & Academia",
+      "sessions": 1,
+      "papers": 8,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/RA-S2-2026/"
+    },
+    {
+      "name": "Science/Mission Payloads Research & Academia",
+      "sessions": 1,
+      "papers": 7,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/RA-S3-2026/"
+    },
+    {
+      "name": "Next on the Pad Research & Academia",
+      "sessions": 1,
+      "papers": 7,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/RA-S4-2026/"
+    },
+    {
+      "name": "Advanced Technologies Research & Academia 2",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/RA-S5-2026/"
+    },
+    {
+      "name": "Flash Talks Session 1",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/F1-2026/"
+    },
+    {
+      "name": "Flash Talks Session 2",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/F2-2026/"
+    },
+    {
+      "name": "Flash Talks Session 3",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/F3-2026/"
+    },
+    {
+      "name": "Flash Talks Session 4",
+      "sessions": 1,
+      "papers": 0,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/F4-2026/"
+    },
+    {
+      "name": "Flash Talks Session 5",
+      "sessions": 1,
+      "papers": 2,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/F5-2026/"
+    },
+    {
+      "name": "Poster Session 1",
+      "sessions": 1,
+      "papers": 31,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/P1-2026/"
+    },
+    {
+      "name": "Poster Session 2",
+      "sessions": 1,
+      "papers": 51,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/P2-2026/"
+    },
+    {
+      "name": "Poster Session 3",
+      "sessions": 1,
+      "papers": 33,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/P3-2026/"
+    },
+    {
+      "name": "Poster Session 4",
+      "sessions": 1,
+      "papers": 36,
+      "url": "https://digitalcommons.usu.edu/smallsat/2026/P4-2026/"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "smallsat",
+      "weight": 0.658,
+      "evidence": "12.5 of 19 sessions: Year in Review; Launch & Propulsion; Ground Systems; Next on the Pad; Advanced Technologies 1; Advanced Technologies 2; Constellations; Science/Mission Payloads; Frank J. Redd Student Competition; Advanced Technologies 3; Flash Talks Session 1; Flash Talks Session 2; Flash Talks Session 3; Flash Talks Session 5; Advanced Technologies Research & Academia 1; Year in Review Research & Academia; Science/Mission Payloads Research & Academia; Next on the Pad Research & Academia; Advanced Technologies Research & Academia 2"
+    },
+    {
+      "id": "space-comm",
+      "weight": 0.079,
+      "evidence": "1.5 of 19 sessions: Advanced Technologies 1; Advanced Technologies 3; Flash Talks Session 1"
+    },
+    {
+      "id": "space-systems",
+      "weight": 0.053,
+      "evidence": "1 of 19 sessions: Ground Systems; Constellations"
+    },
+    {
+      "id": "ai-ml",
+      "weight": 0.053,
+      "evidence": "1 of 19 sessions: Advanced Technologies 2; Advanced Technologies Research & Academia 1"
+    },
+    {
+      "id": "spacecraft-gnc",
+      "weight": 0.053,
+      "evidence": "1 of 19 sessions: Flash Talks Session 3; Advanced Technologies Research & Academia 2"
+    },
+    {
+      "id": "space-propulsion",
+      "weight": 0.026,
+      "evidence": "0.5 of 19 sessions: Launch & Propulsion"
+    },
+    {
+      "id": "earth-obs",
+      "weight": 0.026,
+      "evidence": "0.5 of 19 sessions: Science/Mission Payloads"
+    },
+    {
+      "id": "education",
+      "weight": 0.026,
+      "evidence": "0.5 of 19 sessions: Frank J. Redd Student Competition"
+    },
+    {
+      "id": "space-science",
+      "weight": 0.026,
+      "evidence": "0.5 of 19 sessions: Science/Mission Payloads Research & Academia"
+    }
+  ],
+  "top_terms": [
+    "very low Earth orbit (VLEO)",
+    "on-board edge computing / on-orbit AI",
+    "optical inter-satellite links and free-space optical communication",
+    "spacecraft swarms and distributed autonomy (Starling)",
+    "formation flying",
+    "hyperspectral imaging",
+    "DiskSat",
+    "vision language model for payload operations",
+    "deep reinforcement learning for tasking/control",
+    "water / green monopropellant small-sat thrusters"
+  ],
+  "sources": [
+    "https://digitalcommons.usu.edu/smallsat/2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/keynote2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/E-S1-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/E-S2-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/E-S3-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/E-S4-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/E-S5-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/E-S6-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/E-S7-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/E-S8-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/E-S9-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/E-S10-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/E-S11-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/RA-S1-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/RA-S2-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/RA-S3-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/RA-S4-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/RA-S5-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/F1-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/F2-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/F3-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/F4-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/F5-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/P1-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/P2-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/P3-2026/",
+    "https://digitalcommons.usu.edu/smallsat/2026/P4-2026/",
+    "https://smallsat.org/conference/dates-and-deadlines"
+  ],
+  "retrieved": "2026-10-16"
+}

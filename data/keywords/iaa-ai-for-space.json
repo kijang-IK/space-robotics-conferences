@@ -1,0 +1,394 @@
+{
+  "id": "iaa-ai-for-space",
+  "edition_analyzed": 2026,
+  "method": "program-sessions",
+  "method_note": "Counted the 46 parallel technical sessions (Technical Sessions 1-4 on 27 Aug in Rooms 1-7 and Sessions 5-7 on 28 Aug in Rooms 1-6) listed in the official Program Book (IAA_SpaceAI2026_ProgramBook.pdf, linked as 'Program book Download' on the official Program page; the download link is session-tokenized). Each session weighted equally; a session is split 50/50 when it spans two keywords; mapping is based on session titles checked against the paper titles listed in each session. 171 paper slots are listed by title in those sessions; the two 'Space AI is Already Here' organized-session tracks list no papers (mapped to ai-ml only). Plenary, invited talk (Xiangyuan Zeng), panel discussion and outlook session excluded. Because the whole conference is about AI, ai-ml is used only where a session is about AI methods/assurance per se; application topics take precedence otherwise. This is consistent with news coverage (fnnews.com, 26 Aug 2026) reporting more than 170 papers. Omitted (raw share <0.02): space-comm 0.011, control-theory 0.011, stm 0.011, structures 0.011, avionics 0.011, motion-planning 0.011, planetary-defense 0.011, space-policy 0.011, hri 0.011, rovers 0.011; remaining weights renormalized to sum to 1 (retained raw share 0.891).",
+  "tracks": [
+    {
+      "name": "S1 - [GNC] Attitude Determination & Control",
+      "sessions": 1,
+      "papers": 3,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S1 - [EO] Satellite Image Detection & Classification",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S1 - [SDA] Ground-Based Space Object Detection",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S1 - [RPOD] Rendezvous & Docking Control",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S1 - [POSE] Uncooperative Target Pose Estimation",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S1 - [CON] LEO Constellation Design & Communication",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S1 - Organized Session: Space AI is Already Here - Track A: Space & Jeju Challenge",
+      "sessions": 1,
+      "papers": null,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S2 - [GNC] Adaptive / Learning Control & System ID",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S2 - [EO] SAR, Image Translation & Multimodal",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S2 - [SDA] Space Situation Awareness & Traffic",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S2 - [RPOD] Proximity Ops, Inspection & Docking",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S2 - [POSE] Relative Navigation & Sensor Fusion",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S2 - [CON] On-Orbit Scheduling & Resource Mgmt",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S2 - Organized Session: Space AI is Already Here - Track B: Earth & Global Enterprise",
+      "sessions": 1,
+      "papers": null,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S3 - Powered Descent, Landing & Reentry",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S3 - Physics-Informed & Surrogate Models (Structure/Thermal/Material)",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S3 - Trajectory Optimization & Formation Transition",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S3 - Free-Floating Manipulators & On-Orbit Assembly",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S3 - Onboard AI Reliability, Assurance & Verification",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S3 - Organized Session I: Orbital Mechanics & Navigation (Choi)",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S3 - Organized Session III: KAERI Session (space nuclear power / heat pipes)",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S4 - [GNC] Formation & Distributed Control",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S4 - [EO] Onboard EO, Datasets & Formation Imaging",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S4 - [SDA] Collision Avoidance & Active Debris Removal",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S4 - [MR] Lunar Base & Multi-Robot Planning (LTL)",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S4 - [ONB] Onboard Processing & Edge Acceleration",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S4 - Organized Session II: Space AI Systems & Payloads (Choi)",
+      "sessions": 1,
+      "papers": 3,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S4 - Organized Session III: KAERI Session (continued)",
+      "sessions": 1,
+      "papers": 1,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S5 - Cislunar Three-Body & Periodic Orbits",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S5 - [EO] Atmosphere, Environment & Formation Imaging",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S5 - Orbital Tracking & Evasion Games",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S5 - [MR] Autonomous Mission & Path Planning",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S5 - [GNC] Onboard Guidance & Control",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S5 - Space Manufacturing, Edge & Others",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S6 - Deep Space Navigation, Guidance & Formation Defense",
+      "sessions": 1,
+      "papers": 3,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S6 - Space Weather & Astronomical Observation",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S6 - Orbit Determination & Tracking",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S6 - Distributed & Autonomous Ops (Digital Twin, Federated Learning)",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S6 - LLM & Agent Frameworks for Space",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S6 - Governance, Policy & Human-AI",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S7 - Cislunar & Small Body Dynamics",
+      "sessions": 1,
+      "papers": 3,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S7 - Cooperative Guidance, Game Theory & Evasion",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S7 - Spacecraft Health Management & Reliability",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S7 - Planetary Surface Mobility & Vehicles",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S7 - LLM-Aided Robot Control & Onboard Autonomy",
+      "sessions": 1,
+      "papers": 3,
+      "url": "https://www.iaa-aispace.org/Program"
+    },
+    {
+      "name": "S7 - Special Space Robotics & Tethered Systems",
+      "sessions": 1,
+      "papers": 3,
+      "url": "https://www.iaa-aispace.org/Program"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "spacecraft-gnc",
+      "weight": 0.134,
+      "evidence": "[GNC] Attitude Determination & Control (S1); [RPOD] Rendezvous & Docking Control (S1); [GNC] Adaptive / Learning Control & System ID (S2); [RPOD] Proximity Ops, Inspection & Docking (S2); Powered Descent, Landing & Reentry (S3); [GNC] Formation & Distributed Control (S4); Orbital Tracking & Evasion Games (S5); [GNC] Onboard Guidance & Control (S5); Cooperative Guidance, Game Theory & Evasion (S7)"
+    },
+    {
+      "id": "ai-ml",
+      "weight": 0.11,
+      "evidence": "Organized Session: Space AI is Already Here - Track A: Space & Jeju Challenge (S1); Organized Session: Space AI is Already Here - Track B: Earth & Global Enterprise (S2); Physics-Informed & Surrogate Models (Structure/Thermal/Material) (S3); Onboard AI Reliability, Assurance & Verification (S3); [ONB] Onboard Processing & Edge Acceleration (S4); Space Manufacturing, Edge & Others (S5); Distributed & Autonomous Ops (Digital Twin, Federated Learning) (S6)"
+    },
+    {
+      "id": "space-systems",
+      "weight": 0.085,
+      "evidence": "[CON] LEO Constellation Design & Communication (S1); [CON] On-Orbit Scheduling & Resource Mgmt (S2); Organized Session III: KAERI Session (space nuclear power / heat pipes) (S3); Organized Session II: Space AI Systems & Payloads (Choi) (S4); Organized Session III: KAERI Session (continued) (S4)"
+    },
+    {
+      "id": "earth-obs",
+      "weight": 0.073,
+      "evidence": "[EO] Satellite Image Detection & Classification (S1); [EO] SAR, Image Translation & Multimodal (S2); [EO] Onboard EO, Datasets & Formation Imaging (S4); [EO] Atmosphere, Environment & Formation Imaging (S5)"
+    },
+    {
+      "id": "autonomy",
+      "weight": 0.073,
+      "evidence": "[CON] On-Orbit Scheduling & Resource Mgmt (S2); Orbital Tracking & Evasion Games (S5); [MR] Autonomous Mission & Path Planning (S5); Distributed & Autonomous Ops (Digital Twin, Federated Learning) (S6); Cooperative Guidance, Game Theory & Evasion (S7); LLM-Aided Robot Control & Onboard Autonomy (S7)"
+    },
+    {
+      "id": "ssa-debris",
+      "weight": 0.061,
+      "evidence": "[SDA] Ground-Based Space Object Detection (S1); [SDA] Space Situation Awareness & Traffic (S2); [SDA] Collision Avoidance & Active Debris Removal (S4)"
+    },
+    {
+      "id": "od-nav",
+      "weight": 0.061,
+      "evidence": "[POSE] Relative Navigation & Sensor Fusion (S2); Organized Session I: Orbital Mechanics & Navigation (Choi) (S3); Deep Space Navigation, Guidance & Formation Defense (S6); Orbit Determination & Tracking (S6)"
+    },
+    {
+      "id": "astrodynamics",
+      "weight": 0.061,
+      "evidence": "Organized Session I: Orbital Mechanics & Navigation (Choi) (S3); Cislunar Three-Body & Periodic Orbits (S5); Cislunar & Small Body Dynamics (S7)"
+    },
+    {
+      "id": "osam",
+      "weight": 0.049,
+      "evidence": "[RPOD] Rendezvous & Docking Control (S1); [RPOD] Proximity Ops, Inspection & Docking (S2); Free-Floating Manipulators & On-Orbit Assembly (S3); Space Manufacturing, Edge & Others (S5)"
+    },
+    {
+      "id": "foundation-models",
+      "weight": 0.049,
+      "evidence": "Organized Session II: Space AI Systems & Payloads (Choi) (S4); LLM & Agent Frameworks for Space (S6); LLM-Aided Robot Control & Onboard Autonomy (S7)"
+    },
+    {
+      "id": "perception",
+      "weight": 0.037,
+      "evidence": "[EO] Satellite Image Detection & Classification (S1); [POSE] Uncooperative Target Pose Estimation (S1); [EO] SAR, Image Translation & Multimodal (S2)"
+    },
+    {
+      "id": "exploration",
+      "weight": 0.037,
+      "evidence": "Powered Descent, Landing & Reentry (S3); [MR] Lunar Base & Multi-Robot Planning (LTL) (S4); Planetary Surface Mobility & Vehicles (S7)"
+    },
+    {
+      "id": "space-robotics",
+      "weight": 0.037,
+      "evidence": "Free-Floating Manipulators & On-Orbit Assembly (S3); Special Space Robotics & Tethered Systems (S7)"
+    },
+    {
+      "id": "phm",
+      "weight": 0.037,
+      "evidence": "Onboard AI Reliability, Assurance & Verification (S3); Spacecraft Health Management & Reliability (S7)"
+    },
+    {
+      "id": "estimation",
+      "weight": 0.024,
+      "evidence": "[POSE] Uncooperative Target Pose Estimation (S1); [POSE] Relative Navigation & Sensor Fusion (S2)"
+    },
+    {
+      "id": "trajectory",
+      "weight": 0.024,
+      "evidence": "Trajectory Optimization & Formation Transition (S3)"
+    },
+    {
+      "id": "multi-robot",
+      "weight": 0.024,
+      "evidence": "[GNC] Formation & Distributed Control (S4); [MR] Lunar Base & Multi-Robot Planning (LTL) (S4)"
+    },
+    {
+      "id": "space-science",
+      "weight": 0.024,
+      "evidence": "Space Weather & Astronomical Observation (S6)"
+    }
+  ],
+  "top_terms": [
+    "physics-informed neural networks (PINN)",
+    "multi-agent reinforcement learning",
+    "orbital pursuit-evasion games",
+    "LLM agent frameworks",
+    "vision-language models",
+    "knowledge distillation for onboard AI",
+    "spiking neural networks",
+    "linear temporal logic (LTL) multi-robot planning",
+    "federated learning in LEO constellations",
+    "cislunar three-body dynamics"
+  ],
+  "sources": [
+    "https://www.iaa-aispace.org/Program",
+    "https://iaa-aispace.org/Program",
+    "https://en.fnnews.com/news/202608261743131950"
+  ],
+  "retrieved": "2026-10-16"
+}

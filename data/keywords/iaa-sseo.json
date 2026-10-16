@@ -1,0 +1,172 @@
+{
+  "id": "iaa-sseo",
+  "edition_analyzed": 2025,
+  "method": "program-sessions",
+  "method_note": "Counted the 16 single-track oral sessions (Programmatics + Sessions 1-15) in the SSEO15 final programme (dated 3/4 May 2025; Berlin, 4-8 May 2025); 61 oral papers/talks listed in them. Each session weighted equally; split 50/50 where two keywords apply. Because every paper concerns small satellites, smallsat is paired with the session-specific theme (instruments, EO data, formation flying, production, education, beyond-LEO). Keynotes, the cybersecurity panel, the production panel, workshops and 2 poster sessions (~36 posters) excluded.",
+  "tracks": [
+    {
+      "name": "Session: Programmatics (invited ESA/EU/DLR programme talks)",
+      "sessions": 1,
+      "papers": 3,
+      "url": "https://iaa2025.welcome-manager.de/archiv/web/userfiles/sseo15/final%20Programm%20SSEO15_May3%2C2025.pdf"
+    },
+    {
+      "name": "Session 1: Mission 1",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://iaa2025.welcome-manager.de/archiv/web/userfiles/sseo15/final%20Programm%20SSEO15_May3%2C2025.pdf"
+    },
+    {
+      "name": "Session 2: Instruments",
+      "sessions": 1,
+      "papers": 3,
+      "url": "https://iaa2025.welcome-manager.de/archiv/web/userfiles/sseo15/final%20Programm%20SSEO15_May3%2C2025.pdf"
+    },
+    {
+      "name": "Session 3: Data Processing",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://iaa2025.welcome-manager.de/archiv/web/userfiles/sseo15/final%20Programm%20SSEO15_May3%2C2025.pdf"
+    },
+    {
+      "name": "Session 4: Mission 2",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://iaa2025.welcome-manager.de/archiv/web/userfiles/sseo15/final%20Programm%20SSEO15_May3%2C2025.pdf"
+    },
+    {
+      "name": "Session 5: Formations and Constellations 1",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://iaa2025.welcome-manager.de/archiv/web/userfiles/sseo15/final%20Programm%20SSEO15_May3%2C2025.pdf"
+    },
+    {
+      "name": "Session 6: Data Applications",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://iaa2025.welcome-manager.de/archiv/web/userfiles/sseo15/final%20Programm%20SSEO15_May3%2C2025.pdf"
+    },
+    {
+      "name": "Session 7: Subsystems",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://iaa2025.welcome-manager.de/archiv/web/userfiles/sseo15/final%20Programm%20SSEO15_May3%2C2025.pdf"
+    },
+    {
+      "name": "Session 8: Sustainability and Space Situational Awareness",
+      "sessions": 1,
+      "papers": 3,
+      "url": "https://iaa2025.welcome-manager.de/archiv/web/userfiles/sseo15/final%20Programm%20SSEO15_May3%2C2025.pdf"
+    },
+    {
+      "name": "Session 9: Between Automatization and Digitalization: Satellite Production Technologies",
+      "sessions": 1,
+      "papers": 3,
+      "url": "https://iaa2025.welcome-manager.de/archiv/web/userfiles/sseo15/final%20Programm%20SSEO15_May3%2C2025.pdf"
+    },
+    {
+      "name": "Session 10: Lessons Learned",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://iaa2025.welcome-manager.de/archiv/web/userfiles/sseo15/final%20Programm%20SSEO15_May3%2C2025.pdf"
+    },
+    {
+      "name": "Session 11: Special Aspects",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://iaa2025.welcome-manager.de/archiv/web/userfiles/sseo15/final%20Programm%20SSEO15_May3%2C2025.pdf"
+    },
+    {
+      "name": "Session 12: Student Competition",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://iaa2025.welcome-manager.de/archiv/web/userfiles/sseo15/final%20Programm%20SSEO15_May3%2C2025.pdf"
+    },
+    {
+      "name": "Session 13: Missions 3",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://iaa2025.welcome-manager.de/archiv/web/userfiles/sseo15/final%20Programm%20SSEO15_May3%2C2025.pdf"
+    },
+    {
+      "name": "Session 14: Below and Beyond LEO",
+      "sessions": 1,
+      "papers": 3,
+      "url": "https://iaa2025.welcome-manager.de/archiv/web/userfiles/sseo15/final%20Programm%20SSEO15_May3%2C2025.pdf"
+    },
+    {
+      "name": "Session 15: Formations and Constellations 2",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://iaa2025.welcome-manager.de/archiv/web/userfiles/sseo15/final%20Programm%20SSEO15_May3%2C2025.pdf"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "smallsat",
+      "weight": 0.469,
+      "evidence": "Session: Programmatics (invited ESA/EU/DLR programme talks); Session 1: Mission 1; Session 2: Instruments; Session 3: Data Processing; Session 4: Mission 2; Session 5: Formations and Constellations 1; Session 7: Subsystems; Session 8: Sustainability and Space Situational Awareness; Session 9: Between Automatization and Digitalization: Satellite Production Technologies; Session 10: Lessons Learned; Session 11: Special Aspects; Session 12: Student Competition; Session 13: Missions 3; Session 14: Below and Beyond LEO; Session 15: Formations and Constellations 2"
+    },
+    {
+      "id": "earth-obs",
+      "weight": 0.156,
+      "evidence": "Session 2: Instruments; Session 6: Data Applications; Session 11: Special Aspects; Session 13: Missions 3"
+    },
+    {
+      "id": "space-systems",
+      "weight": 0.094,
+      "evidence": "Session 1: Mission 1; Session 4: Mission 2; Session 7: Subsystems"
+    },
+    {
+      "id": "spacecraft-gnc",
+      "weight": 0.063,
+      "evidence": "Session 5: Formations and Constellations 1; Session 15: Formations and Constellations 2"
+    },
+    {
+      "id": "education",
+      "weight": 0.063,
+      "evidence": "Session 10: Lessons Learned; Session 12: Student Competition"
+    },
+    {
+      "id": "space-policy",
+      "weight": 0.031,
+      "evidence": "Session: Programmatics (invited ESA/EU/DLR programme talks)"
+    },
+    {
+      "id": "avionics",
+      "weight": 0.031,
+      "evidence": "Session 3: Data Processing"
+    },
+    {
+      "id": "ssa-debris",
+      "weight": 0.031,
+      "evidence": "Session 8: Sustainability and Space Situational Awareness"
+    },
+    {
+      "id": "automation",
+      "weight": 0.031,
+      "evidence": "Session 9: Between Automatization and Digitalization: Satellite Production Technologies"
+    },
+    {
+      "id": "exploration",
+      "weight": 0.031,
+      "evidence": "Session 14: Below and Beyond LEO"
+    }
+  ],
+  "top_terms": [
+    "formation flying (NanoFF)",
+    "GNSS reflectometry / GNSS remote sensing",
+    "VLEO CubeSat missions",
+    "autonomous optical link acquisition",
+    "tethered satellite systems",
+    "lunar small-satellite missions (SER3NE, Moonraker)",
+    "satellite production automation and digitalization",
+    "event-camera space object detection"
+  ],
+  "sources": [
+    "https://iaa2025.welcome-manager.de/archiv/web/userfiles/sseo15/final%20Programm%20SSEO15_May3%2C2025.pdf",
+    "https://iaa2025.welcome-manager.de/front/content.php?id_article=581",
+    "https://iaaspace.org/sseo"
+  ],
+  "retrieved": "2026-10-16"
+}

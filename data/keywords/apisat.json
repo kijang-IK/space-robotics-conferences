@@ -1,0 +1,140 @@
+{
+ "id": "apisat",
+ "edition_analyzed": 2025,
+ "method": "program-sessions",
+ "method_note": "The 2026 edition (Sapporo, 27-29 Oct 2026) has not yet taken place, so APISAT 2025 (Seoul Olympic Parktel, 27-29 Oct 2025) was analysed. Counted 94 oral technical sessions from the official final programme PDF (Parallel Session Schedule): sessions numbered 1-112, excluding 14 slots marked 'Closed Meeting' with no title and 4 'K-UAM Safety Technology Innovation Forum (Closed Session)' blocks. Plenaries and poster sessions not counted; per-session paper counts were not extracted. Tracks are the programme's session prefixes (AD, SM, CP, DCA, SSA, SE, Os), with the names taken from the programme's topic list. Each session = 1 unit split across at most 2 keywords. Aerodynamics/structures/propulsion sessions without a specific title cue were mapped to their track's main keyword. Keywords below 0.02 (launch, earth-obs, space-comm, autonomy, space-systems, exploration, space-science, trajectory, estimation, mechatronics, motion-planning; together 0.106 of session-units) were dropped and the remaining weights renormalized to sum to 1.",
+ "tracks": [
+  {
+   "name": "Organized Sessions (Os)",
+   "sessions": 24,
+   "papers": null,
+   "url": "http://apisat2025.org/wp-content/uploads/2025/10/APISAT-2025-PROGRAM_final_compressed.pdf"
+  },
+  {
+   "name": "Space Science and Applications (SSA)",
+   "sessions": 4,
+   "papers": null,
+   "url": "http://apisat2025.org/wp-content/uploads/2025/10/APISAT-2025-PROGRAM_final_compressed.pdf"
+  },
+  {
+   "name": "Dynamics/Control/Avionics (DCA)",
+   "sessions": 16,
+   "papers": null,
+   "url": "http://apisat2025.org/wp-content/uploads/2025/10/APISAT-2025-PROGRAM_final_compressed.pdf"
+  },
+  {
+   "name": "Aerodynamics and Design (AD)",
+   "sessions": 20,
+   "papers": null,
+   "url": "http://apisat2025.org/wp-content/uploads/2025/10/APISAT-2025-PROGRAM_final_compressed.pdf"
+  },
+  {
+   "name": "Structures and Materials (SM)",
+   "sessions": 10,
+   "papers": null,
+   "url": "http://apisat2025.org/wp-content/uploads/2025/10/APISAT-2025-PROGRAM_final_compressed.pdf"
+  },
+  {
+   "name": "Combustion and Propulsion (CP)",
+   "sessions": 11,
+   "papers": null,
+   "url": "http://apisat2025.org/wp-content/uploads/2025/10/APISAT-2025-PROGRAM_final_compressed.pdf"
+  },
+  {
+   "name": "System Engineering (SE)",
+   "sessions": 9,
+   "papers": null,
+   "url": "http://apisat2025.org/wp-content/uploads/2025/10/APISAT-2025-PROGRAM_final_compressed.pdf"
+  }
+ ],
+ "keywords": [
+  {
+   "id": "aerodynamics",
+   "weight": 0.208,
+   "evidence": "17.5 of 94 session-units: Session 4: Flow Modeling (1); Session 5: Flow Analysis and Stability (1); Session 7: Acousitcs & Flow Visualization (1); Session 14: Propeller, Rotor, and Fan Flow (1); Session 17: Rotorcraft, Flapping, and Wake Interactions (1); Session 24: Advancded Computational Fluid Dynamics (1); Session 34: Wing Aerodynamics (1); Session 35: Aerodynamic Optimization (1); Session 37: Computational Fluid Dynamics & Unsteady Aerodynamics (1); Session 45: Advanced Aerodynamics I (1); Session 47: Airfoil, Wing, and Body Aerodynamics in Wind Tunnels (1); Session 54: Airfoil Aerodynamics (1); Session 55: Advanced Aerodynamics II (1); Session 77: Wind Tunnel Technology and Measurement Methods (1); Session 87: Aircraft icing simulation, test and ice protection (1); Session 27: Aeroelasticity, Deployment, and Aerodynamic Loads (0.5); Session 44: Compressor and Turbine Aerodynamics (0.5); Session 57: Propulsion Aerodynamics (0.5); Session 67: Flutter and Aeroelastic Testing (0.5); Session 96: Aerodynamics and Multidisciplinary Optimization of Low-Altitude Vehicles (0.5)"
+  },
+  {
+   "id": "air-propulsion",
+   "weight": 0.167,
+   "evidence": "14 of 94 session-units: Session 8: Hybrid and Sustainable Propulsion Systems (1); Session 18: Compressor and Fan Aerodynamics (1); Session 19: Turbines I (1); Session 29: Turbines II (1); Session 48: Combustion and Burner Technologies (1); Session 58: Combustion Analysis (1); Session 68: System-Level and Component Cooling Technologies (1); Session 69: Fuel and combustion technology for propulsion I (1); Session 78: Film Cooling and Advanced Heat Transfer Methods (1); Session 79: Fuel and combustion technology for propulsion II (1); Session 88: Innovative Cooling Technologies and Thermal Management Solutions in Aerospace (1); Session 9: Fuel Injection & Spacecraft Propulsion (0.5); Session 28: Advanced Propulsion (0.5); Session 38: Reliability, Pumps, and Multiphase Flow in Engines (0.5); Session 44: Compressor and Turbine Aerodynamics (0.5); Session 57: Propulsion Aerodynamics (0.5); Session 83: Aerospace Propulsion (0.5)"
+  },
+  {
+   "id": "structures",
+   "weight": 0.143,
+   "evidence": "12 of 94 session-units: Session 6: Composite Structures (1); Session 16: Aeroelasticity and Control (1); Session 26: Smart Structures (1); Session 36: Advanced Materials (1); Session 39: Structural Dynamics and Control (1); Session 46: Structural Analysis of Aircraft Components (1); Session 49: Structural Testing (1); Session 56: Lightweight and Advanced Materials (1); Session 59: Smart Structures (1); Session 66: Microstructural Effects and Structural Reliability (1); Session 76: Testing, Monitoring, and Validation (1); Session 27: Aeroelasticity, Deployment, and Aerodynamic Loads (0.5); Session 67: Flutter and Aeroelastic Testing (0.5)"
+  },
+  {
+   "id": "air-transport",
+   "weight": 0.071,
+   "evidence": "6 of 94 session-units: Session 3: Trajectory Prediction and Air Traffic Flow (1); Session 23: Network, Optimization, and Future Challenges (1); Session 1: AAM(Advanced Aerial Mobility) and AI application I (0.5); Session 11: AAM(Advanced Aerial Mobility) and AI application II (0.5); Session 13: Operations and Decision-Making (0.5); Session 21: AAM(Advanced Aerial Mobility) and AI application III (0.5); Session 25: Advanced Air Mobility (AAM) & Sustainable Design (0.5); Session 81: Low-Carbon Aviation Futures: Innovations in Dynamics, Control, and Optimization I (0.5); Session 89: Low-Carbon Aviation Futures: Innovations in Dynamics, Control, and Optimization II (0.5); Session 91: Multi-Discipline Integrated Urban Air Mobility Core Technology (0.5)"
+  },
+  {
+   "id": "uav",
+   "weight": 0.065,
+   "evidence": "5.5 of 94 session-units: Session 102: Research of Core Technologies for Stratospheric Solar-Powered Drone I (1); Session 110: Research of Core Technologies for Stratospheric Solar-Powered Drone II (1); Session 15: UAV Design and Operations (0.5); Session 41: Guidance, Landing, and Cooperative Missions (0.5); Session 50: Cooperative Operations and System-Level Optimization (0.5); Session 74: CNU Aerospace Autonomous System (0.5); Session 95: VTOL Technology Research Center I (0.5); Session 104: One-stop Platform Technology of Atmospheric Environmental Monitoring UAV System I (0.5); Session 112: One-stop Platform Technology of Atmospheric Environmental Monitoring UAV System II (0.5)"
+  },
+  {
+   "id": "aircraft-design",
+   "weight": 0.06,
+   "evidence": "5 of 94 session-units: Session 60: Multidisciplinary Design Optimization (1); Session 15: UAV Design and Operations (0.5); Session 25: Advanced Air Mobility (AAM) & Sustainable Design (0.5); Session 30: Model-Based Design and System Engineering (0.5); Session 65: Dynamics Challenges and Innovations in eVTOL Design I (0.5); Session 75: Dynamics Challenges and Innovations in eVTOL Design II (0.5); Session 91: Multi-Discipline Integrated Urban Air Mobility Core Technology (0.5); Session 95: VTOL Technology Research Center I (0.5); Session 96: Aerodynamics and Multidisciplinary Optimization of Low-Altitude Vehicles (0.5)"
+  },
+  {
+   "id": "ai-ml",
+   "weight": 0.054,
+   "evidence": "4.5 of 94 session-units: Session 10: AI Applications for Aerospace Systems I (1); Session 20: AI Applications for Aerospace Systems II (1); Session 52: Learning-based Prediction Method (1); Session 1: AAM(Advanced Aerial Mobility) and AI application I (0.5); Session 11: AAM(Advanced Aerial Mobility) and AI application II (0.5); Session 21: AAM(Advanced Aerial Mobility) and AI application III (0.5)"
+  },
+  {
+   "id": "control-theory",
+   "weight": 0.054,
+   "evidence": "4.5 of 94 session-units: Session 31: Control Methods and Applications IV (1); Session 53: Control Methods and Applications I (1); Session 63: Control Methods and Applications II (1); Session 73: Control Methods and Applications III (1); Session 64: Aerospace servo transmissioncontrol and actuation (0.5)"
+  },
+  {
+   "id": "flight-dynamics",
+   "weight": 0.054,
+   "evidence": "4.5 of 94 session-units: Session 33: Flight Dynamics Modeling and System Identification (1); Session 41: Guidance, Landing, and Cooperative Missions (0.5); Session 42: eVTOL and Distributed Propulsion Control & Sensors and Actuators (0.5); Session 43: Flight Simulation & Sensors and Actuators (0.5); Session 65: Dynamics Challenges and Innovations in eVTOL Design I (0.5); Session 75: Dynamics Challenges and Innovations in eVTOL Design II (0.5); Session 81: Low-Carbon Aviation Futures: Innovations in Dynamics, Control, and Optimization I (0.5); Session 89: Low-Carbon Aviation Futures: Innovations in Dynamics, Control, and Optimization II (0.5)"
+  },
+  {
+   "id": "phm",
+   "weight": 0.03,
+   "evidence": "2.5 of 94 session-units: Session 40: Digital Twin Frameworks (1); Session 70: Fault-Tolerant System (1); Session 80: Fault-Tolerant System and Avionics Networking (0.5)"
+  },
+  {
+   "id": "space-propulsion",
+   "weight": 0.024,
+   "evidence": "2 of 94 session-units: Session 9: Fuel Injection & Spacecraft Propulsion (0.5); Session 28: Advanced Propulsion (0.5); Session 38: Reliability, Pumps, and Multiphase Flow in Engines (0.5); Session 83: Aerospace Propulsion (0.5)"
+  },
+  {
+   "id": "smallsat",
+   "weight": 0.024,
+   "evidence": "2 of 94 session-units: Session 22: Small Satellite Platforms and Payload Technologies (1); Session 82: Heterogeneous Satellite Constellation Technology I (0.5); Session 90: Heterogeneous Satellite Constellation Technology II (0.5)"
+  },
+  {
+   "id": "avionics",
+   "weight": 0.024,
+   "evidence": "2 of 94 session-units: Session 42: eVTOL and Distributed Propulsion Control & Sensors and Actuators (0.5); Session 43: Flight Simulation & Sensors and Actuators (0.5); Session 62: Integrated and Multi-Sensor Navigation (0.5); Session 80: Fault-Tolerant System and Avionics Networking (0.5)"
+  },
+  {
+   "id": "spacecraft-gnc",
+   "weight": 0.024,
+   "evidence": "2 of 94 session-units: Session 51: Space System Control (1); Session 61: Orbital Guidance and Trajectory Optimization (0.5); Session 71: Spaceplane and Reentry Guidance (0.5)"
+  }
+ ],
+ "top_terms": [
+  "Advanced Air Mobility (AAM) and AI",
+  "eVTOL design and distributed propulsion control",
+  "urban air mobility (K-UAM)",
+  "digital twin frameworks",
+  "heterogeneous satellite constellations",
+  "stratospheric solar-powered drones",
+  "low-carbon aviation",
+  "fault-tolerant systems and avionics networking",
+  "film cooling and thermal management",
+  "aircraft icing"
+ ],
+ "sources": [
+  "http://apisat2025.org/wp-content/uploads/2025/10/APISAT-2025-PROGRAM_final_compressed.pdf",
+  "http://apisat2025.org/",
+  "https://www.raes.org.au/events/conferences/apisat2025/"
+ ],
+ "retrieved": "2026-10-16"
+}

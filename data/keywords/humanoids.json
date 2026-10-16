@@ -1,0 +1,137 @@
+{
+  "id": "humanoids",
+  "edition_analyzed": 2025,
+  "method": "paper-counts",
+  "method_note": "Humanoids 2025 (Seoul, Sep 30-Oct 2, 2025); the 2026 edition (Santa Clara, Dec 6-9, 2026) has not yet taken place. Its technical program has no topical session names (4 single-track \"Oral Session\" + 4 \"Interactive Session\" blocks), so program-sessions could not be used. Instead counted all 180 papers in the PaperCept program (26 oral + 154 interactive; read from Internet Archive snapshots because the live PaperCept pages now return 404/403) and mapped each paper's author-selected PaperCept keywords to taxonomy ids; each paper contributes weight 1 split equally across its first 2 distinct mapped ids (1 paper(s) had no mappable keyword). Weight = share of 179 mapped papers. top_terms are taken from the most frequent PaperCept paper keywords because session titles are generic. Keywords below 0.02 omitted; listed weights sum to 0.934.",
+  "tracks": [
+    {
+      "name": "Oral Session 1 (TO1B)",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://web.archive.org/web/20251206044718/https://ras.papercept.net/conferences/scripts/rtf/ICHR25_ContentListWeb_1.html"
+    },
+    {
+      "name": "Interactive Session 1 (TI4C)",
+      "sessions": 1,
+      "papers": 37,
+      "url": "https://web.archive.org/web/20251206044718/https://ras.papercept.net/conferences/scripts/rtf/ICHR25_ContentListWeb_1.html"
+    },
+    {
+      "name": "Oral Session 2 (TO5B)",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://web.archive.org/web/20251206044718/https://ras.papercept.net/conferences/scripts/rtf/ICHR25_ContentListWeb_1.html"
+    },
+    {
+      "name": "Interactive Session 2 (TI6C)",
+      "sessions": 1,
+      "papers": 38,
+      "url": "https://web.archive.org/web/20251206044718/https://ras.papercept.net/conferences/scripts/rtf/ICHR25_ContentListWeb_1.html"
+    },
+    {
+      "name": "Oral Session 3 (WO1A)",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://web.archive.org/web/20251014180825/http://ras.papercept.net/conferences/scripts/rtf/ICHR25_ContentListWeb_2.html"
+    },
+    {
+      "name": "Interactive Session 3 (WI2C)",
+      "sessions": 1,
+      "papers": 39,
+      "url": "https://web.archive.org/web/20251014180825/http://ras.papercept.net/conferences/scripts/rtf/ICHR25_ContentListWeb_2.html"
+    },
+    {
+      "name": "Oral Session 4 (WO4A)",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://web.archive.org/web/20251014180825/http://ras.papercept.net/conferences/scripts/rtf/ICHR25_ContentListWeb_2.html"
+    },
+    {
+      "name": "Interactive Session 4 (WI5C)",
+      "sessions": 1,
+      "papers": 40,
+      "url": "https://web.archive.org/web/20251014180825/http://ras.papercept.net/conferences/scripts/rtf/ICHR25_ContentListWeb_2.html"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "legged-humanoid",
+      "weight": 0.207,
+      "evidence": "37 of 179 papers; PaperCept keywords: Humanoid and Bipedal Locomotion (29); Legged Robots (26); Humanoid Robot Systems (22); Human and Humanoid Motion Analysis and Synthesis (9); Modeling and Simulating Humans (5); Body Balancing (4)"
+    },
+    {
+      "id": "manipulation",
+      "weight": 0.137,
+      "evidence": "24.5 of 179 papers; PaperCept keywords: Dexterous Manipulation (10); Multifingered Hands (10); Bimanual Manipulation (8); Dual Arm Manipulation (7); Grasping (7); Perception for Grasping and Manipulation (6)"
+    },
+    {
+      "id": "hri",
+      "weight": 0.117,
+      "evidence": "21 of 179 papers; PaperCept keywords: Telerobotics and Teleoperation (10); Physical Human-Robot Interaction (7); Human-Robot Collaboration (4); Haptics and Haptic Interfaces (4); Touch in HRI (3); Social HRI (3)"
+    },
+    {
+      "id": "robot-learning",
+      "weight": 0.103,
+      "evidence": "18.5 of 179 papers; PaperCept keywords: Reinforcement Learning (23); Imitation Learning (9); Learning from Demonstration (6); Machine Learning for Robot Control (4); Sensorimotor Learning (3); Bioinspired Robot Learning (2)"
+    },
+    {
+      "id": "motion-planning",
+      "weight": 0.078,
+      "evidence": "14 of 179 papers; PaperCept keywords: Multi-Contact Whole-Body Motion Planning and Control (12); Whole-Body Motion Planning and Control (9); Motion and Path Planning (4); Collision Avoidance (2); Human-Aware Motion Planning (2); Task and Motion Planning (2)"
+    },
+    {
+      "id": "mechanisms",
+      "weight": 0.073,
+      "evidence": "13 of 179 papers; PaperCept keywords: Mechanism Design (14); Actuation and Joint Mechanisms (7); Compliant Joints and Mechanisms (3); Tendon/Wire Mechanism (2); Underactuated Robots (2); Hydraulic/Pneumatic Actuators (2)"
+    },
+    {
+      "id": "control-theory",
+      "weight": 0.056,
+      "evidence": "10 of 179 papers; PaperCept keywords: Optimization and Optimal Control (9); Compliance and Impedance Control (4); Motion Control (4); Dynamics (2); Contact Modeling (2); Hybrid Logical/Dynamical Planning and Verification (1)"
+    },
+    {
+      "id": "perception",
+      "weight": 0.047,
+      "evidence": "8.5 of 179 papers; PaperCept keywords: Semantic Scene Understanding (5); Deep Learning for Visual Perception (5); Omnidirectional Vision (3); Human Detection and Tracking (2); Perception-Action Coupling (2); RGB-D Perception (2)"
+    },
+    {
+      "id": "ai-ml",
+      "weight": 0.047,
+      "evidence": "8.5 of 179 papers; PaperCept keywords: Representation Learning (4); AI-Based Methods (3); Learning Categories and Concepts (2); AI-Enabled Robotics (2); Learning from Experience (2); Big Data in Robotics and Automation (2)"
+    },
+    {
+      "id": "medical-robotics",
+      "weight": 0.025,
+      "evidence": "4.5 of 179 papers; PaperCept keywords: Wearable Robotics (5); Prosthetics and Exoskeletons (3); Rehabilitation Robotics (3); Medical Robots and Systems (1); Computer Vision for Medical Robotics (1); Physically Assistive Devices (1)"
+    },
+    {
+      "id": "mechatronics",
+      "weight": 0.022,
+      "evidence": "4 of 179 papers; PaperCept keywords: Force and Tactile Sensing (8)"
+    },
+    {
+      "id": "soft-robotics",
+      "weight": 0.022,
+      "evidence": "4 of 179 papers; PaperCept keywords: Soft Sensors and Actuators (5); Soft Robot Materials and Design (2); Flexible Robots (1); Flexible Robotics (1); Modeling, Control, and Learning for Soft Robots (1)"
+    }
+  ],
+  "top_terms": [
+    "humanoid and bipedal locomotion",
+    "reinforcement learning",
+    "whole-body motion planning and control",
+    "multi-contact",
+    "dexterous manipulation",
+    "multifingered hands",
+    "teleoperation",
+    "imitation learning",
+    "bimanual manipulation",
+    "physical human-robot interaction"
+  ],
+  "sources": [
+    "https://web.archive.org/web/20251206044718/https://ras.papercept.net/conferences/scripts/rtf/ICHR25_ContentListWeb_1.html",
+    "https://web.archive.org/web/20251014180825/http://ras.papercept.net/conferences/scripts/rtf/ICHR25_ContentListWeb_2.html",
+    "https://ras.papercept.net/conferences/scripts/rtf/ICHR25_ContentListWeb_1.html",
+    "https://2025humanoids.org/technical-program-details/"
+  ],
+  "retrieved": "2026-10-16"
+}

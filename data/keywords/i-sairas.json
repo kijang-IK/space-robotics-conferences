@@ -1,0 +1,178 @@
+{
+ "id": "i-sairas",
+ "edition_analyzed": 2024,
+ "method": "program-sessions",
+ "method_note": "The 2026 edition (Cologne, 3-6 Nov 2026, joint with iSpaRo) has not yet taken place, so the most recent completed edition, i-SAIRAS 2024 (Brisbane, 19-22 Nov 2024), was analysed. Counted 42 parallel technical sessions (session codes S2-S12, rooms P1-P4 and PA) from the official online technical program. Excluded: opening/plenary sessions 1, 5 and 9, the closing ceremony, and three Expert Panels (Terrestrial Mining & Space; Space Engagement Opportunities; Trust and AI). Paper counts per session were not extracted (null). Mapping uses session titles only (no paper titles checked), so mixed sessions such as 'Spacecraft 2/4', 'Technology Transfer 2/3' and 'Visualisation and Simulation' carry more uncertainty. Keywords below 0.02 (manipulation, osam, earth-obs, autonomy, slam, motion-planning; together 0.071 of session-units) were dropped and the remaining weights renormalized to sum to 1.",
+ "tracks": [
+  {
+   "name": "Robotics",
+   "sessions": 4,
+   "papers": null,
+   "url": "https://www.isairas2024.org/program.html"
+  },
+  {
+   "name": "Rovers",
+   "sessions": 9,
+   "papers": null,
+   "url": "https://www.isairas2024.org/program.html"
+  },
+  {
+   "name": "Spacecraft",
+   "sessions": 4,
+   "papers": null,
+   "url": "https://www.isairas2024.org/program.html"
+  },
+  {
+   "name": "AI",
+   "sessions": 4,
+   "papers": null,
+   "url": "https://www.isairas2024.org/program.html"
+  },
+  {
+   "name": "Technology Transfer",
+   "sessions": 4,
+   "papers": null,
+   "url": "https://www.isairas2024.org/program.html"
+  },
+  {
+   "name": "ISRU",
+   "sessions": 3,
+   "papers": null,
+   "url": "https://www.isairas2024.org/program.html"
+  },
+  {
+   "name": "Interoperability / Standards",
+   "sessions": 1,
+   "papers": null,
+   "url": "https://www.isairas2024.org/program.html"
+  },
+  {
+   "name": "Tele-operations",
+   "sessions": 1,
+   "papers": null,
+   "url": "https://www.isairas2024.org/program.html"
+  },
+  {
+   "name": "Mars / Lunar Technology",
+   "sessions": 3,
+   "papers": null,
+   "url": "https://www.isairas2024.org/program.html"
+  },
+  {
+   "name": "Habitats / Human Support",
+   "sessions": 2,
+   "papers": null,
+   "url": "https://www.isairas2024.org/program.html"
+  },
+  {
+   "name": "Challenges and Initiatives",
+   "sessions": 1,
+   "papers": null,
+   "url": "https://www.isairas2024.org/program.html"
+  },
+  {
+   "name": "Sensors / Systems",
+   "sessions": 2,
+   "papers": null,
+   "url": "https://www.isairas2024.org/program.html"
+  },
+  {
+   "name": "Analogues",
+   "sessions": 2,
+   "papers": null,
+   "url": "https://www.isairas2024.org/program.html"
+  },
+  {
+   "name": "Mission assurance",
+   "sessions": 1,
+   "papers": null,
+   "url": "https://www.isairas2024.org/program.html"
+  },
+  {
+   "name": "Visualisation and Simulation",
+   "sessions": 1,
+   "papers": null,
+   "url": "https://www.isairas2024.org/program.html"
+  }
+ ],
+ "keywords": [
+  {
+   "id": "exploration",
+   "weight": 0.218,
+   "evidence": "8.5 of 42 session-units: S6.P1 ISRU (1); S7.P1 ISRU (1); S7.P3 Mars Technology (1); S8.P3 Mars Technology (1); S11.P1 Lunar Technology (1); S3.P1 Robotics 2: Exploration and Architecture (0.5); S7.P4 Rovers 5: Surface Exploration and Sensing (0.5); S8.P1 ISRU 3: Robotics (0.5); S8.P4 Rovers 6: Lava Tube Exploration (0.5); S10.P2 Lava Tube Exploration and Habitats (0.5); S11.P2 Analogue Facilities (0.5); S12.P2 Field Analogues (0.5)"
+  },
+  {
+   "id": "rovers",
+   "weight": 0.141,
+   "evidence": "5.5 of 42 session-units: S3.P4 Rovers 2: Novel Platforms (1); S12.P4 Rovers 9: Novel Platforms (1); S2.P4 Rovers 1: Advanced Sensing (0.5); S4.P4 Rovers 3: Novel Platforms and Sensors (0.5); S6.P4 Rovers 4: AI and Localisation (0.5); S7.P4 Rovers 5: Surface Exploration and Sensing (0.5); S8.P4 Rovers 6: Lava Tube Exploration (0.5); S10.P4 Rovers 7: Perception and Path Planning (0.5); S11.P4 Rovers 8: Perception and Path Planning (0.5)"
+  },
+  {
+   "id": "space-systems",
+   "weight": 0.141,
+   "evidence": "5.5 of 42 session-units: S3.P2 Spacecraft 2: Logistics and Hazard Management (1); S6.P2 Spacecraft 4: Payload Technologies (1); S12.P1 Mission assurance and validation (1); S2.P2 Spacecraft 1: Service and Logistics (0.5); S4.P2 Spacecraft 3: On-board Technologies (0.5); S6.P3 Interoperability (0.5); S10.P3 Advanced sensors and systems (0.5); S11.P3 Sensors and Standards (0.5)"
+  },
+  {
+   "id": "space-robotics",
+   "weight": 0.103,
+   "evidence": "4 of 42 session-units: S12.P3 Visualisation and Simulation (1); S2.P1 Robotics 1: Manipulation (0.5); S3.P1 Robotics 2: Exploration and Architecture (0.5); S4.P1 Robotics 3: Collaborative Systems (0.5); S6.P3 Interoperability (0.5); S8.P1 ISRU 3: Robotics (0.5); S10.P1 Robotics 4: Collaborative Systems (0.5)"
+  },
+  {
+   "id": "ai-ml",
+   "weight": 0.09,
+   "evidence": "3.5 of 42 session-units: S2.PA AI4Space (sponsored by SmartSat CRC) (1); S3.P3 AI and Digital Workflow (1); S4.P3 AI Knowledge Management (1); S2.P3 AI and Earth Observation (0.5)"
+  },
+  {
+   "id": "field-robotics",
+   "weight": 0.09,
+   "evidence": "3.5 of 42 session-units: S12.PA Technology Transfer 4: Marine and Space (1); S4.PA Technology Transfer 1: Mining & Space (0.5); S6.PA Technology Transfer (0.5); S10.PA Tech Transfer (0.5); S11.P2 Analogue Facilities (0.5); S12.P2 Field Analogues (0.5)"
+  },
+  {
+   "id": "perception",
+   "weight": 0.064,
+   "evidence": "2.5 of 42 session-units: S2.P4 Rovers 1: Advanced Sensing (0.5); S4.P4 Rovers 3: Novel Platforms and Sensors (0.5); S10.P4 Rovers 7: Perception and Path Planning (0.5); S10.P3 Advanced sensors and systems (0.5); S11.P3 Sensors and Standards (0.5)"
+  },
+  {
+   "id": "automation",
+   "weight": 0.038,
+   "evidence": "1.5 of 42 session-units: S4.PA Technology Transfer 1: Mining & Space (0.5); S6.PA Technology Transfer (0.5); S10.PA Tech Transfer (0.5)"
+  },
+  {
+   "id": "human-spaceflight",
+   "weight": 0.038,
+   "evidence": "1.5 of 42 session-units: S8.P2 Habitats and Human Support (1); S10.P2 Lava Tube Exploration and Habitats (0.5)"
+  },
+  {
+   "id": "multi-robot",
+   "weight": 0.026,
+   "evidence": "1 of 42 session-units: S4.P1 Robotics 3: Collaborative Systems (0.5); S10.P1 Robotics 4: Collaborative Systems (0.5)"
+  },
+  {
+   "id": "hri",
+   "weight": 0.026,
+   "evidence": "1 of 42 session-units: S7.P2 Tele-operations (1)"
+  },
+  {
+   "id": "space-policy",
+   "weight": 0.026,
+   "evidence": "1 of 42 session-units: S8.PA Challenges and Initiatives (1)"
+  }
+ ],
+ "top_terms": [
+  "ISRU",
+  "lava tube exploration",
+  "AI4Space",
+  "technology transfer between mining and space",
+  "interoperability and standards",
+  "analogue facilities and field analogues",
+  "tele-operations",
+  "trust and AI",
+  "Mars and lunar technology",
+  "habitats and human support"
+ ],
+ "sources": [
+  "https://www.isairas2024.org/program.html",
+  "https://roboshare.esa.int/i-SAIRAS/isairas2024/",
+  "https://spacepolicyonline.com/events/intl-symp-on-ai-robotics-and-automation-in-space-2024-nov-19-21-2024-brisbane-australia/"
+ ],
+ "retrieved": "2026-10-16"
+}

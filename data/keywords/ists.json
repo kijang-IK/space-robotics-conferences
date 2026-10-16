@@ -1,0 +1,222 @@
+{
+ "id": "ists",
+ "edition_analyzed": 2025,
+ "method": "program-sessions",
+ "method_note": "Counted the 116 oral technical sessions of the 35th ISTS (Tokushima, 12-18 Jul 2025) in the official Final Program paper list; 496 distinct paper numbers (2025-x-n-m) were counted across them. The technical poster session and the Student Finalist Session (S) were not counted; plenaries, NSAT/special events and the Spacecraft Control System Design Contest excluded. Sessions were mapped by their 19 official technical-session categories, refined per session for categories d (Astrodynamics/GNC), f (Small Satellite), k (Exploration), m and r and for session a-10 (Supersonic). Some session titles were reconstructed from the PDF's broken table layout. Each session = 1 unit split across at most 2 keywords. The next edition (36th, Toyama, July 2027) has not yet taken place. Keywords below 0.02 (air-propulsion, od-nav, osam, rovers, space-robotics; together 0.052 of session-units) were dropped and the remaining weights renormalized to sum to 1.",
+ "tracks": [
+  {
+   "name": "a) Chemical Propulsion and Air-breathing Engines",
+   "sessions": 13,
+   "papers": 59,
+   "url": "https://ists.ne.jp/the35th/wp-content/uploads/2025/07/35th-ISTS_FinalProgram_20250713_F3.pdf"
+  },
+  {
+   "name": "b) Electric and Advanced Propulsion",
+   "sessions": 14,
+   "papers": 53,
+   "url": "https://ists.ne.jp/the35th/wp-content/uploads/2025/07/35th-ISTS_FinalProgram_20250713_F3.pdf"
+  },
+  {
+   "name": "c) Materials and Structures",
+   "sessions": 7,
+   "papers": 33,
+   "url": "https://ists.ne.jp/the35th/wp-content/uploads/2025/07/35th-ISTS_FinalProgram_20250713_F3.pdf"
+  },
+  {
+   "name": "d) Astrodynamics, Navigation Guidance and Control",
+   "sessions": 18,
+   "papers": 79,
+   "url": "https://ists.ne.jp/the35th/wp-content/uploads/2025/07/35th-ISTS_FinalProgram_20250713_F3.pdf"
+  },
+  {
+   "name": "e) Fluid Dynamics and Aerothermodynamics",
+   "sessions": 7,
+   "papers": 33,
+   "url": "https://ists.ne.jp/the35th/wp-content/uploads/2025/07/35th-ISTS_FinalProgram_20250713_F3.pdf"
+  },
+  {
+   "name": "f) Small Satellite: Joint session with NSAT",
+   "sessions": 11,
+   "papers": 51,
+   "url": "https://ists.ne.jp/the35th/wp-content/uploads/2025/07/35th-ISTS_FinalProgram_20250713_F3.pdf"
+  },
+  {
+   "name": "g) Space Transportation",
+   "sessions": 3,
+   "papers": 12,
+   "url": "https://ists.ne.jp/the35th/wp-content/uploads/2025/07/35th-ISTS_FinalProgram_20250713_F3.pdf"
+  },
+  {
+   "name": "h) Microgravity Sciences and Technology",
+   "sessions": 2,
+   "papers": 8,
+   "url": "https://ists.ne.jp/the35th/wp-content/uploads/2025/07/35th-ISTS_FinalProgram_20250713_F3.pdf"
+  },
+  {
+   "name": "i) Thermal Control",
+   "sessions": 2,
+   "papers": 8,
+   "url": "https://ists.ne.jp/the35th/wp-content/uploads/2025/07/35th-ISTS_FinalProgram_20250713_F3.pdf"
+  },
+  {
+   "name": "j) Satellite Communications, Broadcasting and Navigation",
+   "sessions": 4,
+   "papers": 17,
+   "url": "https://ists.ne.jp/the35th/wp-content/uploads/2025/07/35th-ISTS_FinalProgram_20250713_F3.pdf"
+  },
+  {
+   "name": "k) Science and Technology for Human and Robotic Space Exploration",
+   "sessions": 6,
+   "papers": 25,
+   "url": "https://ists.ne.jp/the35th/wp-content/uploads/2025/07/35th-ISTS_FinalProgram_20250713_F3.pdf"
+  },
+  {
+   "name": "m) Sounding Rocket, Balloon and Flight Experiment using Small Flight Vehicle",
+   "sessions": 3,
+   "papers": 12,
+   "url": "https://ists.ne.jp/the35th/wp-content/uploads/2025/07/35th-ISTS_FinalProgram_20250713_F3.pdf"
+  },
+  {
+   "name": "n) Earth Observation",
+   "sessions": 3,
+   "papers": 14,
+   "url": "https://ists.ne.jp/the35th/wp-content/uploads/2025/07/35th-ISTS_FinalProgram_20250713_F3.pdf"
+  },
+  {
+   "name": "q) Space Power Systems",
+   "sessions": 6,
+   "papers": 25,
+   "url": "https://ists.ne.jp/the35th/wp-content/uploads/2025/07/35th-ISTS_FinalProgram_20250713_F3.pdf"
+  },
+  {
+   "name": "r) Space Environment and Debris",
+   "sessions": 4,
+   "papers": 19,
+   "url": "https://ists.ne.jp/the35th/wp-content/uploads/2025/07/35th-ISTS_FinalProgram_20250713_F3.pdf"
+  },
+  {
+   "name": "t) Systems Engineering and Information Technology",
+   "sessions": 3,
+   "papers": 11,
+   "url": "https://ists.ne.jp/the35th/wp-content/uploads/2025/07/35th-ISTS_FinalProgram_20250713_F3.pdf"
+  },
+  {
+   "name": "u) Space Education and Outreach for the Benefit of All People",
+   "sessions": 3,
+   "papers": 12,
+   "url": "https://ists.ne.jp/the35th/wp-content/uploads/2025/07/35th-ISTS_FinalProgram_20250713_F3.pdf"
+  },
+  {
+   "name": "v) Space Law, Policy and History",
+   "sessions": 3,
+   "papers": 10,
+   "url": "https://ists.ne.jp/the35th/wp-content/uploads/2025/07/35th-ISTS_FinalProgram_20250713_F3.pdf"
+  },
+  {
+   "name": "w) Safety and Mission Assurance",
+   "sessions": 4,
+   "papers": 15,
+   "url": "https://ists.ne.jp/the35th/wp-content/uploads/2025/07/35th-ISTS_FinalProgram_20250713_F3.pdf"
+  }
+ ],
+ "keywords": [
+  {
+   "id": "space-propulsion",
+   "weight": 0.236,
+   "evidence": "26 of 116 session-units: b) Electric and Advanced Propulsion (14); a) Chemical Propulsion and Air-breathing Engines (12)"
+  },
+  {
+   "id": "space-systems",
+   "weight": 0.136,
+   "evidence": "15 of 116 session-units: q) Space Power Systems (6); w) Safety and Mission Assurance (4); t) Systems Engineering and Information Technology (3); i) Thermal Control (2)"
+  },
+  {
+   "id": "spacecraft-gnc",
+   "weight": 0.091,
+   "evidence": "10 of 116 session-units: Attitude Control (2); Formation Flying & Satellite Constellations (2); Entry/Landing/Ascent Guidance (2); Attitude Dynamics (1); Attitude Determination (1); Attitude and Propulsion Hardware (1); Orbital Rendezvous & Proximity Operations (0.5); Formation Flying (0.5)"
+  },
+  {
+   "id": "smallsat",
+   "weight": 0.086,
+   "evidence": "9.5 of 116 session-units: f) Small Satellite: Joint session with NSAT (8); Attitude and Propulsion Hardware (1); Formation Flying (0.5)"
+  },
+  {
+   "id": "structures",
+   "weight": 0.064,
+   "evidence": "7 of 116 session-units: c) Materials and Structures (7)"
+  },
+  {
+   "id": "aerodynamics",
+   "weight": 0.064,
+   "evidence": "7 of 116 session-units: e) Fluid Dynamics and Aerothermodynamics (7)"
+  },
+  {
+   "id": "space-science",
+   "weight": 0.045,
+   "evidence": "5 of 116 session-units: h) Microgravity Sciences and Technology (2); m) Sounding Rocket, Balloon and Flight Experiment using Small Flight Vehicle (2); Engineering experiment using sounding rocket and large balloon (0.5); Space environment (0.5)"
+  },
+  {
+   "id": "astrodynamics",
+   "weight": 0.036,
+   "evidence": "4 of 116 session-units: Formation Flying & Satellite Constellations (2); Orbital Dynamics and Control (2)"
+  },
+  {
+   "id": "space-comm",
+   "weight": 0.036,
+   "evidence": "4 of 116 session-units: j) Satellite Communications, Broadcasting and Navigation (4)"
+  },
+  {
+   "id": "launch",
+   "weight": 0.032,
+   "evidence": "3.5 of 116 session-units: g) Space Transportation (3); Engineering experiment using sounding rocket and large balloon (0.5)"
+  },
+  {
+   "id": "exploration",
+   "weight": 0.032,
+   "evidence": "3.5 of 116 session-units: Lunar Exploration and Utilization (1); Exploration and Technologies for Mars and its moons (1); Exploration and Technologies for Space and Small bodies (1); Lunar Exploration and Utilization (2), Lunar and Planetary Rover (0.5)"
+  },
+  {
+   "id": "ssa-debris",
+   "weight": 0.032,
+   "evidence": "3.5 of 116 session-units: r) Space Environment and Debris (3); Space environment (0.5)"
+  },
+  {
+   "id": "trajectory",
+   "weight": 0.027,
+   "evidence": "3 of 116 session-units: Trajectory Design and Optimization (3)"
+  },
+  {
+   "id": "earth-obs",
+   "weight": 0.027,
+   "evidence": "3 of 116 session-units: n) Earth Observation (3)"
+  },
+  {
+   "id": "education",
+   "weight": 0.027,
+   "evidence": "3 of 116 session-units: u) Space Education and Outreach for the Benefit of All People (3)"
+  },
+  {
+   "id": "space-policy",
+   "weight": 0.027,
+   "evidence": "3 of 116 session-units: v) Space Law, Policy and History (3)"
+  }
+ ],
+ "top_terms": [
+  "hybrid rockets",
+  "rotating/pulse detonation engines",
+  "Hall thrusters",
+  "air-breathing electric propulsion",
+  "formation flying and satellite constellations",
+  "solar power satellites and wireless power transmission",
+  "MBSE for space systems",
+  "optical satellite communications",
+  "lunar exploration and utilization",
+  "SAR applications"
+ ],
+ "sources": [
+  "https://ists.ne.jp/the35th/wp-content/uploads/2025/07/35th-ISTS_FinalProgram_20250713_F3.pdf",
+  "https://ists.ne.jp/the35th/",
+  "https://ists.ne.jp/the35th/program/program-overview/"
+ ],
+ "retrieved": "2026-10-16"
+}

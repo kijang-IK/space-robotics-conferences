@@ -1,0 +1,225 @@
+{
+  "id": "aas-aiaa-sfm",
+  "edition_analyzed": 2025,
+  "method": "program-sessions",
+  "method_note": "Fallback edition: the most recent completed meeting (36th SFM, Jan 2026) was held inside AIAA SciTech 2026, whose online program (ATIV planner) is no longer available; its proceedings volume (116 papers, proceedings.com 85168) has no session structure. Analyzed the 35th SFM (Kaua'i, 19-23 Jan 2025) official online program: 86 technical + special sessions (79 technical, 7 special), 314 papers listed in session details; poster event, workshops and 3-Minute-Thesis excluded. Numbered session series grouped into official topic tracks; each session split across at most 2 keywords. Keywords below 0.02 omitted (stm, exploration, autonomy, space-robotics, space-systems, launch, smallsat, education, space-science), so weights sum to ~0.89.",
+  "tracks": [
+    {
+      "name": "Trajectory/Mission/Maneuver Design and Optimization (I-XII)",
+      "sessions": 12,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "Cislunar Astrodynamics (I-X)",
+      "sessions": 10,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "Spacecraft Guidance, Navigation, and Control (GNC) (I-VII)",
+      "sessions": 7,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "Rendezvous, Relative Motion, Proximity Missions, and Formation Flying (I-VII)",
+      "sessions": 7,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "Special Session on Optimal Control and Reinforcement Learning (I-VI)",
+      "sessions": 6,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "Orbit Determination and Estimation (I-V)",
+      "sessions": 5,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "Machine Learning and Artificial Intelligence Applied to Space Flight Problems (I-V)",
+      "sessions": 5,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "Dynamical Systems Theory Applied to Space Flight Problems (I-IV)",
+      "sessions": 4,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "Space Situational Awareness, Conjunction Analysis, and Collision Avoidance (I-III)",
+      "sessions": 3,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "Orbital Dynamics, Perturbations, and Stability (I-III)",
+      "sessions": 3,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "Orbital Debris and Space Environment (I-III)",
+      "sessions": 3,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "Attitude Dynamics, Determination and Control (I-III)",
+      "sessions": 3,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "Spacecraft Autonomy and Space Robotics (I-II)",
+      "sessions": 2,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "Multibody Dynamics and Trajectory Design (I-II)",
+      "sessions": 2,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "Low-Thrust Trajectories (I-II)",
+      "sessions": 2,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "Atmospheric Re-entry Guidance and Control (I-II)",
+      "sessions": 2,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "Asteroid and Interplanetary Mission and Trajectory Design (I-II)",
+      "sessions": 2,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "Special Session: Sun Earth Libration Orbiters; RST and SWFO",
+      "sessions": 1,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "Satellite Constellations and Formations",
+      "sessions": 1,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "Launch Vehicle design, Dynamics, Guidance, and Control",
+      "sessions": 1,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "In-Space Assembly, Manufacturing and Servicing/Orbital Debris and Space Environment",
+      "sessions": 1,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "History of Space and Future Concepts",
+      "sessions": 1,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "Earth Orbital and Planetary Mission Studies",
+      "sessions": 1,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "CubeSat and SmallSat Missions",
+      "sessions": 1,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    },
+    {
+      "name": "Attitude - Sensor and Payload - Sensor Calibration",
+      "sessions": 1,
+      "papers": null,
+      "url": "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "trajectory",
+      "weight": 0.25,
+      "evidence": "Trajectory/Mission/Maneuver Design and Optimization (I-XII) (12 sessions); Cislunar Astrodynamics (I-X) (5 sessions); Multibody Dynamics and Trajectory Design (I-II) (1 sessions); Low-Thrust Trajectories (I-II) (2 sessions); Asteroid and Interplanetary Mission and Trajectory Design (I-II) (1 sessions); Special Session: Sun Earth Libration Orbiters; RST and SWFO (0.5 sessions)"
+    },
+    {
+      "id": "spacecraft-gnc",
+      "weight": 0.192,
+      "evidence": "Spacecraft Guidance, Navigation, and Control (GNC) (I-VII) (7 sessions); Rendezvous, Relative Motion, Proximity Missions, and Formation Flying (I-VII) (3.5 sessions); Attitude Dynamics, Determination and Control (I-III) (3 sessions); Atmospheric Re-entry Guidance and Control (I-II) (2 sessions); Attitude - Sensor and Payload - Sensor Calibration (1 sessions)"
+    },
+    {
+      "id": "astrodynamics",
+      "weight": 0.157,
+      "evidence": "Cislunar Astrodynamics (I-X) (5 sessions); Dynamical Systems Theory Applied to Space Flight Problems (I-IV) (4 sessions); Orbital Dynamics, Perturbations, and Stability (I-III) (3 sessions); Multibody Dynamics and Trajectory Design (I-II) (1 sessions); Satellite Constellations and Formations (0.5 sessions)"
+    },
+    {
+      "id": "ai-ml",
+      "weight": 0.093,
+      "evidence": "Special Session on Optimal Control and Reinforcement Learning (I-VI) (3 sessions); Machine Learning and Artificial Intelligence Applied to Space Flight Problems (I-V) (5 sessions)"
+    },
+    {
+      "id": "ssa-debris",
+      "weight": 0.058,
+      "evidence": "Space Situational Awareness, Conjunction Analysis, and Collision Avoidance (I-III) (1.5 sessions); Orbital Debris and Space Environment (I-III) (3 sessions); In-Space Assembly, Manufacturing and Servicing/Orbital Debris and Space Environment (0.5 sessions)"
+    },
+    {
+      "id": "osam",
+      "weight": 0.047,
+      "evidence": "Rendezvous, Relative Motion, Proximity Missions, and Formation Flying (I-VII) (3.5 sessions); In-Space Assembly, Manufacturing and Servicing/Orbital Debris and Space Environment (0.5 sessions)"
+    },
+    {
+      "id": "control-theory",
+      "weight": 0.035,
+      "evidence": "Special Session on Optimal Control and Reinforcement Learning (I-VI) (3 sessions)"
+    },
+    {
+      "id": "od-nav",
+      "weight": 0.029,
+      "evidence": "Orbit Determination and Estimation (I-V) (2.5 sessions)"
+    },
+    {
+      "id": "estimation",
+      "weight": 0.029,
+      "evidence": "Orbit Determination and Estimation (I-V) (2.5 sessions)"
+    }
+  ],
+  "top_terms": [
+    "cislunar",
+    "NRHO",
+    "reinforcement learning",
+    "low-thrust",
+    "rendezvous and proximity operations",
+    "Gaussian mixture filtering",
+    "sequential convex programming",
+    "Sun-Earth libration orbiters (RST, SWFO)",
+    "solar sail",
+    "satellite constellations"
+  ],
+  "sources": [
+    "https://www.space-flight.org/docs/2025_winter/2025_winter.html",
+    "https://www.xcdsystem.com/aas/program/riGLvh6/index.cfm",
+    "https://www.space-flight.org/docs/2025_winter/dailyplan.pdf",
+    "https://www.space-flight.org/docs/2026_winter/2026_winter.html",
+    "https://www.proceedings.com/85168.html"
+  ],
+  "retrieved": "2026-10-16"
+}

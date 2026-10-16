@@ -1,0 +1,268 @@
+{
+  "id": "ur",
+  "edition_analyzed": 2026,
+  "method": "program-sessions",
+  "method_note": "UR 2026 (Ibaraki, Osaka, Jul 15-18, 2026) PaperCept program. Counted the 24 topical \"Regular session\" oral sessions (104 papers; every session title is unique, 3-5 papers each). Excluded: Award Session (4 papers, not topical), 2 Work-In-Progress interactive sessions (59 papers), 2 Late Breaking Results sessions (46 papers), plenaries/keynotes/workshops. Each session split equally across at most 2 keywords; weight = sessions mapped / 24. All counted sessions were mapped. Small sample: one session is about 0.045 of the weight. Keywords below 0.02 omitted; listed weights sum to 1.003.",
+  "tracks": [
+    {
+      "name": "Vision-Language Guided Manipulation",
+      "sessions": 1,
+      "papers": 3,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Field and Micro Robotic Systems",
+      "sessions": 1,
+      "papers": 3,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Robotic Systems and Planning for Real-World Applications",
+      "sessions": 1,
+      "papers": 3,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Aerial Robotics and Flight Control",
+      "sessions": 1,
+      "papers": 3,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Soft and Bio-Inspired Robotics",
+      "sessions": 1,
+      "papers": 3,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Robotic Systems, Software, and Communication",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Humanoid Robot Systems",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Object Recognition and Retrieval",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Manipulation, Assembly, and Mobile Manipulation",
+      "sessions": 1,
+      "papers": 3,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Medical and Rehabilitation Robotics",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Robot Hands and Grasping",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Autonomous Vehicles and Field Robotics",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Multi-Robot and Multi-Agent Systems",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Robot Learning, and Foundation Models",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Human-Robot Interaction and Assistive Robotics",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Motion Planning and Control",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Wheeled Robots and Field Navigation",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Underwater Robotics",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Robot Vision and 3D Perception",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Computer Vision and Visual Servoing",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Force and Tactile Sensing",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Legged Robots",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "Sensing and Estimation",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    },
+    {
+      "name": "SLAM: Sensing and Mapping",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/UR26/program/"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "field-robotics",
+      "weight": 0.125,
+      "evidence": "3 of 24 mapped sessions: Field and Micro Robotic Systems; Autonomous Vehicles and Field Robotics; Wheeled Robots and Field Navigation; Underwater Robotics"
+    },
+    {
+      "id": "perception",
+      "weight": 0.125,
+      "evidence": "3 of 24 mapped sessions: Object Recognition and Retrieval; Robot Vision and 3D Perception; Computer Vision and Visual Servoing"
+    },
+    {
+      "id": "manipulation",
+      "weight": 0.104,
+      "evidence": "2.5 of 24 mapped sessions: Vision-Language Guided Manipulation; Manipulation, Assembly, and Mobile Manipulation; Robot Hands and Grasping"
+    },
+    {
+      "id": "mechatronics",
+      "weight": 0.104,
+      "evidence": "2.5 of 24 mapped sessions: Robotic Systems, Software, and Communication; Force and Tactile Sensing; Sensing and Estimation"
+    },
+    {
+      "id": "legged-humanoid",
+      "weight": 0.083,
+      "evidence": "2 of 24 mapped sessions: Humanoid Robot Systems; Legged Robots"
+    },
+    {
+      "id": "motion-planning",
+      "weight": 0.063,
+      "evidence": "1.5 of 24 mapped sessions: Robotic Systems and Planning for Real-World Applications; Motion Planning and Control; Wheeled Robots and Field Navigation"
+    },
+    {
+      "id": "medical-robotics",
+      "weight": 0.063,
+      "evidence": "1.5 of 24 mapped sessions: Medical and Rehabilitation Robotics; Human-Robot Interaction and Assistive Robotics"
+    },
+    {
+      "id": "foundation-models",
+      "weight": 0.042,
+      "evidence": "1 of 24 mapped sessions: Vision-Language Guided Manipulation; Robot Learning, and Foundation Models"
+    },
+    {
+      "id": "soft-robotics",
+      "weight": 0.042,
+      "evidence": "1 of 24 mapped sessions: Soft and Bio-Inspired Robotics"
+    },
+    {
+      "id": "multi-robot",
+      "weight": 0.042,
+      "evidence": "1 of 24 mapped sessions: Multi-Robot and Multi-Agent Systems"
+    },
+    {
+      "id": "slam",
+      "weight": 0.042,
+      "evidence": "1 of 24 mapped sessions: SLAM: Sensing and Mapping"
+    },
+    {
+      "id": "autonomy",
+      "weight": 0.021,
+      "evidence": "0.5 of 24 mapped sessions: Robotic Systems and Planning for Real-World Applications"
+    },
+    {
+      "id": "uav",
+      "weight": 0.021,
+      "evidence": "0.5 of 24 mapped sessions: Aerial Robotics and Flight Control"
+    },
+    {
+      "id": "flight-dynamics",
+      "weight": 0.021,
+      "evidence": "0.5 of 24 mapped sessions: Aerial Robotics and Flight Control"
+    },
+    {
+      "id": "autonomous-vehicles",
+      "weight": 0.021,
+      "evidence": "0.5 of 24 mapped sessions: Autonomous Vehicles and Field Robotics"
+    },
+    {
+      "id": "robot-learning",
+      "weight": 0.021,
+      "evidence": "0.5 of 24 mapped sessions: Robot Learning, and Foundation Models"
+    },
+    {
+      "id": "hri",
+      "weight": 0.021,
+      "evidence": "0.5 of 24 mapped sessions: Human-Robot Interaction and Assistive Robotics"
+    },
+    {
+      "id": "control-theory",
+      "weight": 0.021,
+      "evidence": "0.5 of 24 mapped sessions: Motion Planning and Control"
+    },
+    {
+      "id": "estimation",
+      "weight": 0.021,
+      "evidence": "0.5 of 24 mapped sessions: Sensing and Estimation"
+    }
+  ],
+  "top_terms": [
+    "vision-language guided manipulation",
+    "foundation models",
+    "humanoid robot systems",
+    "legged robots",
+    "soft and bio-inspired robotics",
+    "underwater robotics",
+    "force and tactile sensing",
+    "SLAM",
+    "multi-agent systems"
+  ],
+  "sources": [
+    "https://ras.papercept.net/conferences/conferences/UR26/program/",
+    "https://ras.papercept.net/conferences/conferences/UR26/program/UR26_ContentListWeb_1.html",
+    "https://ras.papercept.net/conferences/conferences/UR26/program/UR26_ContentListWeb_2.html",
+    "https://ras.papercept.net/conferences/conferences/UR26/program/UR26_ContentListWeb_3.html",
+    "https://2026.ubiquitousrobots.org/"
+  ],
+  "retrieved": "2026-10-16"
+}

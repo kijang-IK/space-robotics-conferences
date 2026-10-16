@@ -1,0 +1,2123 @@
+{
+  "id": "ifac_wc",
+  "edition_analyzed": 2026,
+  "method": "program-sessions",
+  "method_note": "IFAC World Congress 2026 (Busan, Aug 23-28, 2026): the congress is complete and its full program is published, so it was used instead of the 2023 Yokohama fallback. Counted 419 oral technical sessions (233 Regular + 131 Open Invited Track + 55 Invited; 2440 papers) from the ifac-sms.org (PaperCept) program, grouping numbered series and stripping \"LB:\"/\"JO-xxx:\"/\"Dissemination:\" prefixes. Excluded: 29 interactive/shotgun and poster sessions (1152 papers, broad titles), tutorials, forums, special/demo sessions, plenaries and semi-plenaries. Application-domain sessions whose titles stress control/optimization (e.g. power systems, automotive powertrain) were mapped to control-theory because the taxonomy has no energy, biomedical-systems or process-control keyword; sessions without a control/robotics/AI anchor were left unmapped. Mapping of the 356 distinct titles used keyword rules plus manual overrides. Each session split equally across at most 2 keywords; weight = sessions mapped / 388. 31 session(s) had no taxonomy equivalent and were left out of the denominator: FDI and FTC Strategies for Offshore Renewable Energy Applications; Engineering Diabetes Technologies (3); Digital Technologies for Healthy Ageing and Social Inclusion; Challenges in Synthetic Biology; Digital Twins: From Sensors (Zero) to Systems to Clinical Outcomes (Hero); Technology-Supported Mobility, Care, and Well-Being across the Lifespan; Challenges in Computational Systems Biology; Supporting Ageing Populations: Care Transitions, Urban Design, and Digital Infrastructure; Statistical Inference; Energy Storage Systems; Challenges in Microalgae Production Processes; Optimal Operation of Smart Multi-Energy Microgrids; Solar Power and Wind Energy Systems; Biomedical and Environment Systems; Biosystems and Bioprocesses (2); Energy Systems, Natural Resources and Environmental Management; Decentralized Economic Models and Systems; Advanced Methods for Active Distribution Networks under Smart Grids; Digital Twins and Diagnostics of the Human Cardiovascular System; Recent Progress in Mean-Field Game Theory and Applications; Time Series Modeling; Smart Cities, Urban Systems, and Social Infrastructure; Real-Time Operations in Transportation; Robotics; Modeling and Diagnostics of the Respiratory System (2); A Key for Sustainable Longevity: Integrating Physical Asset Management and Obsolescence Management; Healthcare Management, Disease Control, Critical Care. Keywords below 0.02 omitted; listed weights sum to 0.872.",
+  "tracks": [
+    {
+      "name": "Data-Driven Control",
+      "sessions": 7,
+      "papers": 40,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Modeling, Simulation and Control of Distributed Parameter Systems",
+      "sessions": 5,
+      "papers": 29,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Large-Scale Complex Systems: Analysis and Control",
+      "sessions": 5,
+      "papers": 30,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Model Predictive Control",
+      "sessions": 4,
+      "papers": 25,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Learning Methods for Optimal Control",
+      "sessions": 4,
+      "papers": 23,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Cognition for Human-Systems Collaboration: Models and Applications (C-HSC)",
+      "sessions": 4,
+      "papers": 22,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Data-Driven Control Theory",
+      "sessions": 3,
+      "papers": 18,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Engineering Diabetes Technologies",
+      "sessions": 3,
+      "papers": 17,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Cyber-Physical-Human Systems: From Individual Empowerment to Societal Impact",
+      "sessions": 3,
+      "papers": 17,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Quantum Control",
+      "sessions": 3,
+      "papers": 14,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Discrete Event and Hybrid Systems",
+      "sessions": 3,
+      "papers": 18,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control Systems Design",
+      "sessions": 3,
+      "papers": 23,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Linear System Identification",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Artificial Intelligence and Digital Twins for Next-Generation Prognostics and Health Management in Smart Manufacturing",
+      "sessions": 2,
+      "papers": 11,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Toward Human-Centric Intelligent Manufacturing: Advances and Challenges",
+      "sessions": 2,
+      "papers": 11,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Encrypted Control and Optimization",
+      "sessions": 2,
+      "papers": 10,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Thermal Management of Electrified Vehicles",
+      "sessions": 2,
+      "papers": 10,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Energy Management Systems and Control",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Open Multi-Agent Systems: Control, Optimization, and Learning",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Smart Buildings and Building Automation",
+      "sessions": 2,
+      "papers": 10,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control under Communication Constraints",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control and Management of Energy Systems",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Security, Safety, Resilience, and Privacy for Cyber-Physical Systems",
+      "sessions": 2,
+      "papers": 11,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Intelligent Methods and Tools Supporting Decision Making in Manufacturing Systems and Supply Chains",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Modelling, Identification and Control in Marine Systems",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control and Optimization for Smart Cities",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Adaptive Control",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Task and Motion Planning",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Microlabs, Remote Labs and Virtual Tools for Control Education",
+      "sessions": 2,
+      "papers": 10,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Metaverse and Parallel Intelligence for Autonomous Decision-Making",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Filtering and Smoothing",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "The Future of Operations in Industrial Plants through the Advances of Smart Manufacturing",
+      "sessions": 2,
+      "papers": 10,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Advanced Process Control",
+      "sessions": 2,
+      "papers": 11,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Biosystems and Bioprocesses",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Kalman Filtering",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Recent Advances in Nonlinear and Learning-Aided Control under Limited Information",
+      "sessions": 2,
+      "papers": 10,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Dynamics and Control of Ocean Renewable Energy Systems",
+      "sessions": 2,
+      "papers": 11,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Robot Perception and Sensing",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Fault Detection and Diagnosis",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Sustainable and Circular Manufacturing in the Digitized World",
+      "sessions": 2,
+      "papers": 11,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Leveraging AI for Next-Generation Industrial Alarm Systems: Advanced Data Analytics, Causality Inference, and Pretrained Models",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Next-Generation Intelligent Modeling, Monitoring and Optimization for Modern Industrial Processes",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Aerial, Field, and Marine Robotics",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Human-Robot Interaction",
+      "sessions": 2,
+      "papers": 11,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control Education: Outreach Activities, Gamification and Apps",
+      "sessions": 2,
+      "papers": 10,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Frontiers in Discrete Event Systems: Theory and Applications",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Advances in Observer Design and Observer-Based Control: Methods and Implementation",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Digital Twins in Glycaemic Control and Metabolic Regulation",
+      "sessions": 2,
+      "papers": 10,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Mechatronics for Robotic Systems",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Physics Informed and Grey Box Model Identification",
+      "sessions": 2,
+      "papers": 11,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Recent Advances in Iterative Learning and Repetitive Control",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Applications of Optimal Control",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Modeling and Diagnostics of the Respiratory System",
+      "sessions": 2,
+      "papers": 11,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Biomedical System Modeling, Identification, and Simulation",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Mechatronic System Estimation and Control",
+      "sessions": 2,
+      "papers": 11,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Human Machine Cooperation and Digital Twins",
+      "sessions": 1,
+      "papers": 7,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Advances in Rigidity Theory, Multi-Agent Formations, and Distributed Localization",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Learning and Adaptive Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control of Hybrid and Multi-Agent Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control Engineering Exercises",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Learning for Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Stability of Interconnected Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "LMIs and S-Variable Approach in Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Nonlinear Tracking Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Advances in AI-Powered Automotive Control and Diagnostic Technologies",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "FDI and FTC Strategies for Offshore Renewable Energy Applications",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Stability Analysis and Control of Converter-Dominated Power Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Automatic Control in Mobile Agricultural Robotics",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Marine Robotics: Sailing into the Future of Waterborne Autonomous Systems",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Guidance, Navigation and Control of Aircraft and Spacecraft",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Learning and Adaptation in Autonomous Vehicles",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Digital Technologies for Healthy Ageing and Social Inclusion",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Humanoid and Legged Robots",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Cooperative Control for Intelligent Connected Vehicles and Transportation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Human-Centric AI: Ethics, Leadership, and Systemic Transformation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Resilience Control of Urban Power Distribution Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Mechatronics for Biomedical and Robotic Systems",
+      "sessions": 1,
+      "papers": 8,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Learning and Experiments",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Hybrid and Switched Systems Modeling",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Advanced Control and Intelligent Automation Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Cooperative and Output Feedback Nonlinear Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Robust Control Applications",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Lagrangian and Hamiltonian Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Output Regulation and Tracking",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Fault Diagnosis and Tolerant-Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Stabilization Control of Energy-Storage-Powered Charging Stations and Voltage Regulation for Distribution Network under Vehicle Grid Interaction",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Challenges in Synthetic Biology",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Digital Twins: From Sensors (Zero) to Systems to Clinical Outcomes (Hero)",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Embodied-AI in Marine Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control of Aerospace and Autonomous Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Security, Privacy, and Optimization in Control Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Technology-Supported Mobility, Care, and Well-Being across the Lifespan",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Robotic Grasping and Manipulation",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control and Optimization for Low-Altitude Systems",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Sensing, Communication, and Decision-Making for Urban Cyber-Physical Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Fundamental Theory and Control Design of FAS",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Modeling, Identification, and Estimation Techniques",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Learning Methods for Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Estimation and Filtering",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "System Structure and Control: Structured and Interconnected Dynamical Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Stability and Disturbance in Nonlinear Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Sampled-Data Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "The Role of Interoperability and Standards in Realizing Digital Twins for Sustainable and Digital Manufacturing Transformation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "System Identification for Manufacturing Control Applications",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control in Mining, Mineral and Metal Processing",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Vehicle-To-Grid Enabled Synergy of Transportation and Energy Systems: Modelling, Control and Optimization",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "New Trends in Control and Optimization in Smart City Networks",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Supervisory Control and Cyber Attack",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Biological Control and Estimation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Challenges in Computational Systems Biology",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Thermodynamics Foundations of Mathematical Systems Theory",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Autonomous Ship Navigation, Safety and Mission Planning",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Satellite Mission Planning, Orbital Operations and Space Guidance",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Autonomous Vehicle Systems in Conditions of Uncertainty",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Supporting Ageing Populations: Care Transitions, Urban Design, and Digital Infrastructure",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "High-Performance Motion Control Systems",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Resilient Control, Motion Control, and Navigation of eVTOL Aircrafts in Smart City",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Complex Energy System Operation Optimization and Fast Algorithm Design",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Stochastic, Nonlinear and Adaptive Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Advanced Control and Coordination in Multi-Agent Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Markov Decision Process",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Convex Optimization",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Fractional-Order Control Systems: Advances in Theory, Optimization, and Industrial Applications",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Recent Advances on Disturbance Observer-Based Control for Robust and Versatile Control Systems: From Theory to Applications",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Neural Networks for and within Nonlinear Control: Analysis, Design and Estimation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Model Predictive Control: Theory and Algorithms",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Emerging Hybrid Heuristics for Optimal Design of Assessment and Control Functionalities in IBR Dominated Energy Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Learning, Control and Stability for Power and Energy Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Hybrid and Physics-Informed Modeling for Chemical Processes",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Modeling and Control of the Human Nervous System",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Fault-Tolerant, Safety-Critical and Estimation-Based Aerospace Control",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Applications of Mechatronic Principles",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "AI-Powered Robotics",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Autonomous Navigation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Reinforcement Learning and Deep Learning in Control",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Blockchain Intelligence and Knowledge Automation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Advanced Teaching Methodologies",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Next-Generation Control for Urban Systems: Planning, Safety and Resilience",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "High-Performance and Precision Control System Design in HDD Benchmark Models",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Multi-Agent and Network Systems",
+      "sessions": 1,
+      "papers": 8,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Consensus and Coordination in Multi-Agent Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Statistical Inference",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Optimal Control Theory",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Differential or Dynamic Games",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Contraction Analysis for Stability and Optimality",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Model-Predictive and Optimization-Based Control",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Power Electronics Controls within Intelligent Power Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Energy Storage Systems",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Modeling, Identification and Optimization of Industrial Processes",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Challenges in Microalgae Production Processes",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Learning-Enabled Autonomy and Multi-Agent Aerospace Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Advances in Machine Learning and Intelligent Control for Industrial Automation and Robotics",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Resource Allocation and Decision-Making in Modern Distributed Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Multi-Agent Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "AI and Learning-Based Control for Automotive System",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Enriching Existing Theoretical Developments Via the FAS Theory",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Analysis and Design of Control Systems",
+      "sessions": 1,
+      "papers": 8,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control of Networked and Large-Scale Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Stochastic Systems and Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Hybrid and Switched Systems Stability",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Stochastic Optimal Control Problems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Learning Methods for Nonlinear Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Stability of Linear Systems and Beyond: Input-Output, Spectral, and Frequency-Domain Methods",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Beyond Art & Control & Engineering",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Decision-Making Problems in Manufacturing Plants",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Process Modeling, Identification, and Estimation Techniques",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Optimal Operation of Smart Multi-Energy Microgrids",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Solar Power and Wind Energy Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Soft Sensing and Data-Driven Process Modeling",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Biomechanics and Physical Rehabilitation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Biomedical and Environment Systems",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Advanced Guidance and Flight Control for Atmospheric Vehicles",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "AUV/UUV Guidance, Control and Mission Planning",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Machine Learning for Modeling and Prediction",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "AI for Smart Cities",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Learning, Filtering, and Estimation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control Applications",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Distributed Optimization and Learning in Multi-Agent Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Cyber-Security and Resilient Control Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Estimation, Identification and Filtering",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Advances in PID Methods and Applications",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Optimal and Robust Control Applications",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Model Predictive Control and Model Validation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Linear Parameter-Varying Systems: Analysis, Control, and Applications",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Homogeneous and Finite-Time Sliding Mode Design",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Dynamics and Control of Time Delay Systems: Stability Analysis and Stabilization",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Resiliency of Power Systems with High Penetration of Renewables",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Reinforcement Learning and Decision-Making for Process Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Monitoring, Modeling and Control of Environmental Systems",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Autonomous Mobile Robots",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "AI, Data-Driven Methods and Control for Marine Surface Vessels",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Social Networks and Opinion Dynamics",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Mechatronics High Performance Motion Control Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Robotic Learning and Adaptation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "AI in Electric Motor Systems: Design, Estimation, Control, and Industry-Focused Education",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Artificial Intelligence in Transportation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Intelligent Control and Optimization for Renewable Power Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Applications of Control Systems Theory",
+      "sessions": 1,
+      "papers": 8,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Distributed Control and Estimation of Networked Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Secure and Resilient State Estimation for Stochastic Systems under Cyber-Attacks",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Numerical Methods for Optimal Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Observer Design",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Periodic Systems and Discrete Sliding Modes",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Dynamics and Control of Time Delay Systems: Advanced Methods for Control and Reconstruction in Time Delay Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Data-Driven and AI-Based Modelling of Reliable, Resilient, and Sustainable Manufacturing-Distribution Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Cyberphysical Security in Processes",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "MPC for Energy and Utility Systems",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Learning Interpretable and Safe Control Policies: Interface between Model-Free Learning and Model-Based Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Energy Systems, Natural Resources and Environmental Management",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "AI and Learning-Based Control for Automotive Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "LLM and Agents for Social and Economic Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Mechatronic System Estimation, Identification and Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Robustness and Explainability in Artificial Intelligence for Automated Industrial Systems",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Social Simulation and Social Intelligence for CPSS",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Motion Control for AVs",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control and Optimization of Distributed Power Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Distributed Optimization and Estimation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Vehicle Dynamics and Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Event-Triggered and Adaptive Control Based on the FAS Theory",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Autonomous Vehicles and Navigation",
+      "sessions": 1,
+      "papers": 8,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Recent Advances in Stochastic Multi-Agent Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Resilient Cyber Physical-Human Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "System Identification",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Optimization-Based Methods for Estimation and Control in Nonlinear Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Nonlinear Observers",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Sliding Mode Applications in Robotics and Autonomous Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Dynamics and Control of Time Delay Systems: Application-Oriented Modeling and Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Advanced Manufacturing and Industrial Automation in Cyber-Physical Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Advanced Robotics for the Manufacturing of the Future",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control and Optimization for Sustainability and Energy Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Safe, Fault Resilient and Health-Aware Control Design and Learning",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Real-Time Optimization and Bayesian Methods for Process Control",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Advanced Control and Machine Learning Strategies for Dependable Smart Energy Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Water Resource System Modeling and Control; Control of Large-Scale Environmental Systems; Planning and Management in Environmental Systems under Deep Uncertainty",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Autonomous and Multi-Vehicle Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Decentralized Economic Models and Systems",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Mechatronic Principles in Motion and Robotic Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Digital Twin and Telematics: Towards Intelligent and Sustainable Cyber-Physical Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control for Energy Efficient and Resilient Smart Cities",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Robotic Vision for AVs",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control Theory and Applications",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Data-Driven Modeling and Learning in Dynamic Networks",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Event-Based and Networked Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Machine and Deep Learning for System Identification",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Advances in Identification and Control for Large-Scale Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Distributed Online Optimization and Games and Their Applications",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Design Methods for Data-Based Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Advances in Estimation and Observer Design: From Theory to Emerging Applications",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Dynamics and Control of Time Delay Systems: Complex Dynamics in Time-Delay Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "AI Applications for Smart Power & Energy Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Advanced Methods for Active Distribution Networks under Smart Grids",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Sensing and Control in Agriculture",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Digital Twins and Diagnostics of the Human Cardiovascular System",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Marine Power, Propulsion and Energy Systems",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Collaborative Mission Planning and Intelligent Control for Large-Scale Constellations",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Guidance, Navigation and Control for AVs",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Recent Progress in Mean-Field Game Theory and Applications",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Parameter Identification and Monitoring",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Modeling, Control, Design and Optimisation for Battery Electric Vehicles",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Mechatronic Systems and Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Soft Robotics and Manipulators",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Simulation and Optimization for Smart Cities",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Data-Driven Methods for Hybrid Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Time Series Modeling",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Matrix Inequality Methods for Nonlinear Systems",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Data-Driven Iterative Learning Control for Complex Batch Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Adaptive and Robust Control of Automotive Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Wind Turbine and Wind Farm Control: Challenges and Opportunities",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Advanced Control of Next-Generation Low-Carbon Flexible Coal-Fired Power Plants",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Mechatronic Systems in Precision Farming",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Next-Generation Control and Autonomy for Marine Systems and Vehicles",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Space Robotics, Spacecraft Control and Safe Maneuvers",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Trajectory and Path Planning for AVs",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "AI-, Data-, and Model-Driven Optimisation and Control for Complex Transportation Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Fault Detection and Control in Automotive Vehicles",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Powertrain Modelling and Control Technology for Real World and Carbon Neutrality",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Mechatronic System Modeling, Design, and Optimization",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Soft Robotics",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Smart Cities, Urban Systems, and Social Infrastructure",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control Over Networks",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Real-Time Operations in Transportation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Output Feedback and Observer Design within the FAS Theoretical Framework",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "LLM-Based Industrial Assistants, Planning, Scheduling, and Reliability Applications",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Cooperative Control and Applications",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Extremum Seeking and Model Free Adaptive Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Tensor Methods for Modelling and Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Robust Control Design",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Theoretical and Computational Methods for Linear Systems: Structure, Representation, and Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control Design Methods for Systems Operating under Large Uncertainties",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Industry 5.0 - Human-Centered Production and Logistics Systems",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control, Optimization, and Learning-Based Approaches for Energy Communities",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Disturbance Rejection Control for Power Systems Embedded with Renewable Energy Sources",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Next-Generation, Artificial-Intelligence-Enhanced Process Control: From Multimodal Learning to Industrial Applications",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control in Indoor Farming",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Marine Perception, Sensing and Underwater Tracking",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control of Aircraft and Spacecraft",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Cooperative Navigation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Trustworthy Decision-Making and Control for Transportation Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Path Planning and Control in Autonomous Vehicles",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Control and Optimisation of Vehicle Dynamic Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Marine System Guidance, Navigation and Control",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Human Machine Cooperation & Integration",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Wearable Robotics",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Networked Control for Sustainable Energy and Mobility in Smart Cities",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Takagi-Sugeno Model-Based and Fuzzy Control",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Applications of FAS Theory in Discrete Systems and Specialized Scenarios",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "LLMs for Modeling, Control, and Controller Synthesis",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Robotics",
+      "sessions": 1,
+      "papers": 7,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Adaptive Observer Design",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Distributed Estimation and Information Fusion Over Sensor Networks",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Adaptation and Identification with Improved Transient Performance and Accelerated Convergence",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Multi-Objective Optimization Techniques in Control Systems Engineering",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Simulation Modeling, Machine Learning and Optimization Algorithms to Support Decision Making in Production, Logistics, and Supply Chain Management",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "20 Years Smart Factory - Lessons Learned and Future Challenges",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Wind Power and Control",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Machine Learning for Process Control & Optimization",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Process Monitoring, Fault Detection and Diagnosis",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Biomedical and Medical Imaging, Image Processing, Visualization",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Advances in Optimal Control, Learning, Data-Driven Control and Decision-Making for Vehicle Autonomy",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Trajectory Tracking and Path Following for AVs",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Monitoring, Performance Assessment, and Fault Detection in Control Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Smart Materials Based Mechatronic Systems and Structures: From Innovative Design to Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Optimal Control and Optimization",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Controller Synthesis",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Applications of FAS Theory in Aircraft and Unmanned Aerial Vehicles",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Distributed and Networked Systems",
+      "sessions": 1,
+      "papers": 8,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Machine Learning and Robotics",
+      "sessions": 1,
+      "papers": 8,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Advances in Distributed Control and Estimation for Complex Networked Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Interdisciplinary Advances in Stochastic/Nonlinear Systems Identification: Methods, Theory, and Applications to Judicial Sentencing Modeling",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Safety Critical Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Fractional Order Differentiation in Modeling and Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "A Key for Sustainable Longevity: Integrating Physical Asset Management and Obsolescence Management",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Challenges in Reconfigurable, Flexible or Agile Manufacturing Systems",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Power Systems and Control",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Modeling and Optimization in Bioprocesses",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "AI Methods for FDI/FTC",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Perception and Situational Awareness for Autonomous Ships",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Mission Planning and Decision Making for AVs",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Healthcare Management, Disease Control, Critical Care",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Medical and Rehabilitation Robotics",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    },
+    {
+      "name": "Social Robotics and Ethics",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ifac-sms.org/conferences/conferences/IFAC26/program/"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "control-theory",
+      "weight": 0.478,
+      "evidence": "185.5 of 388 mapped sessions: Data-Driven Control (7); Modeling, Simulation and Control of Distributed Parameter Systems (5); Large-Scale Complex Systems: Analysis and Control (5); Model Predictive Control (4); Learning Methods for Optimal Control (4); Data-Driven Control Theory (3); Quantum Control (3); Discrete Event and Hybrid Systems (3); +167 more"
+    },
+    {
+      "id": "ai-ml",
+      "weight": 0.082,
+      "evidence": "32 of 388 mapped sessions: Learning Methods for Optimal Control (4); Open Multi-Agent Systems: Control, Optimization, and Learning (2); Metaverse and Parallel Intelligence for Autonomous Decision-Making (2); Recent Advances in Nonlinear and Learning-Aided Control under Limited Information (2); Learning and Adaptive Control; Learning for Control; Advances in AI-Powered Automotive Control and Diagnostic Technologies; Human-Centric AI: Ethics, Leadership, and Systemic Transformation; +38 more"
+    },
+    {
+      "id": "estimation",
+      "weight": 0.08,
+      "evidence": "31 of 388 mapped sessions: Linear System Identification (2); Modelling, Identification and Control in Marine Systems (2); Filtering and Smoothing (2); Kalman Filtering (2); Advances in Observer Design and Observer-Based Control: Methods and Implementation (2); Physics Informed and Grey Box Model Identification (2); Biomedical System Modeling, Identification, and Simulation (2); Mechatronic System Estimation and Control (2); +29 more"
+    },
+    {
+      "id": "automation",
+      "weight": 0.068,
+      "evidence": "26.5 of 388 mapped sessions: Artificial Intelligence and Digital Twins for Next-Generation Prognostics and Health Management in Smart Manufacturing (2); Toward Human-Centric Intelligent Manufacturing: Advances and Challenges (2); Smart Buildings and Building Automation (2); Intelligent Methods and Tools Supporting Decision Making in Manufacturing Systems and Supply Chains (2); The Future of Operations in Industrial Plants through the Advances of Smart Manufacturing (2); Advanced Process Control (2); Sustainable and Circular Manufacturing in the Digitized World (2); Leveraging AI for Next-Generation Industrial Alarm Systems: Advanced Data Analytics, Causality Inference, and Pretrained Models (2); +25 more"
+    },
+    {
+      "id": "phm",
+      "weight": 0.046,
+      "evidence": "18 of 388 mapped sessions: Artificial Intelligence and Digital Twins for Next-Generation Prognostics and Health Management in Smart Manufacturing (2); Security, Safety, Resilience, and Privacy for Cyber-Physical Systems (2); Fault Detection and Diagnosis (2); Next-Generation Intelligent Modeling, Monitoring and Optimization for Modern Industrial Processes (2); Advances in AI-Powered Automotive Control and Diagnostic Technologies; Resilience Control of Urban Power Distribution Systems; Fault Diagnosis and Tolerant-Control; Security, Privacy, and Optimization in Control Systems; +16 more"
+    },
+    {
+      "id": "hri",
+      "weight": 0.035,
+      "evidence": "13.5 of 388 mapped sessions: Cognition for Human-Systems Collaboration: Models and Applications (C-HSC) (4); Cyber-Physical-Human Systems: From Individual Empowerment to Societal Impact (3); Toward Human-Centric Intelligent Manufacturing: Advances and Challenges (2); Human-Robot Interaction (2); Human Machine Cooperation and Digital Twins; Industry 5.0 - Human-Centered Production and Logistics Systems; Human Machine Cooperation & Integration; Social Robotics and Ethics"
+    },
+    {
+      "id": "autonomy",
+      "weight": 0.034,
+      "evidence": "13 of 388 mapped sessions: Intelligent Methods and Tools Supporting Decision Making in Manufacturing Systems and Supply Chains (2); Metaverse and Parallel Intelligence for Autonomous Decision-Making (2); Marine Robotics: Sailing into the Future of Waterborne Autonomous Systems; Learning and Adaptation in Autonomous Vehicles; Control of Aerospace and Autonomous Systems; Sensing, Communication, and Decision-Making for Urban Cyber-Physical Systems; Satellite Mission Planning, Orbital Operations and Space Guidance; Autonomous Vehicle Systems in Conditions of Uncertainty; +14 more"
+    },
+    {
+      "id": "mechatronics",
+      "weight": 0.027,
+      "evidence": "10.5 of 388 mapped sessions: Robot Perception and Sensing (2); Mechatronics for Robotic Systems (2); Mechatronic System Estimation and Control (2); Mechatronics for Biomedical and Robotic Systems; Sensing, Communication, and Decision-Making for Urban Cyber-Physical Systems; Applications of Mechatronic Principles; Mechatronics High Performance Motion Control Systems; Mechatronic System Estimation, Identification and Control; +7 more"
+    },
+    {
+      "id": "multi-robot",
+      "weight": 0.022,
+      "evidence": "8.5 of 388 mapped sessions: Open Multi-Agent Systems: Control, Optimization, and Learning (2); Advances in Rigidity Theory, Multi-Agent Formations, and Distributed Localization; Control of Hybrid and Multi-Agent Systems; Cooperative Control for Intelligent Connected Vehicles and Transportation; Advanced Control and Coordination in Multi-Agent Systems; Multi-Agent and Network Systems; Consensus and Coordination in Multi-Agent Systems; Learning-Enabled Autonomy and Multi-Agent Aerospace Systems; +5 more"
+    }
+  ],
+  "top_terms": [
+    "data-driven control",
+    "model predictive control",
+    "digital twins",
+    "learning methods for optimal control",
+    "LLMs for modeling and control",
+    "quantum control",
+    "encrypted control",
+    "cyber-physical-human systems",
+    "multi-agent systems",
+    "FAS theory"
+  ],
+  "sources": [
+    "https://ifac-sms.org/conferences/conferences/IFAC26/program/",
+    "https://ifac-sms.org/conferences/conferences/IFAC26/program/IFAC26_ContentListWeb_1.html",
+    "https://ifac-sms.org/conferences/conferences/IFAC26/program/IFAC26_ContentListWeb_2.html",
+    "https://ifac-sms.org/conferences/conferences/IFAC26/program/IFAC26_ContentListWeb_3.html",
+    "https://ifac-sms.org/conferences/conferences/IFAC26/program/IFAC26_ContentListWeb_4.html",
+    "https://ifac-sms.org/conferences/conferences/IFAC26/program/IFAC26_ContentListWeb_5.html",
+    "https://ifac2026.org/"
+  ],
+  "retrieved": "2026-10-16"
+}

@@ -1,0 +1,259 @@
+{
+  "id": "case",
+  "edition_analyzed": 2026,
+  "method": "program-sessions",
+  "method_note": "CASE 2026 (Shenyang, Aug 17-21, 2026) PaperCept program. Counted 89 technical oral sessions (Regular + Special Sessions, 508 papers), grouping numbered series (e.g. \"Emerging Technology of Automation System\" -> one track with its session count). Excluded: 3 Best Paper Award sessions, 20 workshop sessions, plenaries. Caveat: the 57 regular sessions carry broad generic titles (e.g. \"Emerging Technology of Automation System\", \"Enabling Technology of Industrial Intelligence\"), so they map mainly to automation/ai-ml; special-session titles carry most of the specific signal. Each session split equally across at most 2 keywords; weight = sessions mapped / 89. All counted sessions were mapped. Keywords below 0.02 omitted; listed weights sum to 0.932.",
+  "tracks": [
+    {
+      "name": "Emerging Technology of Automation System",
+      "sessions": 13,
+      "papers": 73,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Data Analytics and Optimization for Smart Industry",
+      "sessions": 10,
+      "papers": 57,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Enabling Technology of Industrial Intelligence",
+      "sessions": 9,
+      "papers": 53,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "LLM-Based Application for Manufacture-Circulation Industrial System (MCIS)",
+      "sessions": 9,
+      "papers": 51,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Systems Technology of Industrial Automation and Control",
+      "sessions": 8,
+      "papers": 46,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Frontier Technology of Industrial & Systems Engineering",
+      "sessions": 7,
+      "papers": 38,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Emerging Data Science in Manufacturing",
+      "sessions": 2,
+      "papers": 11,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "OR+AI for Cyber-Physical Energy System",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "AI for Simulation and Optimization in Automation",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Advances in AI-Driven Scheduling and Optimization for Autonomous Manufacturing Systems",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "AI Driven Automation for Cyber-Physical-Social Systems",
+      "sessions": 2,
+      "papers": 11,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "AI for Safety, Sustainability, and Automation in Smart Maritime Transport and Logistics Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Large Language Models in Spatial and Temporal Decision Automation: Representation, Reliability, and Real-World Utility",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "AI-Driven Decision-Making and Control in Intelligent Transportation Systems",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Intelligent Solutions for PCB & Semiconductor Smart Manufacturing and Manufacturing Excellence",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Application of Learning-Based Methods for Intelligent Optimization in Complex Industrial Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Automating Healthcare Delivery and Disease Management through Integrated or and AI Approaches",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Edge-Cloud Collaborative Computing: Synergizing Intelligence, Efficiency, and Scalability in the Continuum",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Wearable Technology for Smart Industry and Daily Life Assistance",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Cross-Domain Robotic Systems and Collaborative Technologies",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Smart Agriculture for Food Security and Farmland Protection",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Developing Industry 5.0: From Human-AI Teaming to Methods for Dependable Socio-Technical Systems",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Frontier of Quality and Reliability Engineering for System Intelligence",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Model-Based Control and Optimization for Intelligent Transportation Systems: Towards Safety, Robustness, and Scalability",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Embodied AI-Empowered Smart Production-Logistics Synchronization",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Human-Robot Collaboration for Futuristic Human-Centric Smart Manufacturing",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Multimodal Sensing, Learning, Optimization, and Control for Robots in Automation 5.0 Contexts",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "AI Driven 3D Printing and Social Manufacturing",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Intelligent Service Oriented Manufacturing: Bridging Model-Based and Data-Driven Methodologies for Next-Generation Manufacturing and Service Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Advancements in Modeling, Scheduling, and Control for Robotized Manufacturing Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Cognitive Agents for Next-Generation Industrial CSCW: Methodologies, Technologies, and Applications",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Novel Planning and Control Approaches for Semiconductor Manufacturing",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "Safety and Resilience Issues in Cyber-Physical Systems: A Data-Driven Perspective",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    },
+    {
+      "name": "VLM-Based Online Product Quality Control and Robotic Operation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ras.papercept.net/conferences/conferences/CASE26/program/"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "automation",
+      "weight": 0.556,
+      "evidence": "49.5 of 89 mapped sessions: Emerging Technology of Automation System (13); Data Analytics and Optimization for Smart Industry (10); Enabling Technology of Industrial Intelligence (9); LLM-Based Application for Manufacture-Circulation Industrial System (MCIS) (9); Systems Technology of Industrial Automation and Control (8); Frontier Technology of Industrial & Systems Engineering (7); Emerging Data Science in Manufacturing (2); AI for Simulation and Optimization in Automation (2); +17 more"
+    },
+    {
+      "id": "ai-ml",
+      "weight": 0.208,
+      "evidence": "18.5 of 89 mapped sessions: Data Analytics and Optimization for Smart Industry (10); Enabling Technology of Industrial Intelligence (9); Emerging Data Science in Manufacturing (2); OR+AI for Cyber-Physical Energy System (2); AI for Simulation and Optimization in Automation (2); AI Driven Automation for Cyber-Physical-Social Systems (2); AI for Safety, Sustainability, and Automation in Smart Maritime Transport and Logistics Systems; AI-Driven Decision-Making and Control in Intelligent Transportation Systems; +7 more"
+    },
+    {
+      "id": "control-theory",
+      "weight": 0.073,
+      "evidence": "6.5 of 89 mapped sessions: Systems Technology of Industrial Automation and Control (8); OR+AI for Cyber-Physical Energy System (2); Model-Based Control and Optimization for Intelligent Transportation Systems: Towards Safety, Robustness, and Scalability; Advancements in Modeling, Scheduling, and Control for Robotized Manufacturing Systems; Novel Planning and Control Approaches for Semiconductor Manufacturing"
+    },
+    {
+      "id": "foundation-models",
+      "weight": 0.073,
+      "evidence": "6.5 of 89 mapped sessions: LLM-Based Application for Manufacture-Circulation Industrial System (MCIS) (9); Large Language Models in Spatial and Temporal Decision Automation: Representation, Reliability, and Real-World Utility; Embodied AI-Empowered Smart Production-Logistics Synchronization; Cognitive Agents for Next-Generation Industrial CSCW: Methodologies, Technologies, and Applications; VLM-Based Online Product Quality Control and Robotic Operation"
+    },
+    {
+      "id": "phm",
+      "weight": 0.022,
+      "evidence": "2 of 89 mapped sessions: Frontier of Quality and Reliability Engineering for System Intelligence; Model-Based Control and Optimization for Intelligent Transportation Systems: Towards Safety, Robustness, and Scalability; Safety and Resilience Issues in Cyber-Physical Systems: A Data-Driven Perspective"
+    }
+  ],
+  "top_terms": [
+    "LLM-based applications for manufacture-circulation industrial systems",
+    "large language models in decision automation",
+    "VLM-based quality control",
+    "embodied AI",
+    "Industry 5.0",
+    "human-robot collaboration",
+    "semiconductor manufacturing",
+    "AI-driven scheduling",
+    "cyber-physical systems",
+    "smart agriculture"
+  ],
+  "sources": [
+    "https://ras.papercept.net/conferences/conferences/CASE26/program/",
+    "https://ras.papercept.net/conferences/conferences/CASE26/program/CASE26_ContentListWeb_2.html",
+    "https://ras.papercept.net/conferences/conferences/CASE26/program/CASE26_ContentListWeb_3.html",
+    "https://ras.papercept.net/conferences/conferences/CASE26/program/CASE26_ContentListWeb_4.html",
+    "https://www.ieee-ras.org/event/2026-ieee-22nd-international-conference-on-automation-science-and-engineering-case-69030/"
+  ],
+  "retrieved": "2026-10-16"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "aiaa-ascend",
+  "edition_analyzed": 2026,
+  "method": "paper-counts",
+  "method_note": "ASCEND 2026 (Washington DC, May 2026) online program is offline. Counted technical papers per topic area from the 5 proceedings volumes 'Papers Presented at ASCEND 2026' (proceedings.com IDs 85702-85706): 125 papers, exactly matching the official recap ('125 Paper Presentations', 28 technical sessions). Only the technical-paper program is measured; the >250 panel/collaborative sessions (policy, economy, national security talks) are not counted. Each volume mapped to at most 2 keywords, so broad volumes (Space Programs and Technologies, 53 papers, which also contains ISAM, ISRU, launch, AI-operations papers) are coarsely mapped.",
+  "tracks": [
+    {
+      "name": "National Security Space",
+      "sessions": null,
+      "papers": 8,
+      "url": "https://www.proceedings.com/content/085/085702webtoc.pdf"
+    },
+    {
+      "name": "Space Economy",
+      "sessions": null,
+      "papers": 14,
+      "url": "https://www.proceedings.com/content/085/085703webtoc.pdf"
+    },
+    {
+      "name": "Space Exploration",
+      "sessions": null,
+      "papers": 44,
+      "url": "https://www.proceedings.com/content/085/085704webtoc.pdf"
+    },
+    {
+      "name": "Space History, Society, and Policy",
+      "sessions": null,
+      "papers": 6,
+      "url": "https://www.proceedings.com/content/085/085705webtoc.pdf"
+    },
+    {
+      "name": "Space Programs and Technologies",
+      "sessions": null,
+      "papers": 53,
+      "url": "https://www.proceedings.com/content/085/085706webtoc.pdf"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "exploration",
+      "weight": 0.388,
+      "evidence": "Space Exploration (22 papers); Space Programs and Technologies (26.5 papers)"
+    },
+    {
+      "id": "space-systems",
+      "weight": 0.212,
+      "evidence": "Space Programs and Technologies (26.5 papers)"
+    },
+    {
+      "id": "human-spaceflight",
+      "weight": 0.176,
+      "evidence": "Space Exploration (22 papers)"
+    },
+    {
+      "id": "space-policy",
+      "weight": 0.168,
+      "evidence": "National Security Space (4 papers); Space Economy (14 papers); Space History, Society, and Policy (3 papers)"
+    },
+    {
+      "id": "ssa-debris",
+      "weight": 0.056,
+      "evidence": "National Security Space (4 papers); Space History, Society, and Policy (3 papers)"
+    }
+  ],
+  "top_terms": [
+    "lunar surface infrastructure",
+    "ISRU",
+    "in-space assembly and manufacturing (ISAM)",
+    "cislunar",
+    "space domain awareness",
+    "commercial space stations / microgravity research",
+    "lunar night survival",
+    "space sustainability",
+    "reinforcement learning",
+    "space nuclear power"
+  ],
+  "sources": [
+    "https://www.ascend.events/",
+    "https://ascend.events/wp-content/uploads/2026/08/ASCEND26-Recap-UPD-7Aug.pdf",
+    "https://www.proceedings.com/85704.html",
+    "https://www.proceedings.com/85706.html",
+    "https://www.proceedings.com/85702.html",
+    "https://www.proceedings.com/85703.html",
+    "https://www.proceedings.com/85705.html"
+  ],
+  "retrieved": "2026-10-16"
+}

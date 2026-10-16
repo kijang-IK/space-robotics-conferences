@@ -1,0 +1,201 @@
+{
+  "id": "icas",
+  "edition_analyzed": 2026,
+  "method": "program-sessions",
+  "method_note": "ICAS 2026 (35th Congress, Sydney, 13-18 Sep 2026). Source: the session lists of the DGLR-hosted technical programme embedded at icas2026.com/technical-programme. They are still labelled 'Preliminary Programme', so last-minute changes may be missing. Every session is tagged with an official ICAS topic-area code. Counted 142 contributed sessions (topic areas 01-14) plus 27 invited guest-lecture sessions (topic code 15) whose titles name a subject: 169 sessions in total. Excluded: ceremonies, plenary and named lectures, interactive presentations, speed mentoring, the student final, 'tbd' slots, and 6 guest sessions with generic titles (GARTEUR 1; GARTEUR 2; ECSC Pitch Session (10 Minute Talks with Q&A afterwards); Shaping Aviation for Society ETF with Introduction and Panel Discussion at the End; Aeronautical R&D in Australia (4x15 Min Presentations then Panel Discussion); Monash University Aero Research). Each session was mapped to 1-2 keywords from its topic area and session title. Caveats: Systems Engineering (02) and certification sessions went to aircraft-design, Safety & Security (10) and Operations & Sustainment (11) went to phm or hri, and aeroacoustics went to aerodynamics. There were no space sessions. Dropped (<0.02): perception=0.003, autonomy=0.006, motion-planning=0.006, hri=0.012, education=0.015, control-theory=0.003, multi-robot=0.003, estimation=0.003; the kept raw session fractions summed to 0.95 and were renormalized to sum to 1 (raw counts are in each evidence string). Paper counts in 'tracks' are presentation slots listed in the session lists.",
+  "tracks": [
+    {
+      "name": "10 Safety and Security",
+      "sessions": 6,
+      "papers": 20,
+      "url": "https://icas.dglr.de/icas2026/programme.html"
+    },
+    {
+      "name": "11 Operations and Sustainment",
+      "sessions": 4,
+      "papers": 16,
+      "url": "https://icas.dglr.de/icas2026/programme.html"
+    },
+    {
+      "name": "14 Education and Training",
+      "sessions": 2,
+      "papers": 8,
+      "url": "https://icas.dglr.de/icas2026/programme.html"
+    },
+    {
+      "name": "15 Guest lectures (invited sessions)",
+      "sessions": 33,
+      "papers": 123,
+      "url": "https://icas.dglr.de/icas2026/programme.html"
+    },
+    {
+      "name": "01.1 Aircraft Design and Integrated Systems (Theory, Methods and Tools)",
+      "sessions": 12,
+      "papers": 47,
+      "url": "https://icas.dglr.de/icas2026/programme.html"
+    },
+    {
+      "name": "01.2 Aircraft Design and Integrated Systems (Use cases and Applications)",
+      "sessions": 9,
+      "papers": 36,
+      "url": "https://icas.dglr.de/icas2026/programme.html"
+    },
+    {
+      "name": "02 Systems Engineering and Integration",
+      "sessions": 5,
+      "papers": 17,
+      "url": "https://icas.dglr.de/icas2026/programme.html"
+    },
+    {
+      "name": "03.1 Aerodynamics - CFD Methods and Validation",
+      "sessions": 13,
+      "papers": 51,
+      "url": "https://icas.dglr.de/icas2026/programme.html"
+    },
+    {
+      "name": "03.2 Experimental Aerodynamics",
+      "sessions": 9,
+      "papers": 35,
+      "url": "https://icas.dglr.de/icas2026/programme.html"
+    },
+    {
+      "name": "03.3 Basic Fluid Dynamics and Flow Control",
+      "sessions": 3,
+      "papers": 11,
+      "url": "https://icas.dglr.de/icas2026/programme.html"
+    },
+    {
+      "name": "03.4 Applied Aerodynamics",
+      "sessions": 9,
+      "papers": 36,
+      "url": "https://icas.dglr.de/icas2026/programme.html"
+    },
+    {
+      "name": "04.1 Aerospace Grade Materials, Structural Analysis, Fatigue and Damage Tolerance",
+      "sessions": 8,
+      "papers": 31,
+      "url": "https://icas.dglr.de/icas2026/programme.html"
+    },
+    {
+      "name": "04.2 Aerostructures Design, Structural Dynamics, Aeroelasticity",
+      "sessions": 9,
+      "papers": 32,
+      "url": "https://icas.dglr.de/icas2026/programme.html"
+    },
+    {
+      "name": "05 Propulsion and Energy",
+      "sessions": 10,
+      "papers": 35,
+      "url": "https://icas.dglr.de/icas2026/programme.html"
+    },
+    {
+      "name": "06.1 Flight Dynamics and Control (Control & Modelling)",
+      "sessions": 13,
+      "papers": 48,
+      "url": "https://icas.dglr.de/icas2026/programme.html"
+    },
+    {
+      "name": "06.2 Flight Dynamics and Control (UAV related)",
+      "sessions": 9,
+      "papers": 36,
+      "url": "https://icas.dglr.de/icas2026/programme.html"
+    },
+    {
+      "name": "07 Systems, Subsystems and Equipment",
+      "sessions": 7,
+      "papers": 26,
+      "url": "https://icas.dglr.de/icas2026/programme.html"
+    },
+    {
+      "name": "08 Manufacturing and Supply Chain Management",
+      "sessions": 4,
+      "papers": 15,
+      "url": "https://icas.dglr.de/icas2026/programme.html"
+    },
+    {
+      "name": "09 Crewed and Uncrewed Aircraft Operations and Traffic",
+      "sessions": 10,
+      "papers": 40,
+      "url": "https://icas.dglr.de/icas2026/programme.html"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "aerodynamics",
+      "weight": 0.215,
+      "evidence": "34.5 of 169 sessions, e.g. Application of Aerodynamics in Design; Scale Resolving Simulations; Aerodynamic Response and Wake Characteristics; Distributed Propulsion and Aerodynamic Interaction; High-Speed Flight: Progress and Prospects [invited]; Transition Predictions; Aircraft Flow Control Applications; Aero-Thermal Effects, Icing and Propulsion System Integration; Buffeting and Other Aeroelastic Analyses; Hypersonics Boundary Layer and Flow Features; High-Performance and Laminar Flow Wing Design; IFAR Follow Up Session:  Innovations in Noise Reduction for Emerging and Conventional Air Transport [invited]; ..."
+    },
+    {
+      "id": "aircraft-design",
+      "weight": 0.199,
+      "evidence": "32 of 169 sessions, e.g. Progress in Certification by Analysis [invited]; Cabin; Application of Aerodynamics in Design; System of Systems 1; GSA2:  Perspectives and Progress towards NextGen Airliners [invited]; High-Speed Flight: Progress and Prospects [invited]; Conceptual Design 1; Conceptual Design Studies - 1; System of Systems 2; Aircraft Systems, Operations, and Certification; Digital Thread and Integration [invited]; Conceptual Design 2; ..."
+    },
+    {
+      "id": "structures",
+      "weight": 0.118,
+      "evidence": "19 of 169 sessions, e.g. Advanced Aerostructures; Damage Tolerance; Buffeting and Other Aeroelastic Analyses; Aerospace-Grade Composites; Health Monitoring; Impact & Vibration 1; Fatigue & Progressive Damage; Impact & Vibration 2; Fuselage Structures; Testing & Demonstrator; Morphing and Shape Adaptation; Non Destructive Testing [NDT] & Structural Trials; ..."
+    },
+    {
+      "id": "air-transport",
+      "weight": 0.112,
+      "evidence": "18 of 169 sessions, e.g. GSA2: Global Sustainable Aviation – Setting the Stage with Global Airlines [invited]; System of Systems 1; Safety and Efficiency in Aviation; System of Systems 2; Air Traffic Sequencing and Flows; Pathways for Sustainable Aviation; Air Transport Resilience to Climate Change  and Weather Hazards [invited]; Aviation & Energy; Operational Safety Monitoring and Data Analytics; Air Traffic Operational Safety; Safety, Environment, and Hazard Mitigation; GSA2: Future Sustainable Aviation Infrastructure: Prospects and Challenges [invited]; ..."
+    },
+    {
+      "id": "air-propulsion",
+      "weight": 0.106,
+      "evidence": "17 of 169 sessions, e.g. Distributed Propulsion and Aerodynamic Interaction; Aero-Thermal Effects, Icing and Propulsion System Integration; Hydrogen Propulsion Concepts; GSA2: Perspectives and Progress on NextGen Propulsion for Future Airliners [invited]; Hybrid Electric Fuel Cell Concepts; Propulsion 1; Hydrogen in Design; Advanced Vehicle Concepts; GSA2: Perspectives and Progress on Airliners for 2050+ Energy Landscapes [invited]; Propulsion 2; Application of Advanced Propulsion Concepts; Hybrid Electric UAVs; ..."
+    },
+    {
+      "id": "flight-dynamics",
+      "weight": 0.078,
+      "evidence": "12.5 of 169 sessions, e.g. AI Applications in Flight Control, Simulation and Modeling; Flight Control 1; Flight Control 2; Flight Control 3; Guidance and Flight Trajectory Control 1; Machine Learning in Flight Control, Simulation and Modeling; Optimization; Flight Control System Simulation; Configuration Aerodynamics and Coupled Flight Behaviour; System Identification; Guidance and Flight Trajectory Control 2; Flight Dynamics and Control; ..."
+    },
+    {
+      "id": "uav",
+      "weight": 0.047,
+      "evidence": "7.5 of 169 sessions, e.g. UAV Component; Vision & Control; Mission Planning and Navigation; Launch and Recovery; UAV Design; Hybrid Electric UAVs; Propulsion & Control; UAVs and Advanced Air Mobility; Swarm Control; Flight Dynamics and Control; Australian Air Mobility [invited]; Flight Simulation and Testing; ..."
+    },
+    {
+      "id": "phm",
+      "weight": 0.037,
+      "evidence": "6 of 169 sessions, e.g. Aircraft Systems, Operations, and Certification; Health Monitoring; Actuation Fault and Optimization; Operational Safety Monitoring and Data Analytics; Safety, Environment, and Hazard Mitigation; Condition Based Maintenance; Maintenance Technologies; Operations Optimisation; Through-Life Support"
+    },
+    {
+      "id": "ai-ml",
+      "weight": 0.031,
+      "evidence": "5 of 169 sessions, e.g. AI Applications in Flight Control, Simulation and Modeling; AI Safety, Verification, and Trust; Machine Learning in Flight Control, Simulation and Modeling; Data-Driven Design, Optimization and Reduced-Order Modeling; Machine Learning Applications; Explainable and Human-Centered AI in Aviation [invited]; AI in Aero Science 1 [invited]; AI in Aero Science 2 [invited]"
+    },
+    {
+      "id": "avionics",
+      "weight": 0.028,
+      "evidence": "4.5 of 169 sessions, e.g. UAV Component; De-icing; Actuation Fault and Optimization; Concept Design/MBSE; Electric Aircraft; Thermal; Digital Modeling, Autonomous Systems and Operability"
+    },
+    {
+      "id": "automation",
+      "weight": 0.028,
+      "evidence": "4.5 of 169 sessions, e.g. Digital Thread and Integration [invited]; Architecting , Production and Supply chain; Additive Manufacturing; Robot Manufacturing and Assembly Technology; Advanced Aircraft Design and Manufacturing; Additive Manufacturing and Intelligent Manufacturing; Advanced Forming Technology for Aviation"
+    }
+  ],
+  "top_terms": [
+    "global sustainable aviation (GSA2 track)",
+    "hydrogen propulsion and design",
+    "hybrid-electric / fuel-cell propulsion",
+    "advanced air mobility (AAM)",
+    "certification by analysis",
+    "machine learning in CFD and flight control",
+    "unconventional configurations / all-wing airplane",
+    "high-speed / hypersonic flight",
+    "model-based systems engineering (MBSE)",
+    "UAV swarm control"
+  ],
+  "sources": [
+    "https://icas2026.com/technical-programme/",
+    "https://icas.dglr.de/icas2026/programme.html",
+    "https://icas.dglr.de/icas2026/sessionlist-mo.html",
+    "https://icas.dglr.de/icas2026/sessionlist-tue.html",
+    "https://icas.dglr.de/icas2026/sessionlist-wed.html",
+    "https://icas.dglr.de/icas2026/sessionlist-thu.html",
+    "https://icas2026.com/key-topic-areas/"
+  ],
+  "retrieved": "2026-10-16"
+}

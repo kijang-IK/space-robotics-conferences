@@ -1,0 +1,129 @@
+{
+  "id": "iaa-fse",
+  "edition_analyzed": 2025,
+  "method": "program-sessions",
+  "method_note": "Counted the 9 contributed-paper sessions in the 12th IAA Symposium on the Future of Space Exploration technical program (Turin, 9-11 June 2025, release 5 June 2025); 40 papers. Sessions in this program are numbered but untitled, so the bracketed descriptions were written from the paper titles in each session. Keynote sessions 1, 3 and 8 and the two round tables excluded. Each session weighted equally, split 50/50 where two keywords apply.",
+  "tracks": [
+    {
+      "name": "Session 2 (ISS life support, Moon farside protection, lunar economy, sustainability)",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/06/Program-FSE-2025.pdf"
+    },
+    {
+      "name": "Parallel Session 4A (lunar-orbit debris mission, space farming/greenhouses)",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/06/Program-FSE-2025.pdf"
+    },
+    {
+      "name": "Parallel Session 4B (space law, hybrid/liquid rocket engines, lunar solar power satellite)",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/06/Program-FSE-2025.pdf"
+    },
+    {
+      "name": "Parallel Session 5A (human health in long-duration spaceflight)",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/06/Program-FSE-2025.pdf"
+    },
+    {
+      "name": "Parallel Session 5B (small-body landing guidance, solar-sail and halo trajectories, attitude control)",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/06/Program-FSE-2025.pdf"
+    },
+    {
+      "name": "Parallel Session 6A (regolith composites, lunar habitats, deployable structures)",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/06/Program-FSE-2025.pdf"
+    },
+    {
+      "name": "Parallel Session 6B (astrodynamics, low-thrust optimization, ML anomaly detection, debris law)",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/06/Program-FSE-2025.pdf"
+    },
+    {
+      "name": "Session 7 (lunar pressurized rovers, rover digital twin, regolith ISRU manufacturing)",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/06/Program-FSE-2025.pdf"
+    },
+    {
+      "name": "Session 9 (planetary protection policy, space arks, CMOS sensors, space weather)",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/06/Program-FSE-2025.pdf"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "human-spaceflight",
+      "weight": 0.278,
+      "evidence": "Session 2 (ISS life support, Moon farside protection, lunar economy, sustainability); Parallel Session 4A (lunar-orbit debris mission, space farming/greenhouses); Parallel Session 5A (human health in long-duration spaceflight)"
+    },
+    {
+      "id": "space-policy",
+      "weight": 0.167,
+      "evidence": "Session 2 (ISS life support, Moon farside protection, lunar economy, sustainability); Parallel Session 4B (space law, hybrid/liquid rocket engines, lunar solar power satellite); Session 9 (planetary protection policy, space arks, CMOS sensors, space weather)"
+    },
+    {
+      "id": "trajectory",
+      "weight": 0.111,
+      "evidence": "Parallel Session 5B (small-body landing guidance, solar-sail and halo trajectories, attitude control); Parallel Session 6B (astrodynamics, low-thrust optimization, ML anomaly detection, debris law)"
+    },
+    {
+      "id": "exploration",
+      "weight": 0.111,
+      "evidence": "Parallel Session 6A (regolith composites, lunar habitats, deployable structures); Session 7 (lunar pressurized rovers, rover digital twin, regolith ISRU manufacturing)"
+    },
+    {
+      "id": "space-propulsion",
+      "weight": 0.056,
+      "evidence": "Parallel Session 4B (space law, hybrid/liquid rocket engines, lunar solar power satellite)"
+    },
+    {
+      "id": "spacecraft-gnc",
+      "weight": 0.056,
+      "evidence": "Parallel Session 5B (small-body landing guidance, solar-sail and halo trajectories, attitude control)"
+    },
+    {
+      "id": "structures",
+      "weight": 0.056,
+      "evidence": "Parallel Session 6A (regolith composites, lunar habitats, deployable structures)"
+    },
+    {
+      "id": "astrodynamics",
+      "weight": 0.056,
+      "evidence": "Parallel Session 6B (astrodynamics, low-thrust optimization, ML anomaly detection, debris law)"
+    },
+    {
+      "id": "rovers",
+      "weight": 0.056,
+      "evidence": "Session 7 (lunar pressurized rovers, rover digital twin, regolith ISRU manufacturing)"
+    },
+    {
+      "id": "space-science",
+      "weight": 0.056,
+      "evidence": "Session 9 (planetary protection policy, space arks, CMOS sensors, space weather)"
+    }
+  ],
+  "top_terms": [
+    "Moon Village",
+    "lunar regolith composites / ISRU",
+    "space farming for long-duration missions",
+    "lunar habitats",
+    "lunar pressurized rovers",
+    "Moon farside protection",
+    "solar sails",
+    "halo orbits"
+  ],
+  "sources": [
+    "https://iaaspace.org/wp-content/uploads/2025/06/Program-FSE-2025.pdf",
+    "https://iaaspace.org/event/12th-iaa-symposium-on-the-future-of-space-exploration/"
+  ],
+  "retrieved": "2026-10-16"
+}

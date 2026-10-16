@@ -1,0 +1,342 @@
+{
+  "id": "iac",
+  "edition_analyzed": 2026,
+  "method": "program-sessions",
+  "method_note": "IAC 2026 (77th IAC, Antalya, Turkiye, 5-9 Oct 2026). Counted the oral technical sessions listed under the 34 symposia A1-E11 in the official IAF congress browser (iafastro.directory/iac/browse/IAC-26/). The IP/IPB interactive-presentation and LBA late-breaking blocks were excluded. Joint sessions appear in two symposia (e.g. A5.3 = B3.6, A6.8 = E9.1, C3.5 = C4.10) and the GTS Global Technical Sessions all duplicate B2/B3/B4/E2/E6 sessions, so each was counted once: 218 listings became 204 unique sessions. Each session was mapped to 1-2 taxonomy keywords from its title, split equally when there were two. Caveats: the taxonomy has no keyword for space power (C3), operations (B6), safety/quality (D5) or cybersecurity, so these went to space-systems or phm. History (E4), business (E6) and law (E7) went to space-policy. Arts, museums and terminology went to education. Keywords below 0.02 were dropped (osam=0.007, space-robotics=0.005, od-nav=0.017, stm=0.007, astrodynamics=0.015, ai-ml=0.002, autonomy=0.002, trajectory=0.012, mechanisms=0.002, control-theory=0.002, automation=0.002, air-propulsion=0.002, phm=0.01, planetary-defense=0.012); the kept raw session fractions summed to 0.9 and were renormalized to sum to 1 (raw counts are in each evidence string). Session counts per symposium in 'tracks' include joint sessions in each symposium that lists them.",
+  "tracks": [
+    {
+      "name": "A1. IAF/IAA Space Life Sciences Symposium",
+      "sessions": 9,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/A1/"
+    },
+    {
+      "name": "A2. IAF Microgravity Sciences and Processes Symposium",
+      "sessions": 8,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/A2/"
+    },
+    {
+      "name": "A3. IAF Space Exploration Symposium",
+      "sessions": 9,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/A3/"
+    },
+    {
+      "name": "A4. 55th IAA Symposium on the Search for Extraterrestrial Intelligence (SETI) - The Next Steps",
+      "sessions": 2,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/A4/"
+    },
+    {
+      "name": "A5. 29th IAA Symposium on Human Exploration of the Solar System",
+      "sessions": 4,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/A5/"
+    },
+    {
+      "name": "A6. 24th IAA Symposium on Space Debris",
+      "sessions": 11,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/A6/"
+    },
+    {
+      "name": "A7. IAF Symposium on Ongoing and Near Future Space Astronomy and Solar-System Science Missions",
+      "sessions": 4,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/A7/"
+    },
+    {
+      "name": "B1. IAF Earth Observation Symposium",
+      "sessions": 8,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/B1/"
+    },
+    {
+      "name": "B2. IAF Space Communications and Navigation Symposium",
+      "sessions": 9,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/B2/"
+    },
+    {
+      "name": "B3. IAF Human Spaceflight Symposium",
+      "sessions": 9,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/B3/"
+    },
+    {
+      "name": "B4. 33rd IAA Symposium on Small Satellite Missions",
+      "sessions": 13,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/B4/"
+    },
+    {
+      "name": "B5. IAF Symposium on Integrated Applications",
+      "sessions": 4,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/B5/"
+    },
+    {
+      "name": "B6. IAF Space Operations Symposium",
+      "sessions": 5,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/B6/"
+    },
+    {
+      "name": "C1. IAF Astrodynamics Symposium",
+      "sessions": 10,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/C1/"
+    },
+    {
+      "name": "C2. IAF Materials and Structures Symposium",
+      "sessions": 9,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/C2/"
+    },
+    {
+      "name": "C3. IAF Space Power Symposium",
+      "sessions": 5,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/C3/"
+    },
+    {
+      "name": "C4. IAF Space Propulsion Symposium",
+      "sessions": 11,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/C4/"
+    },
+    {
+      "name": "D1. IAF Space Systems Symposium",
+      "sessions": 8,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/D1/"
+    },
+    {
+      "name": "D2. IAF Space Transportation Solutions and Innovations Symposium",
+      "sessions": 9,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/D2/"
+    },
+    {
+      "name": "D3. 24th IAA Symposium on Building Blocks for Future Space Exploration and Development",
+      "sessions": 4,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/D3/"
+    },
+    {
+      "name": "D4. 24th IAA Symposium on Visions and Strategies for the Future",
+      "sessions": 5,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/D4/"
+    },
+    {
+      "name": "D5. 59th IAA Symposium on Safety, Quality and Knowledge Management in Space Activities",
+      "sessions": 4,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/D5/"
+    },
+    {
+      "name": "D6. IAF Symposium on Commercial Spaceflight Safety Issues",
+      "sessions": 3,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/D6/"
+    },
+    {
+      "name": "E1. IAF Space Education and Outreach Symposium",
+      "sessions": 10,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/E1/"
+    },
+    {
+      "name": "E2. 54th IAF Student Conference",
+      "sessions": 4,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/E2/"
+    },
+    {
+      "name": "E3. 39th IAA Symposium on Space Policy, Regulations and Economics",
+      "sessions": 6,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/E3/"
+    },
+    {
+      "name": "E4. 60th IAA History of Astronautics Symposium",
+      "sessions": 3,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/E4/"
+    },
+    {
+      "name": "E5. 37th IAA Symposium on Space and Society",
+      "sessions": 6,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/E5/"
+    },
+    {
+      "name": "E6. IAF Businesses and Innovation Symposium",
+      "sessions": 4,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/E6/"
+    },
+    {
+      "name": "E7. 69th IISL Colloquium on the Law of Outer Space",
+      "sessions": 7,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/E7/"
+    },
+    {
+      "name": "E8. IAA Multilingual Astronautical Terminology Symposium",
+      "sessions": 1,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/E8/"
+    },
+    {
+      "name": "E9. IAF Symposium on Security, Stability and Sustainability of Space Activities",
+      "sessions": 5,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/E9/"
+    },
+    {
+      "name": "E10. IAF Symposium on Planetary Defense and Near-Earth Objects",
+      "sessions": 2,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/E10/"
+    },
+    {
+      "name": "E11. IAF Symposium on Emerging Space Ecosystems",
+      "sessions": 2,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/E11/"
+    },
+    {
+      "name": "GTS. Global Technical Symposium",
+      "sessions": 5,
+      "papers": null,
+      "url": "https://iafastro.directory/iac/browse/IAC-26/GTS/"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "space-policy",
+      "weight": 0.131,
+      "evidence": "24 of 204 sessions: A6 (A6.8); E11 (E11.1); E3 (E3.1, E3.2, E3.3, E3.4, E3.5, E3.6); E4 (E4.1, E4.2, E4.3); E5 (E5.2); E6 (E6.1, E6.2, E6.3, E6.4); E7 (E7.1, E7.2, E7.3, E7.4, E7.5, E7.7); E9 (E9.2, E9.3, E9.4, E9.5)"
+    },
+    {
+      "id": "space-systems",
+      "weight": 0.125,
+      "evidence": "23 of 204 sessions: A7 (A7.3); B4 (B4.7); B6 (B6.1, B6.2, B6.3, B6.5); C3 (C3.1, C3.2, C3.3, C3.4, C3.5); D1 (D1.1, D1.2, D1.3, D1.4, D1.5, D1.6, D1.7, D1.8); D2 (D2.8); D3 (D3.1, D3.2A, D3.2B, D3.3); D4 (D4.1); D5 (D5.2, D5.4)"
+    },
+    {
+      "id": "human-spaceflight",
+      "weight": 0.104,
+      "evidence": "19 of 204 sessions: A1 (A1.1, A1.2, A1.3, A1.4, A1.5, A1.7, A1.9); A2 (A2.6); A5 (A5.1, A5.2, A5.3, A5.4); B3 (B3.1, B3.2, B3.3, B3.4, B3.5, B3.7, B3.8, B3.9); D6 (D6.1); E5 (E5.1, E5.6)"
+    },
+    {
+      "id": "education",
+      "weight": 0.09,
+      "evidence": "16.5 of 204 sessions: E1 (E1.1, E1.2, E1.3, E1.4, E1.5, E1.6, E1.7, E1.8, E1.9, E1.10); E2 (E2.1, E2.2, E2.3, E2.4); E5 (E5.3, E5.5); E8 (E8.1)"
+    },
+    {
+      "id": "exploration",
+      "weight": 0.087,
+      "evidence": "16 of 204 sessions: A1 (A1.6, A1.9); A3 (A3.1, A3.2A, A3.2B, A3.2C, A3.3A, A3.3B, A3.4A, A3.4B, A3.5); A5 (A5.1, A5.2, A5.4); A7 (A7.4); B3 (B3.8); B4 (B4.8); D3 (D3.1, D3.2A, D3.2B); D4 (D4.2, D4.4, D4.5)"
+    },
+    {
+      "id": "space-science",
+      "weight": 0.079,
+      "evidence": "14.5 of 204 sessions: A1 (A1.6, A1.8); A2 (A2.1, A2.2, A2.3, A2.4, A2.5, A2.6, A2.7); A3 (A3.3B, A3.5); A4 (A4.1, A4.2); A7 (A7.1, A7.2, A7.3, A7.4); B4 (B4.2)"
+    },
+    {
+      "id": "earth-obs",
+      "weight": 0.065,
+      "evidence": "12 of 204 sessions: B1 (B1.1, B1.2, B1.3, B1.4, B1.5, B1.6, B1.7, B1.8); B4 (B4.4); B5 (B5.1, B5.2, B5.3, B5.4); E5 (E5.4)"
+    },
+    {
+      "id": "launch",
+      "weight": 0.065,
+      "evidence": "12 of 204 sessions: B4 (B4.5); C4 (C4.7); D2 (D2.1, D2.2, D2.3, D2.4, D2.5, D2.6, D2.7, D2.8, D2.9); D4 (D4.3); D6 (D6.1, D6.3)"
+    },
+    {
+      "id": "smallsat",
+      "weight": 0.057,
+      "evidence": "10.5 of 204 sessions: A6 (A6.10); B2 (B2.6); B4 (B4.1, B4.2, B4.3, B4.4, B4.5, B4.5A, B4.6A, B4.6B, B4.7, B4.8, B4.9, B4.11); E2 (E2.4)"
+    },
+    {
+      "id": "space-propulsion",
+      "weight": 0.052,
+      "evidence": "9.5 of 204 sessions: B4 (B4.5A); C3 (C3.5); C4 (C4.1, C4.2, C4.3, C4.4, C4.5, C4.6, C4.9, C4.11); D4 (D4.4)"
+    },
+    {
+      "id": "ssa-debris",
+      "weight": 0.044,
+      "evidence": "8 of 204 sessions: A6 (A6.1, A6.2, A6.3, A6.4, A6.5, A6.6, A6.7, A6.9, A6.10, A6.11); E9 (E9.5)"
+    },
+    {
+      "id": "space-comm",
+      "weight": 0.038,
+      "evidence": "7 of 204 sessions: B2 (B2.3, B2.4, B2.5, B2.6, B2.7, B2.8, B2.9); B5 (B5.1, B5.2)"
+    },
+    {
+      "id": "structures",
+      "weight": 0.035,
+      "evidence": "6.5 of 204 sessions: C2 (C2.1, C2.2, C2.4, C2.5, C2.6, C2.7, C2.8, C2.9)"
+    },
+    {
+      "id": "spacecraft-gnc",
+      "weight": 0.027,
+      "evidence": "5 of 204 sessions: C1 (C1.1, C1.2, C1.3, C1.4, C1.5)"
+    }
+  ],
+  "top_terms": [
+    "Moon exploration (3 sessions, A3.2A-C)",
+    "space traffic management / congested-orbit operations",
+    "space-based optical and quantum communications",
+    "direct-to-device / IoT satellite communications",
+    "large constellations and fleet operations",
+    "in-space manufacturing / in-orbit servicing infrastructure",
+    "solar power satellites and wireless power transmission",
+    "nuclear power and propulsion",
+    "cybersecurity of space systems",
+    "AI for Earth observation value chain"
+  ],
+  "sources": [
+    "https://iafastro.directory/iac/browse/IAC-26/",
+    "https://iafastro.directory/iac/browse/IAC-26/A1/",
+    "https://iafastro.directory/iac/browse/IAC-26/A2/",
+    "https://iafastro.directory/iac/browse/IAC-26/A3/",
+    "https://iafastro.directory/iac/browse/IAC-26/A4/",
+    "https://iafastro.directory/iac/browse/IAC-26/A5/",
+    "https://iafastro.directory/iac/browse/IAC-26/A6/",
+    "https://iafastro.directory/iac/browse/IAC-26/A7/",
+    "https://iafastro.directory/iac/browse/IAC-26/B1/",
+    "https://iafastro.directory/iac/browse/IAC-26/B2/",
+    "https://iafastro.directory/iac/browse/IAC-26/B3/",
+    "https://iafastro.directory/iac/browse/IAC-26/B4/",
+    "https://iafastro.directory/iac/browse/IAC-26/B5/",
+    "https://iafastro.directory/iac/browse/IAC-26/B6/",
+    "https://iafastro.directory/iac/browse/IAC-26/C1/",
+    "https://iafastro.directory/iac/browse/IAC-26/C2/",
+    "https://iafastro.directory/iac/browse/IAC-26/C3/",
+    "https://iafastro.directory/iac/browse/IAC-26/C4/",
+    "https://iafastro.directory/iac/browse/IAC-26/D1/",
+    "https://iafastro.directory/iac/browse/IAC-26/D2/",
+    "https://iafastro.directory/iac/browse/IAC-26/D3/",
+    "https://iafastro.directory/iac/browse/IAC-26/D4/",
+    "https://iafastro.directory/iac/browse/IAC-26/D5/",
+    "https://iafastro.directory/iac/browse/IAC-26/D6/",
+    "https://iafastro.directory/iac/browse/IAC-26/E1/",
+    "https://iafastro.directory/iac/browse/IAC-26/E2/",
+    "https://iafastro.directory/iac/browse/IAC-26/E3/",
+    "https://iafastro.directory/iac/browse/IAC-26/E4/",
+    "https://iafastro.directory/iac/browse/IAC-26/E5/",
+    "https://iafastro.directory/iac/browse/IAC-26/E6/",
+    "https://iafastro.directory/iac/browse/IAC-26/E7/",
+    "https://iafastro.directory/iac/browse/IAC-26/E8/",
+    "https://iafastro.directory/iac/browse/IAC-26/E9/",
+    "https://iafastro.directory/iac/browse/IAC-26/E10/",
+    "https://iafastro.directory/iac/browse/IAC-26/E11/",
+    "https://iafastro.directory/iac/browse/IAC-26/GTS/",
+    "https://www.iafastro.org/assets/files/events/iac/2026/IAC_2026_Call_for_Papers.pdf"
+  ],
+  "retrieved": "2026-10-16"
+}

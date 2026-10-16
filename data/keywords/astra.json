@@ -1,0 +1,179 @@
+{
+ "id": "astra",
+ "edition_analyzed": 2023,
+ "method": "program-sessions",
+ "method_note": "The most recent edition, ASTRA 2025 (Leiden, 7-9 Oct 2025), has published proceedings (about 107 papers listed by paper ID at roboshare.esa.int) but no session programme could be found, so the 2023 edition (17th ASTRA, Leiden, 18-20 Oct 2023) was analysed. Counted 23 parallel technical sessions with 74 presentations from the official EventsAir programme data. Excluded: Session 1 'Programmatics' (invited agency talks), plenary talks, poster/exhibition slots and the invited-only IOS Workshop. Each session = 1 unit split across at most 2 keywords.",
+ "tracks": [
+  {
+   "name": "Robotic Testbeds",
+   "sessions": 1,
+   "papers": 3,
+   "url": "https://atpi.eventsair.com/astra2023/programme"
+  },
+  {
+   "name": "Planetary Robotics",
+   "sessions": 6,
+   "papers": 18,
+   "url": "https://atpi.eventsair.com/astra2023/programme"
+  },
+  {
+   "name": "In-Orbit Servicing, Manufacturing, and Construction",
+   "sessions": 1,
+   "papers": 3,
+   "url": "https://atpi.eventsair.com/astra2023/programme"
+  },
+  {
+   "name": "Human Robotic Interaction",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://atpi.eventsair.com/astra2023/programme"
+  },
+  {
+   "name": "Orbital Robotics",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://atpi.eventsair.com/astra2023/programme"
+  },
+  {
+   "name": "SpaceROS & DEM simulation",
+   "sessions": 1,
+   "papers": 2,
+   "url": "https://atpi.eventsair.com/astra2023/programme"
+  },
+  {
+   "name": "Simulation, Modelling, and Visualisation",
+   "sessions": 2,
+   "papers": 6,
+   "url": "https://atpi.eventsair.com/astra2023/programme"
+  },
+  {
+   "name": "Planning and Autonomy",
+   "sessions": 3,
+   "papers": 10,
+   "url": "https://atpi.eventsair.com/astra2023/programme"
+  },
+  {
+   "name": "On-ground Validation and Verification",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://atpi.eventsair.com/astra2023/programme"
+  },
+  {
+   "name": "Control and Automation",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://atpi.eventsair.com/astra2023/programme"
+  },
+  {
+   "name": "Manipulators and End-Effectors",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://atpi.eventsair.com/astra2023/programme"
+  },
+  {
+   "name": "Localisation and Mapping",
+   "sessions": 1,
+   "papers": 3,
+   "url": "https://atpi.eventsair.com/astra2023/programme"
+  },
+  {
+   "name": "Sensors and Perception",
+   "sessions": 1,
+   "papers": 3,
+   "url": "https://atpi.eventsair.com/astra2023/programme"
+  },
+  {
+   "name": "Field Testing",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://atpi.eventsair.com/astra2023/programme"
+  },
+  {
+   "name": "Robotic Frameworks",
+   "sessions": 1,
+   "papers": 2,
+   "url": "https://atpi.eventsair.com/astra2023/programme"
+  }
+ ],
+ "keywords": [
+  {
+   "id": "space-robotics",
+   "weight": 0.261,
+   "evidence": "6 of 23 session-units: Robotic Testbeds (1); SpaceROS & DEM simuation (1); Simulation, Modelling, and Visualisation (1); On-ground Validation and Verification (1); Robotic Frameworks (1); Orbital Robotics (0.5); Control and Automation (0.5)"
+  },
+  {
+   "id": "rovers",
+   "weight": 0.174,
+   "evidence": "4 of 23 session-units: Planetary Robotics (3); Localisation and Mapping (0.5); Field Testing (0.5)"
+  },
+  {
+   "id": "exploration",
+   "weight": 0.174,
+   "evidence": "4 of 23 session-units: Planetary Robotics (3); Simulation, Modelling, and Visualisation (1)"
+  },
+  {
+   "id": "osam",
+   "weight": 0.109,
+   "evidence": "2.5 of 23 session-units: In-Orbit Servicing, Manufacturing, and Construction (1); Orbital Robotics (0.5); Manipulators and End-Effectors (0.5); Sensors and Perception (0.5)"
+  },
+  {
+   "id": "autonomy",
+   "weight": 0.065,
+   "evidence": "1.5 of 23 session-units: Planning and Autonomy (1.5)"
+  },
+  {
+   "id": "ai-ml",
+   "weight": 0.065,
+   "evidence": "1.5 of 23 session-units: Planning and Autonomy (1.5)"
+  },
+  {
+   "id": "hri",
+   "weight": 0.043,
+   "evidence": "1 of 23 session-units: Human Robotic Interaction (1)"
+  },
+  {
+   "id": "control-theory",
+   "weight": 0.022,
+   "evidence": "0.5 of 23 session-units: Control and Automation (0.5)"
+  },
+  {
+   "id": "manipulation",
+   "weight": 0.022,
+   "evidence": "0.5 of 23 session-units: Manipulators and End-Effectors (0.5)"
+  },
+  {
+   "id": "slam",
+   "weight": 0.022,
+   "evidence": "0.5 of 23 session-units: Localisation and Mapping (0.5)"
+  },
+  {
+   "id": "perception",
+   "weight": 0.022,
+   "evidence": "0.5 of 23 session-units: Sensors and Perception (0.5)"
+  },
+  {
+   "id": "field-robotics",
+   "weight": 0.022,
+   "evidence": "0.5 of 23 session-units: Field Testing (0.5)"
+  }
+ ],
+ "top_terms": [
+  "European Moon Rover System (EMRS)",
+  "Mars Sample Return Sample Transfer Arm",
+  "Space ROS",
+  "standard interfaces for in-orbit servicing (SIROM)",
+  "free-floating platform testbeds",
+  "lunar analogue field trials (Mt. Etna, IBB3)",
+  "SLAM for lunar exploration",
+  "onboard AI scheduling (CogniSat-6)",
+  "MMX rover locomotion on Phobos",
+  "deep reinforcement learning for manipulators"
+ ],
+ "sources": [
+  "https://atpi.eventsair.com/astra2023/programme",
+  "https://airdrive.eventsair.com/eventsairwesteuprod/production-atpi-public/26be304505f942789f7fd9e608fad029",
+  "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Proceedings_of_ASTRA",
+  "https://roboshare.esa.int/ASTRA/Astra2025/"
+ ],
+ "retrieved": "2026-10-16"
+}

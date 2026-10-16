@@ -1,0 +1,81 @@
+{
+  "id": "iaa-stc",
+  "edition_analyzed": 2026,
+  "method": "program-sessions",
+  "method_note": "Counted the 6 paper-presentation sessions (panels/themes) in the final agenda of the 12th Annual Space Traffic Conference \"Operational Assurance for All\" (UT Austin, 18-19 Feb 2026); 25 papers listed. Single-track conference; each session weighted equally and split 50/50 where two keywords apply. Keynotes, spotlight talks, the roundtable and the student panel excluded. Space traffic is the conference theme; the split shows most sessions are policy/regulatory/economic rather than technical.",
+  "tracks": [
+    {
+      "name": "Theme 1 / Panel A: Baselining",
+      "sessions": 1,
+      "papers": 2,
+      "url": "https://www.strausscenter.org/wp-content/uploads/ST-2026-Agenda-FINAL-1.pdf"
+    },
+    {
+      "name": "Theme 1 / Panel B: Current State",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://www.strausscenter.org/wp-content/uploads/ST-2026-Agenda-FINAL-1.pdf"
+    },
+    {
+      "name": "Theme 2: Through the National Air Space - Up and Back",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://www.strausscenter.org/wp-content/uploads/ST-2026-Agenda-FINAL-1.pdf"
+    },
+    {
+      "name": "Theme 3: Modeling for Assurance - Predictions and Probabilities",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.strausscenter.org/wp-content/uploads/ST-2026-Agenda-FINAL-1.pdf"
+    },
+    {
+      "name": "Theme 4: Managing for Assurance - Capacity and the Circular Space Economy",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://www.strausscenter.org/wp-content/uploads/ST-2026-Agenda-FINAL-1.pdf"
+    },
+    {
+      "name": "Theme 5: Theory & Constructs - As It Could Be",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://www.strausscenter.org/wp-content/uploads/ST-2026-Agenda-FINAL-1.pdf"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "space-policy",
+      "weight": 0.5,
+      "evidence": "Theme 1 / Panel A: Baselining; Theme 1 / Panel B: Current State; Theme 4: Managing for Assurance - Capacity and the Circular Space Economy; Theme 5: Theory & Constructs - As It Could Be"
+    },
+    {
+      "id": "stm",
+      "weight": 0.25,
+      "evidence": "Theme 2: Through the National Air Space - Up and Back; Theme 3: Modeling for Assurance - Predictions and Probabilities; Theme 4: Managing for Assurance - Capacity and the Circular Space Economy"
+    },
+    {
+      "id": "ssa-debris",
+      "weight": 0.167,
+      "evidence": "Theme 1 / Panel A: Baselining; Theme 3: Modeling for Assurance - Predictions and Probabilities"
+    },
+    {
+      "id": "air-transport",
+      "weight": 0.083,
+      "evidence": "Theme 2: Through the National Air Space - Up and Back"
+    }
+  ],
+  "top_terms": [
+    "Kessler syndrome",
+    "EU Space Act",
+    "ITU / UN Registration Convention compliance",
+    "re-entry and airspace integration",
+    "orbital capacity",
+    "circular space economy",
+    "space debris credits",
+    "cislunar initial orbit determination"
+  ],
+  "sources": [
+    "https://www.strausscenter.org/wp-content/uploads/ST-2026-Agenda-FINAL-1.pdf",
+    "https://www.strausscenter.org/events/operational-assurance-for-all-12th-annual-space-traffic-conference/"
+  ],
+  "retrieved": "2026-10-16"
+}

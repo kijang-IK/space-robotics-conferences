@@ -1,0 +1,283 @@
+{
+  "id": "iccas",
+  "edition_analyzed": 2025,
+  "method": "program-sessions",
+  "method_note": "ICCAS 2025 (Incheon, Nov 4-7, 2025) PaperCept program; the 2026 edition (Sapporo, Oct 27-30, 2026) has not yet taken place. Counted 57 topical oral sessions (306 papers), grouping numbered series (e.g. \"Control Theory and Applications 1-4\"). Excluded: 2 Award Sessions, Koh Young AI Competition, 2 poster sessions (169 papers, untitled), 3 Frontiers sessions, tutorials, workshop, plenaries. Mixed-content sessions (\"Robotic Applications\", SICE-ICROS \"Robot Technology\", \"Navigation, Guidance and Control\") were mapped after reading their paper titles. Each session split equally across at most 2 keywords; weight = sessions mapped / 55. 2 session(s) had no taxonomy equivalent and were left out of the denominator: Information and Networking Systems; Development of Next-Generation Robot Common Platform Technology for SDR Transformation. Keywords below 0.02 omitted; listed weights sum to 0.872.",
+  "tracks": [
+    {
+      "name": "Control Theory and Applications",
+      "sessions": 4,
+      "papers": 22,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Learning Based Control and Applications",
+      "sessions": 3,
+      "papers": 18,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Autonomous Vehicle Systems",
+      "sessions": 3,
+      "papers": 18,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Artificial Intelligence and Learning for Control",
+      "sessions": 3,
+      "papers": 15,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Robotic Applications",
+      "sessions": 3,
+      "papers": 18,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Navigation, Guidance and Control",
+      "sessions": 3,
+      "papers": 17,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Robot Mechanism and Control",
+      "sessions": 3,
+      "papers": 17,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Control Devices and Instrumentation",
+      "sessions": 3,
+      "papers": 18,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Mobility Technology for Agile and Safe Autonomous Driving in Unstructured Environments",
+      "sessions": 2,
+      "papers": 9,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Aircart and UAV Control and Applications",
+      "sessions": 2,
+      "papers": 11,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Industrial Applications of Control",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Human-Robot Interaction and Safety",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Autonomous Control and Applications",
+      "sessions": 2,
+      "papers": 11,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "SICE-ICROS Joint Organized Session : Robot Technology and Its Application",
+      "sessions": 2,
+      "papers": 9,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Image Processing",
+      "sessions": 2,
+      "papers": 9,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Computer Vision and Machine Vision for Robots",
+      "sessions": 2,
+      "papers": 12,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Control, Optimization, and Learning in EV Smart Charging Platform",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Control Applications",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "AI to Process System Engineering",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Innovations in Practice-Oriented Robotics Education: Case Studies from Industry-Academia Collaborative Projects",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Robot Learning for Manufacturing",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Multi-Robot Systems in Large-Scale Indoor Workspaces",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Deep Learning and Machine Vision Applications",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "ICROS-ECTI Joint Session on Advanced Control of Network and Dynamic Systems",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Biomedical Systems and Control",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "ICROS Technical Committee on Control Theory",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Field Robot Sensor Technology",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Advances in GNC Tecnologies",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Information and Networking Systems",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Development of a High-Speed, High-Performance Visual Sensor for Robots Using AI Semiconductors Capable of Environmental and Object Recognition",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Sensor and Signal Processing",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    },
+    {
+      "name": "Development of Next-Generation Robot Common Platform Technology for SDR Transformation",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://ras.papercept.net/conferences/conferences/ICCAS25/program/"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "control-theory",
+      "weight": 0.3,
+      "evidence": "16.5 of 55 mapped sessions: Control Theory and Applications (4); Learning Based Control and Applications (3); Artificial Intelligence and Learning for Control (3); Robot Mechanism and Control (3); Control Devices and Instrumentation (3); Industrial Applications of Control (2); Autonomous Control and Applications (2); Control, Optimization, and Learning in EV Smart Charging Platform; +4 more"
+    },
+    {
+      "id": "perception",
+      "weight": 0.109,
+      "evidence": "6 of 55 mapped sessions: SICE-ICROS Joint Organized Session : Robot Technology and Its Application (2); Image Processing (2); Computer Vision and Machine Vision for Robots (2); Deep Learning and Machine Vision Applications; Development of a High-Speed, High-Performance Visual Sensor for Robots Using AI Semiconductors Capable of Environmental and Object Recognition"
+    },
+    {
+      "id": "ai-ml",
+      "weight": 0.082,
+      "evidence": "4.5 of 55 mapped sessions: Learning Based Control and Applications (3); Artificial Intelligence and Learning for Control (3); Control, Optimization, and Learning in EV Smart Charging Platform; AI to Process System Engineering; Deep Learning and Machine Vision Applications"
+    },
+    {
+      "id": "autonomy",
+      "weight": 0.064,
+      "evidence": "3.5 of 55 mapped sessions: Autonomous Vehicle Systems (3); Mobility Technology for Agile and Safe Autonomous Driving in Unstructured Environments (2); Autonomous Control and Applications (2)"
+    },
+    {
+      "id": "mechatronics",
+      "weight": 0.064,
+      "evidence": "3.5 of 55 mapped sessions: Control Devices and Instrumentation (3); Field Robot Sensor Technology; Development of a High-Speed, High-Performance Visual Sensor for Robots Using AI Semiconductors Capable of Environmental and Object Recognition; Sensor and Signal Processing"
+    },
+    {
+      "id": "field-robotics",
+      "weight": 0.055,
+      "evidence": "3 of 55 mapped sessions: Robotic Applications (3); SICE-ICROS Joint Organized Session : Robot Technology and Its Application (2); Field Robot Sensor Technology"
+    },
+    {
+      "id": "autonomous-vehicles",
+      "weight": 0.045,
+      "evidence": "2.5 of 55 mapped sessions: Autonomous Vehicle Systems (3); Mobility Technology for Agile and Safe Autonomous Driving in Unstructured Environments (2)"
+    },
+    {
+      "id": "automation",
+      "weight": 0.036,
+      "evidence": "2 of 55 mapped sessions: Industrial Applications of Control (2); AI to Process System Engineering; Robot Learning for Manufacturing"
+    },
+    {
+      "id": "estimation",
+      "weight": 0.036,
+      "evidence": "2 of 55 mapped sessions: Navigation, Guidance and Control (3); Advances in GNC Tecnologies"
+    },
+    {
+      "id": "manipulation",
+      "weight": 0.027,
+      "evidence": "1.5 of 55 mapped sessions: Robotic Applications (3)"
+    },
+    {
+      "id": "motion-planning",
+      "weight": 0.027,
+      "evidence": "1.5 of 55 mapped sessions: Navigation, Guidance and Control (3)"
+    },
+    {
+      "id": "mechanisms",
+      "weight": 0.027,
+      "evidence": "1.5 of 55 mapped sessions: Robot Mechanism and Control (3)"
+    }
+  ],
+  "top_terms": [
+    "learning-based control",
+    "autonomous vehicle systems",
+    "agile and safe autonomous driving in unstructured environments",
+    "UAV control",
+    "human-robot interaction and safety",
+    "EV smart charging",
+    "AI semiconductors for robot vision",
+    "robot common platform for SDR transformation",
+    "multi-robot systems in indoor workspaces",
+    "robot learning for manufacturing"
+  ],
+  "sources": [
+    "https://ras.papercept.net/conferences/conferences/ICCAS25/program/",
+    "https://ras.papercept.net/conferences/conferences/ICCAS25/program/ICCAS25_ContentListWeb_1.html",
+    "https://ras.papercept.net/conferences/conferences/ICCAS25/program/ICCAS25_ContentListWeb_2.html",
+    "https://ras.papercept.net/conferences/conferences/ICCAS25/program/ICCAS25_ContentListWeb_3.html",
+    "https://ras.papercept.net/conferences/conferences/ICCAS25/program/ICCAS25_ContentListWeb_4.html",
+    "https://2025.iccas.org/"
+  ],
+  "retrieved": "2026-10-16"
+}

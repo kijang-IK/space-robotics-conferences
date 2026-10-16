@@ -1,0 +1,212 @@
+{
+  "id": "icuas",
+  "edition_analyzed": 2026,
+  "method": "program-sessions",
+  "method_note": "ICUAS 2026 (Corfu, Jun 15-18, 2026) PaperCept program. Counted 31 technical sessions (28 Regular + 3 Invited, 185 papers), grouping numbered series (e.g. \"Control Architectures I-III\"). Excluded: Best Paper Award Finalists session (6 papers), tutorials, plenaries, UAV competition, awards luncheon. Because every session is about unmanned aircraft, each session was mapped to \"uav\" plus (where present) its specific topic, split equally (max 2 keywords); weight = sessions mapped / 31. All counted sessions were mapped. Keywords below 0.02 omitted; listed weights sum to 0.982.",
+  "tracks": [
+    {
+      "name": "Control Architectures",
+      "sessions": 3,
+      "papers": 19,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    },
+    {
+      "name": "Multirotor Design and Control",
+      "sessions": 3,
+      "papers": 19,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    },
+    {
+      "name": "Testing and Evaluation: Autonomy",
+      "sessions": 3,
+      "papers": 16,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    },
+    {
+      "name": "Path Planning",
+      "sessions": 2,
+      "papers": 13,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    },
+    {
+      "name": "Perception and Cognition",
+      "sessions": 2,
+      "papers": 13,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    },
+    {
+      "name": "Aerial Robotic Manipulation",
+      "sessions": 2,
+      "papers": 10,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    },
+    {
+      "name": "Micro and Mini-UAS and Biologically Inspired UAS",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    },
+    {
+      "name": "Navigation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    },
+    {
+      "name": "Airspace Operations and See-And-Avoid Systems",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    },
+    {
+      "name": "UAS Testbeds",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    },
+    {
+      "name": "Autonomous Aerial Operations and Field Inspection",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    },
+    {
+      "name": "Swarms",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    },
+    {
+      "name": "Autonomy",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    },
+    {
+      "name": "Energy Efficient UAS, Payloads and Aerial Delivery",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    },
+    {
+      "name": "Security, Regulations and Training",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    },
+    {
+      "name": "UAS Applications I: Detection, Tracking and Counter-UAS",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    },
+    {
+      "name": "Sensor Fusion",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    },
+    {
+      "name": "UAS Applications II: Inspection and Monitoring",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    },
+    {
+      "name": "Simulation and UAS Testbeds",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    },
+    {
+      "name": "UAS Communications and Networked Swarms",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    },
+    {
+      "name": "Risk Analysis and Manned/Unmanned Aviation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    },
+    {
+      "name": "Reliability, Fail-Safe Systems and Airworthiness",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://controls.papercept.net/conferences/conferences/ICUAS26/program/"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "uav",
+      "weight": 0.532,
+      "evidence": "16.5 of 31 mapped sessions: Control Architectures (3); Multirotor Design and Control (3); Testing and Evaluation: Autonomy (3); Path Planning (2); Perception and Cognition (2); Aerial Robotic Manipulation (2); Micro and Mini-UAS and Biologically Inspired UAS; Navigation; +12 more"
+    },
+    {
+      "id": "flight-dynamics",
+      "weight": 0.097,
+      "evidence": "3 of 31 mapped sessions: Control Architectures (3); Multirotor Design and Control (3)"
+    },
+    {
+      "id": "autonomy",
+      "weight": 0.081,
+      "evidence": "2.5 of 31 mapped sessions: Testing and Evaluation: Autonomy (3); Autonomous Aerial Operations and Field Inspection; Autonomy"
+    },
+    {
+      "id": "perception",
+      "weight": 0.048,
+      "evidence": "1.5 of 31 mapped sessions: Perception and Cognition (2); UAS Applications I: Detection, Tracking and Counter-UAS"
+    },
+    {
+      "id": "air-transport",
+      "weight": 0.048,
+      "evidence": "1.5 of 31 mapped sessions: Airspace Operations and See-And-Avoid Systems; Security, Regulations and Training; Risk Analysis and Manned/Unmanned Aviation"
+    },
+    {
+      "id": "phm",
+      "weight": 0.048,
+      "evidence": "1.5 of 31 mapped sessions: Security, Regulations and Training; Risk Analysis and Manned/Unmanned Aviation; Reliability, Fail-Safe Systems and Airworthiness"
+    },
+    {
+      "id": "motion-planning",
+      "weight": 0.032,
+      "evidence": "1 of 31 mapped sessions: Path Planning (2)"
+    },
+    {
+      "id": "estimation",
+      "weight": 0.032,
+      "evidence": "1 of 31 mapped sessions: Navigation; Sensor Fusion"
+    },
+    {
+      "id": "multi-robot",
+      "weight": 0.032,
+      "evidence": "1 of 31 mapped sessions: Swarms; UAS Communications and Networked Swarms"
+    },
+    {
+      "id": "manipulation",
+      "weight": 0.032,
+      "evidence": "1 of 31 mapped sessions: Aerial Robotic Manipulation (2)"
+    }
+  ],
+  "top_terms": [
+    "multirotor design and control",
+    "aerial robotic manipulation",
+    "swarms",
+    "counter-UAS",
+    "testing and evaluation of autonomy",
+    "see-and-avoid",
+    "airworthiness",
+    "aerial delivery",
+    "UAS testbeds",
+    "field inspection"
+  ],
+  "sources": [
+    "https://controls.papercept.net/conferences/conferences/ICUAS26/program/",
+    "https://controls.papercept.net/conferences/conferences/ICUAS26/program/ICUAS26_ContentListWeb_2.html",
+    "https://controls.papercept.net/conferences/conferences/ICUAS26/program/ICUAS26_ContentListWeb_3.html",
+    "https://controls.papercept.net/conferences/conferences/ICUAS26/program/ICUAS26_ContentListWeb_4.html",
+    "https://uasconferences.com/2026_icuas/icuas-2026-technical-program-and-book-of-abstracts/"
+  ],
+  "retrieved": "2026-10-16"
+}

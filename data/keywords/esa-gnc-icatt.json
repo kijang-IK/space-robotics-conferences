@@ -1,0 +1,207 @@
+{
+ "id": "esa-gnc-icatt",
+ "edition_analyzed": 2026,
+ "method": "program-sessions",
+ "method_note": "Counted the 45 oral technical sessions (A/B/C blocks counted separately) of the joint 13th ESA GNC & 10th ICATT Conference (Sevilla, 28 Sep - 2 Oct 2026) from the official EventsAir final programme data; 166 oral presentations plus 34 posters (posters not weighted). Opening/closing speeches, the BLAST workshop (2 blocks), the Inter-Agency G&C V&V meeting (2 blocks) and social events were excluded. Each session = 1 unit split across at most 2 keywords; 'Academic Session' (mixed student papers) was split by its paper titles. Track names are the programme's session series (merged across #1/#2 and A/B/C).",
+ "tracks": [
+  {
+   "name": "Current Missions",
+   "sessions": 2,
+   "papers": 6,
+   "url": "https://atpi.eventsair.com/gncicatt/programme"
+  },
+  {
+   "name": "Small Satellites and Cubesat AOCS/GNC",
+   "sessions": 2,
+   "papers": 8,
+   "url": "https://atpi.eventsair.com/gncicatt/programme"
+  },
+  {
+   "name": "In-Orbit Experiences and Demonstrators",
+   "sessions": 4,
+   "papers": 15,
+   "url": "https://atpi.eventsair.com/gncicatt/programme"
+  },
+  {
+   "name": "AOCS/GNC Development, Verification & Validation, Methods, and Standards",
+   "sessions": 5,
+   "papers": 15,
+   "url": "https://atpi.eventsair.com/gncicatt/programme"
+  },
+  {
+   "name": "On Board Autonomous AOCS/GNC",
+   "sessions": 2,
+   "papers": 7,
+   "url": "https://atpi.eventsair.com/gncicatt/programme"
+  },
+  {
+   "name": "ICATT - Spacecraft Trajectory Simulation and Optimisation",
+   "sessions": 4,
+   "papers": 14,
+   "url": "https://atpi.eventsair.com/gncicatt/programme"
+  },
+  {
+   "name": "ICATT - Modelling and Simulation of Dynamical Systems",
+   "sessions": 2,
+   "papers": 8,
+   "url": "https://atpi.eventsair.com/gncicatt/programme"
+  },
+  {
+   "name": "Academic Session",
+   "sessions": 2,
+   "papers": 12,
+   "url": "https://atpi.eventsair.com/gncicatt/programme"
+  },
+  {
+   "name": "Image Processing and Vision-Based Navigation",
+   "sessions": 2,
+   "papers": 8,
+   "url": "https://atpi.eventsair.com/gncicatt/programme"
+  },
+  {
+   "name": "Advances in Sensors and Actuators",
+   "sessions": 4,
+   "papers": 15,
+   "url": "https://atpi.eventsair.com/gncicatt/programme"
+  },
+  {
+   "name": "ICATT - Analytical Methods for Spaceflight Problems",
+   "sessions": 2,
+   "papers": 7,
+   "url": "https://atpi.eventsair.com/gncicatt/programme"
+  },
+  {
+   "name": "Advances in Control",
+   "sessions": 2,
+   "papers": 8,
+   "url": "https://atpi.eventsair.com/gncicatt/programme"
+  },
+  {
+   "name": "AOCS/GNC for Zero Debris and Sustainable Space Missions",
+   "sessions": 2,
+   "papers": 7,
+   "url": "https://atpi.eventsair.com/gncicatt/programme"
+  },
+  {
+   "name": "GNC for Future Space Transportation Systems",
+   "sessions": 2,
+   "papers": 6,
+   "url": "https://atpi.eventsair.com/gncicatt/programme"
+  },
+  {
+   "name": "GNC for In-Orbit Servicing, Assembly and Manufacturing Missions",
+   "sessions": 2,
+   "papers": 8,
+   "url": "https://atpi.eventsair.com/gncicatt/programme"
+  },
+  {
+   "name": "AI/ML for AOCS/GNC Systems",
+   "sessions": 2,
+   "papers": 8,
+   "url": "https://atpi.eventsair.com/gncicatt/programme"
+  },
+  {
+   "name": "Future Missions",
+   "sessions": 2,
+   "papers": 7,
+   "url": "https://atpi.eventsair.com/gncicatt/programme"
+  },
+  {
+   "name": "Advances in Control #2 + Image Processing & VBN #2 (joint)",
+   "sessions": 2,
+   "papers": 7,
+   "url": "https://atpi.eventsair.com/gncicatt/programme"
+  }
+ ],
+ "keywords": [
+  {
+   "id": "spacecraft-gnc",
+   "weight": 0.411,
+   "evidence": "18.5 of 45 session-units: Advances in Sensors and Actuators (4); AOCS/GNC Development, Verification & Validation, Methods, and Standards (2.5); In-Orbit Experiences and Demonstrators (2); Current Missions (1); Small Satellites and Cubesat AOCS/GNC (1); On Board Autonomous AOCS/GNC (1); Academic Session (1); Advances in Control (1); AOCS/GNC for Zero Debris and Sustainable Space Missions (1); GNC for Future Space Transportation Systems (1); GNC for In Orbit Servicing, Assembly and Manufacturing Missions (1); AI/ML for AOCS/GNC Systems (1); Future Missions (1)"
+  },
+  {
+   "id": "space-systems",
+   "weight": 0.122,
+   "evidence": "5.5 of 45 session-units: AOCS/GNC Development, Verification & Validation, Methods, and Standards (2.5); Current Missions (1); In-Orbit Experiences and Demonstrators (1); Future Missions (1)"
+  },
+  {
+   "id": "trajectory",
+   "weight": 0.089,
+   "evidence": "4 of 45 session-units: Trajectory Simulation and Optimization (4)"
+  },
+  {
+   "id": "astrodynamics",
+   "weight": 0.089,
+   "evidence": "4 of 45 session-units: Modelling and Simulation of Dynamical Systems (2); Analytical Methods for Spaceflight Problems (2)"
+  },
+  {
+   "id": "od-nav",
+   "weight": 0.067,
+   "evidence": "3 of 45 session-units: Academic Session (1); Image Processing and Vision Based Navigation (1); Advances in Control , Image Processing & VBN #2 (1)"
+  },
+  {
+   "id": "control-theory",
+   "weight": 0.044,
+   "evidence": "2 of 45 session-units: Advances in Control (1); Advances in Control , Image Processing & VBN #2 (1)"
+  },
+  {
+   "id": "smallsat",
+   "weight": 0.022,
+   "evidence": "1 of 45 session-units: Small Satellites and Cubesat AOCS/GNC (1)"
+  },
+  {
+   "id": "earth-obs",
+   "weight": 0.022,
+   "evidence": "1 of 45 session-units: In-Orbit Experiences and Demonstrators (1)"
+  },
+  {
+   "id": "autonomy",
+   "weight": 0.022,
+   "evidence": "1 of 45 session-units: On Board Autonomous AOCS/GNC (1)"
+  },
+  {
+   "id": "perception",
+   "weight": 0.022,
+   "evidence": "1 of 45 session-units: Image Processing and Vision Based Navigation (1)"
+  },
+  {
+   "id": "ssa-debris",
+   "weight": 0.022,
+   "evidence": "1 of 45 session-units: AOCS/GNC for Zero Debris and Sustainable Space Missions (1)"
+  },
+  {
+   "id": "launch",
+   "weight": 0.022,
+   "evidence": "1 of 45 session-units: GNC for Future Space Transportation Systems (1)"
+  },
+  {
+   "id": "osam",
+   "weight": 0.022,
+   "evidence": "1 of 45 session-units: GNC for In Orbit Servicing, Assembly and Manufacturing Missions (1)"
+  },
+  {
+   "id": "ai-ml",
+   "weight": 0.022,
+   "evidence": "1 of 45 session-units: AI/ML for AOCS/GNC Systems (1)"
+  }
+ ],
+ "top_terms": [
+  "vision-based navigation for lunar landing (TRN, crater navigation)",
+  "AI/ML for AOCS/GNC",
+  "controlled re-entry and zero-debris AOCS",
+  "star trackers as dual-use RSO sensors",
+  "GNC for in-orbit servicing and refuelling",
+  "formation flying (Proba-3)",
+  "event-based vision sensors",
+  "reinforcement learning attitude control",
+  "very low Earth orbit aerodynamic control",
+  "asteroid/small-body proximity operations"
+ ],
+ "sources": [
+  "https://atpi.eventsair.com/gncicatt/programme",
+  "https://airdrive.eventsair.com/eventsairwesteuprod/production-atpi-public/04929ab5cad04b848c2ead209bef5f38",
+  "https://atpi.eventsair.com/gncicatt/topics",
+  "https://indico.esa.int/event/630/"
+ ],
+ "retrieved": "2026-10-16"
+}

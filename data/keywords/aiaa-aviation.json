@@ -1,0 +1,265 @@
+{
+  "id": "aiaa-aviation",
+  "edition_analyzed": 2026,
+  "method": "paper-counts",
+  "method_note": "The AVIATION 2026 online program (ATIV planner) is offline and aiaa.org's program page is a placeholder. Counted papers per AIAA technical discipline from the 33 discipline proceedings volumes 'Papers Presented at the AIAA AVIATION 2026 Forum' (proceedings.com IDs 85746-85778), counting table-of-contents entries: 776 papers, consistent with AIAA's official tally of 791 technical presentations in 239 technical sessions. Each discipline mapped to at most 2 keywords; Unidentified Anomalous Phenomena (2 papers) unmapped, so weights are over 774 papers. Atmospheric and Space Environments mapped to aerodynamics because its 2026 papers are almost entirely aircraft icing. Keywords below 0.02 omitted.",
+  "tracks": [
+    {
+      "name": "Aerospace Traffic Management",
+      "sessions": null,
+      "papers": 8,
+      "url": "https://www.proceedings.com/content/085/085746webtoc.pdf"
+    },
+    {
+      "name": "Aircraft Design",
+      "sessions": null,
+      "papers": 46,
+      "url": "https://www.proceedings.com/content/085/085747webtoc.pdf"
+    },
+    {
+      "name": "Air Transportation Systems",
+      "sessions": null,
+      "papers": 47,
+      "url": "https://www.proceedings.com/content/085/085748webtoc.pdf"
+    },
+    {
+      "name": "Applied Aerodynamics",
+      "sessions": null,
+      "papers": 131,
+      "url": "https://www.proceedings.com/content/085/085749webtoc.pdf"
+    },
+    {
+      "name": "Atmospheric and Space Environments",
+      "sessions": null,
+      "papers": 36,
+      "url": "https://www.proceedings.com/content/085/085750webtoc.pdf"
+    },
+    {
+      "name": "Aviation in Multimodal Transportation",
+      "sessions": null,
+      "papers": 5,
+      "url": "https://www.proceedings.com/content/085/085751webtoc.pdf"
+    },
+    {
+      "name": "Computational Fluid Dynamics",
+      "sessions": null,
+      "papers": 3,
+      "url": "https://www.proceedings.com/content/085/085752webtoc.pdf"
+    },
+    {
+      "name": "Cybersecurity",
+      "sessions": null,
+      "papers": 5,
+      "url": "https://www.proceedings.com/content/085/085753webtoc.pdf"
+    },
+    {
+      "name": "Design Engineering",
+      "sessions": null,
+      "papers": 6,
+      "url": "https://www.proceedings.com/content/085/085754webtoc.pdf"
+    },
+    {
+      "name": "Digital Engineering",
+      "sessions": null,
+      "papers": 11,
+      "url": "https://www.proceedings.com/content/085/085755webtoc.pdf"
+    },
+    {
+      "name": "Electric Aircraft Technology",
+      "sessions": null,
+      "papers": 23,
+      "url": "https://www.proceedings.com/content/085/085756webtoc.pdf"
+    },
+    {
+      "name": "Flight Testing",
+      "sessions": null,
+      "papers": 11,
+      "url": "https://www.proceedings.com/content/085/085757webtoc.pdf"
+    },
+    {
+      "name": "Fluid Dynamics",
+      "sessions": null,
+      "papers": 123,
+      "url": "https://www.proceedings.com/content/085/085758webtoc.pdf"
+    },
+    {
+      "name": "General Aviation",
+      "sessions": null,
+      "papers": 13,
+      "url": "https://www.proceedings.com/content/085/085759webtoc.pdf"
+    },
+    {
+      "name": "Ground Testing",
+      "sessions": null,
+      "papers": 27,
+      "url": "https://www.proceedings.com/content/085/085760webtoc.pdf"
+    },
+    {
+      "name": "High-Speed Air-Breathing Propulsion",
+      "sessions": null,
+      "papers": 24,
+      "url": "https://www.proceedings.com/content/085/085761webtoc.pdf"
+    },
+    {
+      "name": "History",
+      "sessions": null,
+      "papers": 8,
+      "url": "https://www.proceedings.com/content/085/085762webtoc.pdf"
+    },
+    {
+      "name": "Human-Machine Teaming",
+      "sessions": null,
+      "papers": 4,
+      "url": "https://www.proceedings.com/content/085/085763webtoc.pdf"
+    },
+    {
+      "name": "Inlets, Nozzles, and Propulsion Systems Integration",
+      "sessions": null,
+      "papers": 19,
+      "url": "https://www.proceedings.com/content/085/085764webtoc.pdf"
+    },
+    {
+      "name": "Intelligent Systems",
+      "sessions": null,
+      "papers": 25,
+      "url": "https://www.proceedings.com/content/085/085765webtoc.pdf"
+    },
+    {
+      "name": "Lighter-Than-Air Systems",
+      "sessions": null,
+      "papers": 7,
+      "url": "https://www.proceedings.com/content/085/085766webtoc.pdf"
+    },
+    {
+      "name": "Meshing, Visualization, and Computational Environments",
+      "sessions": null,
+      "papers": 6,
+      "url": "https://www.proceedings.com/content/085/085767webtoc.pdf"
+    },
+    {
+      "name": "Modeling and Simulation Technologies",
+      "sessions": null,
+      "papers": 23,
+      "url": "https://www.proceedings.com/content/085/085768webtoc.pdf"
+    },
+    {
+      "name": "Multidisciplinary Design Optimization",
+      "sessions": null,
+      "papers": 34,
+      "url": "https://www.proceedings.com/content/085/085769webtoc.pdf"
+    },
+    {
+      "name": "Plasmadynamics and Lasers",
+      "sessions": null,
+      "papers": 14,
+      "url": "https://www.proceedings.com/content/085/085770webtoc.pdf"
+    },
+    {
+      "name": "Sensor Systems and Information Fusion",
+      "sessions": null,
+      "papers": 8,
+      "url": "https://www.proceedings.com/content/085/085771webtoc.pdf"
+    },
+    {
+      "name": "Society and Aerospace Technology",
+      "sessions": null,
+      "papers": 2,
+      "url": "https://www.proceedings.com/content/085/085772webtoc.pdf"
+    },
+    {
+      "name": "Supersonics",
+      "sessions": null,
+      "papers": 3,
+      "url": "https://www.proceedings.com/content/085/085773webtoc.pdf"
+    },
+    {
+      "name": "Sustainability",
+      "sessions": null,
+      "papers": 27,
+      "url": "https://www.proceedings.com/content/085/085774webtoc.pdf"
+    },
+    {
+      "name": "Thermophysics",
+      "sessions": null,
+      "papers": 35,
+      "url": "https://www.proceedings.com/content/085/085775webtoc.pdf"
+    },
+    {
+      "name": "Uncrewed and Autonomous Systems",
+      "sessions": null,
+      "papers": 31,
+      "url": "https://www.proceedings.com/content/085/085776webtoc.pdf"
+    },
+    {
+      "name": "Unidentified Anomalous Phenomena",
+      "sessions": null,
+      "papers": 2,
+      "url": "https://www.proceedings.com/content/085/085777webtoc.pdf"
+    },
+    {
+      "name": "Unique and Transformational Flight Systems",
+      "sessions": null,
+      "papers": 9,
+      "url": "https://www.proceedings.com/content/085/085778webtoc.pdf"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "aerodynamics",
+      "weight": 0.486,
+      "evidence": "Applied Aerodynamics (131 papers); Atmospheric and Space Environments (36 papers); Computational Fluid Dynamics (3 papers); Fluid Dynamics (123 papers); Ground Testing (27 papers); Meshing, Visualization, and Computational Environments (6 papers); Plasmadynamics and Lasers (14 papers); Supersonics (1.5 papers); Thermophysics (35 papers)"
+    },
+    {
+      "id": "aircraft-design",
+      "weight": 0.204,
+      "evidence": "Aircraft Design (46 papers); Design Engineering (6 papers); Digital Engineering (11 papers); Electric Aircraft Technology (11.5 papers); Flight Testing (5.5 papers); General Aviation (13 papers); Lighter-Than-Air Systems (7 papers); Multidisciplinary Design Optimization (34 papers); Supersonics (1.5 papers); Sustainability (13.5 papers); Unique and Transformational Flight Systems (9 papers)"
+    },
+    {
+      "id": "air-transport",
+      "weight": 0.095,
+      "evidence": "Aerospace Traffic Management (8 papers); Air Transportation Systems (47 papers); Aviation in Multimodal Transportation (5 papers); Sustainability (13.5 papers)"
+    },
+    {
+      "id": "air-propulsion",
+      "weight": 0.07,
+      "evidence": "Electric Aircraft Technology (11.5 papers); High-Speed Air-Breathing Propulsion (24 papers); Inlets, Nozzles, and Propulsion Systems Integration (19 papers)"
+    },
+    {
+      "id": "flight-dynamics",
+      "weight": 0.037,
+      "evidence": "Flight Testing (5.5 papers); Modeling and Simulation Technologies (23 papers)"
+    },
+    {
+      "id": "autonomy",
+      "weight": 0.036,
+      "evidence": "Intelligent Systems (12.5 papers); Uncrewed and Autonomous Systems (15.5 papers)"
+    },
+    {
+      "id": "uav",
+      "weight": 0.02,
+      "evidence": "Uncrewed and Autonomous Systems (15.5 papers)"
+    }
+  ],
+  "top_terms": [
+    "hypersonic",
+    "hydrogen",
+    "aircraft icing / ice accretion",
+    "advanced air mobility",
+    "eVTOL",
+    "electric and hybrid-electric aircraft",
+    "boundary-layer transition",
+    "large language models",
+    "contrails",
+    "UAS / drones"
+  ],
+  "sources": [
+    "https://aviation.aiaa.org/about/past-forums/",
+    "https://aiaa.org/aviation/aviation-program-2",
+    "https://eppro01.ativ.me/web/planner.php?id=AIAAAVIATION26",
+    "https://www.proceedings.com/85749.html",
+    "https://www.proceedings.com/85750.html",
+    "https://www.proceedings.com/content/085/085750webtoc.pdf",
+    "https://www.proceedings.com/85772.html"
+  ],
+  "retrieved": "2026-10-16"
+}

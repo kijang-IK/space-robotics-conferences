@@ -1,0 +1,260 @@
+{
+  "id": "aim",
+  "edition_analyzed": 2026,
+  "method": "program-sessions",
+  "method_note": "AIM 2026 (Genoa, Jul 7-10, 2026) technical program on the official site (the PaperCept AIM26 program pages return 403/404). Counted 70 topical oral sessions (369 papers per the site's \"N papers\" counts), grouping repeated titles (e.g. \"Control application in Mechatronics\" x5). Excluded as non-topical: 9 \"Online/Hybrid Session\" slots, 3 \"TMECH Paper Presentation\" and 1 \"RA-L & TMRB Paper Presentations\" sessions, the late-breaking poster session, plenaries. Each session split equally across at most 2 keywords; weight = sessions mapped / 70. All counted sessions were mapped. Keywords below 0.02 omitted; listed weights sum to 0.993.",
+  "tracks": [
+    {
+      "name": "Control application in Mechatronics",
+      "sessions": 5,
+      "papers": 29,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Modeling and Design of Mechatronic Systems",
+      "sessions": 5,
+      "papers": 25,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Human-Machine Interfaces",
+      "sessions": 4,
+      "papers": 19,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Sensors and Sensing Systems",
+      "sessions": 4,
+      "papers": 22,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Wearable Robotics and Intelligent Sensing",
+      "sessions": 4,
+      "papers": 16,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Actuators in Mechatronic Systems",
+      "sessions": 4,
+      "papers": 21,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Computational Models and Methods of Mechatronics",
+      "sessions": 3,
+      "papers": 17,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Learning and Neural Control",
+      "sessions": 3,
+      "papers": 16,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Machine Learning in Intelligent Systems",
+      "sessions": 3,
+      "papers": 15,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Planning and Navigation",
+      "sessions": 3,
+      "papers": 16,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Rehabilitation and Assistive Robotics",
+      "sessions": 3,
+      "papers": 18,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Unmanned Aerial Vehicles",
+      "sessions": 3,
+      "papers": 15,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Robot Dynamics and Control",
+      "sessions": 3,
+      "papers": 18,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Identification and Estimation in Mechatronics",
+      "sessions": 3,
+      "papers": 17,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Automatic Mobile System",
+      "sessions": 3,
+      "papers": 15,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Image Processing in Intelligent Sensing",
+      "sessions": 2,
+      "papers": 9,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Design Optimization in Mechatronics",
+      "sessions": 2,
+      "papers": 10,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Human-Machine Interaction in Medical Applications",
+      "sessions": 2,
+      "papers": 11,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Novel Industry Applications of Mechatronics",
+      "sessions": 2,
+      "papers": 11,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Flexible Manipulators and Structures",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "SS: Bridging Modern AI with Advanced Automation",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "SS: Robotic Non-Prehensile Handling of Rigid Objects and Liquids",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Biomechatronics",
+      "sessions": 1,
+      "papers": 4,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Human-Machine Coupling Dynamic Analysis Based on Muscoskeletal Models",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Optimal Control of Unmanned Systems",
+      "sessions": 1,
+      "papers": 5,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Actuators in Mechatronic Systems & Machine Vision",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Dynamics and Control in Mechanics",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://aim2026.com/technical_program.php"
+    },
+    {
+      "name": "Machine Vision",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://aim2026.com/technical_program.php"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "mechatronics",
+      "weight": 0.336,
+      "evidence": "23.5 of 70 mapped sessions: Control application in Mechatronics (5); Modeling and Design of Mechatronic Systems (5); Sensors and Sensing Systems (4); Wearable Robotics and Intelligent Sensing (4); Actuators in Mechatronic Systems (4); Computational Models and Methods of Mechatronics (3); Identification and Estimation in Mechatronics (3); Image Processing in Intelligent Sensing (2); +3 more"
+    },
+    {
+      "id": "control-theory",
+      "weight": 0.129,
+      "evidence": "9 of 70 mapped sessions: Control application in Mechatronics (5); Learning and Neural Control (3); Robot Dynamics and Control (3); Optimal Control of Unmanned Systems; Dynamics and Control in Mechanics"
+    },
+    {
+      "id": "medical-robotics",
+      "weight": 0.1,
+      "evidence": "7 of 70 mapped sessions: Wearable Robotics and Intelligent Sensing (4); Rehabilitation and Assistive Robotics (3); Human-Machine Interaction in Medical Applications (2); Biomechatronics; Human-Machine Coupling Dynamic Analysis Based on Muscoskeletal Models"
+    },
+    {
+      "id": "hri",
+      "weight": 0.079,
+      "evidence": "5.5 of 70 mapped sessions: Human-Machine Interfaces (4); Human-Machine Interaction in Medical Applications (2); Human-Machine Coupling Dynamic Analysis Based on Muscoskeletal Models"
+    },
+    {
+      "id": "ai-ml",
+      "weight": 0.071,
+      "evidence": "5 of 70 mapped sessions: Learning and Neural Control (3); Machine Learning in Intelligent Systems (3); SS: Bridging Modern AI with Advanced Automation"
+    },
+    {
+      "id": "mechanisms",
+      "weight": 0.05,
+      "evidence": "3.5 of 70 mapped sessions: Actuators in Mechatronic Systems (4); Design Optimization in Mechatronics (2); Actuators in Mechatronic Systems & Machine Vision"
+    },
+    {
+      "id": "motion-planning",
+      "weight": 0.043,
+      "evidence": "3 of 70 mapped sessions: Planning and Navigation (3)"
+    },
+    {
+      "id": "uav",
+      "weight": 0.043,
+      "evidence": "3 of 70 mapped sessions: Unmanned Aerial Vehicles (3)"
+    },
+    {
+      "id": "field-robotics",
+      "weight": 0.043,
+      "evidence": "3 of 70 mapped sessions: Automatic Mobile System (3)"
+    },
+    {
+      "id": "perception",
+      "weight": 0.036,
+      "evidence": "2.5 of 70 mapped sessions: Image Processing in Intelligent Sensing (2); Actuators in Mechatronic Systems & Machine Vision; Machine Vision"
+    },
+    {
+      "id": "manipulation",
+      "weight": 0.021,
+      "evidence": "1.5 of 70 mapped sessions: Flexible Manipulators and Structures; SS: Robotic Non-Prehensile Handling of Rigid Objects and Liquids"
+    },
+    {
+      "id": "automation",
+      "weight": 0.021,
+      "evidence": "1.5 of 70 mapped sessions: Novel Industry Applications of Mechatronics (2); SS: Bridging Modern AI with Advanced Automation"
+    },
+    {
+      "id": "estimation",
+      "weight": 0.021,
+      "evidence": "1.5 of 70 mapped sessions: Identification and Estimation in Mechatronics (3)"
+    }
+  ],
+  "top_terms": [
+    "wearable robotics and intelligent sensing",
+    "human-machine interfaces",
+    "rehabilitation and assistive robotics",
+    "actuators in mechatronic systems",
+    "learning and neural control",
+    "non-prehensile handling",
+    "musculoskeletal models",
+    "unmanned aerial vehicles",
+    "machine vision"
+  ],
+  "sources": [
+    "https://aim2026.com/technical_program.php",
+    "https://aim2026.com/program_aag.php",
+    "https://aim2026.com/"
+  ],
+  "retrieved": "2026-10-16"
+}

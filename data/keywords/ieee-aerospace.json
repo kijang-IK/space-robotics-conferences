@@ -1,0 +1,177 @@
+{
+  "id": "ieee-aerospace",
+  "edition_analyzed": 2026,
+  "method": "program-sessions",
+  "method_note": "2026 IEEE Aerospace Conference (47th, Big Sky, MT, 7-14 Mar 2026). Source: the official Schedule & Program PDF. Unique program numbers (format T.SSPP = track.session.paper) were extracted from the timetable and EPH list: 351 papers in 89 sessions with at least one scheduled paper. Added 12 scheduled panel sessions (13.09 and Track 14 panels 14.01-14.08 and 14.10-14.12; 14.09 was listed but not scheduled), for 101 sessions in total. Track 1 plenaries were excluded. A session counts once however many papers it has, so 1-paper and 13-paper sessions weigh the same; per-track paper counts are in 'tracks'. Each session was mapped to 1-2 keywords using its 2026 session title from the program's 'Tracks, Sessions, and Organizers' list. Caveats: flight-software sessions (Track 10) were mapped to avionics, and the taxonomy has no keyword for cybersecurity (4.14, 12.04) or space power (8.09, 14.12), so these went to avionics or space-systems. Paper counts come from text extraction of the PDF and may miss a few entries whose numbers were split across lines. Dropped (<0.02): ssa-debris=0.01, od-nav=0.015, spacecraft-gnc=0.015, rovers=0.005, space-robotics=0.015, perception=0.015, ai-ml=0.015, aerodynamics=0.005, flight-dynamics=0.01, launch=0.01, planetary-defense=0.01, trajectory=0.005, air-transport=0.005, hri=0.01, osam=0.005, mechanisms=0.005, structures=0.005, space-propulsion=0.01, automation=0.005; the kept raw session fractions summed to 0.827 and were renormalized to sum to 1 (raw counts are in each evidence string).",
+  "tracks": [
+    {
+      "name": "Track 1: Science and Aerospace Frontiers (Plenary Sessions)",
+      "sessions": null,
+      "papers": null,
+      "url": "https://www.aeroconf.org/cms/content_attachments/75/download"
+    },
+    {
+      "name": "Track 2: Space Missions, Systems and Architectures",
+      "sessions": 11,
+      "papers": 55,
+      "url": "https://www.aeroconf.org/cms/content_attachments/75/download"
+    },
+    {
+      "name": "Track 3: Antennas, RF/Microwave Systems and Radio Science",
+      "sessions": 3,
+      "papers": 6,
+      "url": "https://www.aeroconf.org/cms/content_attachments/75/download"
+    },
+    {
+      "name": "Track 4: Communication & Navigation Systems & Technologies",
+      "sessions": 12,
+      "papers": 48,
+      "url": "https://www.aeroconf.org/cms/content_attachments/75/download"
+    },
+    {
+      "name": "Track 5: Small Spacecraft, Low-Cost Missions, Systems and Technologies",
+      "sessions": 7,
+      "papers": 28,
+      "url": "https://www.aeroconf.org/cms/content_attachments/75/download"
+    },
+    {
+      "name": "Track 6: Remote Sensing",
+      "sessions": 8,
+      "papers": 16,
+      "url": "https://www.aeroconf.org/cms/content_attachments/75/download"
+    },
+    {
+      "name": "Track 7: Avionics and Electronics for Space Applications",
+      "sessions": 8,
+      "papers": 28,
+      "url": "https://www.aeroconf.org/cms/content_attachments/75/download"
+    },
+    {
+      "name": "Track 8: Spacecraft & Launch Vehicle Systems & Technologies",
+      "sessions": 9,
+      "papers": 28,
+      "url": "https://www.aeroconf.org/cms/content_attachments/75/download"
+    },
+    {
+      "name": "Track 9: Air Vehicle Systems and Technologies for Piloted, Remotely Piloted, or UAS Atmospheric Platforms",
+      "sessions": 4,
+      "papers": 25,
+      "url": "https://www.aeroconf.org/cms/content_attachments/75/download"
+    },
+    {
+      "name": "Track 10: Software and Computing",
+      "sessions": 8,
+      "papers": 53,
+      "url": "https://www.aeroconf.org/cms/content_attachments/75/download"
+    },
+    {
+      "name": "Track 11: Diagnostics, Prognostics and Health Management (PHM)",
+      "sessions": 5,
+      "papers": 11,
+      "url": "https://www.aeroconf.org/cms/content_attachments/75/download"
+    },
+    {
+      "name": "Track 12: Ground and Space Operations",
+      "sessions": 6,
+      "papers": 22,
+      "url": "https://www.aeroconf.org/cms/content_attachments/75/download"
+    },
+    {
+      "name": "Track 13: Systems Engineering, Management, and Cost",
+      "sessions": 9,
+      "papers": 31,
+      "url": "https://www.aeroconf.org/cms/content_attachments/75/download"
+    },
+    {
+      "name": "Track 14: Government Plans, Policies and Education (panels)",
+      "sessions": 11,
+      "papers": null,
+      "url": "https://www.aeroconf.org/cms/content_attachments/75/download"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "space-systems",
+      "weight": 0.204,
+      "evidence": "17 of 101 sessions: 13.01, 12.01, 10.01, 10.02, 12.02, 13.02, 13.03, 12.04, 13.04, 13.06, 10.05, 13.05, 2.07, 8.09, 13.07, 13.08, 13.09, 14.11, 14.12"
+    },
+    {
+      "id": "space-comm",
+      "weight": 0.126,
+      "evidence": "10.5 of 101 sessions: 4.06, 4.05, 4.08, 4.10, 3.01, 3.03, 4.07, 4.01, 4.02, 4.03, 4.04"
+    },
+    {
+      "id": "avionics",
+      "weight": 0.12,
+      "evidence": "10 of 101 sessions: 7.01, 10.02, 7.02, 7.04, 10.03, 7.05, 10.04, 7.06, 7.08, 7.09, 4.13, 4.14"
+    },
+    {
+      "id": "exploration",
+      "weight": 0.096,
+      "evidence": "8 of 101 sessions: 2.03, 2.05, 2.06, 8.01, 8.02, 8.04, 14.02, 14.04, 14.05, 14.06, 14.07, 14.08, 14.11"
+    },
+    {
+      "id": "smallsat",
+      "weight": 0.09,
+      "evidence": "7.5 of 101 sessions: 5.01, 5.02, 5.03, 5.04, 5.06, 5.07, 5.08, 14.03"
+    },
+    {
+      "id": "human-spaceflight",
+      "weight": 0.072,
+      "evidence": "6 of 101 sessions: 12.03, 8.01, 8.02, 8.06, 8.05, 11.07, 14.07, 14.08, 14.10"
+    },
+    {
+      "id": "phm",
+      "weight": 0.06,
+      "evidence": "5 of 101 sessions: 10.04, 7.06, 11.01, 11.02, 11.07, 11.04, 11.06"
+    },
+    {
+      "id": "earth-obs",
+      "weight": 0.054,
+      "evidence": "4.5 of 101 sessions: 6.02, 6.01, 2.02, 2.01, 6.04, 6.03"
+    },
+    {
+      "id": "space-science",
+      "weight": 0.048,
+      "evidence": "4 of 101 sessions: 2.02, 2.01, 2.06, 2.08, 3.04, 14.01"
+    },
+    {
+      "id": "estimation",
+      "weight": 0.048,
+      "evidence": "4 of 101 sessions: 6.08, 6.05, 6.06, 6.07"
+    },
+    {
+      "id": "space-policy",
+      "weight": 0.036,
+      "evidence": "3 of 101 sessions: 8.04, 13.07, 14.01, 14.04, 14.06, 14.10"
+    },
+    {
+      "id": "autonomy",
+      "weight": 0.024,
+      "evidence": "2 of 101 sessions: 12.05, 12.06, 9.02, 11.02"
+    },
+    {
+      "id": "uav",
+      "weight": 0.024,
+      "evidence": "2 of 101 sessions: 9.02, 9.03, 9.04"
+    }
+  ],
+  "top_terms": [
+    "lunar surface / lunar landing (CLPS, Artemis panels)",
+    "reinforcement learning",
+    "on-board autonomy",
+    "LLM-based requirements analysis",
+    "large LEO constellations",
+    "in-space robotics and debris capture",
+    "fission surface power / radioisotope power systems",
+    "commercial LEO habitats",
+    "FPGA / neuromorphic on-board processing",
+    "model-based systems engineering (MBSE)"
+  ],
+  "sources": [
+    "https://www.aeroconf.org/cms/content_attachments/75/download",
+    "https://2026.aeroconf.org/",
+    "https://2026.aeroconf.org/conference-organizers"
+  ],
+  "retrieved": "2026-10-16"
+}

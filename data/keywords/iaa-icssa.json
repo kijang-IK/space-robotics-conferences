@@ -1,0 +1,173 @@
+{
+  "id": "iaa-icssa",
+  "edition_analyzed": 2026,
+  "method": "cfp-topics",
+  "method_note": "Lowest confidence. No session-level program was found for the 5th ICSSA (GMV, Tres Cantos, 7-9 Apr 2026): the Cvent conference site now shows \"page doesn't exist anymore\" and the IAA post-conference report gives only totals (73 papers, 130 attendees, 16 countries, 5 keynotes). The previous edition (2024) program PDF on iaaspace.org lists only time slots labelled \"Sessions\" without titles, so the fallback edition is also unusable. Weights therefore split equally over the 15 topics in the 2026 call for abstracts (1/15 each), each topic split 50/50 where two keywords apply.",
+  "tracks": [
+    {
+      "name": "AI for SSA/SDA",
+      "sessions": null,
+      "papers": null,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/12/2026ICSSAcall.pdf"
+    },
+    {
+      "name": "Association",
+      "sessions": null,
+      "papers": null,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/12/2026ICSSAcall.pdf"
+    },
+    {
+      "name": "Cislunar SSA",
+      "sessions": null,
+      "papers": null,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/12/2026ICSSAcall.pdf"
+    },
+    {
+      "name": "Debris Removal",
+      "sessions": null,
+      "papers": null,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/12/2026ICSSAcall.pdf"
+    },
+    {
+      "name": "Drag Controlled Re-Entry",
+      "sessions": null,
+      "papers": null,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/12/2026ICSSAcall.pdf"
+    },
+    {
+      "name": "Forecasting & Tracking",
+      "sessions": null,
+      "papers": null,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/12/2026ICSSAcall.pdf"
+    },
+    {
+      "name": "Information and Communication",
+      "sessions": null,
+      "papers": null,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/12/2026ICSSAcall.pdf"
+    },
+    {
+      "name": "Large Constellations",
+      "sessions": null,
+      "papers": null,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/12/2026ICSSAcall.pdf"
+    },
+    {
+      "name": "Policy & Liability and Insurance Issues",
+      "sessions": null,
+      "papers": null,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/12/2026ICSSAcall.pdf"
+    },
+    {
+      "name": "Proximity Operations",
+      "sessions": null,
+      "papers": null,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/12/2026ICSSAcall.pdf"
+    },
+    {
+      "name": "Risk Assessment",
+      "sessions": null,
+      "papers": null,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/12/2026ICSSAcall.pdf"
+    },
+    {
+      "name": "RSO and NEO Sensing & Identification",
+      "sessions": null,
+      "papers": null,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/12/2026ICSSAcall.pdf"
+    },
+    {
+      "name": "Space Weather",
+      "sessions": null,
+      "papers": null,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/12/2026ICSSAcall.pdf"
+    },
+    {
+      "name": "Spacecraft Control",
+      "sessions": null,
+      "papers": null,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/12/2026ICSSAcall.pdf"
+    },
+    {
+      "name": "Testing and Debris Removal Systems",
+      "sessions": null,
+      "papers": null,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/12/2026ICSSAcall.pdf"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "ssa-debris",
+      "weight": 0.333,
+      "evidence": "AI for SSA/SDA; Association; Cislunar SSA; Debris Removal; Drag Controlled Re-Entry; Forecasting & Tracking; Information and Communication; Risk Assessment; RSO and NEO Sensing & Identification; Testing and Debris Removal Systems"
+    },
+    {
+      "id": "spacecraft-gnc",
+      "weight": 0.133,
+      "evidence": "Drag Controlled Re-Entry; Proximity Operations; Spacecraft Control"
+    },
+    {
+      "id": "osam",
+      "weight": 0.1,
+      "evidence": "Debris Removal; Proximity Operations; Testing and Debris Removal Systems"
+    },
+    {
+      "id": "stm",
+      "weight": 0.067,
+      "evidence": "Large Constellations; Risk Assessment"
+    },
+    {
+      "id": "space-policy",
+      "weight": 0.067,
+      "evidence": "Policy & Liability and Insurance Issues"
+    },
+    {
+      "id": "space-science",
+      "weight": 0.067,
+      "evidence": "Space Weather"
+    },
+    {
+      "id": "ai-ml",
+      "weight": 0.033,
+      "evidence": "AI for SSA/SDA"
+    },
+    {
+      "id": "estimation",
+      "weight": 0.033,
+      "evidence": "Association"
+    },
+    {
+      "id": "astrodynamics",
+      "weight": 0.033,
+      "evidence": "Cislunar SSA"
+    },
+    {
+      "id": "od-nav",
+      "weight": 0.033,
+      "evidence": "Forecasting & Tracking"
+    },
+    {
+      "id": "space-comm",
+      "weight": 0.033,
+      "evidence": "Information and Communication"
+    },
+    {
+      "id": "space-systems",
+      "weight": 0.033,
+      "evidence": "Large Constellations"
+    },
+    {
+      "id": "planetary-defense",
+      "weight": 0.033,
+      "evidence": "RSO and NEO Sensing & Identification"
+    }
+  ],
+  "top_terms": [],
+  "sources": [
+    "https://iaaspace.org/wp-content/uploads/2025/12/2026ICSSAcall.pdf",
+    "https://iaaspace.org/event/5th-iaa-conference-on-space-situational-awareness-icssa-2026/",
+    "https://iaaspace.org/wp-content/uploads/2026/06/icssa2026report.pdf",
+    "https://iaaspace.org/wp-content/uploads/2024/04/ICSSAprog2024.pdf"
+  ],
+  "retrieved": "2026-10-16"
+}

@@ -1,0 +1,379 @@
+{
+  "id": "iros",
+  "edition_analyzed": 2026,
+  "method": "paper-counts",
+  "method_note": "IROS 2026 (Pittsburgh, 27 Sep–1 Oct 2026). The program guide lists 160 Focused Sessions and 188 Lightning-Talk sessions, but their titles are free-form descriptive phrases (e.g. 'Aerial Grasping and Perching', 'Architectural Advances in Vision-Language-Action Models') rather than keyword-named sessions, so a session-level tally would require subjective title-by-title coding. Instead counted: the FIRST (primary) IEEE RAS keyword of all 1929 papers in the official Paper Index (every paper carries keywords). The same hand-made RAS-keyword→taxonomy mapping as for ICRA 2026 was used (1 id or 50/50 split across 2); 41 papers with no taxonomy fit were excluded, leaving 1888. Papers whose title matches VLA/VLM/LLM/vision-language/language model/foundation model (158) are split 0.5 foundation-models + 0.5 keyword topic. Weights = paper-equivalents / 1888; ids below 0.02 omitted (space-robotics 0.005 = 9 paper-equivalents, phm, education). Mapping is the dataset author's judgement.",
+  "tracks": [
+    {
+      "name": "Focused Sessions (descriptively titled oral sessions, ~4 talks each, incl. 3 Best Paper/Best Student Paper Award sessions)",
+      "sessions": 160,
+      "papers": 578,
+      "url": "https://2026.ieee-iros.org/program/contributed-talks/"
+    },
+    {
+      "name": "Lightning Talk sessions (descriptively titled, ~7 talks each)",
+      "sessions": 188,
+      "papers": 1351,
+      "url": "https://2026.ieee-iros.org/program/contributed-talks/"
+    },
+    {
+      "name": "Primary keyword: Reinforcement Learning",
+      "sessions": null,
+      "papers": 59,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Vision-Based Navigation",
+      "sessions": null,
+      "papers": 58,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Motion and Path Planning",
+      "sessions": null,
+      "papers": 58,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Deep Learning for Visual Perception",
+      "sessions": null,
+      "papers": 56,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Deep Learning in Grasping and Manipulation",
+      "sessions": null,
+      "papers": 50,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Multi-Robot Systems",
+      "sessions": null,
+      "papers": 48,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Imitation Learning",
+      "sessions": null,
+      "papers": 46,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Legged Robots",
+      "sessions": null,
+      "papers": 41,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: SLAM",
+      "sessions": null,
+      "papers": 40,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Autonomous Vehicle Navigation",
+      "sessions": null,
+      "papers": 38,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Force and Tactile Sensing",
+      "sessions": null,
+      "papers": 36,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Aerial Systems: Perception and Autonomy",
+      "sessions": null,
+      "papers": 33,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Localization",
+      "sessions": null,
+      "papers": 33,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: AI-Enabled Robotics",
+      "sessions": null,
+      "papers": 33,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Robot Safety",
+      "sessions": null,
+      "papers": 32,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Medical Robots and Systems",
+      "sessions": null,
+      "papers": 32,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Learning from Demonstration",
+      "sessions": null,
+      "papers": 32,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Mapping",
+      "sessions": null,
+      "papers": 31,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Marine Robotics",
+      "sessions": null,
+      "papers": 29,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Aerial Systems: Applications",
+      "sessions": null,
+      "papers": 28,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Modeling, Control, and Learning for Soft Robots",
+      "sessions": null,
+      "papers": 26,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Perception for Grasping and Manipulation",
+      "sessions": null,
+      "papers": 25,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Semantic Scene Understanding",
+      "sessions": null,
+      "papers": 21,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Task and Motion Planning",
+      "sessions": null,
+      "papers": 20,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Sensor Fusion",
+      "sessions": null,
+      "papers": 20,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Representation Learning",
+      "sessions": null,
+      "papers": 19,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Optimization and Optimal Control",
+      "sessions": null,
+      "papers": 18,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: AI-Based Methods",
+      "sessions": null,
+      "papers": 18,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Biologically-Inspired Robots",
+      "sessions": null,
+      "papers": 18,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Grasping",
+      "sessions": null,
+      "papers": 18,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Machine Learning for Robot Control",
+      "sessions": null,
+      "papers": 17,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Soft Robot Materials and Design",
+      "sessions": null,
+      "papers": 17,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Telerobotics and Teleoperation",
+      "sessions": null,
+      "papers": 17,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Robotics and Automation in Agriculture and Forestry",
+      "sessions": null,
+      "papers": 17,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Object Detection, Segmentation and Categorization",
+      "sessions": null,
+      "papers": 17,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Aerial Systems: Mechanics and Control",
+      "sessions": null,
+      "papers": 16,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Dexterous Manipulation",
+      "sessions": null,
+      "papers": 16,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Intelligent Transportation Systems",
+      "sessions": null,
+      "papers": 16,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    },
+    {
+      "name": "Primary keyword: Calibration and Identification",
+      "sessions": null,
+      "papers": 15,
+      "url": "https://2026.ieee-iros.org/program/paper-index/"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "robot-learning",
+      "weight": 0.1,
+      "evidence": "188.8 paper-equivalents; main primary keywords: Reinforcement Learning (59), Deep Learning in Grasping and Manipulation (50), Imitation Learning (46), Learning from Demonstration (32), Machine Learning for Robot Control (17)"
+    },
+    {
+      "id": "perception",
+      "weight": 0.096,
+      "evidence": "181.3 paper-equivalents; main primary keywords: Vision-Based Navigation (58), Deep Learning for Visual Perception (56), Perception for Grasping and Manipulation (25), Semantic Scene Understanding (21), Object Detection, Segmentation and Categorization (17)"
+    },
+    {
+      "id": "slam",
+      "weight": 0.062,
+      "evidence": "117.0 paper-equivalents; main primary keywords: SLAM (40), Localization (33), Mapping (31), Visual-Inertial SLAM (9), Data Sets for SLAM (2)"
+    },
+    {
+      "id": "hri",
+      "weight": 0.06,
+      "evidence": "112.5 paper-equivalents; main primary keywords: Telerobotics and Teleoperation (17), Human-Robot Collaboration (14), Physical Human-Robot Interaction (14), Human-Aware Motion Planning (13), Human-Centered Robotics (10)"
+    },
+    {
+      "id": "field-robotics",
+      "weight": 0.06,
+      "evidence": "113.5 paper-equivalents; main primary keywords: Vision-Based Navigation (58), Marine Robotics (29), Robotics and Automation in Agriculture and Forestry (17), Field Robots (12), Agricultural Automation (8)"
+    },
+    {
+      "id": "manipulation",
+      "weight": 0.057,
+      "evidence": "108.0 paper-equivalents; main primary keywords: Deep Learning in Grasping and Manipulation (50), Perception for Grasping and Manipulation (25), Grasping (18), Dexterous Manipulation (16), Grippers and Other End-Effectors (13)"
+    },
+    {
+      "id": "motion-planning",
+      "weight": 0.053,
+      "evidence": "101.0 paper-equivalents; main primary keywords: Motion and Path Planning (58), Task and Motion Planning (20), Human-Aware Motion Planning (13), Collision Avoidance (9), Reactive and Sensor-Based Planning (5)"
+    },
+    {
+      "id": "multi-robot",
+      "weight": 0.053,
+      "evidence": "100.3 paper-equivalents; main primary keywords: Multi-Robot Systems (48), Path Planning for Multiple Mobile Robots or Agents (14), Planning, Scheduling and Coordination (14), Distributed Robot Systems (13), Swarm Robotics (12)"
+    },
+    {
+      "id": "medical-robotics",
+      "weight": 0.047,
+      "evidence": "88.0 paper-equivalents; main primary keywords: Medical Robots and Systems (32), Wearable Robotics (12), Prosthetics and Exoskeletons (10), Rehabilitation Robotics (8), Computer Vision for Medical Robotics (8)"
+    },
+    {
+      "id": "mechanisms",
+      "weight": 0.046,
+      "evidence": "86.0 paper-equivalents; main primary keywords: Biologically-Inspired Robots (18), Grippers and Other End-Effectors (13), Mechanism Design (13), Cellular and Modular Robots (9), Tendon/Wire Mechanism (8)"
+    },
+    {
+      "id": "control-theory",
+      "weight": 0.044,
+      "evidence": "83.0 paper-equivalents; main primary keywords: Robot Safety (32), Optimization and Optimal Control (18), Robust/Adaptive Control (9), Motion Control (8), Force Control (6)"
+    },
+    {
+      "id": "foundation-models",
+      "weight": 0.042,
+      "evidence": "158 IROS 2026 papers whose titles mention VLA/VLM/LLM/vision-language/language model/foundation model (each counted 0.5 here, 0.5 to its primary-keyword topic); 79.0 paper-equivalents"
+    },
+    {
+      "id": "uav",
+      "weight": 0.04,
+      "evidence": "75.0 paper-equivalents; main primary keywords: Aerial Systems: Perception and Autonomy (33), Aerial Systems: Applications (28), Aerial Systems: Mechanics and Control (16)"
+    },
+    {
+      "id": "legged-humanoid",
+      "weight": 0.037,
+      "evidence": "69.0 paper-equivalents; main primary keywords: Legged Robots (41), Humanoid Robot Systems (10), Humanoid and Bipedal Locomotion (9), Human and Humanoid Motion Analysis and Synthesis (5), Whole-Body Motion Planning and Control (5)"
+    },
+    {
+      "id": "ai-ml",
+      "weight": 0.036,
+      "evidence": "68.5 paper-equivalents; main primary keywords: AI-Enabled Robotics (33), Representation Learning (19), AI-Based Methods (18), Deep Learning Methods (8), Deep Learning in Robotics and Automation (2)"
+    },
+    {
+      "id": "soft-robotics",
+      "weight": 0.034,
+      "evidence": "64.0 paper-equivalents; main primary keywords: Modeling, Control, and Learning for Soft Robots (26), Soft Robot Materials and Design (17), Soft Robot Applications (14), Soft Sensors and Actuators (7)"
+    },
+    {
+      "id": "autonomous-vehicles",
+      "weight": 0.031,
+      "evidence": "58.0 paper-equivalents; main primary keywords: Autonomous Vehicle Navigation (38), Intelligent Transportation Systems (16), Computer Vision for Transportation (14)"
+    },
+    {
+      "id": "automation",
+      "weight": 0.026,
+      "evidence": "48.5 paper-equivalents; main primary keywords: Automation at Micro-Nano Scales (9), Industrial Robots (6), Assembly (5), Robotics and Automation in Construction (5), Computer Vision for Manufacturing (5)"
+    },
+    {
+      "id": "mechatronics",
+      "weight": 0.024,
+      "evidence": "46.0 paper-equivalents; main primary keywords: Force and Tactile Sensing (36), Micro/Nano Robots (8), Embedded Systems for Robotic and Automation (1), Cyborgs (1), Sensor Networks (1)"
+    },
+    {
+      "id": "autonomy",
+      "weight": 0.022,
+      "evidence": "41.3 paper-equivalents; main primary keywords: Planning, Scheduling and Coordination (14), Formal Methods in Robotics and Automation (9), Agent-Based Systems (8), Task Planning (8), Autonomous Agents (7)"
+    },
+    {
+      "id": "estimation",
+      "weight": 0.021,
+      "evidence": "40.0 paper-equivalents; main primary keywords: Sensor Fusion (20), Calibration and Identification (15), Probability and Statistical Methods (4), Probabilistic Inference (1)"
+    }
+  ],
+  "top_terms": [
+    "navigation",
+    "reinforcement learning",
+    "VLA (vision-language-action)",
+    "UAV / quadrotor",
+    "diffusion",
+    "dexterous manipulation",
+    "tactile sensing",
+    "LiDAR",
+    "humanoid",
+    "Gaussian splatting"
+  ],
+  "sources": [
+    "https://2026.ieee-iros.org/program/paper-index/",
+    "https://2026.ieee-iros.org/program/contributed-talks/",
+    "https://2026.ieee-iros.org/program/"
+  ],
+  "retrieved": "2026-10-16"
+}

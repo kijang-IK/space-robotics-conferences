@@ -1,0 +1,122 @@
+{
+  "id": "iaa-pdc",
+  "edition_analyzed": 2025,
+  "method": "paper-counts",
+  "method_note": "Counted unique paper numbers (IAA-PDC-25-SS-NNN, SS = session) in the 9th IAA PDC (Stellenbosch, 5-9 May 2025) program dated 8 May 2025: 225 papers (oral + poster) across 11 numbered topical sessions. Paper counts chosen over session counts because the 10 oral sessions are single-track and differ widely in size. Weight = share of papers; sessions spanning two keywords split 50/50. Keynotes and 3 panel sessions (YR4/international collaboration, international disaster management, IYAAPD 2029) not counted. Planetary defense dominates by construction; secondary keywords show sub-themes (NEO survey/characterization science, missions, mission design, policy, education).",
+  "tracks": [
+    {
+      "name": "Session 1: Hypothetical Threat Exercise Technical Session",
+      "sessions": null,
+      "papers": 17,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/05/250508_PDC_Program-2.pdf"
+    },
+    {
+      "name": "Session 2: Ongoing and Upcoming Space Mission Highlights",
+      "sessions": null,
+      "papers": 12,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/05/250508_PDC_Program-2.pdf"
+    },
+    {
+      "name": "Session 3: Apophis T-4 Years",
+      "sessions": null,
+      "papers": 15,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/05/250508_PDC_Program-2.pdf"
+    },
+    {
+      "name": "Session 4: Near-Earth Object (NEO) Discovery",
+      "sessions": null,
+      "papers": 32,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/05/250508_PDC_Program-2.pdf"
+    },
+    {
+      "name": "Session 5: Near-Earth Object (NEO) Characterization",
+      "sessions": null,
+      "papers": 48,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/05/250508_PDC_Program-2.pdf"
+    },
+    {
+      "name": "Session 6: Deflection / Disruption Modeling & Testing",
+      "sessions": null,
+      "papers": 29,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/05/250508_PDC_Program-2.pdf"
+    },
+    {
+      "name": "Session 7: Space Mission & Campaign Design",
+      "sessions": null,
+      "papers": 30,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/05/250508_PDC_Program-2.pdf"
+    },
+    {
+      "name": "Session 8: Earth Impact Effects & Consequences",
+      "sessions": null,
+      "papers": 13,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/05/250508_PDC_Program-2.pdf"
+    },
+    {
+      "name": "Session 9: The Decision to Act: Political, Legal, Social, and Economic Aspects",
+      "sessions": null,
+      "papers": 15,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/05/250508_PDC_Program-2.pdf"
+    },
+    {
+      "name": "Session 10: Public Education and Communication",
+      "sessions": null,
+      "papers": 11,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/05/250508_PDC_Program-2.pdf"
+    },
+    {
+      "name": "Session 11: Disaster Management & Impact Response (posters only)",
+      "sessions": null,
+      "papers": 3,
+      "url": "https://iaaspace.org/wp-content/uploads/2025/05/250508_PDC_Program-2.pdf"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "planetary-defense",
+      "weight": 0.638,
+      "evidence": "Session 1: Hypothetical Threat Exercise Technical Session (17 papers); Session 2: Ongoing and Upcoming Space Mission Highlights (12 papers); Session 3: Apophis T-4 Years (15 papers); Session 4: Near-Earth Object (NEO) Discovery (32 papers); Session 5: Near-Earth Object (NEO) Characterization (48 papers); Session 6: Deflection / Disruption Modeling & Testing (29 papers); Session 7: Space Mission & Campaign Design (30 papers); Session 8: Earth Impact Effects & Consequences (13 papers); Session 9: The Decision to Act: Political, Legal, Social, and Economic Aspects (15 papers); Session 10: Public Education and Communication (11 papers); Session 11: Disaster Management & Impact Response (posters only) (3 papers)"
+    },
+    {
+      "id": "space-science",
+      "weight": 0.178,
+      "evidence": "Session 4: Near-Earth Object (NEO) Discovery (32 papers); Session 5: Near-Earth Object (NEO) Characterization (48 papers)"
+    },
+    {
+      "id": "space-systems",
+      "weight": 0.067,
+      "evidence": "Session 7: Space Mission & Campaign Design (30 papers)"
+    },
+    {
+      "id": "exploration",
+      "weight": 0.06,
+      "evidence": "Session 2: Ongoing and Upcoming Space Mission Highlights (12 papers); Session 3: Apophis T-4 Years (15 papers)"
+    },
+    {
+      "id": "space-policy",
+      "weight": 0.033,
+      "evidence": "Session 9: The Decision to Act: Political, Legal, Social, and Economic Aspects (15 papers)"
+    },
+    {
+      "id": "education",
+      "weight": 0.024,
+      "evidence": "Session 10: Public Education and Communication (11 papers)"
+    }
+  ],
+  "top_terms": [
+    "Apophis 2029 close approach",
+    "2024 YR4",
+    "Hera mission to Didymos",
+    "RAMSES / OSIRIS-APEX Apophis missions",
+    "rapid-response reconnaissance",
+    "nuclear deflection",
+    "airburst / blast damage modeling",
+    "rubble-pile asteroids",
+    "NEOMIR / NEO Surveyor infrared surveys"
+  ],
+  "sources": [
+    "https://iaaspace.org/wp-content/uploads/2025/05/250508_PDC_Program-2.pdf",
+    "https://iaaspace.org/event/9th-iaa-planetary-defense-conference-2025/"
+  ],
+  "retrieved": "2026-10-16"
+}

@@ -1,0 +1,607 @@
+{
+  "id": "icra",
+  "edition_analyzed": 2026,
+  "method": "paper-counts",
+  "method_note": "ICRA 2026 (Vienna, 1–5 Jun 2026) uses a mostly interactive format: the PaperPlaza program lists only 24 titled oral sessions (20 Regular + 4 Award Finalist, 216 papers); 2604 papers sit in 6 untitled 'Interactive Session' blocks plus 131 Late Breaking Results. Session titles therefore cover only ~7% of papers, so paper-level counts were used instead. Counted: the FIRST (primary) author-selected IEEE RAS keyword of every program entry that lists keywords in the PaperPlaza content lists (2898 of 2951 entries, incl. oral, award, interactive and LBR papers). Each of 230 distinct RAS keywords was mapped by hand to 1 taxonomy id (or split 50/50 across 2); 71 papers whose primary keyword has no taxonomy fit (e.g. Simulation and Animation, Performance Evaluation and Benchmarking, software/architecture keywords) were excluded, leaving 2827. Because RAS keywords have no foundation-model term, any paper whose title matches VLA/VLM/LLM/vision-language/language model/foundation model (165 papers) is split 0.5 foundation-models + 0.5 its keyword topic. Weights = paper-equivalents / 2827; ids below 0.02 omitted (estimation 0.014, space-robotics 0.009 = 25 paper-equivalents, primary keyword 'Space Robotics and Automation'; one oral session was titled 'Field and Space Robotics', phm, education). Mapping is the dataset author's judgement, not ICRA's.",
+  "tracks": [
+    {
+      "name": "Oral session: Award Finalists 1–4",
+      "sessions": 4,
+      "papers": 36,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html"
+    },
+    {
+      "name": "Oral session: Field and Space Robotics",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html"
+    },
+    {
+      "name": "Oral session: Grasping and Manipulation",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html"
+    },
+    {
+      "name": "Oral session: Soft Robotics",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html"
+    },
+    {
+      "name": "Oral session: Control and Optimization",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html"
+    },
+    {
+      "name": "Oral session: Manipulation and Locomotion",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html"
+    },
+    {
+      "name": "Oral session: Multi-Robot Systems",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html"
+    },
+    {
+      "name": "Oral session: Medical Robotics I–II",
+      "sessions": 2,
+      "papers": 18,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html"
+    },
+    {
+      "name": "Oral session: Robot Perception I–II",
+      "sessions": 2,
+      "papers": 18,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html"
+    },
+    {
+      "name": "Oral session: Field and Service Robotics",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html"
+    },
+    {
+      "name": "Oral session: Robot Learning I–II",
+      "sessions": 2,
+      "papers": 18,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html"
+    },
+    {
+      "name": "Oral session: Humanoid Robots",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html"
+    },
+    {
+      "name": "Oral session: Aerial Robotics",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html"
+    },
+    {
+      "name": "Oral session: Planning",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html"
+    },
+    {
+      "name": "Oral session: Wearable and Rehabilitation Robotics",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html"
+    },
+    {
+      "name": "Oral session: Human-Robot Interaction",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html"
+    },
+    {
+      "name": "Oral session: Mechanisms, Design and Control",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html"
+    },
+    {
+      "name": "Oral session: Applications",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html"
+    },
+    {
+      "name": "Interactive Sessions 1–6 (untitled poster/interactive blocks, Hall C)",
+      "sessions": 6,
+      "papers": 2604,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html"
+    },
+    {
+      "name": "Late Breaking Results 1–6",
+      "sessions": 6,
+      "papers": 131,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html"
+    },
+    {
+      "name": "Primary keyword: Deep Learning for Visual Perception",
+      "sessions": null,
+      "papers": 102,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Motion and Path Planning",
+      "sessions": null,
+      "papers": 89,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Imitation Learning",
+      "sessions": null,
+      "papers": 84,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: SLAM",
+      "sessions": null,
+      "papers": 72,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Reinforcement Learning",
+      "sessions": null,
+      "papers": 72,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Medical Robots and Systems",
+      "sessions": null,
+      "papers": 68,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Localization",
+      "sessions": null,
+      "papers": 63,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Multi-Robot Systems",
+      "sessions": null,
+      "papers": 61,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Semantic Scene Understanding",
+      "sessions": null,
+      "papers": 49,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Marine Robotics",
+      "sessions": null,
+      "papers": 49,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Force and Tactile Sensing",
+      "sessions": null,
+      "papers": 47,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Legged Robots",
+      "sessions": null,
+      "papers": 47,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Vision-Based Navigation",
+      "sessions": null,
+      "papers": 45,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Intelligent Transportation Systems",
+      "sessions": null,
+      "papers": 44,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Learning from Demonstration",
+      "sessions": null,
+      "papers": 44,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Deep Learning in Grasping and Manipulation",
+      "sessions": null,
+      "papers": 42,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Autonomous Vehicle Navigation",
+      "sessions": null,
+      "papers": 41,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Field Robots",
+      "sessions": null,
+      "papers": 41,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Perception for Grasping and Manipulation",
+      "sessions": null,
+      "papers": 40,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Aerial Systems: Applications",
+      "sessions": null,
+      "papers": 40,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Humanoid and Bipedal Locomotion",
+      "sessions": null,
+      "papers": 34,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Aerial Systems: Mechanics and Control",
+      "sessions": null,
+      "papers": 33,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Computer Vision for Automation",
+      "sessions": null,
+      "papers": 33,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Modeling, Control, and Learning for Soft Robots",
+      "sessions": null,
+      "papers": 31,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Mapping",
+      "sessions": null,
+      "papers": 30,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Object Detection, Segmentation and Categorization",
+      "sessions": null,
+      "papers": 30,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Aerial Systems: Perception and Autonomy",
+      "sessions": null,
+      "papers": 30,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Deep Learning Methods",
+      "sessions": null,
+      "papers": 29,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Robot Safety",
+      "sessions": null,
+      "papers": 28,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Mechanism Design",
+      "sessions": null,
+      "papers": 28,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Optimization and Optimal Control",
+      "sessions": null,
+      "papers": 27,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Machine Learning for Robot Control",
+      "sessions": null,
+      "papers": 26,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Space Robotics and Automation",
+      "sessions": null,
+      "papers": 26,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Telerobotics and Teleoperation",
+      "sessions": null,
+      "papers": 25,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Grasping",
+      "sessions": null,
+      "papers": 25,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Manipulation Planning",
+      "sessions": null,
+      "papers": 24,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Soft Robot Applications",
+      "sessions": null,
+      "papers": 23,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Dexterous Manipulation",
+      "sessions": null,
+      "papers": 23,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Computer Vision for Transportation",
+      "sessions": null,
+      "papers": 22,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Grippers and Other End-Effectors",
+      "sessions": null,
+      "papers": 22,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Swarm Robotics",
+      "sessions": null,
+      "papers": 22,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Human-Robot Collaboration",
+      "sessions": null,
+      "papers": 22,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Soft Robot Materials and Design",
+      "sessions": null,
+      "papers": 21,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Collision Avoidance",
+      "sessions": null,
+      "papers": 21,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Sensor Fusion",
+      "sessions": null,
+      "papers": 21,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Robotics and Automation in Agriculture and Forestry",
+      "sessions": null,
+      "papers": 21,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: AI-Enabled Robotics",
+      "sessions": null,
+      "papers": 20,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: AI-Based Methods",
+      "sessions": null,
+      "papers": 20,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Path Planning for Multiple Mobile Robots or Agents",
+      "sessions": null,
+      "papers": 20,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Integrated Planning and Learning",
+      "sessions": null,
+      "papers": 20,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Biologically-Inspired Robots",
+      "sessions": null,
+      "papers": 19,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Representation Learning",
+      "sessions": null,
+      "papers": 17,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Planning under Uncertainty",
+      "sessions": null,
+      "papers": 17,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Haptics and Haptic Interfaces",
+      "sessions": null,
+      "papers": 17,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Physical Human-Robot Interaction",
+      "sessions": null,
+      "papers": 16,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Simulation and Animation",
+      "sessions": null,
+      "papers": 16,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Task and Motion Planning",
+      "sessions": null,
+      "papers": 16,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: Industrial Robots",
+      "sessions": null,
+      "papers": 15,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    },
+    {
+      "name": "Primary keyword: RGB-D Perception",
+      "sessions": null,
+      "papers": 15,
+      "url": "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "perception",
+      "weight": 0.114,
+      "evidence": "322.8 paper-equivalents; main primary keywords: Deep Learning for Visual Perception (102), Semantic Scene Understanding (49), Vision-Based Navigation (45), Perception for Grasping and Manipulation (40), Computer Vision for Automation (33)"
+    },
+    {
+      "id": "robot-learning",
+      "weight": 0.102,
+      "evidence": "287.8 paper-equivalents; main primary keywords: Imitation Learning (84), Reinforcement Learning (72), Learning from Demonstration (44), Deep Learning in Grasping and Manipulation (42), Machine Learning for Robot Control (26)"
+    },
+    {
+      "id": "slam",
+      "weight": 0.065,
+      "evidence": "184.0 paper-equivalents; main primary keywords: SLAM (72), Localization (63), Mapping (30), Visual-Inertial SLAM (6), Multi-Robot SLAM (6)"
+    },
+    {
+      "id": "manipulation",
+      "weight": 0.062,
+      "evidence": "175.3 paper-equivalents; main primary keywords: Deep Learning in Grasping and Manipulation (42), Perception for Grasping and Manipulation (40), Grasping (25), Manipulation Planning (24), Dexterous Manipulation (23)"
+    },
+    {
+      "id": "motion-planning",
+      "weight": 0.062,
+      "evidence": "176.3 paper-equivalents; main primary keywords: Motion and Path Planning (89), Collision Avoidance (21), Integrated Planning and Learning (20), Task and Motion Planning (16), Reactive and Sensor-Based Planning (14)"
+    },
+    {
+      "id": "medical-robotics",
+      "weight": 0.059,
+      "evidence": "166.0 paper-equivalents; main primary keywords: Medical Robots and Systems (68), Rehabilitation Robotics (14), Prosthetics and Exoskeletons (13), Surgical Robotics: Steerable Catheters/Needles (12), Wearable Robotics (12)"
+    },
+    {
+      "id": "field-robotics",
+      "weight": 0.058,
+      "evidence": "162.8 paper-equivalents; main primary keywords: Marine Robotics (49), Vision-Based Navigation (45), Field Robots (41), Robotics and Automation in Agriculture and Forestry (21), Search and Rescue Robots (7)"
+    },
+    {
+      "id": "hri",
+      "weight": 0.058,
+      "evidence": "163.0 paper-equivalents; main primary keywords: Telerobotics and Teleoperation (25), Human-Robot Collaboration (22), Haptics and Haptic Interfaces (17), Physical Human-Robot Interaction (16), Human-Aware Motion Planning (11)"
+    },
+    {
+      "id": "mechanisms",
+      "weight": 0.045,
+      "evidence": "126.0 paper-equivalents; main primary keywords: Mechanism Design (28), Grippers and Other End-Effectors (22), Biologically-Inspired Robots (19), Tendon/Wire Mechanism (12), Actuation and Joint Mechanisms (11)"
+    },
+    {
+      "id": "multi-robot",
+      "weight": 0.041,
+      "evidence": "117.3 paper-equivalents; main primary keywords: Multi-Robot Systems (61), Swarm Robotics (22), Path Planning for Multiple Mobile Robots or Agents (20), Cooperating Robots (7), Networked Robots (4)"
+    },
+    {
+      "id": "control-theory",
+      "weight": 0.038,
+      "evidence": "107.5 paper-equivalents; main primary keywords: Robot Safety (28), Optimization and Optimal Control (27), Robust/Adaptive Control (9), Visual Servoing (8), Sensor-based Control (7)"
+    },
+    {
+      "id": "legged-humanoid",
+      "weight": 0.037,
+      "evidence": "106.0 paper-equivalents; main primary keywords: Legged Robots (47), Humanoid and Bipedal Locomotion (34), Humanoid Robot Systems (12), Human and Humanoid Motion Analysis and Synthesis (6), Whole-Body Motion Planning and Control (5)"
+    },
+    {
+      "id": "uav",
+      "weight": 0.036,
+      "evidence": "103.0 paper-equivalents; main primary keywords: Aerial Systems: Applications (40), Aerial Systems: Mechanics and Control (33), Aerial Systems: Perception and Autonomy (30)"
+    },
+    {
+      "id": "autonomous-vehicles",
+      "weight": 0.032,
+      "evidence": "91.3 paper-equivalents; main primary keywords: Intelligent Transportation Systems (44), Autonomous Vehicle Navigation (41), Computer Vision for Transportation (22)"
+    },
+    {
+      "id": "soft-robotics",
+      "weight": 0.031,
+      "evidence": "86.5 paper-equivalents; main primary keywords: Modeling, Control, and Learning for Soft Robots (31), Soft Robot Applications (23), Soft Robot Materials and Design (21), Soft Sensors and Actuators (12)"
+    },
+    {
+      "id": "ai-ml",
+      "weight": 0.031,
+      "evidence": "89.0 paper-equivalents; main primary keywords: Deep Learning Methods (29), AI-Enabled Robotics (20), AI-Based Methods (20), Representation Learning (17), Big Data in Robotics and Automation (6)"
+    },
+    {
+      "id": "foundation-models",
+      "weight": 0.029,
+      "evidence": "165 ICRA 2026 papers whose titles mention VLA/VLM/LLM/vision-language/language model/foundation model (each counted 0.5 here, 0.5 to its primary-keyword topic); 82.5 paper-equivalents"
+    },
+    {
+      "id": "automation",
+      "weight": 0.024,
+      "evidence": "68.0 paper-equivalents; main primary keywords: Industrial Robots (15), Robotics and Automation in Construction (9), Assembly (6), Intelligent and Flexible Manufacturing (6), Automation at Micro-Nano Scales (5)"
+    },
+    {
+      "id": "mechatronics",
+      "weight": 0.024,
+      "evidence": "67.0 paper-equivalents; main primary keywords: Force and Tactile Sensing (47), Micro/Nano Robots (14), Embedded Systems for Robotic and Automation (5), Sensor Networks (1)"
+    },
+    {
+      "id": "autonomy",
+      "weight": 0.023,
+      "evidence": "65.8 paper-equivalents; main primary keywords: Planning under Uncertainty (17), Autonomous Agents (14), Task Planning (12), Formal Methods in Robotics and Automation (9), Agent-Based Systems (8)"
+    }
+  ],
+  "top_terms": [
+    "navigation",
+    "reinforcement learning",
+    "diffusion (incl. diffusion policy)",
+    "UAV / quadrotor",
+    "tactile sensing",
+    "LiDAR",
+    "MPC",
+    "Gaussian splatting",
+    "LLM / VLA",
+    "humanoid"
+  ],
+  "sources": [
+    "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ContentListWeb_1.html",
+    "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ContentListWeb_2.html",
+    "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ContentListWeb_3.html",
+    "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ContentListWeb_4.html",
+    "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ContentListWeb_5.html",
+    "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ContentListWeb_6.html",
+    "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html",
+    "https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_KeywordIndexWeb.html"
+  ],
+  "retrieved": "2026-10-16"
+}

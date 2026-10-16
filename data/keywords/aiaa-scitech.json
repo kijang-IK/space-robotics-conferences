@@ -1,0 +1,491 @@
+{
+  "id": "aiaa-scitech",
+  "edition_analyzed": 2026,
+  "method": "paper-counts",
+  "method_note": "The SciTech 2026 online program (ATIV planner, id AIAASCITECH26) is offline ('Planner is currently unavailable') and the 2025 planner likewise; ARC is behind bot protection. Counted papers per AIAA technical discipline from the 65 discipline proceedings volumes 'Papers Presented at the AIAA SCITECH 2026 Forum' (Curran/proceedings.com IDs 85118-85182), counting table-of-contents entries: 2842 papers total (AIAA states ~3,000 presentations). Each discipline mapped to at most 2 keywords. Terrestrial Energy (28 papers) has no taxonomy match and was excluded, so weights are over 2814 papers. Keywords below 0.02 omitted (weights sum ~0.91). Fluid-dynamics-heavy disciplines dominate; AIAA GNC and Intelligent Systems volumes mix aircraft and spacecraft topics (split 50/50).",
+  "tracks": [
+    {
+      "name": "Adaptive Structures",
+      "sessions": null,
+      "papers": 32,
+      "url": "https://www.proceedings.com/content/085/085118webtoc.pdf"
+    },
+    {
+      "name": "Aeroacoustics",
+      "sessions": null,
+      "papers": 34,
+      "url": "https://www.proceedings.com/content/085/085119webtoc.pdf"
+    },
+    {
+      "name": "Aerodynamic Measurement Technology",
+      "sessions": null,
+      "papers": 99,
+      "url": "https://www.proceedings.com/content/085/085120webtoc.pdf"
+    },
+    {
+      "name": "Aerospace Education",
+      "sessions": null,
+      "papers": 28,
+      "url": "https://www.proceedings.com/content/085/085121webtoc.pdf"
+    },
+    {
+      "name": "Aerospace Power Systems",
+      "sessions": null,
+      "papers": 22,
+      "url": "https://www.proceedings.com/content/085/085122webtoc.pdf"
+    },
+    {
+      "name": "Aircraft Design",
+      "sessions": null,
+      "papers": 44,
+      "url": "https://www.proceedings.com/content/085/085123webtoc.pdf"
+    },
+    {
+      "name": "Applied Aerodynamics",
+      "sessions": null,
+      "papers": 205,
+      "url": "https://www.proceedings.com/content/085/085124webtoc.pdf"
+    },
+    {
+      "name": "Atmospheric and Space Environments",
+      "sessions": null,
+      "papers": 11,
+      "url": "https://www.proceedings.com/content/085/085125webtoc.pdf"
+    },
+    {
+      "name": "Atmospheric Flight Mechanics",
+      "sessions": null,
+      "papers": 61,
+      "url": "https://www.proceedings.com/content/085/085126webtoc.pdf"
+    },
+    {
+      "name": "Computational Fluid Dynamics",
+      "sessions": null,
+      "papers": 15,
+      "url": "https://www.proceedings.com/content/085/085127webtoc.pdf"
+    },
+    {
+      "name": "Computer Systems",
+      "sessions": null,
+      "papers": 1,
+      "url": "https://www.proceedings.com/content/085/085128webtoc.pdf"
+    },
+    {
+      "name": "Cybersecurity",
+      "sessions": null,
+      "papers": 9,
+      "url": "https://www.proceedings.com/content/085/085129webtoc.pdf"
+    },
+    {
+      "name": "Design Engineering",
+      "sessions": null,
+      "papers": 21,
+      "url": "https://www.proceedings.com/content/085/085130webtoc.pdf"
+    },
+    {
+      "name": "Digital Avionics",
+      "sessions": null,
+      "papers": 11,
+      "url": "https://www.proceedings.com/content/085/085131webtoc.pdf"
+    },
+    {
+      "name": "Digital Engineering",
+      "sessions": null,
+      "papers": 25,
+      "url": "https://www.proceedings.com/content/085/085132webtoc.pdf"
+    },
+    {
+      "name": "Electric Aircraft Technology",
+      "sessions": null,
+      "papers": 28,
+      "url": "https://www.proceedings.com/content/085/085133webtoc.pdf"
+    },
+    {
+      "name": "Electric Propulsion",
+      "sessions": null,
+      "papers": 41,
+      "url": "https://www.proceedings.com/content/085/085134webtoc.pdf"
+    },
+    {
+      "name": "Energetic Components and Systems",
+      "sessions": null,
+      "papers": 5,
+      "url": "https://www.proceedings.com/content/085/085135webtoc.pdf"
+    },
+    {
+      "name": "Flight Testing",
+      "sessions": null,
+      "papers": 24,
+      "url": "https://www.proceedings.com/content/085/085136webtoc.pdf"
+    },
+    {
+      "name": "Fluid Dynamics",
+      "sessions": null,
+      "papers": 322,
+      "url": "https://www.proceedings.com/content/085/085137webtoc.pdf"
+    },
+    {
+      "name": "Gas Turbine Engines",
+      "sessions": null,
+      "papers": 66,
+      "url": "https://www.proceedings.com/content/085/085138webtoc.pdf"
+    },
+    {
+      "name": "Gravity Dependent Science and Technology",
+      "sessions": null,
+      "papers": 8,
+      "url": "https://www.proceedings.com/content/085/085139webtoc.pdf"
+    },
+    {
+      "name": "Ground Testing",
+      "sessions": null,
+      "papers": 44,
+      "url": "https://www.proceedings.com/content/085/085140webtoc.pdf"
+    },
+    {
+      "name": "Guidance, Navigation, and Control",
+      "sessions": null,
+      "papers": 159,
+      "url": "https://www.proceedings.com/content/085/085141webtoc.pdf"
+    },
+    {
+      "name": "High-Speed Air-Breathing Propulsion",
+      "sessions": null,
+      "papers": 53,
+      "url": "https://www.proceedings.com/content/085/085142webtoc.pdf"
+    },
+    {
+      "name": "History",
+      "sessions": null,
+      "papers": 11,
+      "url": "https://www.proceedings.com/content/085/085143webtoc.pdf"
+    },
+    {
+      "name": "Human-Machine Teaming",
+      "sessions": null,
+      "papers": 16,
+      "url": "https://www.proceedings.com/content/085/085144webtoc.pdf"
+    },
+    {
+      "name": "Hybrid Rockets",
+      "sessions": null,
+      "papers": 18,
+      "url": "https://www.proceedings.com/content/085/085145webtoc.pdf"
+    },
+    {
+      "name": "Information and Command and Control Systems",
+      "sessions": null,
+      "papers": 7,
+      "url": "https://www.proceedings.com/content/085/085146webtoc.pdf"
+    },
+    {
+      "name": "Inlets, Nozzles, and Propulsion Systems Integration",
+      "sessions": null,
+      "papers": 25,
+      "url": "https://www.proceedings.com/content/085/085147webtoc.pdf"
+    },
+    {
+      "name": "Intelligent Systems",
+      "sessions": null,
+      "papers": 157,
+      "url": "https://www.proceedings.com/content/085/085148webtoc.pdf"
+    },
+    {
+      "name": "Liquid Propulsion",
+      "sessions": null,
+      "papers": 52,
+      "url": "https://www.proceedings.com/content/085/085149webtoc.pdf"
+    },
+    {
+      "name": "Materials",
+      "sessions": null,
+      "papers": 68,
+      "url": "https://www.proceedings.com/content/085/085150webtoc.pdf"
+    },
+    {
+      "name": "Meshing, Visualization, and Computational Environments",
+      "sessions": null,
+      "papers": 25,
+      "url": "https://www.proceedings.com/content/085/085151webtoc.pdf"
+    },
+    {
+      "name": "Modeling and Simulation Technologies",
+      "sessions": null,
+      "papers": 32,
+      "url": "https://www.proceedings.com/content/085/085152webtoc.pdf"
+    },
+    {
+      "name": "Multidisciplinary Design Optimization",
+      "sessions": null,
+      "papers": 57,
+      "url": "https://www.proceedings.com/content/085/085153webtoc.pdf"
+    },
+    {
+      "name": "Non-Deterministic Approaches",
+      "sessions": null,
+      "papers": 25,
+      "url": "https://www.proceedings.com/content/085/085154webtoc.pdf"
+    },
+    {
+      "name": "Nuclear and Future Flight Propulsion",
+      "sessions": null,
+      "papers": 12,
+      "url": "https://www.proceedings.com/content/085/085155webtoc.pdf"
+    },
+    {
+      "name": "Plasmadynamics and Lasers",
+      "sessions": null,
+      "papers": 58,
+      "url": "https://www.proceedings.com/content/085/085156webtoc.pdf"
+    },
+    {
+      "name": "Pressure Gain Combustion",
+      "sessions": null,
+      "papers": 72,
+      "url": "https://www.proceedings.com/content/085/085157webtoc.pdf"
+    },
+    {
+      "name": "Propellants and Combustion",
+      "sessions": null,
+      "papers": 102,
+      "url": "https://www.proceedings.com/content/085/085158webtoc.pdf"
+    },
+    {
+      "name": "Sensor Systems and Information Fusion",
+      "sessions": null,
+      "papers": 33,
+      "url": "https://www.proceedings.com/content/085/085159webtoc.pdf"
+    },
+    {
+      "name": "Small Satellites",
+      "sessions": null,
+      "papers": 22,
+      "url": "https://www.proceedings.com/content/085/085160webtoc.pdf"
+    },
+    {
+      "name": "Society and Aerospace Technology",
+      "sessions": null,
+      "papers": 4,
+      "url": "https://www.proceedings.com/content/085/085161webtoc.pdf"
+    },
+    {
+      "name": "Software",
+      "sessions": null,
+      "papers": 16,
+      "url": "https://www.proceedings.com/content/085/085162webtoc.pdf"
+    },
+    {
+      "name": "Solid Rockets",
+      "sessions": null,
+      "papers": 15,
+      "url": "https://www.proceedings.com/content/085/085163webtoc.pdf"
+    },
+    {
+      "name": "Spacecraft Structures",
+      "sessions": null,
+      "papers": 42,
+      "url": "https://www.proceedings.com/content/085/085164webtoc.pdf"
+    },
+    {
+      "name": "Space Automation and Robotics",
+      "sessions": null,
+      "papers": 28,
+      "url": "https://www.proceedings.com/content/085/085165webtoc.pdf"
+    },
+    {
+      "name": "Space Colonization, Resources, and Tethers",
+      "sessions": null,
+      "papers": 5,
+      "url": "https://www.proceedings.com/content/085/085166webtoc.pdf"
+    },
+    {
+      "name": "Space Exploration",
+      "sessions": null,
+      "papers": 56,
+      "url": "https://www.proceedings.com/content/085/085167webtoc.pdf"
+    },
+    {
+      "name": "Space Flight Mechanics",
+      "sessions": null,
+      "papers": 116,
+      "url": "https://www.proceedings.com/content/085/085168webtoc.pdf"
+    },
+    {
+      "name": "Space Logistics and Supportability",
+      "sessions": null,
+      "papers": 11,
+      "url": "https://www.proceedings.com/content/085/085169webtoc.pdf"
+    },
+    {
+      "name": "Space Operations and Support",
+      "sessions": null,
+      "papers": 12,
+      "url": "https://www.proceedings.com/content/085/085170webtoc.pdf"
+    },
+    {
+      "name": "Structural Dynamics",
+      "sessions": null,
+      "papers": 82,
+      "url": "https://www.proceedings.com/content/085/085171webtoc.pdf"
+    },
+    {
+      "name": "Structures",
+      "sessions": null,
+      "papers": 78,
+      "url": "https://www.proceedings.com/content/085/085172webtoc.pdf"
+    },
+    {
+      "name": "Supersonics",
+      "sessions": null,
+      "papers": 11,
+      "url": "https://www.proceedings.com/content/085/085173webtoc.pdf"
+    },
+    {
+      "name": "Survivability",
+      "sessions": null,
+      "papers": 7,
+      "url": "https://www.proceedings.com/content/085/085174webtoc.pdf"
+    },
+    {
+      "name": "Sustainability",
+      "sessions": null,
+      "papers": 13,
+      "url": "https://www.proceedings.com/content/085/085175webtoc.pdf"
+    },
+    {
+      "name": "Systems Engineering",
+      "sessions": null,
+      "papers": 28,
+      "url": "https://www.proceedings.com/content/085/085176webtoc.pdf"
+    },
+    {
+      "name": "Terrestrial Energy",
+      "sessions": null,
+      "papers": 28,
+      "url": "https://www.proceedings.com/content/085/085177webtoc.pdf"
+    },
+    {
+      "name": "Thermophysics",
+      "sessions": null,
+      "papers": 66,
+      "url": "https://www.proceedings.com/content/085/085178webtoc.pdf"
+    },
+    {
+      "name": "Uncrewed and Autonomous Systems",
+      "sessions": null,
+      "papers": 42,
+      "url": "https://www.proceedings.com/content/085/085179webtoc.pdf"
+    },
+    {
+      "name": "Unique and Transformational Flight Systems",
+      "sessions": null,
+      "papers": 7,
+      "url": "https://www.proceedings.com/content/085/085180webtoc.pdf"
+    },
+    {
+      "name": "Vertical/Short Take-Off and Landing (V/STOL) Aircraft Systems",
+      "sessions": null,
+      "papers": 10,
+      "url": "https://www.proceedings.com/content/085/085181webtoc.pdf"
+    },
+    {
+      "name": "Wind Energy",
+      "sessions": null,
+      "papers": 5,
+      "url": "https://www.proceedings.com/content/085/085182webtoc.pdf"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "aerodynamics",
+      "weight": 0.314,
+      "evidence": "Aeroacoustics (34 papers); Aerodynamic Measurement Technology (99 papers); Applied Aerodynamics (205 papers); Atmospheric and Space Environments (5.5 papers); Computational Fluid Dynamics (15 papers); Fluid Dynamics (322 papers); Ground Testing (44 papers); Meshing, Visualization, and Computational Environments (25 papers); Plasmadynamics and Lasers (58 papers); Supersonics (5.5 papers); Thermophysics (66 papers); Wind Energy (5 papers)"
+    },
+    {
+      "id": "structures",
+      "weight": 0.109,
+      "evidence": "Adaptive Structures (32 papers); Materials (68 papers); Non-Deterministic Approaches (25 papers); Spacecraft Structures (21 papers); Structural Dynamics (82 papers); Structures (78 papers)"
+    },
+    {
+      "id": "air-propulsion",
+      "weight": 0.1,
+      "evidence": "Electric Aircraft Technology (14 papers); Gas Turbine Engines (66 papers); High-Speed Air-Breathing Propulsion (53 papers); Inlets, Nozzles, and Propulsion Systems Integration (25 papers); Pressure Gain Combustion (72 papers); Propellants and Combustion (51 papers)"
+    },
+    {
+      "id": "aircraft-design",
+      "weight": 0.076,
+      "evidence": "Aerospace Power Systems (11 papers); Aircraft Design (44 papers); Design Engineering (21 papers); Digital Engineering (12.5 papers); Electric Aircraft Technology (14 papers); Flight Testing (12 papers); Multidisciplinary Design Optimization (57 papers); Supersonics (5.5 papers); Survivability (7 papers); Systems Engineering (14 papers); Unique and Transformational Flight Systems (7 papers); Vertical/Short Take-Off and Landing (V/STOL) Aircraft Systems (10 papers)"
+    },
+    {
+      "id": "space-propulsion",
+      "weight": 0.064,
+      "evidence": "Electric Propulsion (41 papers); Hybrid Rockets (18 papers); Liquid Propulsion (52 papers); Nuclear and Future Flight Propulsion (12 papers); Propellants and Combustion (51 papers); Solid Rockets (7.5 papers)"
+    },
+    {
+      "id": "flight-dynamics",
+      "weight": 0.037,
+      "evidence": "Atmospheric Flight Mechanics (61 papers); Flight Testing (12 papers); Modeling and Simulation Technologies (32 papers)"
+    },
+    {
+      "id": "autonomy",
+      "weight": 0.035,
+      "evidence": "Intelligent Systems (78.5 papers); Uncrewed and Autonomous Systems (21 papers)"
+    },
+    {
+      "id": "space-systems",
+      "weight": 0.029,
+      "evidence": "Aerospace Power Systems (11 papers); Digital Engineering (12.5 papers); Spacecraft Structures (21 papers); Space Logistics and Supportability (11 papers); Space Operations and Support (12 papers); Systems Engineering (14 papers)"
+    },
+    {
+      "id": "spacecraft-gnc",
+      "weight": 0.028,
+      "evidence": "Guidance, Navigation, and Control (79.5 papers)"
+    },
+    {
+      "id": "control-theory",
+      "weight": 0.028,
+      "evidence": "Guidance, Navigation, and Control (79.5 papers)"
+    },
+    {
+      "id": "ai-ml",
+      "weight": 0.028,
+      "evidence": "Intelligent Systems (78.5 papers)"
+    },
+    {
+      "id": "exploration",
+      "weight": 0.022,
+      "evidence": "Space Colonization, Resources, and Tethers (5 papers); Space Exploration (56 papers)"
+    },
+    {
+      "id": "astrodynamics",
+      "weight": 0.021,
+      "evidence": "Space Flight Mechanics (58 papers)"
+    },
+    {
+      "id": "trajectory",
+      "weight": 0.021,
+      "evidence": "Space Flight Mechanics (58 papers)"
+    }
+  ],
+  "top_terms": [
+    "hypersonic",
+    "rotating detonation",
+    "hydrogen",
+    "composites",
+    "reinforcement learning",
+    "large language models",
+    "eVTOL / advanced air mobility",
+    "digital twin",
+    "boundary-layer transition",
+    "lunar"
+  ],
+  "sources": [
+    "https://scitech.aiaa.org/",
+    "https://eppro01.ativ.me/web/planner.php?id=AIAASCITECH26",
+    "https://www.proceedings.com/85168.html",
+    "https://www.proceedings.com/85141.html",
+    "https://www.proceedings.com/american-institute-for-aeronautics-and-astronautics-aiaa/?page=3",
+    "https://aiaa.org/tag/65-topics/"
+  ],
+  "retrieved": "2026-10-16"
+}

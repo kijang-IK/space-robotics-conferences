@@ -1,0 +1,198 @@
+{
+  "id": "rss",
+  "edition_analyzed": 2026,
+  "method": "program-sessions",
+  "method_note": "RSS 2026 (Sydney, 13–17 Jul 2026). Counted the 21 technical paper sessions named in the official accepted-papers table (each of the 210 papers is tagged with its session), grouping numbered series (e.g. Manipulation 1–3, Imitation learning 1–3, Navigation 1–2). Sessions hold 9–13 papers. Mixed sessions split 50/50: World Models & Memory (robot-learning/ai-ml), Navigation (motion-planning/field-robotics), Modeling and Optimization (control-theory/motion-planning), Perception and Estimation (perception/estimation), Robot & Sensor Design (mechanisms/mechatronics). Weight = session-equivalents / 21. Single-track conference, so session counts are small; mapping is the dataset author's judgement.",
+  "tracks": [
+    {
+      "name": "Manipulation 1–3",
+      "sessions": 3,
+      "papers": 27,
+      "url": "https://roboticsconference.org/2026/program/papers/"
+    },
+    {
+      "name": "World Models & Memory",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://roboticsconference.org/2026/program/papers/"
+    },
+    {
+      "name": "Humanoids",
+      "sessions": 1,
+      "papers": 13,
+      "url": "https://roboticsconference.org/2026/program/papers/"
+    },
+    {
+      "name": "Multi-robot Systems",
+      "sessions": 1,
+      "papers": 13,
+      "url": "https://roboticsconference.org/2026/program/papers/"
+    },
+    {
+      "name": "Localization & Mapping",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://roboticsconference.org/2026/program/papers/"
+    },
+    {
+      "name": "Navigation 1–2",
+      "sessions": 2,
+      "papers": 18,
+      "url": "https://roboticsconference.org/2026/program/papers/"
+    },
+    {
+      "name": "Imitation learning 1–3",
+      "sessions": 3,
+      "papers": 28,
+      "url": "https://roboticsconference.org/2026/program/papers/"
+    },
+    {
+      "name": "VLA Models",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://roboticsconference.org/2026/program/papers/"
+    },
+    {
+      "name": "Datasets and Benchmarks",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://roboticsconference.org/2026/program/papers/"
+    },
+    {
+      "name": "Control & Dynamics",
+      "sessions": 1,
+      "papers": 13,
+      "url": "https://roboticsconference.org/2026/program/papers/"
+    },
+    {
+      "name": "HRI",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://roboticsconference.org/2026/program/papers/"
+    },
+    {
+      "name": "RL",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://roboticsconference.org/2026/program/papers/"
+    },
+    {
+      "name": "Modeling and Optimization",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://roboticsconference.org/2026/program/papers/"
+    },
+    {
+      "name": "Perception and Estimation",
+      "sessions": 1,
+      "papers": 13,
+      "url": "https://roboticsconference.org/2026/program/papers/"
+    },
+    {
+      "name": "Planning",
+      "sessions": 1,
+      "papers": 13,
+      "url": "https://roboticsconference.org/2026/program/papers/"
+    },
+    {
+      "name": "Robot & Sensor Design",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://roboticsconference.org/2026/program/papers/"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "robot-learning",
+      "weight": 0.262,
+      "evidence": "World Models & Memory (1 session ×0.5); Imitation learning (3 sessions); Datasets and Benchmarks (1 session); RL (1 session)"
+    },
+    {
+      "id": "manipulation",
+      "weight": 0.143,
+      "evidence": "Manipulation (3 sessions)"
+    },
+    {
+      "id": "motion-planning",
+      "weight": 0.119,
+      "evidence": "Navigation (2 sessions ×0.5); Modeling and Optimization (1 session ×0.5); Planning (1 session)"
+    },
+    {
+      "id": "control-theory",
+      "weight": 0.071,
+      "evidence": "Control & Dynamics (1 session); Modeling and Optimization (1 session ×0.5)"
+    },
+    {
+      "id": "legged-humanoid",
+      "weight": 0.048,
+      "evidence": "Humanoids (1 session)"
+    },
+    {
+      "id": "multi-robot",
+      "weight": 0.048,
+      "evidence": "Multi-robot Systems (1 session)"
+    },
+    {
+      "id": "slam",
+      "weight": 0.048,
+      "evidence": "Localization & Mapping (1 session)"
+    },
+    {
+      "id": "field-robotics",
+      "weight": 0.048,
+      "evidence": "Navigation (2 sessions ×0.5)"
+    },
+    {
+      "id": "foundation-models",
+      "weight": 0.048,
+      "evidence": "VLA Models (1 session)"
+    },
+    {
+      "id": "hri",
+      "weight": 0.048,
+      "evidence": "HRI (1 session)"
+    },
+    {
+      "id": "ai-ml",
+      "weight": 0.024,
+      "evidence": "World Models & Memory (1 session ×0.5)"
+    },
+    {
+      "id": "perception",
+      "weight": 0.024,
+      "evidence": "Perception and Estimation (1 session ×0.5)"
+    },
+    {
+      "id": "estimation",
+      "weight": 0.024,
+      "evidence": "Perception and Estimation (1 session ×0.5)"
+    },
+    {
+      "id": "mechanisms",
+      "weight": 0.024,
+      "evidence": "Robot & Sensor Design (1 session ×0.5)"
+    },
+    {
+      "id": "mechatronics",
+      "weight": 0.024,
+      "evidence": "Robot & Sensor Design (1 session ×0.5)"
+    }
+  ],
+  "top_terms": [
+    "VLA (vision-language-action)",
+    "humanoid",
+    "navigation",
+    "dexterous manipulation",
+    "world model",
+    "tactile / visuotactile",
+    "diffusion",
+    "sim-to-real",
+    "imitation learning",
+    "multi-robot systems"
+  ],
+  "sources": [
+    "https://roboticsconference.org/2026/program/papers/",
+    "https://roboticsconference.org/2026/program/allsessions/"
+  ],
+  "retrieved": "2026-10-16"
+}

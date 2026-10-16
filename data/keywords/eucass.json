@@ -1,0 +1,215 @@
+{
+ "id": "eucass",
+ "edition_analyzed": 2023,
+ "method": "program-sessions",
+ "method_note": "EUCASS 2025 (Rome, 30 Jun - 4 Jul 2025) published only a programme-at-a-glance (15 rooms x 7 presentations per slot, no session titles) and a DOI search listing 541 papers without track labels, so the previous edition was analysed: the joint 10th EUCASS / 9th CEAS conference (Lausanne, 9-13 Jul 2023). Counted 97 oral technical sessions with 472 timed presentations (talks marked 'Cancelled' excluded) from the official 'Technical Sessions detailed programme'; plenaries and posters excluded. Track names use the programme's symposium codes; the long names given here are descriptive expansions, not quoted from the site. Note that 2023 was a joint EUCASS-CEAS edition, which may overweight aeronautics compared with a standalone EUCASS. Each session = 1 unit split across at most 2 keywords. Keywords below 0.02 (ai-ml, control-theory, smallsat, education, osam, trajectory, space-policy, hri, avionics; together 0.103 of session-units) were dropped and the remaining weights renormalized to sum to 1.",
+ "tracks": [
+  {
+   "name": "AEROFLIPHY - Aerodynamics and Flight Physics",
+   "sessions": 7,
+   "papers": 32,
+   "url": "https://www.eucass.eu/eucass-ceas-2023/technical-sessions/index.htm"
+  },
+  {
+   "name": "CFDMPS - CFD / Multi-physics Simulation",
+   "sessions": 10,
+   "papers": 55,
+   "url": "https://www.eucass.eu/eucass-ceas-2023/technical-sessions/index.htm"
+  },
+  {
+   "name": "FDGNCAV - Flight Dynamics, GNC and Avionics",
+   "sessions": 8,
+   "papers": 49,
+   "url": "https://www.eucass.eu/eucass-ceas-2023/technical-sessions/index.htm"
+  },
+  {
+   "name": "FLOCON - Flow Control",
+   "sessions": 2,
+   "papers": 8,
+   "url": "https://www.eucass.eu/eucass-ceas-2023/technical-sessions/index.htm"
+  },
+  {
+   "name": "NEWSPA - New Space",
+   "sessions": 3,
+   "papers": 14,
+   "url": "https://www.eucass.eu/eucass-ceas-2023/technical-sessions/index.htm"
+  },
+  {
+   "name": "PROPHY - Propulsion Physics",
+   "sessions": 21,
+   "papers": 92,
+   "url": "https://www.eucass.eu/eucass-ceas-2023/technical-sessions/index.htm"
+  },
+  {
+   "name": "REUSYS - Reusable Systems",
+   "sessions": 5,
+   "papers": 22,
+   "url": "https://www.eucass.eu/eucass-ceas-2023/technical-sessions/index.htm"
+  },
+  {
+   "name": "STRMAT - Structures and Materials",
+   "sessions": 9,
+   "papers": 50,
+   "url": "https://www.eucass.eu/eucass-ceas-2023/technical-sessions/index.htm"
+  },
+  {
+   "name": "STUDENT - Student sessions",
+   "sessions": 2,
+   "papers": 11,
+   "url": "https://www.eucass.eu/eucass-ceas-2023/technical-sessions/index.htm"
+  },
+  {
+   "name": "HEPAEM - Hybrid-Electric Propulsion",
+   "sessions": 2,
+   "papers": 7,
+   "url": "https://www.eucass.eu/eucass-ceas-2023/technical-sessions/index.htm"
+  },
+  {
+   "name": "SUSTAV - Sustainable Aviation",
+   "sessions": 6,
+   "papers": 25,
+   "url": "https://www.eucass.eu/eucass-ceas-2023/technical-sessions/index.htm"
+  },
+  {
+   "name": "SPEXPLO - Space Exploration",
+   "sessions": 3,
+   "papers": 14,
+   "url": "https://www.eucass.eu/eucass-ceas-2023/technical-sessions/index.htm"
+  },
+  {
+   "name": "SUSTSP - Sustainable Space",
+   "sessions": 5,
+   "papers": 25,
+   "url": "https://www.eucass.eu/eucass-ceas-2023/technical-sessions/index.htm"
+  },
+  {
+   "name": "AEROSTAT - Lighter-than-air systems",
+   "sessions": 2,
+   "papers": 9,
+   "url": "https://www.eucass.eu/eucass-ceas-2023/technical-sessions/index.htm"
+  },
+  {
+   "name": "EASN-CLINAV - Climate Neutral Aviation",
+   "sessions": 2,
+   "papers": 9,
+   "url": "https://www.eucass.eu/eucass-ceas-2023/technical-sessions/index.htm"
+  },
+  {
+   "name": "TESTING - Testing in Aerospace",
+   "sessions": 2,
+   "papers": 9,
+   "url": "https://www.eucass.eu/eucass-ceas-2023/technical-sessions/index.htm"
+  },
+  {
+   "name": "HUMANF - Human Factors",
+   "sessions": 2,
+   "papers": 9,
+   "url": "https://www.eucass.eu/eucass-ceas-2023/technical-sessions/index.htm"
+  },
+  {
+   "name": "SYSINT - System Integration",
+   "sessions": 2,
+   "papers": 12,
+   "url": "https://www.eucass.eu/eucass-ceas-2023/technical-sessions/index.htm"
+  },
+  {
+   "name": "EUROTURBO - Turbomachinery",
+   "sessions": 2,
+   "papers": 10,
+   "url": "https://www.eucass.eu/eucass-ceas-2023/technical-sessions/index.htm"
+  },
+  {
+   "name": "UAVFUT - Future UAVs",
+   "sessions": 2,
+   "papers": 10,
+   "url": "https://www.eucass.eu/eucass-ceas-2023/technical-sessions/index.htm"
+  }
+ ],
+ "keywords": [
+  {
+   "id": "space-propulsion",
+   "weight": 0.236,
+   "evidence": "20.5 of 97 session-units: PROPHY 1 - Liquid Rocket Engine Systems & New Developments (1); PROPHY 8 - Electric Propulsion (1); PROPHY 15 - Solid Rocket Motors (1); PROPHY 2 - Liquid Rocket Engine Systems & New Developments (1); PROPHY 9 - Electric Propulsion (1); PROPHY 16 - Solid Rocket Motors (1); PROPHY - 3 - Liquid Rocket Engine Advanced Propulsion (1); PROPHY 10 - Electric Propulsion (1); PROPHY 17 - Hybrid Rocket Engines (1); PROPHY 4 - Liquid Rocket Engine Combustion + modelization + Instabilities (1); PROPHY 11 - Electric Propulsion (1); PROPHY 18 - Hybrid Rocket Engines (1); PROPHY 5 - Liquid Rocket Engine Injection and Ignition (1); PROPHY 12 - New Propellants (1); PROPHY 19 - Nozzle (1); PROPHY 6 - Liquid Rocket Engine Injection and Ignition (1); PROPHY 13 - New Propellants (1); PROPHY 7 - Liquid Rocket Engine Chamber Cooling (1); PROPHY 14 - New Propellants (1); NEWSPA 1 - Propulsion enablers for New Space (0.5); CFDMPS 7 - Sloshing & Cryogenic issues in fuel tanks (0.5); CFDMPS 8 - Rocket engines & plumes (0.5)"
+  },
+  {
+   "id": "aerodynamics",
+   "weight": 0.172,
+   "evidence": "15 of 97 session-units: AEROFLIPHY 1 - Airfoil Aerodynamics (1); FLOCON 1 - Flow Control for aeronautics (1); AEROFLIPHY 2 - Airfoil Optimization (1); CFDMPS 2 - Digital twins and multi physics simulations (1); FLOCON 2 - Flow Control for spacecraft industry (1); AEROFLIPHY 3 - Configuration Aerodynamics (1); CFDMPS 3 - Fundamentals & Turbulence modelling (1); CFDMPS 4 - Innovative CFD methodologies (1); AEROFLIPHY 4 - Stability and Transition (1); CFDMPS 5 - Digital twins and multi physics simulationsModelling of plasmas (1); AEROFLIPHY 5 - Hypersonic and Rarefied Flows (1); CFDMPS 6 - Re-entry & hypersonic flow (1); AEROFLIPHY 6 - Advanced Concepts and Novel Applications (1); AEROFLIPHY 7 - Aeroacoustics and Rotor Aerodynamics (1); CFDMPS 1 - Aircraft: Aerodynamics & Propulsion (0.5); CFDMPS 8 - Rocket engines & plumes (0.5)"
+  },
+  {
+   "id": "structures",
+   "weight": 0.121,
+   "evidence": "10.5 of 97 session-units: STRMAT 1 - Temperature resistant materials and Thermal Protections (1); STRMAT 2 - Structural modelling, testing and validation I (1); STRMAT 3 - Structural modelling, testing and validation II Composite (1); STRMAT 4 - Advanced materials and Advanced Technologies I - Additive Manufacturing (1); STRMAT 5 - Advanced materials and Advanced Technologies II - Composites (1); STRMAT 6 - Design & Optimization (1); STRMAT 8 - Advanced materials and Advanced Technologies III Hybrid Material (1); STRMAT 7 - Aeroelasticity (1); STRMAT 9 - Advanced Structural Dynamics & Models (1); TESTING 1 - Testing in Aerospace (0.5); TESTING 2 - Testing in Aerospace (0.5); SUSTAV 6 - Structural Technologies for Sustainable Aviation (0.5)"
+  },
+  {
+   "id": "air-propulsion",
+   "weight": 0.092,
+   "evidence": "8 of 97 session-units: HEPAEM 1 - Sizing & Design of Electric Propulsion Systems (1); EASN-CLINAV 1 - Alternative Propulsion Systems (1); PROPHY 20 - Air Breathing Propulsion and Ramjet/ Scramjet (1); EUROTURBO 1 - Turbomachinery for Aeronautical and Space Applications (1); PROPHY 21 - Air Breathing Propulsion and Ramjet/ Scramjet (1); EUROTURBO 2 - Turbomachinery for Aeronautical and Space Applications (1); CFDMPS 1 - Aircraft: Aerodynamics & Propulsion (0.5); HEPAEM 2 - Electrification Aspects (0.5); SUSTAV 3 - Energy Storage and Power Systems for Sustainable Aircraft (0.5); EASN-CLINAV 2 - Climate Neutral Aviation Fuels (0.5)"
+  },
+  {
+   "id": "aircraft-design",
+   "weight": 0.08,
+   "evidence": "7 of 97 session-units: AEROSTAT 1 - Lighter-than-air systems (1); AEROSTAT 2 - Lighter-than-air systems (1); CFDMPS 9 - DEFAINE (0.5); CFDMPS 10 - DEFAINE (0.5); SUSTAV 1 - Technology Options for Sustainable Aircraft (0.5); HEPAEM 2 - Electrification Aspects (0.5); SUSTAV 2 - Electric and Hybrid Electric Aicraft (0.5); SUSTAV 3 - Energy Storage and Power Systems for Sustainable Aircraft (0.5); SUSTAV 4 - Novel Aircraft Configurations (0.5); SYSINT 1 - System Integration on Aircraft Systems (0.5); SUSTAV 6 - Structural Technologies for Sustainable Aviation (0.5); UAVFUT2 - Design of More Efficient UAVs (0.5)"
+  },
+  {
+   "id": "launch",
+   "weight": 0.08,
+   "evidence": "7 of 97 session-units: REUSYS 1 - REFEX (1); REUSYS 2 - DEMOS (1); REUSYS 3 - SYSTEM (1); REUSYS 4 - TECHNO (1); REUSYS 5 - AERO & CFD (1); STUDENT 1 - Launcher Systems Design and Demonstration (0.5); STUDENT 2 - From Rocket To Orbit and Beyond (0.5); FDGNCAV 4 - Launcher flight control (0.5); CFDMPS 7 - Sloshing & Cryogenic issues in fuel tanks (0.5)"
+  },
+  {
+   "id": "space-systems",
+   "weight": 0.046,
+   "evidence": "4 of 97 session-units: SYSINT 2 - System Integration on Space Systems (1); NEWSPA 2 - Approach enablers for New Space (0.5); NEWSPA 3 - Design enablers for New Space (0.5); TESTING 1 - Testing in Aerospace (0.5); TESTING 2 - Testing in Aerospace (0.5); SUSTSP 4 - LCA - Modelling (0.5); SUSTSP 5 - Space Logistics (0.5)"
+  },
+  {
+   "id": "air-transport",
+   "weight": 0.034,
+   "evidence": "3 of 97 session-units: SUSTAV 5 - Policy and Operational Aspects of Sustainable Aviation (1); SUSTAV 1 - Technology Options for Sustainable Aircraft (0.5); SUSTAV 2 - Electric and Hybrid Electric Aicraft (0.5); EASN-CLINAV 2 - Climate Neutral Aviation Fuels (0.5); SUSTAV 4 - Novel Aircraft Configurations (0.5)"
+  },
+  {
+   "id": "exploration",
+   "weight": 0.034,
+   "evidence": "3 of 97 session-units: SPEXPLO 1 - EURO2MOON (1); SPEXPLO 2 - Space Exploration and In-Situ Ressouces Utilization (1); SPEXPLO 3 - Space Exploration and In-Situ Ressouces Utilization (1)"
+  },
+  {
+   "id": "flight-dynamics",
+   "weight": 0.029,
+   "evidence": "2.5 of 97 session-units: FDGNCAV 6 - Aircraft flight control/FW (1); FDGNCAV 1 - Military systems (0.5); FDGNCAV 2 - Flight control e-VTOL/Multicopter (0.5); FDGNCAV 8 - Control/UAVs (0.5)"
+  },
+  {
+   "id": "uav",
+   "weight": 0.029,
+   "evidence": "2.5 of 97 session-units: UAVFUT 1 - Advanced Mission Planning and Tools for UAVs (1); FDGNCAV 2 - Flight control e-VTOL/Multicopter (0.5); FDGNCAV 8 - Control/UAVs (0.5); UAVFUT2 - Design of More Efficient UAVs (0.5)"
+  },
+  {
+   "id": "spacecraft-gnc",
+   "weight": 0.023,
+   "evidence": "2 of 97 session-units: FDGNCAV 3 - Satellites (1); FDGNCAV 7 - Space Systems (1)"
+  },
+  {
+   "id": "ssa-debris",
+   "weight": 0.023,
+   "evidence": "2 of 97 session-units: SUSTSP 2 - Tech - Characterization (1); SUSTSP 1 - Active Debris Removal (0.5); SUSTSP 3 - Observation - Policy (0.5)"
+  }
+ ],
+ "top_terms": [
+  "liquid rocket engine injection and cooling",
+  "electric propulsion",
+  "hybrid rocket engines",
+  "reusable launchers (REFEX, demonstrators)",
+  "active debris removal",
+  "EURO2MOON / in-situ resource utilization",
+  "hybrid-electric and sustainable aircraft",
+  "climate-neutral aviation fuels",
+  "eVTOL flight control",
+  "additive manufacturing for aerospace structures"
+ ],
+ "sources": [
+  "https://www.eucass.eu/eucass-ceas-2023/technical-sessions/index.htm",
+  "https://www.eucass.eu/2025/programme-at-a-glance/",
+  "https://www.eucass.eu/2025/wp-content/uploads/Planning_v26062025.pdf",
+  "https://www.eucass.eu/conferences-and-publications/search-on-this-website?searchword=EUCASS2025&searchphrase=all&limit=20",
+  "https://www.eucass.eu/2025/topics/"
+ ],
+ "retrieved": "2026-10-16"
+}

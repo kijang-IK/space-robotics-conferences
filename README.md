@@ -3,6 +3,11 @@
 우주·항공우주·로봇·제어 분야 주요 국제학회의 **역대 개최지, 일정, abstract/논문 마감일**을 모아둔 저장소입니다.  
 A curated list of major international conferences in **space, aerospace, robotics and control** — past venues, dates, and abstract/paper deadlines.
 
+### 🌐 [웹 트래커 열기 / Open the deadline tracker](https://kijang-ik.github.io/space-robotics-conferences/)
+
+타임라인·캘린더·정렬 표, 학회별 발표 키워드 히트맵, 역대 개최지 검색, 구글 캘린더/.ics 내보내기를 지원합니다.  
+Timeline, calendar and sortable table views, a conference × topic heatmap, venue search, and Google Calendar / .ics export.
+
 > **기준일 / As of: 2026-10-16** · 학회 35개 conferences · 개최 기록 354건 editions  
 > 모든 값에는 출처 URL이 붙어 있습니다 / Every value has a source URL (`data/conferences/*.json`).  
 > 마감일은 자주 연장되니 **제출 전 반드시 공식 사이트를 확인하세요.** / Deadlines change often — **always check the official site before submitting.**
@@ -694,9 +699,11 @@ A curated list of major international conferences in **space, aerospace, robotic
 ```
 data/conferences/<id>.json   학회별 원본 데이터 (출처·노트 포함) / per-conference source of truth, with sources & notes
 data/organizations/*.json    주최 기관 정보 / organizing bodies (e.g. IAA)
+data/keywords/taxonomy.json  공통 키워드 분류 / shared topic taxonomy
+data/keywords/<id>.json      학회별 발표 키워드 비중 (세션·논문 집계, 출처 포함) / topic shares per conference
 data/editions.csv            개최 기록 평탄화 / flattened editions (for diff & cross-check)
 data/upcoming.csv            다음 회차·마감 요약 / next edition & deadline per conference
-scripts/build.js             JSON → README & CSV
+scripts/build.js             JSON → README, CSV & docs/index.html (웹 트래커 / web tracker)
 scripts/compare.js           다른 조사 결과와 교차검증 / cross-check against another dataset
 ```
 

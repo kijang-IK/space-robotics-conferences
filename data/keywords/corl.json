@@ -1,0 +1,139 @@
+{
+  "id": "corl",
+  "edition_analyzed": 2025,
+  "method": "paper-counts",
+  "method_note": "CoRL 2026 (Austin, 9–12 Nov 2026) has not yet taken place, so CoRL 2025 (Seoul, 27–30 Sep 2025) is analyzed. The official main-conference program lists 263 papers: 42 in 6 titled oral sessions (Manipulation I, Perception, Manipulation II, Planning & Safety & Robustness, Locomotion, Humanoid & Hardware) and 221 in 6 untitled Spotlight sessions, so session titles cover only 16% of papers. OpenReview keyword/area metadata could not be retrieved (API returned a bot-challenge), so every paper TITLE was classified with a documented, priority-ordered regex rule set (domain terms such as medical, UAV, driving, humanoid/legged/locomotion, multi-robot, HRI/teleoperation, manipulation/grasp/dexterous first; then VLA/VLM/LLM/language → foundation-models; SLAM/localization; perception/vision/3D/tactile; planning/navigation/trajectory; MPC/safety → control-theory; then generic learning terms → robot-learning). A paper takes its first 1–2 matching ids (0.5 each if 2); 18 papers matching no rule were assigned robot-learning (CoRL's scope). Weight = paper-equivalents / 263; ids below 0.02 omitted (multi-robot, autonomous-vehicles, uav, slam, mechanisms, field-robotics, medical-robotics total ~0.055). Title-based coding is heuristic and is the dataset author's, not CoRL's.",
+  "tracks": [
+    {
+      "name": "Oral 1: Manipulation I (& Poster 1)",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://2025.corl.org/program/main-conference"
+    },
+    {
+      "name": "Oral 2: Perception (& Poster 1)",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://2025.corl.org/program/main-conference"
+    },
+    {
+      "name": "Spotlight 1 & Poster 1",
+      "sessions": 1,
+      "papers": 25,
+      "url": "https://2025.corl.org/program/main-conference"
+    },
+    {
+      "name": "Spotlight 2 & Poster 1",
+      "sessions": 1,
+      "papers": 49,
+      "url": "https://2025.corl.org/program/main-conference"
+    },
+    {
+      "name": "Oral 3: Manipulation II (& Poster 2)",
+      "sessions": 1,
+      "papers": 9,
+      "url": "https://2025.corl.org/program/main-conference"
+    },
+    {
+      "name": "Oral 4: Planning & Safety & Robustness (& Poster 2)",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://2025.corl.org/program/main-conference"
+    },
+    {
+      "name": "Spotlight 3 & Poster 2",
+      "sessions": 1,
+      "papers": 25,
+      "url": "https://2025.corl.org/program/main-conference"
+    },
+    {
+      "name": "Spotlight 4 & Poster 2",
+      "sessions": 1,
+      "papers": 48,
+      "url": "https://2025.corl.org/program/main-conference"
+    },
+    {
+      "name": "Oral 5: Locomotion (& Poster 3)",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://2025.corl.org/program/main-conference"
+    },
+    {
+      "name": "Oral 6: Humanoid & Hardware (& Poster 3)",
+      "sessions": 1,
+      "papers": 6,
+      "url": "https://2025.corl.org/program/main-conference"
+    },
+    {
+      "name": "Spotlight 5 & Poster 3",
+      "sessions": 1,
+      "papers": 25,
+      "url": "https://2025.corl.org/program/main-conference"
+    },
+    {
+      "name": "Spotlight 6 & Poster 3",
+      "sessions": 1,
+      "papers": 49,
+      "url": "https://2025.corl.org/program/main-conference"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "robot-learning",
+      "weight": 0.384,
+      "evidence": "101.0 paper-equivalents of 263; e.g. \"ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations\"; \"The Sound of Simulation: Learning Multimodal Sim-to-Real Robot Policies with Generative Audio\""
+    },
+    {
+      "id": "manipulation",
+      "weight": 0.163,
+      "evidence": "43.0 paper-equivalents of 263; e.g. \"Versatile Loco-Manipulation through Flexible Interlimb Coordination\"; \"Reactive In-Air Clothing Manipulation with Confidence-Aware Dense Correspondence and Visuotactile Affordance\""
+    },
+    {
+      "id": "perception",
+      "weight": 0.141,
+      "evidence": "37.0 paper-equivalents of 263; e.g. \"The Sound of Simulation: Learning Multimodal Sim-to-Real Robot Policies with Generative Audio\"; \"One View, Many Worlds: Single-Image to 3D object Meets Generative Domain Randomization for One-Shot 6D Pose Estimation\""
+    },
+    {
+      "id": "motion-planning",
+      "weight": 0.074,
+      "evidence": "19.5 paper-equivalents of 263; e.g. \"CARE: Enhancing Safety of Visual Navigation through Collision Avoidance via Repulsive Estimation\"; \"Towards Generalizable Safety in Crowd Navigation via Conformal Uncertainty Handling\""
+    },
+    {
+      "id": "legged-humanoid",
+      "weight": 0.068,
+      "evidence": "18.0 paper-equivalents of 263; e.g. \"Humanoid Policy ~ Human Policy\"; \"TWIST: Teleoperated Whole-Body Imitation System\""
+    },
+    {
+      "id": "foundation-models",
+      "weight": 0.061,
+      "evidence": "16.0 paper-equivalents of 263; e.g. \"ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations\"; \"See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation\""
+    },
+    {
+      "id": "control-theory",
+      "weight": 0.029,
+      "evidence": "7.5 paper-equivalents of 263; e.g. \"Towards Generalizable Safety in Crowd Navigation via Conformal Uncertainty Handling\"; \"From Space to Time: Enabling Adaptive Safety with Learned Value Functions via Disturbance Recasting\""
+    },
+    {
+      "id": "hri",
+      "weight": 0.025,
+      "evidence": "6.5 paper-equivalents of 263; e.g. \"TWIST: Teleoperated Whole-Body Imitation System\"; \"CLONE: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks\""
+    }
+  ],
+  "top_terms": [
+    "diffusion policy",
+    "reinforcement learning",
+    "navigation",
+    "dexterous manipulation",
+    "tactile / visuotactile",
+    "imitation learning",
+    "VLA (vision-language-action)",
+    "humanoid",
+    "sim-to-real",
+    "world model"
+  ],
+  "sources": [
+    "https://2025.corl.org/program/main-conference",
+    "https://2025.corl.org/"
+  ],
+  "retrieved": "2026-10-16"
+}
