@@ -1,0 +1,152 @@
+{
+  "id": "ecssmet",
+  "short_name": "ECSSMET",
+  "full_name": "European Conference on Spacecraft Structures, Materials and Environmental Testing",
+  "category": "space",
+  "organizer": "Co-organised by ESA, CNES and DLR; the host rotates between ESA/ESTEC (Noordwijk), CNES (Toulouse) and DLR (Braunschweig)",
+  "fields": [
+    "spacecraft structures and mechanical architecture",
+    "materials and manufacturing (composites, metals, additive manufacturing)",
+    "structural dynamics, shock and micro-vibration",
+    "environmental testing (vibration, acoustic, shock, thermal)",
+    "deployable structures and mechanism testing",
+    "design for demise and sustainable structures"
+  ],
+  "frequency": "Roughly every two years but irregular (2014, 2016, 2018, 2021 virtual, 2023, 2024, 2026)",
+  "typical_month": "Varies: March-June or September",
+  "official_url": "https://ecssmet2026.welcome-manager.de/",
+  "submission": {
+    "type": "Abstract submission reviewed by the technical committee, then a full paper for the proceedings",
+    "typical_abstract_deadline": "About 4-6 months before the conference",
+    "typical_final_deadline": "About 2-4 weeks before the conference",
+    "notes": "2026: abstract submission opened 5 Feb 2026, abstract deadline 8 May 2026, acceptance 6 Jun 2026, full paper deadline 4 Sep 2026. 2024: official calendar gives abstract deadline 5 Apr 2024, notification 31 May 2024, final papers 20-30 Aug 2024. 2023: abstract deadline 15 Oct 2022 (extended from 30 Sep 2022), full papers 9 Mar 2023 (extended from 27 Feb 2023)."
+  },
+  "next_edition": {
+    "year": null,
+    "city": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "abstract_deadline": null,
+    "status": "not yet announced",
+    "source": "https://www.dlr.de/en/sy/latest-news/events/ecssmet-2026",
+    "notes": "No ECSSMET after the September 2026 Braunschweig edition had been announced as of 2026-10-16. The interval between editions has varied from 1 to 3 years, so the year is not inferred.",
+    "continent": null
+  },
+  "editions": [
+    {
+      "year": 2014,
+      "city": "Braunschweig",
+      "region": "Lower Saxony",
+      "country": "Germany",
+      "venue": "Steigenberger Parkhotel Braunschweig",
+      "start_date": "2014-04-01",
+      "end_date": "2014-04-04",
+      "abstract_deadline": null,
+      "source": "https://www.esa.int/TEC/Structures/SEMHOQLJC0F_0.html",
+      "continent": "Europe",
+      "notes": "13th edition; proceedings published as ESA SP-727 (https://ndlsearch.ndl.go.jp/books/R100000002-I027801668)."
+    },
+    {
+      "year": 2016,
+      "city": "Toulouse",
+      "region": "Occitanie",
+      "country": "France",
+      "venue": "Centre de Congrès Pierre Baudis",
+      "start_date": "2016-09-27",
+      "end_date": "2016-09-30",
+      "abstract_deadline": null,
+      "source": "http://acuriousguy.blogspot.com/2016/08/a-preview-of-14th-european-conference.html",
+      "continent": "Europe",
+      "notes": "14th edition. Dates and venue come from a 2016 preview article (a secondary source); the official site ecssmet2016.com is no longer online."
+    },
+    {
+      "year": 2018,
+      "city": "Noordwijk",
+      "region": "South Holland",
+      "country": "Netherlands",
+      "venue": "ESA-ESTEC",
+      "start_date": "2018-05-28",
+      "end_date": "2018-06-01",
+      "abstract_deadline": null,
+      "source": "https://ntrs.nasa.gov/citations/20180004816",
+      "continent": "Europe",
+      "notes": "15th edition (HAL record https://hal.archives-ouvertes.fr/hal-02120320). ESTEC as the venue rests on a search-indexed KAIST attendee report titled 'ESA-ESTEC ECSSMET 2018 Conference' (http://sss.kaist.ac.kr/?p=5633, unreachable on 2026-10-16); NTRS gives only Noordwijk."
+    },
+    {
+      "year": 2021,
+      "city": "Virtual",
+      "region": null,
+      "country": null,
+      "venue": "Virtual (originally planned for 8-12 June 2020 in Braunschweig)",
+      "start_date": "2021-03-23",
+      "end_date": "2021-03-25",
+      "abstract_deadline": null,
+      "source": "https://spaceoneers.io/events/16th-european-conference-on-spacecraft-structures-materials-and-environmental-testing-ecssmet2021/",
+      "continent": null,
+      "notes": "16th edition, branded ECSSMET 2020 or 2021. DLR event page: https://event.dlr.de/en/events/2021-03-23/"
+    },
+    {
+      "year": 2023,
+      "city": "Toulouse",
+      "region": "Occitanie",
+      "country": "France",
+      "venue": null,
+      "start_date": "2023-03-28",
+      "end_date": "2023-03-30",
+      "abstract_deadline": "2022-10-15",
+      "source": "https://ecssmet2023.com/",
+      "continent": "Europe",
+      "notes": "17th edition; workshops on 31 March 2023. The abstract deadline was extended from 30 Sep 2022. Venue not verified from an official page."
+    },
+    {
+      "year": 2024,
+      "city": "Noordwijk",
+      "region": "South Holland",
+      "country": "Netherlands",
+      "venue": "ESA-ESTEC",
+      "start_date": "2024-09-23",
+      "end_date": "2024-09-27",
+      "abstract_deadline": "2024-04-05",
+      "source": "https://atpi.eventsair.com/ecssmet2024/calendar-of-events",
+      "continent": "Europe",
+      "notes": "18th edition. A Space Agenda listing gives 23-26 Sep (https://www.spaceagenda.com/?p=54563); the official calendar and the Fraunhofer proceedings record give 23-27 Sep. An ESA LinkedIn post from March 2024 mentions an abstract-deadline extension; the official calendar shows 5 Apr 2024."
+    },
+    {
+      "year": 2026,
+      "city": "Braunschweig",
+      "region": "Lower Saxony",
+      "country": "Germany",
+      "venue": "Steigenberger Parkhotel Braunschweig",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "abstract_deadline": "2026-05-08",
+      "source": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=562",
+      "continent": "Europe",
+      "notes": "Hosted by the DLR Institute of Lightweight Systems. The official site does not state an edition number (it would be the 19th by sequence). Venue from https://ecssmet2026.welcome-manager.de/front/content.php?id_article=559"
+    }
+  ],
+  "sources": [
+    "https://ecssmet2026.welcome-manager.de/",
+    "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=562",
+    "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=559",
+    "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578",
+    "https://www.dlr.de/en/sy/latest-news/events/ecssmet-2026",
+    "https://atpi.eventsair.com/ecssmet2024/calendar-of-events",
+    "https://www.spaceagenda.com/?p=54563",
+    "https://ecssmet2023.com/",
+    "https://spaceoneers.io/events/16th-european-conference-on-spacecraft-structures-materials-and-environmental-testing-ecssmet2021/",
+    "https://event.dlr.de/en/events/2021-03-23/",
+    "https://ntrs.nasa.gov/citations/20180004816",
+    "https://hal.archives-ouvertes.fr/hal-02120320",
+    "http://sss.kaist.ac.kr/?p=5633",
+    "http://acuriousguy.blogspot.com/2016/08/a-preview-of-14th-european-conference.html",
+    "https://www.esa.int/TEC/Structures/SEMHOQLJC0F_0.html",
+    "https://ndlsearch.ndl.go.jp/books/R100000002-I027801668"
+  ],
+  "notes": "There is no permanent ECSSMET website; each edition runs its own site (ecssmet2023.com, atpi.eventsair.com/ecssmet2024, ecssmet2026.welcome-manager.de), so official_url points to the latest one. The 2026 programme has three dedicated 'Deployable structures' sessions plus three 'Mechanism Testing' sessions, most of whose talks cover deployment hardware. Abstract deadlines for 2014-2021 were not found. The 2023 Toulouse venue is not verified. The 2016 dates and venue rest on secondary sources only.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

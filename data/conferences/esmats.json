@@ -1,0 +1,148 @@
+{
+  "id": "esmats",
+  "short_name": "ESMATS",
+  "full_name": "European Space Mechanisms and Tribology Symposium",
+  "category": "space",
+  "organizer": "European Space Agency (ESA) with a rotating local host: OHB (Munich 2019), Astronika (Warsaw 2023), EPFL/CSEM/Almatech (Lausanne 2025), OHB Italia (Milan 2027). It is the sister event of the US Aerospace Mechanisms Symposium (AMS).",
+  "fields": [
+    "space mechanisms design, analysis and testing",
+    "tribology and lubrication",
+    "actuators, motors, bearings and gears",
+    "deployment and hold-down/release mechanisms",
+    "pointing, scanning and precision mechanisms",
+    "planetary exploration and robotics mechanisms"
+  ],
+  "frequency": "Biennial (odd years), alternating with the AMS in even years",
+  "typical_month": "September (October in 2027)",
+  "official_url": "https://www.esmats.eu/",
+  "submission": {
+    "type": "Abstract submission, then a full paper published on esmats.eu. Papers have been online-only, not formally published, since 2019. Training courses run on the days before the symposium.",
+    "typical_abstract_deadline": null,
+    "typical_final_deadline": null,
+    "notes": "No ESMATS call for papers with dated deadlines could be retrieved for any edition. The site's date shortcodes on the archived edition pages no longer render. The ESMATS 2027 page (checked 2026-10-16) gives only the dates (6-8 Oct 2027) and city. It has no call for papers, abstract deadline or venue yet."
+  },
+  "next_edition": {
+    "year": 2027,
+    "city": "Milan",
+    "country": "Italy",
+    "start_date": "2027-10-06",
+    "end_date": "2027-10-08",
+    "abstract_deadline": null,
+    "status": "not yet announced",
+    "source": "https://esmats.eu/milan/",
+    "notes": "22nd ESMATS, organised by ESA and OHB Italia. As of 2026-10-16 the venue and abstract deadline are not announced; training courses will run on the days before the symposium.",
+    "continent": "Europe"
+  },
+  "editions": [
+    {
+      "year": 2015,
+      "city": "Bilbao",
+      "region": "Basque Country",
+      "country": "Spain",
+      "venue": null,
+      "start_date": "2015-09-23",
+      "end_date": "2015-09-25",
+      "abstract_deadline": null,
+      "source": "https://clok.uclan.ac.uk/view/creators/Buttery=3AMichael=3A=3A.html",
+      "continent": "Europe",
+      "notes": "16th ESMATS; proceedings ESA SP-737 (per the ESMATS history table https://www.esmats.eu/lausanne/about-esmats/). Dates come from a university repository citation."
+    },
+    {
+      "year": 2017,
+      "city": "Hatfield",
+      "region": "Hertfordshire",
+      "country": "United Kingdom",
+      "venue": "University of Hertfordshire",
+      "start_date": "2017-09-20",
+      "end_date": "2017-09-22",
+      "abstract_deadline": null,
+      "source": "https://www.ebad.com/ebad-and-nea-electronics-to-exhibit-at-esmats-2017/",
+      "continent": "Europe",
+      "notes": "17th ESMATS, presented by Airbus Defence & Space and ESA; proceedings ISBN 978-90-827435-0-0."
+    },
+    {
+      "year": 2019,
+      "city": "Munich",
+      "region": "Bavaria",
+      "country": "Germany",
+      "venue": "Gasteig Cultural and Conference Centre",
+      "start_date": "2019-09-18",
+      "end_date": "2019-09-20",
+      "abstract_deadline": null,
+      "source": "https://www.esmats.eu/munich/",
+      "continent": "Europe",
+      "notes": "18th ESMATS, organised by OHB."
+    },
+    {
+      "year": 2021,
+      "city": "Virtual",
+      "region": null,
+      "country": null,
+      "venue": "Virtual (LetsGetDigital platform; afternoon sessions only)",
+      "start_date": "2021-09-20",
+      "end_date": "2021-09-24",
+      "abstract_deadline": null,
+      "source": "https://spaceoneers.io/events/19th-european-space-mechanisms-and-tribology-symposium/",
+      "continent": null,
+      "notes": "19th ESMATS, moved online because of COVID-19."
+    },
+    {
+      "year": 2023,
+      "city": "Warsaw",
+      "region": "Masovian Voivodeship",
+      "country": "Poland",
+      "venue": "POLIN Museum of the History of Polish Jews",
+      "start_date": "2023-09-20",
+      "end_date": "2023-09-22",
+      "abstract_deadline": null,
+      "source": "https://astronika.pl/we-are-hosting-esmats-2023/",
+      "continent": "Europe",
+      "notes": "20th ESMATS, hosted by Astronika. Venue from https://www.esmats.eu/warsaw/"
+    },
+    {
+      "year": 2025,
+      "city": "Lausanne",
+      "region": "Vaud",
+      "country": "Switzerland",
+      "venue": "SwissTech Convention Center (EPFL campus)",
+      "start_date": "2025-09-24",
+      "end_date": "2025-09-26",
+      "abstract_deadline": null,
+      "source": "https://www.esmats.eu/lausanne/agenda/",
+      "continent": "Europe",
+      "notes": "21st ESMATS, organised by EPFL, CSEM and Almatech with ESA; registration opened 23 Sep 2025."
+    },
+    {
+      "year": 2027,
+      "city": "Milan",
+      "region": "Lombardy",
+      "country": "Italy",
+      "venue": null,
+      "start_date": "2027-10-06",
+      "end_date": "2027-10-08",
+      "abstract_deadline": null,
+      "source": "https://esmats.eu/milan/",
+      "continent": "Europe",
+      "notes": "22nd ESMATS, organised by ESA and OHB Italia; venue not yet announced."
+    }
+  ],
+  "sources": [
+    "https://www.esmats.eu/",
+    "https://esmats.eu/milan/",
+    "https://www.esmats.eu/lausanne/agenda/",
+    "https://www.esmats.eu/lausanne/about-esmats/",
+    "https://www.esmats.eu/lausanne/accommodation-and-travel/",
+    "https://www.esmats.eu/lausanne/wp-content/uploads/2025/09/ESMATS25_programme.pdf",
+    "https://www.esmats.eu/warsaw/",
+    "https://astronika.pl/we-are-hosting-esmats-2023/",
+    "https://spaceoneers.io/events/19th-european-space-mechanisms-and-tribology-symposium/",
+    "https://www.esmats.eu/munich/",
+    "https://www.ebad.com/ebad-and-nea-electronics-to-exhibit-at-esmats-2017/",
+    "https://clok.uclan.ac.uk/view/creators/Buttery=3AMichael=3A=3A.html"
+  ],
+  "notes": "ESMATS was first held in 1983 and is ESA's main venue for space mechanisms. The ESMATS 2027 page lists 'robotics and deployable systems' within its scope. The 2025 programme had deployment-related papers spread across the Testing, Mechanisms, Tribology and Exploration sessions, not a dedicated session. Abstract deadlines for every edition are unverified (null). The 2015 Bilbao venue is unknown. The 2021 online edition ran on afternoons of 20-24 Sep 2021, with training in the mornings and the previous week.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

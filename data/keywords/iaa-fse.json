@@ -2,7 +2,7 @@
   "id": "iaa-fse",
   "edition_analyzed": 2025,
   "method": "program-sessions",
-  "method_note": "Counted the 9 contributed-paper sessions in the 12th IAA Symposium on the Future of Space Exploration technical program (Turin, 9-11 June 2025, release 5 June 2025); 40 papers. Sessions in this program are numbered but untitled, so the bracketed descriptions were written from the paper titles in each session. Keynote sessions 1, 3 and 8 and the two round tables excluded. Each session weighted equally, split 50/50 where two keywords apply.",
+  "method_note": "Counted the 9 contributed-paper sessions in the 12th IAA Symposium on the Future of Space Exploration technical program (Turin, 9-11 June 2025, release 5 June 2025); 40 papers. Sessions in this program are numbered but untitled, so the bracketed descriptions were written from the paper titles in each session. Keynote sessions 1, 3 and 8 and the two round tables excluded. Each session weighted equally, split 50/50 where two keywords apply. deployable-structures: none found in the FSE 2025 programme (checked 2026-10-16). Parallel Session 6A has only 1 of 6 papers on deployable structures ('Folding and deployment analysis of a composite deployable spacecraft'), and 5B has 1 solar-sail paper (Sundiver), so no session was re-mapped.",
   "tracks": [
     {
       "name": "Session 2 (ISS life support, Moon farside protection, lunar economy, sustainability)",

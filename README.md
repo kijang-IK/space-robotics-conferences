@@ -17,7 +17,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [`?cat=space-robotics`](https://kijang-ik.github.io/space-robotics-conferences/?cat=space-robotics) | 분야 필터 (space, aerospace, space-robotics, robotics, control) |
 | [`?view=topics&picks=spacecraft-gnc,space-robotics`](https://kijang-ik.github.io/space-robotics-conferences/?view=topics&picks=spacecraft-gnc,space-robotics) | 키워드 매칭 결과 공유 |
 
-> **기준일 / As of: 2026-10-16** · 학회 35개 conferences · 개최 기록 354건 editions  
+> **기준일 / As of: 2026-10-16** · 학회 39개 conferences · 개최 기록 379건 editions  
 > 모든 값에는 출처 URL이 붙어 있습니다 / Every value has a source URL (`data/conferences/*.json`).  
 > 마감일은 자주 연장되니 **제출 전 반드시 공식 사이트를 확인하세요.** / Deadlines change often — **always check the official site before submitting.**
 
@@ -49,9 +49,12 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | 학회 Conference | 주기·시기 Frequency | 제출 방식 Submission | 통상 마감 Typical deadline | 다음 회차 Next | 마감 Deadline | 상태 Status |
 |---|---|---|---|---|---|---|
 | [AAS GN&C Conference (Breckenridge)](https://aas-rocky-mountain-section.org/)<br><sub>Annual AAS Guidance, Navigation and Control Conference (AAS Rocky Mountain Section)</sub> | annual<br><sub>late January / early February</sub> | abstract-only submission (paper or poster) via the AAS GN&C abstract system; papers appea… | early-to-mid September of the previous year (6 Sep 2024, 8 Sep 2025, 14 Sep 2026) | 2027 Breckenridge, United States<br><sub>2027-02-05 ~ 02-10</sub> | 2026-09-14 | CLOSED |
+| [AMS](https://aeromechanisms.com/)<br><sub>Aerospace Mechanisms Symposium</sub> | Biennial (even years), alternating with ESMATS in odd years<br><sub>May</sub> | Summary of about 1000 words plus figures (4 pages max) e-mailed to the general chair; acc… | Mid-to-late November of the year before (about 6 months before the symposium) | 2028 United States<br><sub>TBA</sub> | – | TBA |
 | [ASC](https://www.space-flight.org/)<br><sub>AAS/AIAA Astrodynamics Specialist Conference</sub> | annual<br><sub>August (July in 2026; September in 2016)</sub> | extended abstract or draft manuscript (PDF, min. 1,000 words) + 100-word condensed abstra… | early-to-mid April of the event year (late March for 2026) | 2027 TBA<br><sub>TBA</sub> | – | TBA |
 | [ASCEND](https://www.ascend.events/)<br><sub>ASCEND (Accelerating Space Commerce, Exploration, and New Discovery)</sub> | annual (since 2020)<br><sub>May (2026-2027); earlier October/November (2020-2023) and July (2024-2025); June listed for 2028</sub> | abstract of minimum 1,000 words (Word/PDF via ScholarOne) for technical papers; separate … | late September / early October of the previous year (25 Sep 2025 extended, for ASCEND 202… | 2027 Washington, United States<br><sub>2027-05-18 ~ 05-20</sub> | 2026-10-08 | CLOSED |
+| [ECSSMET](https://ecssmet2026.welcome-manager.de/)<br><sub>European Conference on Spacecraft Structures, Materials and Environmental Testing</sub> | Roughly every two years but irregular (2014, 2016, 2018, 2021 virtual, 2023, 2024, 2026)<br><sub>Varies: March-June or September</sub> | Abstract submission reviewed by the technical committee, then a full paper for the procee… | About 4-6 months before the conference | TBA | – | TBA |
 | [ESA GNC & ICATT](https://atpi.eventsair.com/gncicatt/)<br><sub>ESA International Conference on Guidance, Navigation & Control Systems (GNC), joint with the International Conference on Astrodynamics Tools and Techniques (ICATT) since 2021</sub> | Irregular, about every 2-3 years (GNC: 2014, 2017, 2021, 2023, 2026; ICATT standalone in 2016 and 2018)<br><sub>June (2014-2023); late September - early October (2026)</sub> | Abstract submission, then a mandatory full paper (PDF, STIX Two Text font, ESA template);… | About 7 months before the event (2026: 27 Feb 2026) | TBA | – | TBA |
+| [ESMATS](https://www.esmats.eu/)<br><sub>European Space Mechanisms and Tribology Symposium</sub> | Biennial (odd years), alternating with the AMS in even years<br><sub>September (October in 2027)</sub> | Abstract submission, then a full paper published on esmats.eu. Papers have been online-on… | – | 2027 Milan, Italy<br><sub>2027-10-06 ~ 10-08</sub> | – | TBA |
 | IAA DyCoSS<br><sub>IAA Conference on Dynamics and Control of Space Systems</sub> | nominally biennial (2012, 2014, 2017, 2018); no edition found after 2018<br><sub>March-May</sub> | abstract (max 500 words, via EasyChair) -> full manuscript for accepted papers; proceedin… | January-March of conference year | TBA | – | TBA |
 | [IAA FSE](https://iaaspace.org/fse)<br><sub>IAA Symposium on the Future of Space Exploration</sub> | biennial 2015-2019, then 2025 (irregular); 13th reportedly planned for 2027<br><sub>June-July</sub> | one-page abstract -> extended abstract/paper/presentation upload; best papers to Acta Ast… | spring (2025: extended abstract 4 Apr 2025) | 2027 Turin, Italy<br><sub>TBA</sub> | – | TBA |
 | [IAA ICSSA](https://iaaspace.org/icssa)<br><sub>IAA Conference on Space Situational Awareness</sub> | roughly biennial (2017, 2020, 2022, 2024, 2026)<br><sub>January-May (varies)</sub> | abstract (Word file via UF portal) -> paper; top papers invited to a special issue of Act… | ~3 months before conference (2026: 5 Jan 2026) | TBA | – | TBA |
@@ -60,6 +63,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [IAA SSEO](https://iaaspace.org/sseo)<br><sub>IAA Symposium on Small Satellites for Earth System Observation (formerly 'Small Satellites for Earth Observation')</sub> | biennial (odd years)<br><sub>April-May</sub> | abstract -> selected contributed papers; full paper for proceedings | mid-February of conference year (2025: 15 Feb) | 2027 Berlin (expected), Germany<br><sub>TBA</sub> | – | TBA |
 | [IAA STC (formerly STM Conference)](https://iaaspace.org/stc)<br><sub>Space Traffic Conference (formerly Annual Space Traffic Management Conference; 'IAA-UT Space Traffic Management Conference')</sub> | annual<br><sub>February-March (Austin era); November/January (Embry-Riddle era)</sub> | abstract (max 500 words, emailed) -> full paper | October of the preceding year for 2027 edition (14 Oct 2026); 2021 edition: 8 Jan 2021 | 2027 Austin, TX, United States<br><sub>2027-03-03 ~ 03-04</sub> | 2026-10-14 | CLOSED |
 | [IAC](https://www.iafastro.org/events/iac/)<br><sub>International Astronautical Congress</sub> | annual<br><sub>September/October</sub> | abstract-only for selection (max 400 words, no tables/drawings), followed by full manuscr… | 28 February (23:59 CET) of the congress year; IAF has frequently extended by about one we… | 2027 Poznan, Poland<br><sub>2027-09-27 ~ 10-01</sub> | 2027-02-28 | OPEN |
+| [ISSS](https://tudelft.nl/lr/isss-2025)<br><sub>International Symposium on Space Sailing (International Symposium on Solar Sailing until 2019)</sub> | Every 2-4 years (2007, 2010, 2013, 2017, 2019, 2023, 2025)<br><sub>Varies (January, June-August)</sub> | Abstract submission for oral or poster presentation; full papers optional (not required t… | About 3-4.5 months before the symposium | TBA | – | TBA |
 | [ISTS](https://ists.ne.jp/)<br><sub>International Symposium on Space Technology and Science</sub> | Biennial (odd years; the 33rd ran in Feb-Mar 2022)<br><sub>June-July</sub> | Online abstract submission, then a full paper upload; 'No Paper, No Presentation' policy | About 7-8 months before the event (Oct-Dec of the previous year) | 2027 Toyama, Japan<br><sub>2027-07-17 ~ 07-23</sub> | 2026-12-17 | OPEN |
 | [SFM](https://www.space-flight.org/)<br><sub>AAS/AIAA Space Flight Mechanics Meeting</sub> | annual<br><sub>January (February in 2016, 2017, 2021)</sub> | extended abstract or draft manuscript (PDF, min. 1,000 words) + 100-word condensed abstra… | AAS-hosted (odd years): mid-September to early October of the previous year; SciTech-colo… | 2027 New Orleans, United States<br><sub>2027-01-17 ~ 01-21</sub> | 2026-10-04 | CLOSED |
 | [SmallSat](https://smallsat.org/)<br><sub>Small Satellite Conference (Annual AIAA/USU Conference on Small Satellites)</sub> | annual<br><sub>August</sub> | abstract submission for technical sessions (Research & Academia and Enterprise tracks; al… | early February (5 Feb 2026, 11:59 PM MT) | 2027 United States<br><sub>2027-08-01 ~ 08-04</sub> | – | TBA |
@@ -125,6 +129,20 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 
 </details>
 
+<details><summary><b>AMS</b> — Aerospace Mechanisms Symposium (7)</summary>
+
+| 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
+|---|---|---|---|---|
+| [2026](https://aeromechanisms.com/48th-ams-program-2026/) | Huntsville, United States | Von Braun Center | 2026-05-13 ~ 05-15 | 2025-11-30 |
+| [2024](https://aeromechanisms.com/47th-ams-program-2024/) | Virginia Beach, United States | Virginia Beach Convention Center | 2024-05-15 ~ 05-17 | – |
+| [2022](https://eprints.soton.ac.uk/492356/1/46th_AMS_Proceedings_Final_1_.pdf) | Virtual | Virtual (originally planned for Houston, hosted by NASA Johnson Space Center) | 2022-05-11 ~ 05-13 | – |
+| [2020](https://ntrs.nasa.gov/citations/20205009766) | Houston, United States | Cancelled (COVID-19); proceedings published only | 2020-05-13 ~ 05-15 | – |
+| [2018](https://aeromechanisms.com/44th-ams-program-2018/) | Cleveland, United States | Hilton Cleveland Downtown | 2018-05-16 ~ 05-18 | – |
+| [2016](https://aeromechanisms.com/43rd-ams-program-2016/) | Santa Clara, United States | Biltmore Hotel | 2016-05-04 ~ 05-06 | – |
+| [2014](https://aeromechanisms.com/42nd-ams-program-2014/) | Baltimore, United States | Hyatt Regency Baltimore | 2014-05-14 ~ 05-16 | – |
+
+</details>
+
 <details><summary><b>ASC</b> — AAS/AIAA Astrodynamics Specialist Conference (12)</summary>
 
 | 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
@@ -160,6 +178,20 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 
 </details>
 
+<details><summary><b>ECSSMET</b> — European Conference on Spacecraft Structures, Materials and Environmental Testing (7)</summary>
+
+| 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
+|---|---|---|---|---|
+| [2026](https://ecssmet2026.welcome-manager.de/front/content.php?id_article=562) | Braunschweig, Germany | Steigenberger Parkhotel Braunschweig | 2026-09-21 ~ 09-25 | 2026-05-08 |
+| [2024](https://atpi.eventsair.com/ecssmet2024/calendar-of-events) | Noordwijk, Netherlands | ESA-ESTEC | 2024-09-23 ~ 09-27 | 2024-04-05 |
+| [2023](https://ecssmet2023.com/) | Toulouse, France | – | 2023-03-28 ~ 03-30 | 2022-10-15 |
+| [2021](https://spaceoneers.io/events/16th-european-conference-on-spacecraft-structures-materials-and-environmental-testing-ecssmet2021/) | Virtual | Virtual (originally planned for 8-12 June 2020 in Braunschweig) | 2021-03-23 ~ 03-25 | – |
+| [2018](https://ntrs.nasa.gov/citations/20180004816) | Noordwijk, Netherlands | ESA-ESTEC | 2018-05-28 ~ 06-01 | – |
+| [2016](http://acuriousguy.blogspot.com/2016/08/a-preview-of-14th-european-conference.html) | Toulouse, France | Centre de Congrès Pierre Baudis | 2016-09-27 ~ 09-30 | – |
+| [2014](https://www.esa.int/TEC/Structures/SEMHOQLJC0F_0.html) | Braunschweig, Germany | Steigenberger Parkhotel Braunschweig | 2014-04-01 ~ 04-04 | – |
+
+</details>
+
 <details><summary><b>ESA GNC & ICATT</b> — ESA International Conference on Guidance, Navigation & Control Systems (GNC), joint with the International Conference on Astrodynamics Tools and Techniques (ICATT) since 2021 (7)</summary>
 
 | 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
@@ -171,6 +203,20 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [2017](https://insidegnss.com/guidance-navigation-and-control-2017-10th-esa-gnc-conference/) | Salzburg, Austria | Crowne Plaza Salzburg - The Pitter (10th GNC) | 2017-05-29 ~ 06-02 | – |
 | [2016](https://indico.esa.int/event/111) | Darmstadt, Germany | darmstadtium (6th ICATT, standalone) | 2016-03-14 ~ 03-17 | – |
 | [2014](https://tu-dresden.de/ing/elektrotechnik/ifa/at/forschung/publikationen/publikationen-2014) | Porto, Portugal | – | 2014-06-02 ~ 06-06 | – |
+
+</details>
+
+<details><summary><b>ESMATS</b> — European Space Mechanisms and Tribology Symposium (7)</summary>
+
+| 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
+|---|---|---|---|---|
+| [2027](https://esmats.eu/milan/) | Milan, Italy | – | 2027-10-06 ~ 10-08 | – |
+| [2025](https://www.esmats.eu/lausanne/agenda/) | Lausanne, Switzerland | SwissTech Convention Center (EPFL campus) | 2025-09-24 ~ 09-26 | – |
+| [2023](https://astronika.pl/we-are-hosting-esmats-2023/) | Warsaw, Poland | POLIN Museum of the History of Polish Jews | 2023-09-20 ~ 09-22 | – |
+| [2021](https://spaceoneers.io/events/19th-european-space-mechanisms-and-tribology-symposium/) | Virtual | Virtual (LetsGetDigital platform; afternoon sessions only) | 2021-09-20 ~ 09-24 | – |
+| [2019](https://www.esmats.eu/munich/) | Munich, Germany | Gasteig Cultural and Conference Centre | 2019-09-18 ~ 09-20 | – |
+| [2017](https://www.ebad.com/ebad-and-nea-electronics-to-exhibit-at-esmats-2017/) | Hatfield, United Kingdom | University of Hertfordshire | 2017-09-20 ~ 09-22 | – |
+| [2015](https://clok.uclan.ac.uk/view/creators/Buttery=3AMichael=3A=3A.html) | Bilbao, Spain | – | 2015-09-23 ~ 09-25 | – |
 
 </details>
 
@@ -282,6 +328,17 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [2017](https://www.iafastro.org/events/iac/iac-2017/) | Adelaide, Australia | Adelaide Convention Centre | 2017-09-25 ~ 09-29 | 2017-02-28 |
 | [2016](https://www.iafastro.org/events/iac/iac-2016/) | Guadalajara, Mexico | Expo Guadalajara | 2016-09-26 ~ 09-30 | 2016-02-29 |
 | [2015](https://iac2015.org/program/iac-2015-congress-at-a-glance/) | Jerusalem, Israel | International Convention Center (ICC Jerusalem / Binyanei HaUma) | 2015-10-12 ~ 10-16 | 2015-02-23 |
+
+</details>
+
+<details><summary><b>ISSS</b> — International Symposium on Space Sailing (International Symposium on Solar Sailing until 2019) (4)</summary>
+
+| 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
+|---|---|---|---|---|
+| [2025](https://tudelft.nl/lr/isss-2025) | Delft, Netherlands | Echo building, Delft University of Technology | 2025-06-30 ~ 07-04 | 2025-02-14 |
+| [2023](https://www.citytech.cuny.edu/isss2023/docs/ISSS2023_Second_Announcement.pdf) | New York, United States | New York City College of Technology (City Tech), CUNY, Brooklyn | 2023-06-05 ~ 06-09 | 2023-03-15 |
+| [2019](https://www.citytech.cuny.edu/isss2023/docs/presentations/Welcome_Remarks_Roman.pdf) | Aachen, Germany | FH Aachen University of Applied Sciences | 2019-07-30 ~ 08-02 | – |
+| [2017](https://www.citytech.cuny.edu/isss2023/docs/presentations/Welcome_Remarks_Roman.pdf) | Kyoto, Japan | Kyoto Research Park | 2017-01-17 ~ 01-20 | – |
 
 </details>
 

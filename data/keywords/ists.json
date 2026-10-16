@@ -2,7 +2,7 @@
  "id": "ists",
  "edition_analyzed": 2025,
  "method": "program-sessions",
- "method_note": "Counted the 116 oral technical sessions of the 35th ISTS (Tokushima, 12-18 Jul 2025) in the official Final Program paper list; 496 distinct paper numbers (2025-x-n-m) were counted across them. The technical poster session and the Student Finalist Session (S) were not counted; plenaries, NSAT/special events and the Spacecraft Control System Design Contest excluded. Sessions were mapped by their 19 official technical-session categories, refined per session for categories d (Astrodynamics/GNC), f (Small Satellite), k (Exploration), m and r and for session a-10 (Supersonic). Some session titles were reconstructed from the PDF's broken table layout. Each session = 1 unit split across at most 2 keywords. The next edition (36th, Toyama, July 2027) has not yet taken place. Keywords below 0.02 (air-propulsion, od-nav, osam, rovers, space-robotics; together 0.052 of session-units) were dropped and the remaining weights renormalized to sum to 1.",
+ "method_note": "Counted the 116 oral technical sessions of the 35th ISTS (Tokushima, 12-18 Jul 2025) in the official Final Program paper list; 496 distinct paper numbers (2025-x-n-m) were counted across them. The technical poster session and the Student Finalist Session (S) were not counted; plenaries, NSAT/special events and the Spacecraft Control System Design Contest excluded. Sessions were mapped by their 19 official technical-session categories, refined per session for categories d (Astrodynamics/GNC), f (Small Satellite), k (Exploration), m and r and for session a-10 (Supersonic). Some session titles were reconstructed from the PDF's broken table layout. Each session = 1 unit split across at most 2 keywords. The next edition (36th, Toyama, July 2027) has not yet taken place. Keywords below 0.02 (air-propulsion, od-nav, osam, rovers, space-robotics; together 0.052 of session-units) were dropped and the remaining weights renormalized to sum to 1. deployable-structures added 2026-10-16: from the same Final Program paper list, session c-1 (Membrane Structures, all 4 papers on membranes) and session c-4 (title reconstructed as 'Analysis and Design'; 4 of 6 papers on deployable booms/origami/thin-film deployment) were moved from structures to deployable-structures: 2/116 raw = 0.0172, x1/0.948 renormalization = 0.018, so structures 0.064 -> 0.046. Not counted because deployable papers are a minority of the session: c-2 (2 of 5: CFRP bistable boom, lattice beams for deployable structures), c-6 (2 of 5: CubeSat dipole antenna deployment mechanism, deployable mesh antenna), c-7 (1 of 4: 16U two-stage deployable solar panel), and f-10 Structure and Thermal Design 2 under smallsat (3 of 5 deployable/membrane-related, left under smallsat because the session title is generic small-satellite structure/thermal design).",
  "tracks": [
   {
    "name": "a) Chemical Propulsion and Air-breathing Engines",
@@ -142,8 +142,8 @@
   },
   {
    "id": "structures",
-   "weight": 0.064,
-   "evidence": "7 of 116 session-units: c) Materials and Structures (7)"
+   "weight": 0.046,
+   "evidence": "5 of 116 session-units: c) Materials and Structures (5 of its 7 sessions: c-2 Space Structures, c-3 Materials and Design, c-5 Vibration, c-6 Satellite Structures (1), c-7 Satellite Structures (2)); c-1 and c-4 moved to deployable-structures on 2026-10-16"
   },
   {
    "id": "aerodynamics",
@@ -199,6 +199,11 @@
    "id": "space-policy",
    "weight": 0.027,
    "evidence": "3 of 116 session-units: v) Space Law, Policy and History (3)"
+  },
+  {
+   "id": "deployable-structures",
+   "weight": 0.018,
+   "evidence": "2 of 116 session-units: c-1 Membrane Structures (4 papers: membrane shape estimation, wrinkle amplitude of tensioned membranes, wrinkles of boom-supported polygonal membranes, membrane surface accuracy compensation); c-4 Analysis and Design (4 of 6 papers deployable: origami deployable structures with multi-stable properties, gravity-compensation testing of deployable structures, extension boom for Comet Interceptor, deployment behavior of boom-deployable thin-film structure)"
   }
  ],
  "top_terms": [

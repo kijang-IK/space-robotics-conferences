@@ -86,6 +86,13 @@ aim,AIM,robotics,2024,"Boston, Massachusetts",,United States,North America,,2024
 aim,AIM,robotics,2025,Hangzhou,,China,Asia,,2025-07-14,2025-07-18,,https://ras.papercept.net/conferences/conferences/AIM25/program
 aim,AIM,robotics,2026,Genoa (Genova),,Italy,Europe,"Magazzini del Cotone, Porto Antico",2026-07-07,2026-07-10,2026-03-24,https://aim2026.com
 aim,AIM,robotics,2027,"Calgary, Alberta",,Canada,North America,,2027-06-29,2027-07-02,2027-01-26,https://aim2027.com/
+ams,AMS,space,2014,Baltimore,Maryland,United States,North America,Hyatt Regency Baltimore,2014-05-14,2014-05-16,,https://aeromechanisms.com/42nd-ams-program-2014/
+ams,AMS,space,2016,Santa Clara,California,United States,North America,Biltmore Hotel,2016-05-04,2016-05-06,,https://aeromechanisms.com/43rd-ams-program-2016/
+ams,AMS,space,2018,Cleveland,Ohio,United States,North America,Hilton Cleveland Downtown,2018-05-16,2018-05-18,,https://aeromechanisms.com/44th-ams-program-2018/
+ams,AMS,space,2020,Houston,Texas,United States,North America,Cancelled (COVID-19); proceedings published only,2020-05-13,2020-05-15,,https://ntrs.nasa.gov/citations/20205009766
+ams,AMS,space,2022,Virtual,,,,"Virtual (originally planned for Houston, hosted by NASA Johnson Space Center)",2022-05-11,2022-05-13,,https://eprints.soton.ac.uk/492356/1/46th_AMS_Proceedings_Final_1_.pdf
+ams,AMS,space,2024,Virginia Beach,Virginia,United States,North America,Virginia Beach Convention Center,2024-05-15,2024-05-17,,https://aeromechanisms.com/47th-ams-program-2024/
+ams,AMS,space,2026,Huntsville,Alabama,United States,North America,Von Braun Center,2026-05-13,2026-05-15,2025-11-30,https://aeromechanisms.com/48th-ams-program-2026/
 apisat,APISAT,aerospace,2009,Gifu,Gifu,Japan,Asia,,2009-11-04,2009-11-06,2009-06-20,https://www.aconf.org/conf_9389.html
 apisat,APISAT,aerospace,2010,Xi'an,Shaanxi,China,Asia,,2010-09-13,2010-09-15,,https://www.proceedings.com/24718.html
 apisat,APISAT,aerospace,2011,,,,,,,,,
@@ -134,6 +141,13 @@ corl,CoRL,robotics,2023,Atlanta,,United States,North America,,2023-11-06,2023-11
 corl,CoRL,robotics,2024,Munich,,Germany,Europe,,2024-11-06,2024-11-09,2024-06-06,https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml
 corl,CoRL,robotics,2025,Seoul,,South Korea,Asia,COEX Convention & Exhibition Center,2025-09-27,2025-09-30,2025-04-30,https://www.corl.org/contributions
 corl,CoRL,robotics,2026,Austin,,United States,North America,JW Marriott Austin / Hilton Austin (Bass Hall for reception),2026-11-09,2026-11-12,2026-05-28,https://2026.corl.org/contributions
+ecssmet,ECSSMET,space,2014,Braunschweig,Lower Saxony,Germany,Europe,Steigenberger Parkhotel Braunschweig,2014-04-01,2014-04-04,,https://www.esa.int/TEC/Structures/SEMHOQLJC0F_0.html
+ecssmet,ECSSMET,space,2016,Toulouse,Occitanie,France,Europe,Centre de Congrès Pierre Baudis,2016-09-27,2016-09-30,,http://acuriousguy.blogspot.com/2016/08/a-preview-of-14th-european-conference.html
+ecssmet,ECSSMET,space,2018,Noordwijk,South Holland,Netherlands,Europe,ESA-ESTEC,2018-05-28,2018-06-01,,https://ntrs.nasa.gov/citations/20180004816
+ecssmet,ECSSMET,space,2021,Virtual,,,,Virtual (originally planned for 8-12 June 2020 in Braunschweig),2021-03-23,2021-03-25,,https://spaceoneers.io/events/16th-european-conference-on-spacecraft-structures-materials-and-environmental-testing-ecssmet2021/
+ecssmet,ECSSMET,space,2023,Toulouse,Occitanie,France,Europe,,2023-03-28,2023-03-30,2022-10-15,https://ecssmet2023.com/
+ecssmet,ECSSMET,space,2024,Noordwijk,South Holland,Netherlands,Europe,ESA-ESTEC,2024-09-23,2024-09-27,2024-04-05,https://atpi.eventsair.com/ecssmet2024/calendar-of-events
+ecssmet,ECSSMET,space,2026,Braunschweig,Lower Saxony,Germany,Europe,Steigenberger Parkhotel Braunschweig,2026-09-21,2026-09-25,2026-05-08,https://ecssmet2026.welcome-manager.de/front/content.php?id_article=562
 esa-gnc-icatt,ESA GNC & ICATT,space,2014,Porto,,Portugal,Europe,,2014-06-02,2014-06-06,,https://tu-dresden.de/ing/elektrotechnik/ifa/at/forschung/publikationen/publikationen-2014
 esa-gnc-icatt,ESA GNC & ICATT,space,2016,Darmstadt,Hesse,Germany,Europe,"darmstadtium (6th ICATT, standalone)",2016-03-14,2016-03-17,,https://indico.esa.int/event/111
 esa-gnc-icatt,ESA GNC & ICATT,space,2017,Salzburg,,Austria,Europe,Crowne Plaza Salzburg - The Pitter (10th GNC),2017-05-29,2017-06-02,,https://insidegnss.com/guidance-navigation-and-control-2017-10th-esa-gnc-conference/
@@ -141,6 +155,13 @@ esa-gnc-icatt,ESA GNC & ICATT,space,2018,Oberpfaffenhofen (near Munich),Bavaria,
 esa-gnc-icatt,ESA GNC & ICATT,space,2021,Virtual,,,,Online (11th GNC & 8th ICATT),2021-06-21,2021-06-25,,https://gmv.com/en/communication/events/gnc-icatt-2021
 esa-gnc-icatt,ESA GNC & ICATT,space,2023,Sopot,Pomerania,Poland,Europe,,2023-06-12,2023-06-16,,https://indico.esa.int/event/449/
 esa-gnc-icatt,ESA GNC & ICATT,space,2026,Sevilla,Andalusia,Spain,Europe,Melia Sevilla (13th GNC & 10th ICATT),2026-09-28,2026-10-02,2026-02-27,https://atpi.eventsair.com/gncicatt/calendar-of-events
+esmats,ESMATS,space,2015,Bilbao,Basque Country,Spain,Europe,,2015-09-23,2015-09-25,,https://clok.uclan.ac.uk/view/creators/Buttery=3AMichael=3A=3A.html
+esmats,ESMATS,space,2017,Hatfield,Hertfordshire,United Kingdom,Europe,University of Hertfordshire,2017-09-20,2017-09-22,,https://www.ebad.com/ebad-and-nea-electronics-to-exhibit-at-esmats-2017/
+esmats,ESMATS,space,2019,Munich,Bavaria,Germany,Europe,Gasteig Cultural and Conference Centre,2019-09-18,2019-09-20,,https://www.esmats.eu/munich/
+esmats,ESMATS,space,2021,Virtual,,,,Virtual (LetsGetDigital platform; afternoon sessions only),2021-09-20,2021-09-24,,https://spaceoneers.io/events/19th-european-space-mechanisms-and-tribology-symposium/
+esmats,ESMATS,space,2023,Warsaw,Masovian Voivodeship,Poland,Europe,POLIN Museum of the History of Polish Jews,2023-09-20,2023-09-22,,https://astronika.pl/we-are-hosting-esmats-2023/
+esmats,ESMATS,space,2025,Lausanne,Vaud,Switzerland,Europe,SwissTech Convention Center (EPFL campus),2025-09-24,2025-09-26,,https://www.esmats.eu/lausanne/agenda/
+esmats,ESMATS,space,2027,Milan,Lombardy,Italy,Europe,,2027-10-06,2027-10-08,,https://esmats.eu/milan/
 eucass,EUCASS,aerospace,2015,Krakow,Lesser Poland,Poland,Europe,ICE Krakow Congress Centre,2015-06-29,2015-07-03,,https://www.eucass.eu/conferences-and-publications/archives/archives-eucass/eucass-2015-krakow
 eucass,EUCASS,aerospace,2017,Milan,Lombardy,Italy,Europe,"Politecnico di Milano, Bovisa Campus",2017-07-03,2017-07-06,,https://www.eucass.eu/conferences-and-publications/archives/archives-eucass/eucass-2017-milan/eucass-2017
 eucass,EUCASS,aerospace,2019,Madrid,Community of Madrid,Spain,Europe,ETSIAE-UPM School of Aeronautics and Space Engineering,2019-07-01,2019-07-04,2019-03-10,https://www.eucass.eu/2019/
@@ -308,6 +329,10 @@ iros,IROS,robotics,2028,Sydney,,Australia,Oceania,International Convention Centr
 isparo,iSpaRo,space-robotics,2024,Luxembourg City,,Luxembourg,Europe,Neumunster Abbey,2024-06-24,2024-06-27,2023-12-10,https://www.spacer.lu/isparo_24/call_for_papers
 isparo,iSpaRo,space-robotics,2025,Sendai,Miyagi,Japan,Asia,Sendai International Center,2025-12-01,2025-12-04,2025-08-12,https://www.isparo2025.space/
 isparo,iSpaRo,space-robotics,2026,Cologne,North Rhine-Westphalia,Germany,Europe,Confex Cologne (joint i-SAIRAS & iSpaRo),2026-11-03,2026-11-06,2026-06-24,https://www.isairas-isparo.de/front/content.php?id_article=583
+isss,ISSS,space,2017,Kyoto,Kyoto,Japan,Asia,Kyoto Research Park,2017-01-17,2017-01-20,,https://www.citytech.cuny.edu/isss2023/docs/presentations/Welcome_Remarks_Roman.pdf
+isss,ISSS,space,2019,Aachen,North Rhine-Westphalia,Germany,Europe,FH Aachen University of Applied Sciences,2019-07-30,2019-08-02,,https://www.citytech.cuny.edu/isss2023/docs/presentations/Welcome_Remarks_Roman.pdf
+isss,ISSS,space,2023,New York,New York,United States,North America,"New York City College of Technology (City Tech), CUNY, Brooklyn",2023-06-05,2023-06-09,2023-03-15,https://www.citytech.cuny.edu/isss2023/docs/ISSS2023_Second_Announcement.pdf
+isss,ISSS,space,2025,Delft,South Holland,Netherlands,Europe,"Echo building, Delft University of Technology",2025-06-30,2025-07-04,2025-02-14,https://tudelft.nl/lr/isss-2025
 ists,ISTS,space,2015,Kobe,Hyogo,Japan,Asia,Kobe Convention Center,2015-07-04,2015-07-10,,https://archive.ists.ne.jp/conference/past30/
 ists,ISTS,space,2017,Matsuyama,Ehime,Japan,Asia,Himegin Hall (Ehime Prefectural Citizens' Culture Center),2017-06-03,2017-06-09,,https://www.city.matsuyama.ehime.jp/shisei/keikaku/ists-ehime-matsuyama.files/istshoukoku1.pdf
 ists,ISTS,space,2019,Fukui,Fukui,Japan,Asia,,2019-06-15,2019-06-21,,https://cfml.eng.hokudai.ac.jp/en/news/news_20190613_en.html

@@ -2,7 +2,7 @@
   "id": "iaa-stc",
   "edition_analyzed": 2026,
   "method": "program-sessions",
-  "method_note": "Counted the 6 paper-presentation sessions (panels/themes) in the final agenda of the 12th Annual Space Traffic Conference \"Operational Assurance for All\" (UT Austin, 18-19 Feb 2026); 25 papers listed. Single-track conference; each session weighted equally and split 50/50 where two keywords apply. Keynotes, spotlight talks, the roundtable and the student panel excluded. Space traffic is the conference theme; the split shows most sessions are policy/regulatory/economic rather than technical.",
+  "method_note": "Counted the 6 paper-presentation sessions (panels/themes) in the final agenda of the 12th Annual Space Traffic Conference \"Operational Assurance for All\" (UT Austin, 18-19 Feb 2026); 25 papers listed. Single-track conference; each session weighted equally and split 50/50 where two keywords apply. Keynotes, spotlight talks, the roundtable and the student panel excluded. Space traffic is the conference theme; the split shows most sessions are policy/regulatory/economic rather than technical. deployable-structures: none found in the 6 sessions / 25 papers of the 2026 final agenda (checked 2026-10-16).",
   "tracks": [
     {
       "name": "Theme 1 / Panel A: Baselining",

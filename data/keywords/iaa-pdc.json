@@ -2,7 +2,7 @@
   "id": "iaa-pdc",
   "edition_analyzed": 2025,
   "method": "paper-counts",
-  "method_note": "Counted unique paper numbers (IAA-PDC-25-SS-NNN, SS = session) in the 9th IAA PDC (Stellenbosch, 5-9 May 2025) program dated 8 May 2025: 225 papers (oral + poster) across 11 numbered topical sessions. Paper counts chosen over session counts because the 10 oral sessions are single-track and differ widely in size. Weight = share of papers; sessions spanning two keywords split 50/50. Keynotes and 3 panel sessions (YR4/international collaboration, international disaster management, IYAAPD 2029) not counted. Planetary defense dominates by construction; secondary keywords show sub-themes (NEO survey/characterization science, missions, mission design, policy, education).",
+  "method_note": "Counted unique paper numbers (IAA-PDC-25-SS-NNN, SS = session) in the 9th IAA PDC (Stellenbosch, 5-9 May 2025) program dated 8 May 2025: 225 papers (oral + poster) across 11 numbered topical sessions. Paper counts chosen over session counts because the 10 oral sessions are single-track and differ widely in size. Weight = share of papers; sessions spanning two keywords split 50/50. Keynotes and 3 panel sessions (YR4/international collaboration, international disaster management, IYAAPD 2029) not counted. Planetary defense dominates by construction; secondary keywords show sub-themes (NEO survey/characterization science, missions, mission design, policy, education). deployable-structures: none found among the 225 PDC 2025 paper titles (the one solar-sailcraft paper, IAA-PDC-25-05-248, is about NEO reconnaissance missions, not sail structures; checked 2026-10-16).",
   "tracks": [
     {
       "name": "Session 1: Hypothetical Threat Exercise Technical Session",

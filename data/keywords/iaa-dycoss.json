@@ -2,7 +2,7 @@
   "id": "iaa-dycoss",
   "edition_analyzed": 2018,
   "method": "paper-counts",
-  "method_note": "DyCoSS is dormant (last edition: 4th, Changsha, 21-23 May 2018); no session-level program was found, so papers were counted from the table of contents of the proceedings (AAS Advances in the Astronautical Sciences vol. 165, Univelt; contents PDF retrieved from the Internet Archive because univelt.com returned HTTP 500 on 2026-10-16). 181 published papers (codes IAA-AAS-DyCoSS4-X-Y) in 8 topical sections; the foreword states 194 accepted papers in 15 parallel sessions (185 presented), grouped into these 8 topics. Weight = share of papers, 50/50 split for two-keyword sections.",
+  "method_note": "DyCoSS is dormant (last edition: 4th, Changsha, 21-23 May 2018); no session-level program was found, so papers were counted from the table of contents of the proceedings (AAS Advances in the Astronautical Sciences vol. 165, Univelt; contents PDF retrieved from the Internet Archive because univelt.com returned HTTP 500 on 2026-10-16). 181 published papers (codes IAA-AAS-DyCoSS4-X-Y) in 8 topical sections; the foreword states 194 accepted papers in 15 parallel sessions (185 presented), grouped into these 8 topics. Weight = share of papers, 50/50 split for two-keyword sections. deployable-structures added 2026-10-16: searched all 181 paper titles (and abstracts) in the vol. 165 contents PDF. Two papers are about deployable structures: DyCoSS4-3-31 (deployable membrane primary mirror mechanism; was spacecraft-gnc, -1/181) and DyCoSS4-7-2 (deployable CubeSat solar panels; was split 50/50 spacecraft-gnc/mechatronics, -0.5/181 each). Result: deployable-structures 2/181 = 0.011, spacecraft-gnc 0.453 -> 0.445, mechatronics 0.064 -> 0.061. The 6 'Space Structures and Tethers' papers are all about tethers and debris capture, so structures was unchanged. Not counted: DyCoSS4-3-25 (variable geometry truss, treated as a manipulator for compliance control) and the two solar-sail trajectory papers (trajectory topics).",
   "tracks": [
     {
       "name": "Satellite Constellations and Formation Flying",
@@ -56,8 +56,8 @@
   "keywords": [
     {
       "id": "spacecraft-gnc",
-      "weight": 0.453,
-      "evidence": "Satellite Constellations and Formation Flying (13 papers); Spacecraft Guidance, Navigation and Control (37 papers); Attitude Dynamics and Control (27 papers); Attitude Sensors and Actuators (23 papers)"
+      "weight": 0.445,
+      "evidence": "80.5 of 181 papers: Satellite Constellations and Formation Flying (13 papers, half = 6.5); Spacecraft Guidance, Navigation and Control (37 papers); Attitude Dynamics and Control (27 papers, of which 1 moved to deployable-structures = 26); Attitude Sensors and Actuators (23 papers, of which 1 moved to deployable-structures; half of 22 = 11)"
     },
     {
       "id": "astrodynamics",
@@ -81,8 +81,8 @@
     },
     {
       "id": "mechatronics",
-      "weight": 0.064,
-      "evidence": "Attitude Sensors and Actuators (23 papers)"
+      "weight": 0.061,
+      "evidence": "11 of 181 papers: Attitude Sensors and Actuators (23 papers, of which 1 moved to deployable-structures; half of 22 = 11)"
     },
     {
       "id": "ai-ml",
@@ -93,6 +93,11 @@
       "id": "structures",
       "weight": 0.033,
       "evidence": "Space Structures and Tethers (6 papers)"
+    },
+    {
+      "id": "deployable-structures",
+      "weight": 0.011,
+      "evidence": "2 of 181 papers: 'Attitude Regulating Mechanism Design and Analysis of Space Large Aperture Deployable Membrane Optical Primary Mirror' (IAA-AAS-DyCoSS4-3-31, Attitude Dynamics and Control); 'Thermal Distortion on Deployable Solar Panels of CubeSat in Low Earth Orbit' (IAA-AAS-DyCoSS4-7-2, Attitude Sensors and Actuators)"
     }
   ],
   "top_terms": [

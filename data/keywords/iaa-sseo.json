@@ -2,7 +2,7 @@
   "id": "iaa-sseo",
   "edition_analyzed": 2025,
   "method": "program-sessions",
-  "method_note": "Counted the 16 single-track oral sessions (Programmatics + Sessions 1-15) in the SSEO15 final programme (dated 3/4 May 2025; Berlin, 4-8 May 2025); 61 oral papers/talks listed in them. Each session weighted equally; split 50/50 where two keywords apply. Because every paper concerns small satellites, smallsat is paired with the session-specific theme (instruments, EO data, formation flying, production, education, beyond-LEO). Keynotes, the cybersecurity panel, the production panel, workshops and 2 poster sessions (~36 posters) excluded.",
+  "method_note": "Counted the 16 single-track oral sessions (Programmatics + Sessions 1-15) in the SSEO15 final programme (dated 3/4 May 2025; Berlin, 4-8 May 2025); 61 oral papers/talks listed in them. Each session weighted equally; split 50/50 where two keywords apply. Because every paper concerns small satellites, smallsat is paired with the session-specific theme (instruments, EO data, formation flying, production, education, beyond-LEO). Keynotes, the cybersecurity panel, the production panel, workshops and 2 poster sessions (~36 posters) excluded. deployable-structures: none found in the SSEO15 final programme sessions (only single papers in mixed sessions: deployable antennas in Session 7, a deployable infrared telescope in Session 13, a deployable thin-membrane antenna poster; checked 2026-10-16).",
   "tracks": [
     {
       "name": "Session: Programmatics (invited ESA/EU/DLR programme talks)",

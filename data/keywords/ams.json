@@ -1,0 +1,137 @@
+{
+ "id": "ams",
+ "edition_analyzed": 2026,
+ "method": "paper-counts",
+ "method_note": "Analyzed the 48th AMS (Huntsville, 13-15 May 2026), the most recent completed edition, from the official programme. It has 9 technical sessions with 37 papers: 28 full papers and 9 poster papers, the posters presented in the 'Poster Session Preview' rapid-fire session. Each paper is mapped from its title as 1 unit split across at most 2 keywords, because several session titles (Release Mechanisms, Instruments, Actuators & Gimbals) are not topical in taxonomy terms. Special presentations (HLS overview, Artemis II/SLS), courses and tours were excluded. Tribology papers are split 0.5 mechanisms / 0.5 structures (materials). Papers whose main subject is deployment map fully to deployable-structures, and papers with deployment as one aspect get 0.5. Keywords below 0.02 (mechatronics, rovers, space-comm; together 0.04 of paper-units) were dropped and the remaining weights renormalized to sum to 1.",
+ "tracks": [
+  {
+   "name": "Session I: Deployables",
+   "sessions": 1,
+   "papers": 6,
+   "url": "https://aeromechanisms.com/48th-ams-program-2026/"
+  },
+  {
+   "name": "Session II: Launch Vehicles",
+   "sessions": 1,
+   "papers": 2,
+   "url": "https://aeromechanisms.com/48th-ams-program-2026/"
+  },
+  {
+   "name": "Session III: Release Mechanisms",
+   "sessions": 1,
+   "papers": 3,
+   "url": "https://aeromechanisms.com/48th-ams-program-2026/"
+  },
+  {
+   "name": "Session IV: Poster Session Preview",
+   "sessions": 1,
+   "papers": 9,
+   "url": "https://aeromechanisms.com/48th-ams-program-2026/"
+  },
+  {
+   "name": "Session V: Docking",
+   "sessions": 1,
+   "papers": 3,
+   "url": "https://aeromechanisms.com/48th-ams-program-2026/"
+  },
+  {
+   "name": "Session VI: Tribology",
+   "sessions": 1,
+   "papers": 3,
+   "url": "https://aeromechanisms.com/48th-ams-program-2026/"
+  },
+  {
+   "name": "Session VII: Instruments",
+   "sessions": 1,
+   "papers": 3,
+   "url": "https://aeromechanisms.com/48th-ams-program-2026/"
+  },
+  {
+   "name": "Session VIII: Actuators & Gimbals",
+   "sessions": 1,
+   "papers": 3,
+   "url": "https://aeromechanisms.com/48th-ams-program-2026/"
+  },
+  {
+   "name": "Session IX: Space Exploration",
+   "sessions": 1,
+   "papers": 5,
+   "url": "https://aeromechanisms.com/48th-ams-program-2026/"
+  }
+ ],
+ "keywords": [
+  {
+   "id": "mechanisms",
+   "weight": 0.352,
+   "evidence": "12.5 of 37 paper-units: Session IV: Poster Session Preview (3); Session III: Release Mechanisms (2); Session IX: Space Exploration (2); Session VI: Tribology (1.5); Session VII: Instruments (1.5); Session VIII: Actuators & Gimbals (1.5); Session II: Launch Vehicles (0.5); Session V: Docking (0.5)"
+  },
+  {
+   "id": "deployable-structures",
+   "weight": 0.254,
+   "evidence": "9 of 37 paper-units: Session I: Deployables (4.5); Session IV: Poster Session Preview (3.5); Session V: Docking (0.5); Session IX: Space Exploration (0.5)"
+  },
+  {
+   "id": "exploration",
+   "weight": 0.099,
+   "evidence": "3.5 of 37 paper-units: Session IX: Space Exploration (2.5); Session VII: Instruments (1)"
+  },
+  {
+   "id": "launch",
+   "weight": 0.057,
+   "evidence": "2 of 37 paper-units: Session II: Launch Vehicles (1); Session I: Deployables (0.5); Session III: Release Mechanisms (0.5)"
+  },
+  {
+   "id": "osam",
+   "weight": 0.042,
+   "evidence": "1.5 of 37 paper-units: Session V: Docking (1.5)"
+  },
+  {
+   "id": "smallsat",
+   "weight": 0.042,
+   "evidence": "1.5 of 37 paper-units: Session IV: Poster Session Preview (1); Session I: Deployables (0.5)"
+  },
+  {
+   "id": "structures",
+   "weight": 0.042,
+   "evidence": "1.5 of 37 paper-units: Session VI: Tribology (1.5)"
+  },
+  {
+   "id": "human-spaceflight",
+   "weight": 0.028,
+   "evidence": "1 of 37 paper-units: Session II: Launch Vehicles (0.5); Session V: Docking (0.5)"
+  },
+  {
+   "id": "space-propulsion",
+   "weight": 0.028,
+   "evidence": "1 of 37 paper-units: Session IV: Poster Session Preview (0.5); Session VIII: Actuators & Gimbals (0.5)"
+  },
+  {
+   "id": "space-science",
+   "weight": 0.028,
+   "evidence": "1 of 37 paper-units: Session I: Deployables (0.5); Session III: Release Mechanisms (0.5)"
+  },
+  {
+   "id": "spacecraft-gnc",
+   "weight": 0.028,
+   "evidence": "1 of 37 paper-units: Session IV: Poster Session Preview (0.5); Session VII: Instruments (0.5)"
+  }
+ ],
+ "top_terms": [
+  "large deployable antennas and reflectors",
+  "solar array deployment dynamics",
+  "origami deployable telescopes and baffles",
+  "release, separation and pin-puller lessons learned",
+  "docking systems",
+  "space tribology (coatings, PFAS-free lubricants)",
+  "sample handling mechanisms (MSR, MMX, Dragonfly)",
+  "landing legs and landing gear",
+  "pointing mechanisms and gimbals",
+  "reaction wheels"
+ ],
+ "sources": [
+  "https://aeromechanisms.com/48th-ams-program-2026/",
+  "https://aeromechanisms.com/",
+  "https://www.esmats.eu/amspapers/"
+ ],
+ "retrieved": "2026-10-16"
+}

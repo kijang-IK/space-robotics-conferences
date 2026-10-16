@@ -2,7 +2,7 @@
   "id": "aiaa-ascend",
   "edition_analyzed": 2026,
   "method": "paper-counts",
-  "method_note": "ASCEND 2026 (Washington DC, May 2026) online program is offline. Counted technical papers per topic area from the 5 proceedings volumes 'Papers Presented at ASCEND 2026' (proceedings.com IDs 85702-85706): 125 papers, exactly matching the official recap ('125 Paper Presentations', 28 technical sessions). Only the technical-paper program is measured; the >250 panel/collaborative sessions (policy, economy, national security talks) are not counted. Each volume mapped to at most 2 keywords, so broad volumes (Space Programs and Technologies, 53 papers, which also contains ISAM, ISRU, launch, AI-operations papers) are coarsely mapped.",
+  "method_note": "ASCEND 2026 (Washington DC, May 2026) online program is offline. Counted technical papers per topic area from the 5 proceedings volumes 'Papers Presented at ASCEND 2026' (proceedings.com IDs 85702-85706): 125 papers, exactly matching the official recap ('125 Paper Presentations', 28 technical sessions). Only the technical-paper program is measured; the >250 panel/collaborative sessions (policy, economy, national security talks) are not counted. Each volume mapped to at most 2 keywords, so broad volumes (Space Programs and Technologies, 53 papers, which also contains ISAM, ISRU, launch, AI-operations papers) are coarsely mapped. deployable-structures added 2026-10-16: paper titles in the 5 ASCEND 2026 TOCs were screened; 1 paper (origami-based polyhedral structures, Space Exploration volume) fits, so weight = 1/125 = 0.008, taken 0.5/0.5 from exploration and human-spaceflight (the two keywords the Space Exploration volume was split across). Not counted: a solar-sail racing competition rationale paper (Space Economy), a DMD-based solar-sail attitude-control method and ISAM latching/assembly papers (Space Programs and Technologies).",
   "tracks": [
     {
       "name": "National Security Space",
@@ -38,8 +38,8 @@
   "keywords": [
     {
       "id": "exploration",
-      "weight": 0.388,
-      "evidence": "Space Exploration (22 papers); Space Programs and Technologies (26.5 papers)"
+      "weight": 0.384,
+      "evidence": "Space Exploration (21.5 papers); Space Programs and Technologies (26.5 papers)"
     },
     {
       "id": "space-systems",
@@ -48,8 +48,8 @@
     },
     {
       "id": "human-spaceflight",
-      "weight": 0.176,
-      "evidence": "Space Exploration (22 papers)"
+      "weight": 0.172,
+      "evidence": "Space Exploration (21.5 papers)"
     },
     {
       "id": "space-policy",
@@ -60,6 +60,11 @@
       "id": "ssa-debris",
       "weight": 0.056,
       "evidence": "National Security Space (4 papers); Space History, Society, and Policy (3 papers)"
+    },
+    {
+      "id": "deployable-structures",
+      "weight": 0.008,
+      "evidence": "1 of 125 papers: Integrated Locking Pattern for Origami-Based Polyhedral Structures (Space Exploration volume)"
     }
   ],
   "top_terms": [
@@ -81,7 +86,8 @@
     "https://www.proceedings.com/85706.html",
     "https://www.proceedings.com/85702.html",
     "https://www.proceedings.com/85703.html",
-    "https://www.proceedings.com/85705.html"
+    "https://www.proceedings.com/85705.html",
+    "https://www.proceedings.com/content/085/085704webtoc.pdf"
   ],
   "retrieved": "2026-10-16"
 }

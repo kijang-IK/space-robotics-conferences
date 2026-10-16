@@ -2,7 +2,7 @@
   "id": "rss",
   "edition_analyzed": 2026,
   "method": "program-sessions",
-  "method_note": "RSS 2026 (Sydney, 13–17 Jul 2026). Counted the 21 technical paper sessions named in the official accepted-papers table (each of the 210 papers is tagged with its session), grouping numbered series (e.g. Manipulation 1–3, Imitation learning 1–3, Navigation 1–2). Sessions hold 9–13 papers. Mixed sessions split 50/50: World Models & Memory (robot-learning/ai-ml), Navigation (motion-planning/field-robotics), Modeling and Optimization (control-theory/motion-planning), Perception and Estimation (perception/estimation), Robot & Sensor Design (mechanisms/mechatronics). Weight = session-equivalents / 21. Single-track conference, so session counts are small; mapping is the dataset author's judgement.",
+  "method_note": "RSS 2026 (Sydney, 13–17 Jul 2026). Counted the 21 technical paper sessions named in the official accepted-papers table (each of the 210 papers is tagged with its session), grouping numbered series (e.g. Manipulation 1–3, Imitation learning 1–3, Navigation 1–2). Sessions hold 9–13 papers. Mixed sessions split 50/50: World Models & Memory (robot-learning/ai-ml), Navigation (motion-planning/field-robotics), Modeling and Optimization (control-theory/motion-planning), Perception and Estimation (perception/estimation), Robot & Sensor Design (mechanisms/mechatronics). Weight = session-equivalents / 21. Single-track conference, so session counts are small; mapping is the dataset author's judgement. deployable-structures: none found in the 21 RSS 2026 session titles or the 210 accepted-paper titles (searched deploy/origami/fold/tensegrity/inflat/kirigami/extendable/boom; no matching topic).",
   "tracks": [
     {
       "name": "Manipulation 1–3",

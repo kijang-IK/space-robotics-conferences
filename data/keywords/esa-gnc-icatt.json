@@ -2,7 +2,7 @@
  "id": "esa-gnc-icatt",
  "edition_analyzed": 2026,
  "method": "program-sessions",
- "method_note": "Counted the 45 oral technical sessions (A/B/C blocks counted separately) of the joint 13th ESA GNC & 10th ICATT Conference (Sevilla, 28 Sep - 2 Oct 2026) from the official EventsAir final programme data; 166 oral presentations plus 34 posters (posters not weighted). Opening/closing speeches, the BLAST workshop (2 blocks), the Inter-Agency G&C V&V meeting (2 blocks) and social events were excluded. Each session = 1 unit split across at most 2 keywords; 'Academic Session' (mixed student papers) was split by its paper titles. Track names are the programme's session series (merged across #1/#2 and A/B/C).",
+ "method_note": "Counted the 45 oral technical sessions (A/B/C blocks counted separately) of the joint 13th ESA GNC & 10th ICATT Conference (Sevilla, 28 Sep - 2 Oct 2026) from the official EventsAir final programme data; 166 oral presentations plus 34 posters (posters not weighted). Opening/closing speeches, the BLAST workshop (2 blocks), the Inter-Agency G&C V&V meeting (2 blocks) and social events were excluded. Each session = 1 unit split across at most 2 keywords; 'Academic Session' (mixed student papers) was split by its paper titles. Track names are the programme's session series (merged across #1/#2 and A/B/C). deployable-structures: none found in the 2026 session titles or the EventsAir programme data (deployable appendages, flexible solar-array modes and deployable drag flaps appear only inside GNC paper abstracts; checked 2026-10-16).",
  "tracks": [
   {
    "name": "Current Missions",

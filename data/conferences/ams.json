@@ -1,0 +1,151 @@
+{
+  "id": "ams",
+  "short_name": "AMS",
+  "full_name": "Aerospace Mechanisms Symposium",
+  "category": "space",
+  "organizer": "Mechanisms Education Association (MEA), hosted by a rotating NASA center together with Lockheed Martin Space (e.g. NASA MSFC 2026, NASA LaRC 2024, NASA KSC 2028)",
+  "fields": [
+    "spacecraft and aircraft mechanisms (design, fabrication, test, operations)",
+    "deployment mechanisms (antennas, solar arrays, solar sails, instruments)",
+    "release, separation and docking mechanisms",
+    "pointing mechanisms, gimbals and actuators",
+    "tribology, bearings and lubrication",
+    "flight anomalies and lessons learned"
+  ],
+  "frequency": "Biennial (even years), alternating with ESMATS in odd years",
+  "typical_month": "May",
+  "official_url": "https://aeromechanisms.com/",
+  "submission": {
+    "type": "Summary of about 1000 words plus figures (4 pages max) e-mailed to the general chair; accepted authors write a 14-page paper (or 6-page poster paper) for NASA conference proceedings",
+    "typical_abstract_deadline": "Mid-to-late November of the year before (about 6 months before the symposium)",
+    "typical_final_deadline": "About 2 months before the symposium (mid-March)",
+    "notes": "48th AMS (2026): summaries originally due 16 Nov 2025, extended to 30 Nov 2025; authors notified late Nov 2025; final 14-page paper due 15 Mar 2026. Selection favours flown or fully tested hardware and lessons learned. The 49th AMS (NASA Kennedy Space Center, May 2028) had no call for papers yet as of 2026-10-16."
+  },
+  "next_edition": {
+    "year": 2028,
+    "city": null,
+    "country": "United States",
+    "start_date": null,
+    "end_date": null,
+    "abstract_deadline": null,
+    "status": "not yet announced",
+    "source": "https://aeromechanisms.com/",
+    "notes": "49th AMS, to be held at NASA Kennedy Space Center, Florida in May 2028, hosted with Lockheed Martin Space. Exact dates and the summary deadline were not announced as of 2026-10-16; by pattern summaries would be due around November 2027.",
+    "continent": "North America"
+  },
+  "editions": [
+    {
+      "year": 2014,
+      "city": "Baltimore",
+      "region": "Maryland",
+      "country": "United States",
+      "venue": "Hyatt Regency Baltimore",
+      "start_date": "2014-05-14",
+      "end_date": "2014-05-16",
+      "abstract_deadline": null,
+      "source": "https://aeromechanisms.com/42nd-ams-program-2014/",
+      "continent": "North America",
+      "notes": "42nd AMS, hosted by NASA Goddard Space Flight Center and Lockheed Martin; proceedings NASA/CP-2014-217519."
+    },
+    {
+      "year": 2016,
+      "city": "Santa Clara",
+      "region": "California",
+      "country": "United States",
+      "venue": "Biltmore Hotel",
+      "start_date": "2016-05-04",
+      "end_date": "2016-05-06",
+      "abstract_deadline": null,
+      "source": "https://aeromechanisms.com/43rd-ams-program-2016/",
+      "continent": "North America",
+      "notes": "43rd AMS, hosted by NASA Ames Research Center and Lockheed Martin; proceedings NASA/CP-2016-219090 (https://ntrs.nasa.gov/citations/20160004038)."
+    },
+    {
+      "year": 2018,
+      "city": "Cleveland",
+      "region": "Ohio",
+      "country": "United States",
+      "venue": "Hilton Cleveland Downtown",
+      "start_date": "2018-05-16",
+      "end_date": "2018-05-18",
+      "abstract_deadline": null,
+      "source": "https://aeromechanisms.com/44th-ams-program-2018/",
+      "continent": "North America",
+      "notes": "44th AMS, hosted by NASA Glenn Research Center and Lockheed Martin; proceedings NASA/CP-2018-219887 (https://ntrs.nasa.gov/citations/20180002828)."
+    },
+    {
+      "year": 2020,
+      "city": "Houston",
+      "region": "Texas",
+      "country": "United States",
+      "venue": "Cancelled (COVID-19); proceedings published only",
+      "start_date": "2020-05-13",
+      "end_date": "2020-05-15",
+      "abstract_deadline": null,
+      "source": "https://ntrs.nasa.gov/citations/20205009766",
+      "continent": "North America",
+      "notes": "45th AMS. It was scheduled for Houston on 13-15 May 2020 but no meeting took place because of the COVID-19 pandemic; only the proceedings (NASA/CP-20205009766) were published. The dates shown are the scheduled ones. A later plan to hold it on 2-4 Dec 2020 (per https://www.esmats.eu/munich/) also did not go ahead."
+    },
+    {
+      "year": 2022,
+      "city": "Virtual",
+      "region": null,
+      "country": null,
+      "venue": "Virtual (originally planned for Houston, hosted by NASA Johnson Space Center)",
+      "start_date": "2022-05-11",
+      "end_date": "2022-05-13",
+      "abstract_deadline": null,
+      "source": "https://eprints.soton.ac.uk/492356/1/46th_AMS_Proceedings_Final_1_.pdf",
+      "continent": null,
+      "notes": "46th AMS; proceedings NASA/CP-2022-20220006415 (per https://aeromechanisms.com/past-symposia/)."
+    },
+    {
+      "year": 2024,
+      "city": "Virginia Beach",
+      "region": "Virginia",
+      "country": "United States",
+      "venue": "Virginia Beach Convention Center",
+      "start_date": "2024-05-15",
+      "end_date": "2024-05-17",
+      "abstract_deadline": null,
+      "source": "https://aeromechanisms.com/47th-ams-program-2024/",
+      "continent": "North America",
+      "notes": "47th AMS, hosted by NASA Langley Research Center and Lockheed Martin Space; proceedings NASA/CP-20240005548."
+    },
+    {
+      "year": 2026,
+      "city": "Huntsville",
+      "region": "Alabama",
+      "country": "United States",
+      "venue": "Von Braun Center",
+      "start_date": "2026-05-13",
+      "end_date": "2026-05-15",
+      "abstract_deadline": "2025-11-30",
+      "source": "https://aeromechanisms.com/48th-ams-program-2026/",
+      "continent": "North America",
+      "notes": "48th AMS, hosted by NASA Marshall Space Flight Center and Lockheed Martin Space. The summary deadline was extended from 16 Nov 2025 to 30 Nov 2025 (https://aeromechanisms.com/). The AMS past-symposia page lists 15-17 May 2026, but the official programme and the call for papers both give 13-15 May 2026."
+    }
+  ],
+  "sources": [
+    "https://aeromechanisms.com/",
+    "https://aeromechanisms.com/past-symposia/",
+    "https://aeromechanisms.com/past-programs/",
+    "https://aeromechanisms.com/48th-ams-program-2026/",
+    "https://aeromechanisms.com/47th-ams-program-2024/",
+    "https://aeromechanisms.com/44th-ams-program-2018/",
+    "https://aeromechanisms.com/43rd-ams-program-2016/",
+    "https://aeromechanisms.com/42nd-ams-program-2014/",
+    "https://www.esmats.eu/lausanne/ams-2026/",
+    "https://ntrs.nasa.gov/citations/20205009766",
+    "https://ntrs.nasa.gov/citations/20180002828",
+    "https://ntrs.nasa.gov/citations/20160004038",
+    "https://ntrs.nasa.gov/citations/20240005548",
+    "https://eprints.soton.ac.uk/492356/1/46th_AMS_Proceedings_Final_1_.pdf",
+    "https://www.esmats.eu/munich/"
+  ],
+  "notes": "The AMS is often described as 'NASA/Lockheed'. Formally it is organised by the non-profit Mechanisms Education Association, with a NASA center and Lockheed Martin Space as hosts, and the proceedings appear as NASA Conference Publications. Papers are archived at https://www.esmats.eu/amspapers/. The 48th AMS (2026) opened with a dedicated 'Deployables' session (6 papers), and its poster session included several origami/deployable telescope and hinge papers. Summary deadlines for 2014-2024 were not found. The 45th (2020) was cancelled, with proceedings only, and the 46th (2022) was held virtually.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

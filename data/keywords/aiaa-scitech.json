@@ -2,7 +2,7 @@
   "id": "aiaa-scitech",
   "edition_analyzed": 2026,
   "method": "paper-counts",
-  "method_note": "The SciTech 2026 online program (ATIV planner, id AIAASCITECH26) is offline ('Planner is currently unavailable') and the 2025 planner likewise; ARC is behind bot protection. Counted papers per AIAA technical discipline from the 65 discipline proceedings volumes 'Papers Presented at the AIAA SCITECH 2026 Forum' (Curran/proceedings.com IDs 85118-85182), counting table-of-contents entries: 2842 papers total (AIAA states ~3,000 presentations). Each discipline mapped to at most 2 keywords. Terrestrial Energy (28 papers) has no taxonomy match and was excluded, so weights are over 2814 papers. Keywords below 0.02 omitted (weights sum ~0.91). Fluid-dynamics-heavy disciplines dominate; AIAA GNC and Intelligent Systems volumes mix aircraft and spacecraft topics (split 50/50).",
+  "method_note": "The SciTech 2026 online program (ATIV planner, id AIAASCITECH26) is offline ('Planner is currently unavailable') and the 2025 planner likewise; ARC is behind bot protection. Counted papers per AIAA technical discipline from the 65 discipline proceedings volumes 'Papers Presented at the AIAA SCITECH 2026 Forum' (Curran/proceedings.com IDs 85118-85182), counting table-of-contents entries: 2842 papers total (AIAA states ~3,000 presentations). Each discipline mapped to at most 2 keywords. Terrestrial Energy (28 papers) has no taxonomy match and was excluded, so weights are over 2814 papers. Keywords below 0.02 omitted (weights sum ~0.91). Fluid-dynamics-heavy disciplines dominate; AIAA GNC and Intelligent Systems volumes mix aircraft and spacecraft topics (split 50/50). deployable-structures added 2026-10-16: paper titles in the same 2026 discipline TOCs were screened for deployable booms/masts/trusses, deployable antennas/reflectors, membrane/inflatable, origami/kirigami, solar-sail hardware and deployment mechanisms; 26 space-structures papers were moved out of their discipline's keywords (22 Spacecraft Structures papers split 11/11 from structures and space-systems; 2 Structures and 1 Adaptive Structures papers from structures; 1 Space Exploration paper from exploration), so weight = 26/2814 = 0.00924 and the overall sum is unchanged. It is kept although below the file's 0.02 cutoff. Excluded: aircraft items (thick-origami deployable wing, inflatable wings), entry heatshields/decelerators, solar-sail trajectory papers in Space Flight Mechanics, and a Multi-Layer Plate Deployment mechanism whose application could not be confirmed as space.",
   "tracks": [
     {
       "name": "Adaptive Structures",
@@ -403,8 +403,8 @@
     },
     {
       "id": "structures",
-      "weight": 0.109,
-      "evidence": "Adaptive Structures (32 papers); Materials (68 papers); Non-Deterministic Approaches (25 papers); Spacecraft Structures (21 papers); Structural Dynamics (82 papers); Structures (78 papers)"
+      "weight": 0.10403,
+      "evidence": "Adaptive Structures (31 papers); Materials (68 papers); Non-Deterministic Approaches (25 papers); Spacecraft Structures (10 papers); Structural Dynamics (82 papers); Structures (76 papers)"
     },
     {
       "id": "air-propulsion",
@@ -432,11 +432,6 @@
       "evidence": "Intelligent Systems (78.5 papers); Uncrewed and Autonomous Systems (21 papers)"
     },
     {
-      "id": "space-systems",
-      "weight": 0.029,
-      "evidence": "Aerospace Power Systems (11 papers); Digital Engineering (12.5 papers); Spacecraft Structures (21 papers); Space Logistics and Supportability (11 papers); Space Operations and Support (12 papers); Systems Engineering (14 papers)"
-    },
-    {
       "id": "spacecraft-gnc",
       "weight": 0.028,
       "evidence": "Guidance, Navigation, and Control (79.5 papers)"
@@ -452,9 +447,14 @@
       "evidence": "Intelligent Systems (78.5 papers)"
     },
     {
+      "id": "space-systems",
+      "weight": 0.02509,
+      "evidence": "Aerospace Power Systems (11 papers); Digital Engineering (12.5 papers); Spacecraft Structures (10 papers); Space Logistics and Supportability (11 papers); Space Operations and Support (12 papers); Systems Engineering (14 papers)"
+    },
+    {
       "id": "exploration",
-      "weight": 0.022,
-      "evidence": "Space Colonization, Resources, and Tethers (5 papers); Space Exploration (56 papers)"
+      "weight": 0.02164,
+      "evidence": "Space Colonization, Resources, and Tethers (5 papers); Space Exploration (55 papers)"
     },
     {
       "id": "astrodynamics",
@@ -465,6 +465,11 @@
       "id": "trajectory",
       "weight": 0.021,
       "evidence": "Space Flight Mechanics (58 papers)"
+    },
+    {
+      "id": "deployable-structures",
+      "weight": 0.00924,
+      "evidence": "26 of 2814 papers: Spacecraft Structures (22 of 42: Self-Aware Deployable RF Antennas With Integrated Shape Sensing; Kirigami Film Reflector for Deployable Space Antennas; Fan-Fold Deployable Reflector for X-Band Satellite SAR; SUM Deployable Antenna; Folding and Deployment Simulation of Elastically Foldable Flat Arrays; Deployable Solar Sail Boom; Bistable Ultrathin Composite Booms in LEO; Deployable Space Trusses with Collapsible Tubular Masts; Flattenable and Rollable Booms; Bistable Spacecraft Booms load estimation; Deployable Composite Toroid Holding a Circular Membrane; Deployment Mechanism for Collapsible Tube Masts; Origami-Inspired Folding into Deployable Composite Shells; Elastically Foldable Flat Structure With Prestressed Diagonals; Kresling Origami Chains Under Impact Loading; Deployable Multilayer Origami-inspired Telescope Shrouds; Single-DOF Space Structures Combining Origami and Deployable Shells; Thin Films on Deployable Structures Using Kirigami Borders; Lightweight Deployable Millimeter-Wave MetaLens; Woven Textile Deployable Reflect-Array Antenna; A Photonic Sail of Utmost Simplicity: The Ribbon; Solar Sail Control Using Tunable Buckling of Kirigami Films); Structures (2: 30-Meter Triangular Rollable and Collapsible Composite Deployable Boom; Thermoviscoelastic CFRP Bistable Boom); Adaptive Structures (1: Origami Architectures for Reconfigurable Space Antenna Design); Space Exploration (1: Kirigami/Origami Actuators for Solar Sail Attitude Control)"
     }
   ],
   "top_terms": [
@@ -485,7 +490,11 @@
     "https://www.proceedings.com/85168.html",
     "https://www.proceedings.com/85141.html",
     "https://www.proceedings.com/american-institute-for-aeronautics-and-astronautics-aiaa/?page=3",
-    "https://aiaa.org/tag/65-topics/"
+    "https://aiaa.org/tag/65-topics/",
+    "https://www.proceedings.com/content/085/085164webtoc.pdf",
+    "https://www.proceedings.com/content/085/085172webtoc.pdf",
+    "https://www.proceedings.com/content/085/085118webtoc.pdf",
+    "https://www.proceedings.com/content/085/085167webtoc.pdf"
   ],
   "retrieved": "2026-10-16"
 }

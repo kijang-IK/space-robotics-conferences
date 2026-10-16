@@ -2,7 +2,7 @@
   "id": "aas-aiaa-asc",
   "edition_analyzed": 2026,
   "method": "program-sessions",
-  "method_note": "Counted oral technical sessions in the official 2026 ASC program (Whistler, 26-30 Jul 2026) 'Daily Session Decision Grids': 55 sessions (52 regular + 3 special sessions/panels); the poster session was excluded. The program lists 363 unique paper numbers (incl. posters). Numbered session series were grouped into their official topic tracks; each session split across at most 2 taxonomy keywords (0.5/0.5). Keywords below 0.02 omitted (space-robotics 0.009, space-science 0.009), so weights sum slightly below 1.",
+  "method_note": "Counted oral technical sessions in the official 2026 ASC program (Whistler, 26-30 Jul 2026) 'Daily Session Decision Grids': 55 sessions (52 regular + 3 special sessions/panels); the poster session was excluded. The program lists 363 unique paper numbers (incl. posters). Numbered session series were grouped into their official topic tracks; each session split across at most 2 taxonomy keywords (0.5/0.5). Keywords below 0.02 omitted (space-robotics 0.009, space-science 0.009), so weights sum slightly below 1. deployable-structures: none found in the 2026 ASC session titles (Daily Session Decision Grids); sail-related papers (e.g. origami-inspired diffractive sails, ACS3 solar-sail calibration, solar-sail transfers) sit in trajectory/optimal-control/dynamics sessions and concern dynamics and trajectories, so no session was reassigned.",
   "tracks": [
     {
       "name": "Trajectory Design and Optimization (I-X)",

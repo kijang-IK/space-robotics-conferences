@@ -2,7 +2,7 @@
   "id": "icuas",
   "edition_analyzed": 2026,
   "method": "program-sessions",
-  "method_note": "ICUAS 2026 (Corfu, Jun 15-18, 2026) PaperCept program. Counted 31 technical sessions (28 Regular + 3 Invited, 185 papers), grouping numbered series (e.g. \"Control Architectures I-III\"). Excluded: Best Paper Award Finalists session (6 papers), tutorials, plenaries, UAV competition, awards luncheon. Because every session is about unmanned aircraft, each session was mapped to \"uav\" plus (where present) its specific topic, split equally (max 2 keywords); weight = sessions mapped / 31. All counted sessions were mapped. Keywords below 0.02 omitted; listed weights sum to 0.982.",
+  "method_note": "ICUAS 2026 (Corfu, Jun 15-18, 2026) PaperCept program. Counted 31 technical sessions (28 Regular + 3 Invited, 185 papers), grouping numbered series (e.g. \"Control Architectures I-III\"). Excluded: Best Paper Award Finalists session (6 papers), tutorials, plenaries, UAV competition, awards luncheon. Because every session is about unmanned aircraft, each session was mapped to \"uav\" plus (where present) its specific topic, split equally (max 2 keywords); weight = sessions mapped / 31. All counted sessions were mapped. Keywords below 0.02 omitted; listed weights sum to 0.982. deployable-structures: none found in the 31 ICUAS 2026 counted session titles or their paper titles (searched deploy/origami/fold/tensegrity/inflat/kirigami/extendable/boom; the 'Aerial Soft Robotics' item is an excluded tutorial).",
   "tracks": [
     {
       "name": "Control Architectures",

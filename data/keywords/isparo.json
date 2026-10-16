@@ -2,7 +2,7 @@
  "id": "isparo",
  "edition_analyzed": 2025,
  "method": "program-sessions",
- "method_note": "Counted the 18 regular technical (oral) sessions of iSpaRo 2025 (Sendai, 1-4 Dec 2025) in the IEEE RAS PaperCept program (ICRS25); keynotes and the 4 half-day workshops (WS1-WS4) excluded. Each session = 1 unit, split across at most 2 keywords using session titles plus paper titles. 101 papers in 17 sessions plus at least 4 in C-6, whose full count was not captured (so the paper count for that track is null). The joint i-SAIRAS/iSpaRo 2026 edition (Cologne, 3-6 Nov 2026) has not yet taken place.",
+ "method_note": "Counted the 18 regular technical (oral) sessions of iSpaRo 2025 (Sendai, 1-4 Dec 2025) in the IEEE RAS PaperCept program (ICRS25); keynotes and the 4 half-day workshops (WS1-WS4) excluded. Each session = 1 unit, split across at most 2 keywords using session titles plus paper titles. 101 papers in 17 sessions plus at least 4 in C-6, whose full count was not captured (so the paper count for that track is null). The joint i-SAIRAS/iSpaRo 2026 edition (Cologne, 3-6 Nov 2026) has not yet taken place. deployable-structures added 2026-10-16: session A-2 'In-Space Manufacturing, Assembly, and Deployment', previously 1 unit of osam, names deployment in its title and has 2 of 6 papers on solar/antenna array folding and deployable mechanisms, so it was split 50/50 osam/deployable-structures (0.5/18 = 0.028; osam 0.083 -> 0.055). Single deployable-related papers in other sessions (solar sail attitude control via control boom, inflatable robotic arm IDRA, origami-based covers for rovers) were not counted.",
  "tracks": [
   {
    "name": "Manipulation in Space",
@@ -106,8 +106,8 @@
   },
   {
    "id": "osam",
-   "weight": 0.083,
-   "evidence": "1.5 of 18 session-units: In-Space Manufacturing, Assembly, and Deployment (1); Orbital Servicing and Debris Removal (0.5)"
+   "weight": 0.055,
+   "evidence": "1 of 18 session-units: In-Space Manufacturing, Assembly, and Deployment (0.5); Orbital Servicing and Debris Removal (0.5)"
   },
   {
    "id": "manipulation",
@@ -153,6 +153,11 @@
    "id": "hri",
    "weight": 0.028,
    "evidence": "0.5 of 18 session-units: Telerobotics and Planetary Simulation (0.5)"
+  },
+  {
+   "id": "deployable-structures",
+   "weight": 0.028,
+   "evidence": "0.5 of 18 session-units: A-2 In-Space Manufacturing, Assembly, and Deployment (0.5; 2 of its 6 papers are on deployment: 'Novel Folding Method for Flexible Planes with Non-Negligible Thickness for Autonomous Solar and Antenna Array Deployment'; 'A Microgravity Experiment for Validating Rigid-Body Simulation of Deployable Mechanisms')"
   }
  ],
  "top_terms": [

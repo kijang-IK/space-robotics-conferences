@@ -1,0 +1,246 @@
+{
+ "id": "ecssmet",
+ "edition_analyzed": 2026,
+ "method": "program-sessions",
+ "method_note": "Counted the 51 titled oral technical sessions of ECSSMET 2026 (Braunschweig, 21-25 Sep 2026) in the official Final Programme, with 171 talks. The poster session (8 posters), the four workshops (Load Derivation, Acoustic Testing and DFAN, Thermo-elastic Design, Digitalisation), plenaries and exhibitions were excluded. Each session = 1 unit split across at most 2 keywords. Structures/materials/dynamics/manufacturing sessions map to structures. Mechanical environmental-test sessions (acoustic incl. DFAT = direct field acoustic testing, shock, shaker/vibration, static load, test prediction, design & verification) are split 0.5 structures / 0.5 space-systems (AIT/verification). Thermal testing maps to space-systems. 'Deployable structures' maps to deployable-structures. 'Mechanism Testing' is split 0.5 mechanisms / 0.5 deployable-structures, because 5 of its 9 talks concern deployment (landing-gear deployment, deployable reflector, tape-spring hinges, large solar-array deployment). 'In flight experiments' is split 0.5 space-systems / 0.5 deployable-structures (2 of 3 talks are boom/mast deployment). Demise and Sustainable Spacecraft Structures are split 0.5 ssa-debris / 0.5 structures, and micro-vibration 0.5 structures / 0.5 spacecraft-gnc (line-of-sight stability). Four further deployable talks sit in non-deployable sessions (large deployable reflector qualification and analysis, deployable telescopic baffle, torque margins for deployables), so deployable-structures is somewhat under-counted. Keywords below 0.02 (spacecraft-gnc, ssa-debris; together 0.04 of session-units) were dropped and the remaining weights renormalized to sum to 1.",
+ "tracks": [
+  {
+   "name": "Composite Design",
+   "sessions": 3,
+   "papers": 8,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Deployable structures",
+   "sessions": 3,
+   "papers": 12,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Design and verification",
+   "sessions": 3,
+   "papers": 9,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Mechanism Testing",
+   "sessions": 3,
+   "papers": 9,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Structure design",
+   "sessions": 3,
+   "papers": 10,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Additive manufacturing",
+   "sessions": 2,
+   "papers": 8,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "DFAT (direct field acoustic testing)",
+   "sessions": 2,
+   "papers": 8,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Material properties",
+   "sessions": 2,
+   "papers": 8,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Micro vibration",
+   "sessions": 2,
+   "papers": 6,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Shaker Test Prediction and Testing",
+   "sessions": 2,
+   "papers": 6,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Shock testing",
+   "sessions": 2,
+   "papers": 6,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Structural dynamics",
+   "sessions": 2,
+   "papers": 8,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Thermal testing",
+   "sessions": 2,
+   "papers": 6,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Acoustic testing",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Additive layer manufacturing process",
+   "sessions": 1,
+   "papers": 3,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "ALM Design",
+   "sessions": 1,
+   "papers": 2,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Buckling",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Cryogenic",
+   "sessions": 1,
+   "papers": 2,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Demise",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Dynamic",
+   "sessions": 1,
+   "papers": 3,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "In flight experiments",
+   "sessions": 1,
+   "papers": 3,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Margin policies",
+   "sessions": 1,
+   "papers": 2,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Material",
+   "sessions": 1,
+   "papers": 3,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Material imperfections",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Production",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Static load test & Test data evaluation",
+   "sessions": 1,
+   "papers": 3,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Structural analysis and simulation",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Structure engineering",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Structure optimization",
+   "sessions": 1,
+   "papers": 2,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Sustainable Spacecraft Structures",
+   "sessions": 1,
+   "papers": 5,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Test Prediction and Testing",
+   "sessions": 1,
+   "papers": 3,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Thermoelastic",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  },
+  {
+   "name": "Vibration testing",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578"
+  }
+ ],
+ "keywords": [
+  {
+   "id": "structures",
+   "weight": 0.684,
+   "evidence": "33.5 of 51 session-units: Composite Design (3); Structure design (3); Structural dynamics (2); Material properties (2); Additive manufacturing (2); Design and verification (1.5); DFAT (direct field acoustic testing) (1); Structural analysis and simulation (1); Material (1); Shock testing (1); ALM Design (1); Material imperfections (1); Shaker Test Prediction and Testing (1); Structure engineering (1); Margin policies (1); Production (1); Thermoelastic (1); Micro vibration (1); Buckling (1); Additive layer manufacturing process (1); Dynamic (1); Cryogenic (1); Structure optimization (1); Demise (0.5); Sustainable Spacecraft Structures (0.5); Acoustic testing (0.5); Vibration testing (0.5); Static load test & Test data evaluation (0.5); Test Prediction and Testing (0.5)"
+  },
+  {
+   "id": "space-systems",
+   "weight": 0.184,
+   "evidence": "9 of 51 session-units: Thermal testing (2); Design and verification (1.5); DFAT (direct field acoustic testing) (1); Shock testing (1); Shaker Test Prediction and Testing (1); Acoustic testing (0.5); Vibration testing (0.5); In flight experiments (0.5); Static load test & Test data evaluation (0.5); Test Prediction and Testing (0.5)"
+  },
+  {
+   "id": "deployable-structures",
+   "weight": 0.102,
+   "evidence": "5 of 51 session-units: Deployable structures (3); Mechanism Testing (1.5); In flight experiments (0.5)"
+  },
+  {
+   "id": "mechanisms",
+   "weight": 0.03,
+   "evidence": "1.5 of 51 session-units: Mechanism Testing (1.5)"
+  }
+ ],
+ "top_terms": [
+  "deployable booms and masts (bistable, lenticular, coiled)",
+  "large deployable reflectors and antennas",
+  "rollable / roll-out solar arrays",
+  "direct field acoustic testing (DFAT)",
+  "shock and shaker test prediction",
+  "additive layer manufacturing",
+  "composite structure design",
+  "micro-vibration",
+  "design for demise",
+  "buckling and structural optimization"
+ ],
+ "sources": [
+  "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=578",
+  "https://ecssmet2026.welcome-manager.de/",
+  "https://ecssmet2026.welcome-manager.de/front/content.php?id_article=575"
+ ],
+ "retrieved": "2026-10-16"
+}

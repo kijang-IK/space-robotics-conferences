@@ -2,7 +2,7 @@
   "id": "icra",
   "edition_analyzed": 2026,
   "method": "paper-counts",
-  "method_note": "ICRA 2026 (Vienna, 1–5 Jun 2026) uses a mostly interactive format: the PaperPlaza program lists only 24 titled oral sessions (20 Regular + 4 Award Finalist, 216 papers); 2604 papers sit in 6 untitled 'Interactive Session' blocks plus 131 Late Breaking Results. Session titles therefore cover only ~7% of papers, so paper-level counts were used instead. Counted: the FIRST (primary) author-selected IEEE RAS keyword of every program entry that lists keywords in the PaperPlaza content lists (2898 of 2951 entries, incl. oral, award, interactive and LBR papers). Each of 230 distinct RAS keywords was mapped by hand to 1 taxonomy id (or split 50/50 across 2); 71 papers whose primary keyword has no taxonomy fit (e.g. Simulation and Animation, Performance Evaluation and Benchmarking, software/architecture keywords) were excluded, leaving 2827. Because RAS keywords have no foundation-model term, any paper whose title matches VLA/VLM/LLM/vision-language/language model/foundation model (165 papers) is split 0.5 foundation-models + 0.5 its keyword topic. Weights = paper-equivalents / 2827; ids below 0.02 omitted (estimation 0.014, space-robotics 0.009 = 25 paper-equivalents, primary keyword 'Space Robotics and Automation'; one oral session was titled 'Field and Space Robotics', phm, education). Mapping is the dataset author's judgement, not ICRA's.",
+  "method_note": "ICRA 2026 (Vienna, 1–5 Jun 2026) uses a mostly interactive format: the PaperPlaza program lists only 24 titled oral sessions (20 Regular + 4 Award Finalist, 216 papers); 2604 papers sit in 6 untitled 'Interactive Session' blocks plus 131 Late Breaking Results. Session titles therefore cover only ~7% of papers, so paper-level counts were used instead. Counted: the FIRST (primary) author-selected IEEE RAS keyword of every program entry that lists keywords in the PaperPlaza content lists (2898 of 2951 entries, incl. oral, award, interactive and LBR papers). Each of 230 distinct RAS keywords was mapped by hand to 1 taxonomy id (or split 50/50 across 2); 71 papers whose primary keyword has no taxonomy fit (e.g. Simulation and Animation, Performance Evaluation and Benchmarking, software/architecture keywords) were excluded, leaving 2827. Because RAS keywords have no foundation-model term, any paper whose title matches VLA/VLM/LLM/vision-language/language model/foundation model (165 papers) is split 0.5 foundation-models + 0.5 its keyword topic. Weights = paper-equivalents / 2827; ids below 0.02 omitted (estimation 0.014, space-robotics 0.009 = 25 paper-equivalents, primary keyword 'Space Robotics and Automation'; one oral session was titled 'Field and Space Robotics', phm, education). Mapping is the dataset author's judgement, not ICRA's. deployable-structures added 2026-10-16: searched all 2898 PaperPlaza titles for deploy/origami/fold/tensegrity/inflat/kirigami/extendable/boom/membrane/tape spring/truss and hand-picked 22 papers (in the 2827-paper denominator) whose primary topic is an origami/kirigami, tensegrity, tape-spring or foldable deployable structure or a deployment mechanism (excluded: cloth folding, software 'deployment', inflatable grippers/sensors, transformable wheel-legs; 'Self-Folding Robots' paper skipped because its primary keyword was outside the denominator). Each was subtracted from the id of its primary RAS keyword: soft-robotics 7, mechanisms 7, medical-robotics 2, field-robotics 2, hri 1, legged-humanoid 1, mechatronics 1, uav 1; weight 22/2827 = 0.008, kept although below the 0.02 display cut-off.",
   "tracks": [
     {
       "name": "Oral session: Award Finalists 1–4",
@@ -507,23 +507,23 @@
     },
     {
       "id": "medical-robotics",
-      "weight": 0.059,
-      "evidence": "166.0 paper-equivalents; main primary keywords: Medical Robots and Systems (68), Rehabilitation Robotics (14), Prosthetics and Exoskeletons (13), Surgical Robotics: Steerable Catheters/Needles (12), Wearable Robotics (12)"
+      "weight": 0.058,
+      "evidence": "164.0 paper-equivalents; main primary keywords: Medical Robots and Systems (68), Rehabilitation Robotics (14), Prosthetics and Exoskeletons (13), Surgical Robotics: Steerable Catheters/Needles (12), Wearable Robotics (12); 2 origami/tensegrity/deployable-structure papers moved to deployable-structures 2026-10-16 (was 166.0; keyword counts above are raw primary-keyword tallies)"
     },
     {
       "id": "field-robotics",
-      "weight": 0.058,
-      "evidence": "162.8 paper-equivalents; main primary keywords: Marine Robotics (49), Vision-Based Navigation (45), Field Robots (41), Robotics and Automation in Agriculture and Forestry (21), Search and Rescue Robots (7)"
+      "weight": 0.057,
+      "evidence": "160.8 paper-equivalents; main primary keywords: Marine Robotics (49), Vision-Based Navigation (45), Field Robots (41), Robotics and Automation in Agriculture and Forestry (21), Search and Rescue Robots (7); 2 origami/tensegrity/deployable-structure papers moved to deployable-structures 2026-10-16 (was 162.8; keyword counts above are raw primary-keyword tallies)"
     },
     {
       "id": "hri",
-      "weight": 0.058,
-      "evidence": "163.0 paper-equivalents; main primary keywords: Telerobotics and Teleoperation (25), Human-Robot Collaboration (22), Haptics and Haptic Interfaces (17), Physical Human-Robot Interaction (16), Human-Aware Motion Planning (11)"
+      "weight": 0.057,
+      "evidence": "162.0 paper-equivalents; main primary keywords: Telerobotics and Teleoperation (25), Human-Robot Collaboration (22), Haptics and Haptic Interfaces (17), Physical Human-Robot Interaction (16), Human-Aware Motion Planning (11); 1 origami/tensegrity/deployable-structure paper moved to deployable-structures 2026-10-16 (was 163.0; keyword counts above are raw primary-keyword tallies)"
     },
     {
       "id": "mechanisms",
-      "weight": 0.045,
-      "evidence": "126.0 paper-equivalents; main primary keywords: Mechanism Design (28), Grippers and Other End-Effectors (22), Biologically-Inspired Robots (19), Tendon/Wire Mechanism (12), Actuation and Joint Mechanisms (11)"
+      "weight": 0.042,
+      "evidence": "119.0 paper-equivalents; main primary keywords: Mechanism Design (28), Grippers and Other End-Effectors (22), Biologically-Inspired Robots (19), Tendon/Wire Mechanism (12), Actuation and Joint Mechanisms (11); 7 origami/tensegrity/deployable-structure papers moved to deployable-structures 2026-10-16 (was 126.0; keyword counts above are raw primary-keyword tallies)"
     },
     {
       "id": "multi-robot",
@@ -538,22 +538,17 @@
     {
       "id": "legged-humanoid",
       "weight": 0.037,
-      "evidence": "106.0 paper-equivalents; main primary keywords: Legged Robots (47), Humanoid and Bipedal Locomotion (34), Humanoid Robot Systems (12), Human and Humanoid Motion Analysis and Synthesis (6), Whole-Body Motion Planning and Control (5)"
+      "evidence": "105.0 paper-equivalents; main primary keywords: Legged Robots (47), Humanoid and Bipedal Locomotion (34), Humanoid Robot Systems (12), Human and Humanoid Motion Analysis and Synthesis (6), Whole-Body Motion Planning and Control (5); 1 origami/tensegrity/deployable-structure paper moved to deployable-structures 2026-10-16 (was 106.0; keyword counts above are raw primary-keyword tallies)"
     },
     {
       "id": "uav",
       "weight": 0.036,
-      "evidence": "103.0 paper-equivalents; main primary keywords: Aerial Systems: Applications (40), Aerial Systems: Mechanics and Control (33), Aerial Systems: Perception and Autonomy (30)"
+      "evidence": "102.0 paper-equivalents; main primary keywords: Aerial Systems: Applications (40), Aerial Systems: Mechanics and Control (33), Aerial Systems: Perception and Autonomy (30); 1 origami/tensegrity/deployable-structure paper moved to deployable-structures 2026-10-16 (was 103.0; keyword counts above are raw primary-keyword tallies)"
     },
     {
       "id": "autonomous-vehicles",
       "weight": 0.032,
       "evidence": "91.3 paper-equivalents; main primary keywords: Intelligent Transportation Systems (44), Autonomous Vehicle Navigation (41), Computer Vision for Transportation (22)"
-    },
-    {
-      "id": "soft-robotics",
-      "weight": 0.031,
-      "evidence": "86.5 paper-equivalents; main primary keywords: Modeling, Control, and Learning for Soft Robots (31), Soft Robot Applications (23), Soft Robot Materials and Design (21), Soft Sensors and Actuators (12)"
     },
     {
       "id": "ai-ml",
@@ -566,19 +561,29 @@
       "evidence": "165 ICRA 2026 papers whose titles mention VLA/VLM/LLM/vision-language/language model/foundation model (each counted 0.5 here, 0.5 to its primary-keyword topic); 82.5 paper-equivalents"
     },
     {
+      "id": "soft-robotics",
+      "weight": 0.028,
+      "evidence": "79.5 paper-equivalents; main primary keywords: Modeling, Control, and Learning for Soft Robots (31), Soft Robot Applications (23), Soft Robot Materials and Design (21), Soft Sensors and Actuators (12); 7 origami/tensegrity/deployable-structure papers moved to deployable-structures 2026-10-16 (was 86.5; keyword counts above are raw primary-keyword tallies)"
+    },
+    {
       "id": "automation",
       "weight": 0.024,
       "evidence": "68.0 paper-equivalents; main primary keywords: Industrial Robots (15), Robotics and Automation in Construction (9), Assembly (6), Intelligent and Flexible Manufacturing (6), Automation at Micro-Nano Scales (5)"
     },
     {
       "id": "mechatronics",
-      "weight": 0.024,
-      "evidence": "67.0 paper-equivalents; main primary keywords: Force and Tactile Sensing (47), Micro/Nano Robots (14), Embedded Systems for Robotic and Automation (5), Sensor Networks (1)"
+      "weight": 0.023,
+      "evidence": "66.0 paper-equivalents; main primary keywords: Force and Tactile Sensing (47), Micro/Nano Robots (14), Embedded Systems for Robotic and Automation (5), Sensor Networks (1); 1 origami/tensegrity/deployable-structure paper moved to deployable-structures 2026-10-16 (was 67.0; keyword counts above are raw primary-keyword tallies)"
     },
     {
       "id": "autonomy",
       "weight": 0.023,
       "evidence": "65.8 paper-equivalents; main primary keywords: Planning under Uncertainty (17), Autonomous Agents (14), Task Planning (12), Formal Methods in Robotics and Automation (9), Agent-Based Systems (8)"
+    },
+    {
+      "id": "deployable-structures",
+      "weight": 0.008,
+      "evidence": "22.0 paper-equivalents of 2827: papers whose primary topic is an origami/kirigami, tensegrity, tape-spring/foldable deployable structure or a deployment mechanism, e.g. \"Steerable High-Jumping Tensegrity Robot for Space Exploration\"; \"Stowable Tape Spring Truss Leg for Robotic Mobility\"; \"Nezha-X: A Self-Foldable HAUV That Can Launch from a Tube\"; \"A Passive Elastic-Folding Mechanism for Stackable Airdrop Sensors\"; \"Architected Vacuum Driven Origami Structures Via Direct Ink Writing of RTV Silicone\"; 7 tensegrity papers, 10 origami/kirigami papers, 5 foldable/tape-spring/deployment-mechanism papers"
     }
   ],
   "top_terms": [

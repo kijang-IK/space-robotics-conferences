@@ -2,7 +2,7 @@
  "id": "astra",
  "edition_analyzed": 2023,
  "method": "program-sessions",
- "method_note": "The most recent edition, ASTRA 2025 (Leiden, 7-9 Oct 2025), has published proceedings (about 107 papers listed by paper ID at roboshare.esa.int) but no session programme could be found, so the 2023 edition (17th ASTRA, Leiden, 18-20 Oct 2023) was analysed. Counted 23 parallel technical sessions with 74 presentations from the official EventsAir programme data. Excluded: Session 1 'Programmatics' (invited agency talks), plenary talks, poster/exhibition slots and the invited-only IOS Workshop. Each session = 1 unit split across at most 2 keywords.",
+ "method_note": "The most recent edition, ASTRA 2025 (Leiden, 7-9 Oct 2025), has published proceedings (about 107 papers listed by paper ID at roboshare.esa.int) but no session programme could be found, so the 2023 edition (17th ASTRA, Leiden, 18-20 Oct 2023) was analysed. Counted 23 parallel technical sessions with 74 presentations from the official EventsAir programme data. Excluded: Session 1 'Programmatics' (invited agency talks), plenary talks, poster/exhibition slots and the invited-only IOS Workshop. Each session = 1 unit split across at most 2 keywords. deployable-structures: none found in the ASTRA 2023 session titles or the EventsAir programme data (no presentation title on deployable structures or deployment mechanisms; checked 2026-10-16).",
  "tracks": [
   {
    "name": "Robotic Testbeds",

@@ -2,7 +2,7 @@
   "id": "ur",
   "edition_analyzed": 2026,
   "method": "program-sessions",
-  "method_note": "UR 2026 (Ibaraki, Osaka, Jul 15-18, 2026) PaperCept program. Counted the 24 topical \"Regular session\" oral sessions (104 papers; every session title is unique, 3-5 papers each). Excluded: Award Session (4 papers, not topical), 2 Work-In-Progress interactive sessions (59 papers), 2 Late Breaking Results sessions (46 papers), plenaries/keynotes/workshops. Each session split equally across at most 2 keywords; weight = sessions mapped / 24. All counted sessions were mapped. Small sample: one session is about 0.045 of the weight. Keywords below 0.02 omitted; listed weights sum to 1.003.",
+  "method_note": "UR 2026 (Ibaraki, Osaka, Jul 15-18, 2026) PaperCept program. Counted the 24 topical \"Regular session\" oral sessions (104 papers; every session title is unique, 3-5 papers each). Excluded: Award Session (4 papers, not topical), 2 Work-In-Progress interactive sessions (59 papers), 2 Late Breaking Results sessions (46 papers), plenaries/keynotes/workshops. Each session split equally across at most 2 keywords; weight = sessions mapped / 24. All counted sessions were mapped. Small sample: one session is about 0.045 of the weight. Keywords below 0.02 omitted; listed weights sum to 1.003. deployable-structures: none found at session level in UR 2026: no session title fits; only 'Design of Tensegrity-Based Humanoid Robot' (1 of 4 papers in regular session ThuAT3) and an origami-pump paper in an excluded WIP interactive session match, so no session is even half on the topic.",
   "tracks": [
     {
       "name": "Vision-Language Guided Manipulation",

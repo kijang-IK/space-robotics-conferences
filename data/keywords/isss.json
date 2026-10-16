@@ -1,0 +1,173 @@
+{
+ "id": "isss",
+ "edition_analyzed": 2025,
+ "method": "program-sessions",
+ "method_note": "Counted the 15 oral technical sessions of the 7th ISSS (TU Delft, 30 Jun-4 Jul 2025) in the official Final Programme, with 53 talks. The keynote (ACS3 flight lessons), the two invited special sessions ('Space-Based Geoengineering', 'Space-Based Solar Power') and the poster session (17 posters, several duplicating oral talks) were excluded. Each session = 1 unit split across at most 2 keywords. Sail-as-propulsion performance and concept sessions map to space-propulsion. Sailcraft design/deployment maps to deployable-structures. TS2 (flight-readiness of Solar Cruiser, CubeSat light sails and a drag-sail module) is split deployable-structures/smallsat. TS10 (sail and solar-array membranes) is split deployable-structures/structures. T12 (large membrane and origami deployable reflectors, orbit-structure coupling) is split deployable-structures/astrodynamics. No keyword fell below 0.02.",
+ "tracks": [
+  {
+   "name": "TS1: History of space sailing",
+   "sessions": 1,
+   "papers": 1,
+   "url": "https://filelist.tudelft.nl/LR/Subsites/ISSS%202025/ISSS2025_Programme_update.pdf"
+  },
+  {
+   "name": "TS2: Technology/Flight Readiness Review",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://filelist.tudelft.nl/LR/Subsites/ISSS%202025/ISSS2025_Programme_update.pdf"
+  },
+  {
+   "name": "TS3: Performance Modeling",
+   "sessions": 1,
+   "papers": 3,
+   "url": "https://filelist.tudelft.nl/LR/Subsites/ISSS%202025/ISSS2025_Programme_update.pdf"
+  },
+  {
+   "name": "TS4: Mission Concepts",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://filelist.tudelft.nl/LR/Subsites/ISSS%202025/ISSS2025_Programme_update.pdf"
+  },
+  {
+   "name": "TS5: Attitude Control",
+   "sessions": 1,
+   "papers": 5,
+   "url": "https://filelist.tudelft.nl/LR/Subsites/ISSS%202025/ISSS2025_Programme_update.pdf"
+  },
+  {
+   "name": "TS6: Trajectory Design and Optimization - 1",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://filelist.tudelft.nl/LR/Subsites/ISSS%202025/ISSS2025_Programme_update.pdf"
+  },
+  {
+   "name": "TS7: Sailcraft Design and Deployment",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://filelist.tudelft.nl/LR/Subsites/ISSS%202025/ISSS2025_Programme_update.pdf"
+  },
+  {
+   "name": "TS8: Trajectory Design and Optimization - 2",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://filelist.tudelft.nl/LR/Subsites/ISSS%202025/ISSS2025_Programme_update.pdf"
+  },
+  {
+   "name": "TS9: Sunshade applications",
+   "sessions": 1,
+   "papers": 3,
+   "url": "https://filelist.tudelft.nl/LR/Subsites/ISSS%202025/ISSS2025_Programme_update.pdf"
+  },
+  {
+   "name": "TS10: Sail Materials",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://filelist.tudelft.nl/LR/Subsites/ISSS%202025/ISSS2025_Programme_update.pdf"
+  },
+  {
+   "name": "TS11: Futuristic Concepts",
+   "sessions": 1,
+   "papers": 2,
+   "url": "https://filelist.tudelft.nl/LR/Subsites/ISSS%202025/ISSS2025_Programme_update.pdf"
+  },
+  {
+   "name": "T12: Solar Reflectors",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://filelist.tudelft.nl/LR/Subsites/ISSS%202025/ISSS2025_Programme_update.pdf"
+  },
+  {
+   "name": "TS13: Mission Analysis and Design",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://filelist.tudelft.nl/LR/Subsites/ISSS%202025/ISSS2025_Programme_update.pdf"
+  },
+  {
+   "name": "TS14: Advanced Space-sail Applications - 1",
+   "sessions": 1,
+   "papers": 4,
+   "url": "https://filelist.tudelft.nl/LR/Subsites/ISSS%202025/ISSS2025_Programme_update.pdf"
+  },
+  {
+   "name": "TS15: Advanced Space-sail Applications - 2",
+   "sessions": 1,
+   "papers": 3,
+   "url": "https://filelist.tudelft.nl/LR/Subsites/ISSS%202025/ISSS2025_Programme_update.pdf"
+  }
+ ],
+ "keywords": [
+  {
+   "id": "space-systems",
+   "weight": 0.2,
+   "evidence": "3 of 15 session-units: TS9: Sunshade applications (1); TS1: History of space sailing (0.5); TS4: Mission Concepts (0.5); TS11: Futuristic Concepts (0.5); TS15: Advanced Space-sail Applications - 2 (0.5)"
+  },
+  {
+   "id": "trajectory",
+   "weight": 0.2,
+   "evidence": "3 of 15 session-units: TS6: Trajectory Design and Optimization - 1 (1); TS8: Trajectory Design and Optimization - 2 (1); TS3: Performance Modeling (0.5); TS13: Mission Analysis and Design (0.5)"
+  },
+  {
+   "id": "deployable-structures",
+   "weight": 0.167,
+   "evidence": "2.5 of 15 session-units: TS7: Sailcraft Design and Deployment (1); TS2: Technology/Flight Readiness Review (0.5); TS10: Sail Materials (0.5); T12: Solar Reflectors (0.5)"
+  },
+  {
+   "id": "space-propulsion",
+   "weight": 0.133,
+   "evidence": "2 of 15 session-units: TS1: History of space sailing (0.5); TS3: Performance Modeling (0.5); TS11: Futuristic Concepts (0.5); TS14: Advanced Space-sail Applications - 1 (0.5)"
+  },
+  {
+   "id": "spacecraft-gnc",
+   "weight": 0.1,
+   "evidence": "1.5 of 15 session-units: TS5: Attitude Control (1); TS14: Advanced Space-sail Applications - 1 (0.5)"
+  },
+  {
+   "id": "astrodynamics",
+   "weight": 0.035,
+   "evidence": "0.5 of 15 session-units: T12: Solar Reflectors (0.5)"
+  },
+  {
+   "id": "exploration",
+   "weight": 0.033,
+   "evidence": "0.5 of 15 session-units: TS15: Advanced Space-sail Applications - 2 (0.5)"
+  },
+  {
+   "id": "smallsat",
+   "weight": 0.033,
+   "evidence": "0.5 of 15 session-units: TS2: Technology/Flight Readiness Review (0.5)"
+  },
+  {
+   "id": "space-science",
+   "weight": 0.033,
+   "evidence": "0.5 of 15 session-units: TS4: Mission Concepts (0.5)"
+  },
+  {
+   "id": "ssa-debris",
+   "weight": 0.033,
+   "evidence": "0.5 of 15 session-units: TS13: Mission Analysis and Design (0.5)"
+  },
+  {
+   "id": "structures",
+   "weight": 0.033,
+   "evidence": "0.5 of 15 session-units: TS10: Sail Materials (0.5)"
+  }
+ ],
+ "top_terms": [
+  "solar sail attitude control (shape control, ballast, reflectivity devices)",
+  "solar sail trajectory optimization",
+  "Solar Cruiser and ACS3 flight experience",
+  "sail deployment systems",
+  "sail membrane materials and degradation",
+  "drag sails for deorbiting",
+  "planetary sunshades at L1",
+  "orbiting solar reflectors",
+  "electric and diffractive sails",
+  "laser-driven lightsails"
+ ],
+ "sources": [
+  "https://filelist.tudelft.nl/LR/Subsites/ISSS%202025/ISSS2025_Programme_update.pdf",
+  "https://tudelft.nl/lr/isss-2025",
+  "https://filelist.tudelft.nl/LR/Subsites/ISSS%202025/ISSS2025_BookOfAbstracts_update.pdf"
+ ],
+ "retrieved": "2026-10-16"
+}

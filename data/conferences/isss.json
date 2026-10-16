@@ -1,0 +1,105 @@
+{
+  "id": "isss",
+  "short_name": "ISSS",
+  "full_name": "International Symposium on Space Sailing (International Symposium on Solar Sailing until 2019)",
+  "category": "space",
+  "organizer": "International Committee for space/solar sailing (members from TU Delft, Univ. of Glasgow, FH Aachen, DLR, NASA, NYC College of Technology, Polytechnic Univ. of Bari, etc.), with a rotating host institution",
+  "fields": [
+    "solar sails, drag sails, electric and magnetic sails",
+    "sail membranes, booms and deployment",
+    "sailcraft attitude control",
+    "trajectory design and optimization",
+    "mission concepts (sunshades, solar reflectors, debris removal)",
+    "flight demonstrations (ACS3, Solar Cruiser, CubeSat sails)"
+  ],
+  "frequency": "Every 2-4 years (2007, 2010, 2013, 2017, 2019, 2023, 2025)",
+  "typical_month": "Varies (January, June-August)",
+  "official_url": "https://tudelft.nl/lr/isss-2025",
+  "submission": {
+    "type": "Abstract submission for oral or poster presentation; full papers optional (not required to present)",
+    "typical_abstract_deadline": "About 3-4.5 months before the symposium",
+    "typical_final_deadline": "Around or shortly after the symposium (optional paper)",
+    "notes": "2025: abstract deadline 14 Feb 2025, notification 28 Feb 2025, optional paper deadline 18 Jul 2025. 2023: abstract submission open 21 Nov 2022 to 15 Mar 2023, papers due 5 Apr 2023."
+  },
+  "next_edition": {
+    "year": null,
+    "city": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "abstract_deadline": null,
+    "status": "not yet announced",
+    "source": "https://tudelft.nl/lr/isss-2025",
+    "notes": "No 8th ISSS host, dates or call had been found as of 2026-10-16. Intervals between editions have ranged from 2 to 4 years, so the year is not inferred.",
+    "continent": null
+  },
+  "editions": [
+    {
+      "year": 2017,
+      "city": "Kyoto",
+      "region": "Kyoto",
+      "country": "Japan",
+      "venue": "Kyoto Research Park",
+      "start_date": "2017-01-17",
+      "end_date": "2017-01-20",
+      "abstract_deadline": null,
+      "source": "https://www.citytech.cuny.edu/isss2023/docs/presentations/Welcome_Remarks_Roman.pdf",
+      "continent": "Asia",
+      "notes": "4th International Symposium on Solar Sailing (ISSS 2017). Dates also in NTRS: https://ntrs.nasa.gov/citations/20170001488"
+    },
+    {
+      "year": 2019,
+      "city": "Aachen",
+      "region": "North Rhine-Westphalia",
+      "country": "Germany",
+      "venue": "FH Aachen University of Applied Sciences",
+      "start_date": "2019-07-30",
+      "end_date": "2019-08-02",
+      "abstract_deadline": null,
+      "source": "https://www.citytech.cuny.edu/isss2023/docs/presentations/Welcome_Remarks_Roman.pdf",
+      "continent": "Europe",
+      "notes": "5th International Symposium on Solar Sailing (ISSS 2019). Dates also in https://eprints.gla.ac.uk/191892; a COMPASS news post (https://www.compass.polimi.it/news/compass-at-5th-isss-2019/) reportedly says '30th June', apparently a typo."
+    },
+    {
+      "year": 2023,
+      "city": "New York",
+      "region": "New York",
+      "country": "United States",
+      "venue": "New York City College of Technology (City Tech), CUNY, Brooklyn",
+      "start_date": "2023-06-05",
+      "end_date": "2023-06-09",
+      "abstract_deadline": "2023-03-15",
+      "source": "https://www.citytech.cuny.edu/isss2023/docs/ISSS2023_Second_Announcement.pdf",
+      "continent": "North America",
+      "notes": "6th International Symposium on Space Sailing; the first under the 'Space Sailing' name."
+    },
+    {
+      "year": 2025,
+      "city": "Delft",
+      "region": "South Holland",
+      "country": "Netherlands",
+      "venue": "Echo building, Delft University of Technology",
+      "start_date": "2025-06-30",
+      "end_date": "2025-07-04",
+      "abstract_deadline": "2025-02-14",
+      "source": "https://tudelft.nl/lr/isss-2025",
+      "continent": "Europe",
+      "notes": "7th International Symposium on Space Sailing, chaired by Jeannette Heiligers (TU Delft)."
+    }
+  ],
+  "sources": [
+    "https://tudelft.nl/lr/isss-2025",
+    "https://filelist.tudelft.nl/LR/Subsites/ISSS%202025/ISSS2025_Programme_update.pdf",
+    "https://www.citytech.cuny.edu/isss2023/",
+    "https://www.citytech.cuny.edu/isss2023/docs/ISSS2023_Second_Announcement.pdf",
+    "https://www.citytech.cuny.edu/isss2023/docs/presentations/Welcome_Remarks_Roman.pdf",
+    "https://ntrs.nasa.gov/citations/20170001488",
+    "https://eprints.gla.ac.uk/191892",
+    "https://arxiv.org/pdf/2411.12492"
+  ],
+  "notes": "The series was the 'International Symposium on Solar Sailing' (Herrsching 2007, New York 2010, Glasgow 2013, Kyoto 2017, Aachen 2019) and was renamed the 'International Symposium on Space Sailing' from 2023 to cover drag, electric, magnetic and beamed-energy sails. No edition was held in 2014-2016, 2018 or 2020-2022. Abstract deadlines for 2017 and 2019 were not found. There is no permanent website, so official_url points to the latest edition. The 2025 programme has a dedicated 'Sailcraft Design and Deployment' session plus 'Sail Materials' (membranes, deployable solar arrays) and an origami deployable reflector talk.",
+  "verification": {
+    "claude": "researched 2026-10-16",
+    "gpt": null
+  }
+}

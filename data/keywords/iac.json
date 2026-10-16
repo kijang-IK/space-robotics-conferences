@@ -2,7 +2,7 @@
   "id": "iac",
   "edition_analyzed": 2026,
   "method": "program-sessions",
-  "method_note": "IAC 2026 (77th IAC, Antalya, Turkiye, 5-9 Oct 2026). Counted the oral technical sessions listed under the 34 symposia A1-E11 in the official IAF congress browser (iafastro.directory/iac/browse/IAC-26/). The IP/IPB interactive-presentation and LBA late-breaking blocks were excluded. Joint sessions appear in two symposia (e.g. A5.3 = B3.6, A6.8 = E9.1, C3.5 = C4.10) and the GTS Global Technical Sessions all duplicate B2/B3/B4/E2/E6 sessions, so each was counted once: 218 listings became 204 unique sessions. Each session was mapped to 1-2 taxonomy keywords from its title, split equally when there were two. Caveats: the taxonomy has no keyword for space power (C3), operations (B6), safety/quality (D5) or cybersecurity, so these went to space-systems or phm. History (E4), business (E6) and law (E7) went to space-policy. Arts, museums and terminology went to education. Keywords below 0.02 were dropped (osam=0.007, space-robotics=0.005, od-nav=0.017, stm=0.007, astrodynamics=0.015, ai-ml=0.002, autonomy=0.002, trajectory=0.012, mechanisms=0.002, control-theory=0.002, automation=0.002, air-propulsion=0.002, phm=0.01, planetary-defense=0.012); the kept raw session fractions summed to 0.9 and were renormalized to sum to 1 (raw counts are in each evidence string). Session counts per symposium in 'tracks' include joint sessions in each symposium that lists them.",
+  "method_note": "IAC 2026 (77th IAC, Antalya, Turkiye, 5-9 Oct 2026). Counted the oral technical sessions listed under the 34 symposia A1-E11 in the official IAF congress browser (iafastro.directory/iac/browse/IAC-26/). The IP/IPB interactive-presentation and LBA late-breaking blocks were excluded. Joint sessions appear in two symposia (e.g. A5.3 = B3.6, A6.8 = E9.1, C3.5 = C4.10) and the GTS Global Technical Sessions all duplicate B2/B3/B4/E2/E6 sessions, so each was counted once: 218 listings became 204 unique sessions. Each session was mapped to 1-2 taxonomy keywords from its title, split equally when there were two. Caveats: the taxonomy has no keyword for space power (C3), operations (B6), safety/quality (D5) or cybersecurity, so these went to space-systems or phm. History (E4), business (E6) and law (E7) went to space-policy. Arts, museums and terminology went to education. Keywords below 0.02 were dropped (osam=0.007, space-robotics=0.005, od-nav=0.017, stm=0.007, astrodynamics=0.015, ai-ml=0.002, autonomy=0.002, trajectory=0.012, mechanisms=0.002, control-theory=0.002, automation=0.002, air-propulsion=0.002, phm=0.01, planetary-defense=0.012); the kept raw session fractions summed to 0.9 and were renormalized to sum to 1 (raw counts are in each evidence string). Session counts per symposium in 'tracks' include joint sessions in each symposium that lists them. deployable-structures added 2026-10-16: checked all 34 symposium session lists of IAC-26 for deployable/membrane/inflatable/gossamer/solar-sail/origami/tensegrity/boom/mechanism terms; only C2.2 (Orbital deployable and dimensionally stable structures) names deployable structures. The C2 evidence (8 sessions = 6.5 units) implies three C2 sessions were half-splits; C2.2 is taken to be split structures/mechanisms (the dropped mechanisms raw share 0.002 = 0.5/204), so only its structures half (0.5 of 204 raw = 0.0025, x1/0.9 renormalization = 0.003) was moved from structures (0.035 -> 0.032) to deployable-structures. It is kept although below the file's 0.02 cutoff because it is the subject of this addition. C3.5/C4.10 (propellantless propulsion, which can include solar sails) was not counted because its title is mainly nuclear power and propulsion.",
   "tracks": [
     {
       "name": "A1. IAF/IAA Space Life Sciences Symposium",
@@ -278,13 +278,18 @@
     },
     {
       "id": "structures",
-      "weight": 0.035,
-      "evidence": "6.5 of 204 sessions: C2 (C2.1, C2.2, C2.4, C2.5, C2.6, C2.7, C2.8, C2.9)"
+      "weight": 0.032,
+      "evidence": "6 of 204 sessions: C2 (C2.1, C2.2 [half], C2.4, C2.5, C2.6, C2.7, C2.8, C2.9); C2.2's structures half moved to deployable-structures on 2026-10-16"
     },
     {
       "id": "spacecraft-gnc",
       "weight": 0.027,
       "evidence": "5 of 204 sessions: C1 (C1.1, C1.2, C1.3, C1.4, C1.5)"
+    },
+    {
+      "id": "deployable-structures",
+      "weight": 0.003,
+      "evidence": "0.5 of 204 sessions: C2.2 Space Structures II Development and Verification (Orbital deployable and dimensionally stable structures, including mechanical and robotic systems and subsystems) - the half of this session that had been counted under structures"
     }
   ],
   "top_terms": [
