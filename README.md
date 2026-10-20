@@ -17,7 +17,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [`?cat=space-robotics`](https://kijang-ik.github.io/space-robotics-conferences/?cat=space-robotics) | 분야 필터 (space, aerospace, space-robotics, robotics, control) |
 | [`?view=topics&picks=spacecraft-gnc,space-robotics`](https://kijang-ik.github.io/space-robotics-conferences/?view=topics&picks=spacecraft-gnc,space-robotics) | 키워드 매칭 결과 공유 |
 
-> **기준일 / As of: 2026-10-16** · 학회 39개 conferences · 개최 기록 381건 editions  
+> **기준일 / As of: 2026-10-20** · 학회 39개 conferences · 개최 기록 381건 editions  
 > 모든 값에는 출처 URL이 붙어 있습니다 / Every value has a source URL (`data/conferences/*.json`).  
 > 마감일은 자주 연장되니 **제출 전 반드시 공식 사이트를 확인하세요.** / Deadlines change often — **always check the official site before submitting.**
 
