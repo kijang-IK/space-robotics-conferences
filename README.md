@@ -17,7 +17,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [`?cat=space-robotics`](https://kijang-ik.github.io/space-robotics-conferences/?cat=space-robotics) | 분야 필터 (space, aerospace, space-robotics, robotics, control) |
 | [`?view=topics&picks=spacecraft-gnc,space-robotics`](https://kijang-ik.github.io/space-robotics-conferences/?view=topics&picks=spacecraft-gnc,space-robotics) | 키워드 매칭 결과 공유 |
 
-> **기준일 / As of: 2026-10-20** · 학회 39개 conferences · 개최 기록 381건 editions  
+> **기준일 / As of: 2026-11-02** · 학회 39개 conferences · 개최 기록 381건 editions  
 > 모든 값에는 출처 URL이 붙어 있습니다 / Every value has a source URL (`data/conferences/*.json`).  
 > 마감일은 자주 연장되니 **제출 전 반드시 공식 사이트를 확인하세요.** / Deadlines change often — **always check the official site before submitting.**
 
@@ -105,7 +105,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 
 | 학회 Conference | 주기·시기 Frequency | 제출 방식 Submission | 통상 마감 Typical deadline | 다음 회차 Next | 마감 Deadline | 상태 Status |
 |---|---|---|---|---|---|---|
-| [ICCAS](https://2026.iccas.org/)<br><sub>International Conference on Control, Automation and Systems</sub> | annual<br><sub>October-November</sub> | full paper (regular 3-6 pages); late-result papers | Early June to mid July (initially May 31, routinely extended) | 2026 Sapporo, Japan<br><sub>2026-10-27 ~ 10-30</sub> | 2026-06-15 | CLOSED |
+| [ICCAS](https://2026.iccas.org/)<br><sub>International Conference on Control, Automation and Systems</sub> | annual<br><sub>October-November</sub> | full paper (regular 3-6 pages); late-result papers | Early June to mid July (initially May 31, routinely extended) | 2027 Jeju, South Korea<br><sub>2027-11-02 ~ 11-05</sub> | – | TBA |
 | [IFAC WC](https://conferences.ifac-control.org/wc2029/)<br><sub>IFAC World Congress (World Congress of the International Federation of Automatic Control)</sub> | triennial (every 3 years)<br><sub>July (2026: August)</sub> | full paper (regular/survey papers, 6 pages in IFAC-PapersOnLine; invited sessions/open in… | Late October to early December of the year before the congress (2017: Nov 11, 2016; 2020:… | 2029 Amsterdam, Netherlands<br><sub>2029-07-08 ~ 07-13</sub> | – | TBA |
 
 ## 🌏 역대 개최지 / Past Venues
