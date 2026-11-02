@@ -161,7 +161,7 @@
       "abstract_deadline": "2024-04-19",
       "source": "https://web.archive.org/web/20240414113423/https://www.space-flight.org/docs/2024_summer/2024_summer.html",
       "continent": "North America",
-      "notes": "Cross-checked 2026-10-16: confirmed 2024-04-19; original CFP deadline 2024-04-12 (CallForPapers_AAS_Aug2024.pdf) extended to 2024-04-19 per archived official page (14 Apr 2024 capture)."
+      "notes": "Cross-checked 2026-10-16: confirmed 2024-04-19; original CFP deadline 2024-04-12 (CallForPapers_AAS_Aug2024.pdf) extended to 2024-04-19 per archived official page (14 Apr 2024 capture). GPT cross-check 2026-11-02: ours 2024-04-19 vs GPT 2024-04-12 -> kept ours; archived official page (14 Apr 2024) shows 'Abstract Submission Deadline: April 19, 2024', GPT's date is the pre-extension CFP PDF date."
     },
     {
       "year": 2025,
@@ -211,6 +211,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

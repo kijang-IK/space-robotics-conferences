@@ -165,7 +165,7 @@
       "source": "https://iaaspace.org/event/10th-space-traffic-management-conference-2024/",
       "edition": "10th",
       "continent": "North America",
-      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2023-09-30 from the IAA event page: \"30 September 2023 extended Abstracts deadline\" (student papers accepted until 1 Nov - excluded)."
+      "notes": "Cross-checked 2026-10-16: abstract_deadline filled 2023-09-30 from the IAA event page: \"30 September 2023 extended Abstracts deadline\" (student papers accepted until 1 Nov - excluded). GPT cross-check 2026-11-02: start/end ours 2024-02-27/28 vs GPT 2024-02-28/29 -> kept ours; the same IAA page GPT cited states 'The conference will take place on February 27-28, 2024' (structured startDate 2024-02-27)."
     },
     {
       "year": 2025,
@@ -225,6 +225,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

@@ -136,7 +136,7 @@
       "abstract_deadline": "2022-09-13",
       "source": "https://web.archive.org/web/20221206190719/https://aas-rocky-mountain-section.org/wp-content/uploads/2022/10/45th_AAS_GNC_Conference_Call_For_Papers_v2.pdf",
       "continent": "North America",
-      "notes": "45th. Original deadline 9 Sep 2022 (official CFP), extended to 13 Sep 2022 per archived CFP v2 https://web.archive.org/web/20221206190719/https://aas-rocky-mountain-section.org/wp-content/uploads/2022/10/45th_AAS_GNC_Conference_Call_For_Papers_v2.pdf. Cross-checked 2026-10-16: confirmed 2022-09-13; original 2022-09-09 extended to 2022-09-13 per official CFP v2 (\"Extended to September 13, 2022\"). Original-date CFP: https://aas-rocky-mountain-section.org/wp-content/uploads/2023/06/Updated-AAS-45th_Conference_Call_For_Papers.pdf"
+      "notes": "45th. Original deadline 9 Sep 2022 (official CFP), extended to 13 Sep 2022 per archived CFP v2 https://web.archive.org/web/20221206190719/https://aas-rocky-mountain-section.org/wp-content/uploads/2022/10/45th_AAS_GNC_Conference_Call_For_Papers_v2.pdf. Cross-checked 2026-10-16: confirmed 2022-09-13; original 2022-09-09 extended to 2022-09-13 per official CFP v2 (\"Extended to September 13, 2022\"). Original-date CFP: https://aas-rocky-mountain-section.org/wp-content/uploads/2023/06/Updated-AAS-45th_Conference_Call_For_Papers.pdf GPT cross-check 2026-11-02: start_date ours 2023-02-02 vs GPT 2023-02-03 -> kept ours; both official CFP versions (v2 and the 'Updated' CFP GPT cited) head the conference 'February 2 - February 8, 2023' (Feb 2-3 classified sessions in Broomfield, CO). GPT cross-check 2026-11-02: abstract_deadline ours 2022-09-13 vs GPT 2022-09-09 -> kept ours; re-read official CFP v2: 'Extended to September 13, 2022' (GPT's 9 Sep is the pre-extension date)."
     },
     {
       "year": 2024,
@@ -211,6 +211,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

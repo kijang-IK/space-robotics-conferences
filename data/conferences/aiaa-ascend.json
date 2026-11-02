@@ -139,16 +139,16 @@
     },
     {
       "year": 2028,
-      "city": null,
-      "region": null,
-      "country": null,
+      "city": "Washington",
+      "region": "District of Columbia",
+      "country": "United States",
       "venue": null,
       "start_date": "2028-06-19",
       "end_date": "2028-06-21",
       "abstract_deadline": null,
-      "source": "https://aiaa.org/events_category/forums",
-      "continent": null,
-      "notes": "Location not announced."
+      "source": "https://www.ascend.events/about/future-ascend-dates/",
+      "continent": "North America",
+      "notes": "Location not announced. GPT cross-check 2026-11-02: city/country null vs GPT 'Washington, D.C.'/United States -> filled; official ASCEND future-dates page: 'ASCEND 2028 19-21 June | Washington, D.C.' (venue not given). Dates also on https://aiaa.org/events_category/forums ; earlier 'Location not announced' superseded."
     }
   ],
   "sources": [
@@ -167,6 +167,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

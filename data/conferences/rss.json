@@ -189,7 +189,7 @@
       "abstract_deadline": "2025-01-31",
       "source": "https://roboticsconference.org/2025/",
       "abstract_registration_deadline": "2025-01-17",
-      "notes": "Abstract/title deadline Jan 17, 2025; initial (semi-complete) paper Jan 24, 2025; final PDF Jan 31, 2025 (AoE). Cross-checked 2026-10-16: abstract_deadline changed 2025-01-24 -> 2025-01-31 to hold the full-paper (Final PDF) deadline, consistent with other editions' full-paper deadlines; abstract/title Jan 17 kept in abstract_registration_deadline, semi-complete initial paper was due Jan 24.",
+      "notes": "Abstract/title deadline Jan 17, 2025; initial (semi-complete) paper Jan 24, 2025; final PDF Jan 31, 2025 (AoE). Cross-checked 2026-10-16: abstract_deadline changed 2025-01-24 -> 2025-01-31 to hold the full-paper (Final PDF) deadline, consistent with other editions' full-paper deadlines; abstract/title Jan 17 kept in abstract_registration_deadline, semi-complete initial paper was due Jan 24. GPT cross-check 2026-11-02: abstract_deadline ours 2025-01-31 vs GPT 2025-01-17 -> kept ours. Official RSS 2025 page lists Abstract/Title Jan 17, Initial (semi-complete) Paper Jan 24, Final PDF Jan 31, 2025 AoE, no extensions. GPT's Jan 17 is the title/abstract registration step, which by this file's convention lives in abstract_registration_deadline (already 2025-01-17); abstract_deadline holds the full-paper (Final PDF) deadline.",
       "continent": "North America"
     },
     {
@@ -206,7 +206,7 @@
       "extra_sources": [
         "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/rss.yml"
       ],
-      "notes": "Abstract/title deadline Jan 23, 2026; initial paper deadline printed on the official page as 'January 30, 2025' (typo for 2026; ccf-deadlines records 2026-01-30).",
+      "notes": "Abstract/title deadline Jan 23, 2026; initial paper deadline printed on the official page as 'January 30, 2025' (typo for 2026; ccf-deadlines records 2026-01-30). GPT cross-check 2026-11-02: abstract_deadline ours 2026-01-30 vs GPT 2026-01-23 -> kept ours. Official RSS 2026 page: Abstract/Title deadline Jan 23, Paper Submission deadline Jan 30, supplementary Feb 6, 2026 AoE, no extensions. GPT's Jan 23 is the title/abstract registration step, already stored in abstract_registration_deadline; abstract_deadline holds the paper deadline per file convention.",
       "continent": "Oceania"
     },
     {
@@ -245,6 +245,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

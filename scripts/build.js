@@ -103,7 +103,7 @@ out.push(`> **기준일 / As of: ${AS_OF}** · 학회 ${confs.length}개 confere
 out.push('> 모든 값에는 출처 URL이 붙어 있습니다 / Every value has a source URL (`data/conferences/*.json`).  ');
 out.push('> 마감일은 자주 연장되니 **제출 전 반드시 공식 사이트를 확인하세요.** / Deadlines change often — **always check the official site before submitting.**');
 out.push('');
-out.push('> ⚠️ **검증 상태 / Status:** 2022년 이후 회차는 독립 재조사로 교차검증 완료 (2026-10-16, 판정 72건 → [검증 기록](data/verification/2026-10-16-crosscheck.md)). 2021년 이전 회차·키워드 비중은 1차 조사 값입니다. 오류는 Issue로 알려주세요. · 2022+ editions cross-checked by an independent blind re-research; see the log.');
+out.push('> ⚠️ **검증 상태 / Status:** 2022년 이후 회차는 두 번 교차검증했습니다 — 독립 재조사(2026-10-16, 판정 72건 → [기록](data/verification/2026-10-16-crosscheck.md))와 GPT 교차검토(2026-11-02, 판정 42건 → [기록](data/verification/2026-11-02-gpt-crosscheck.md)). 2021년 이전 회차·키워드 비중은 1차 조사 값입니다. 오류는 Issue로 알려주세요. · 2022+ editions cross-checked twice: an independent blind re-research and a GPT pass; see the logs.');
 out.push('');
 out.push('- `OPEN` 공지된 마감일이 기준일 이후 / announced deadline is still ahead · `CLOSED` 마감 지남 / passed · `TBA` 미공지 / not announced');
 out.push('- abstract 단계가 없는 학회(ICRA, IROS 등)는 **full paper 마감일**을 표기합니다. / For full-paper venues (ICRA, IROS, …) the **paper deadline** is shown.');

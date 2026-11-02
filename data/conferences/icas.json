@@ -121,10 +121,10 @@
       "venue": "Stockholm Waterfront Congress Centre",
       "start_date": "2022-09-04",
       "end_date": "2022-09-09",
-      "abstract_deadline": "2022-02-10",
-      "source": "https://ftfsweden.se/wp-content/uploads/2023/01/ICAS-2022-Call-for-Papers_Final-July-2021.pdf",
+      "abstract_deadline": "2022-02-25",
+      "source": "https://icas2022.com/schedule-deadlines/",
       "continent": "Europe",
-      "notes": "33rd Congress, hosted by FTF. Dates/timeline also on https://aiaa.org/events/33rd-congress-of-the-international-council-of-the-aeronautical-sciences-icas/; full papers due 1 Jun 2022."
+      "notes": "33rd Congress, hosted by FTF. Dates/timeline also on https://aiaa.org/events/33rd-congress-of-the-international-council-of-the-aeronautical-sciences-icas/; full papers due 1 Jun 2022. GPT cross-check 2026-11-02: ours 2022-02-10 vs GPT 2022-02-25 -> changed to 2022-02-25; official ICAS 2022 schedule page: 'until 10 February 2022 (extended to 25 February)'. CFP PDF (original date): https://ftfsweden.se/wp-content/uploads/2023/01/ICAS-2022-Call-for-Papers_Final-July-2021.pdf"
     },
     {
       "year": 2024,
@@ -134,10 +134,10 @@
       "venue": "Firenze Fiera Conference & Exhibition Center",
       "start_date": "2024-09-09",
       "end_date": "2024-09-13",
-      "abstract_deadline": "2024-01-01",
-      "source": "https://ftfsweden.se/wp-content/uploads/2023/05/ICAS-2024-Call-for-Papers.pdf",
+      "abstract_deadline": "2024-01-15",
+      "source": "https://icas.org/media/cfp24.pdf",
       "continent": "Europe",
-      "notes": "34th Congress, hosted by AIDAA. Answer by 31 Mar 2024; full paper by 1 Jun 2024. A possible extension to 15 Jan 2024 was seen only on a non-ICAS calendar site - not verified."
+      "notes": "34th Congress, hosted by AIDAA. Answer by 31 Mar 2024; full paper by 1 Jun 2024. A possible extension to 15 Jan 2024 was seen only on a non-ICAS calendar site - not verified. GPT cross-check 2026-11-02: ours 2024-01-01 vs GPT 2024-01-15 -> changed to 2024-01-15; updated official CFP on icas.org: 'Upload your abstracts on www.icas.org until 15th January 2024 23:59 GMT' and cover 'before 15 January 2024' (an older paragraph still says 1 January = original date). Previously noted possible extension now verified. Original CFP: https://ftfsweden.se/wp-content/uploads/2023/05/ICAS-2024-Call-for-Papers.pdf"
     },
     {
       "year": 2026,
@@ -181,6 +181,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

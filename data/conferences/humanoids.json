@@ -171,6 +171,19 @@
       "abstract_deadline": "2026-07-24",
       "source": "https://2026.ieee-humanoids.org",
       "continent": "North America"
+    },
+    {
+      "year": 2027,
+      "city": null,
+      "region": null,
+      "country": null,
+      "venue": null,
+      "start_date": null,
+      "end_date": null,
+      "abstract_deadline": null,
+      "source": "https://ras.papercept.net/conferences/scripts/basiclinks.pl?ConfID=572",
+      "continent": null,
+      "notes": "GPT cross-check 2026-11-02: edition only in GPT pass -> added. The RAS PaperCept submission system has a conference entry '2027 IEEE-RAS 26th International Conference on Humanoid Robots (Humanoids) (Humanoids 2027)' (no location, dates or deadlines shown). The IEEE RAS fully-sponsored conferences page lists only 2026 Santa Clara as upcoming; no official host city, dates or paper deadline found as of 2026-11-02, so all left null."
     }
   ],
   "sources": [
@@ -195,6 +208,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

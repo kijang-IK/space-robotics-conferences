@@ -43,7 +43,7 @@
       "abstract_deadline": "2024-02-17",
       "source": "https://web.archive.org/web/20240415034417/https://www.isparo.space/contribute",
       "continent": "Europe",
-      "notes": "Cross-checked 2026-10-16: abstract_deadline changed 2023-12-10 -> 2024-02-17; official iSpaRo'24 contribute page (archived 15 Apr 2024) lists \"February 17, 2024 (new)\" as the paper submission deadline. The SpaceR page https://www.spacer.lu/isparo_24/call_for_papers still shows the earlier 10 Dec 2023 date."
+      "notes": "Cross-checked 2026-10-16: abstract_deadline changed 2023-12-10 -> 2024-02-17; official iSpaRo'24 contribute page (archived 15 Apr 2024) lists \"February 17, 2024 (new)\" as the paper submission deadline. The SpaceR page https://www.spacer.lu/isparo_24/call_for_papers still shows the earlier 10 Dec 2023 date. GPT cross-check 2026-11-02: ours 2024-02-17 vs GPT 2024-01-10 -> kept ours; GPT's 10 Jan is from the official iSpaRo LinkedIn post of 1 Dec 2023 (an earlier extension); the official Important Dates (archived 15 Apr 2024) later list 'February 17, 2024 (new) Paper Submission Deadline' with notification 1 Apr 2024."
     },
     {
       "year": 2025,
@@ -68,6 +68,19 @@
       "abstract_deadline": "2026-06-24",
       "source": "https://www.isairas-isparo.de/front/content.php?id_article=583",
       "continent": "Europe"
+    },
+    {
+      "year": 2027,
+      "city": null,
+      "region": null,
+      "country": null,
+      "venue": null,
+      "start_date": null,
+      "end_date": null,
+      "abstract_deadline": null,
+      "source": "https://www.linkedin.com/posts/conference-isparo_isparo-isparo-spacerobotics-activity-7423756819082403840-78gv",
+      "continent": null,
+      "notes": "GPT cross-check 2026-11-02: edition only in GPT pass -> added. Official iSpaRo LinkedIn (1 Feb 2026): Steering Committee 'Call for Letters of Intent' for organizing future editions, 'iSpaRo 2027 LOI submission deadline: end of March 2026'. No host city, dates or deadlines announced as of 2026-11-02 -> all left null."
     }
   ],
   "sources": [
@@ -87,6 +100,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

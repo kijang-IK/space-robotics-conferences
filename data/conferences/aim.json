@@ -156,9 +156,13 @@
       "venue": null,
       "start_date": "2024-07-15",
       "end_date": "2024-07-19",
-      "abstract_deadline": null,
-      "source": "https://ras.papercept.net/images/temp/AIM/AIM24_ProgramAtAGlanceMedia.html",
-      "continent": "North America"
+      "abstract_deadline": "2024-02-18",
+      "source": "https://web.archive.org/web/20240305100920/https://www.aim2024.org/conference-submissions",
+      "continent": "North America",
+      "extra_sources": [
+        "https://ras.papercept.net/images/temp/AIM/AIM24_ProgramAtAGlanceMedia.html"
+      ],
+      "notes": "GPT cross-check 2026-11-02: fill abstract_deadline (ours null, GPT 2024-02-08) -> 2024-02-18. GPT's Feb 8 comes from the ASME DSCD newsletter reprint of the original CFP ('Contributed and Invited Papers and TMECH Presentation Only: February 8, 2024'). The official aim2024.org Conference Submissions page (archived 2024-03-05, after the deadline) lists 'Contributed and Invited Papers: February 18, 2024' (highlighted; proposals moved to Feb 8), i.e. the extended final date. Late-breaking (May 16) excluded."
     },
     {
       "year": 2025,
@@ -214,6 +218,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

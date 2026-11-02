@@ -77,10 +77,10 @@
       "venue": "All-online (planned for Beppu, Oita)",
       "start_date": "2022-02-26",
       "end_date": "2022-03-04",
-      "abstract_deadline": "2021-08-16",
-      "source": "https://ists.ne.jp/the33rd/",
+      "abstract_deadline": "2021-08-26",
+      "source": "https://ists.ne.jp/the33rd/call_for_papers/37/",
       "continent": "Asia",
-      "notes": "Cross-checked 2026-10-16: confirmed all-online format (official site: symposium style \"all-online\", nominal host Beppu, Oita); city kept as \"Beppu (online)\"."
+      "notes": "Cross-checked 2026-10-16: confirmed all-online format (official site: symposium style \"all-online\", nominal host Beppu, Oita); city kept as \"Beppu (online)\". GPT cross-check 2026-11-02: ours 2021-08-16 vs GPT 2021-08-26 -> changed to 2021-08-26; official 33rd ISTS Call for Papers page: 'Deadline for Abstract Aug.26, 2021' (16 Aug not found on official pages; likely an earlier date). Format/dates per https://ists.ne.jp/the33rd/"
     },
     {
       "year": 2023,
@@ -90,9 +90,10 @@
       "venue": "Kurume City Plaza",
       "start_date": "2023-06-03",
       "end_date": "2023-06-09",
-      "abstract_deadline": "2022-10-31",
-      "source": "https://ists.ne.jp/the34th/wp-content/uploads/2022/06/ISTS_kurume_A4_0615.pdf",
-      "continent": "Asia"
+      "abstract_deadline": "2022-11-14",
+      "source": "https://ists.ne.jp/the34th/callforpapers/",
+      "continent": "Asia",
+      "notes": "GPT cross-check 2026-11-02: ours 2022-10-31 vs GPT 2022-11-14 -> changed to 2022-11-14; official 34th ISTS Call for Papers page lists 'Deadline for Abstract Nov.14, 2022'; the June 2022 CFP poster (https://ists.ne.jp/the34th/wp-content/uploads/2022/06/ISTS_kurume_A4_0615.pdf, also dates/venue) gave the original 31 Oct 2022."
     },
     {
       "year": 2025,
@@ -135,6 +136,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

@@ -88,9 +88,10 @@
       "venue": "Brisbane Convention and Exhibition Centre",
       "start_date": "2024-11-19",
       "end_date": "2024-11-21",
-      "abstract_deadline": "2024-06-03",
-      "source": "https://spacepolicyonline.com/events/intl-symp-on-ai-robotics-and-automation-in-space-2024-nov-19-21-2024-brisbane-australia/",
-      "continent": "Oceania"
+      "abstract_deadline": "2024-06-23",
+      "source": "https://web.archive.org/web/20240613113812/https://www.isairas2024.org/",
+      "continent": "Oceania",
+      "notes": "GPT cross-check 2026-11-02: ours 2024-06-03 vs GPT 2024-06-23 -> changed to 2024-06-23; official site key dates show 'Call for Abstracts Closes' 03 June 2024 (archived 16 Apr 2024) changed to 23 June 2024 (archived 13 Jun and 15 Jul 2024); the official i-SAIRAS 2024 LinkedIn account also gives 23 June 2024. Dates/venue per https://spacepolicyonline.com/events/intl-symp-on-ai-robotics-and-automation-in-space-2024-nov-19-21-2024-brisbane-australia/"
     },
     {
       "year": 2026,
@@ -116,6 +117,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

@@ -96,10 +96,10 @@
       "start_date": "2023-05-07",
       "end_date": "2023-05-11",
       "abstract_deadline": "2022-11-28",
-      "source": "https://iaaspace.org/event/14th-iaa-symposium-on-small-satellites-for-earth-system-observation-2023/",
+      "source": "https://event.dlr.de/en/event/the-14th-iaa-symposium-on-small-satellites-for-earth-system-observation/",
       "edition": "14th",
       "continent": "Europe",
-      "notes": "Cross-checked 2026-10-16: end_date 2023-05-11 kept per local organiser DLR (7-11 May 2023, Ludwig-Erhard-Haus); the IAA event page says 07-12 May 2023 - minor conflict noted. Cross-checked 2026-10-16: abstract_deadline filled 2022-11-28 from the IAA event page (\"Abstracts due\" 28 Nov 2022; no extension mentioned). Dates/venue per https://event.dlr.de/en/event/the-14th-iaa-symposium-on-small-satellites-for-earth-system-observation/."
+      "notes": "Cross-checked 2026-10-16: end_date 2023-05-11 kept per local organiser DLR (7-11 May 2023, Ludwig-Erhard-Haus); the IAA event page says 07-12 May 2023 - minor conflict noted. Cross-checked 2026-10-16: abstract_deadline filled 2022-11-28 from the IAA event page (\"Abstracts due\" 28 Nov 2022; no extension mentioned). Dates/venue per https://event.dlr.de/en/event/the-14th-iaa-symposium-on-small-satellites-for-earth-system-observation/. GPT cross-check 2026-11-02: end_date ours 2023-05-11 vs GPT 2023-05-12 -> kept ours; local organiser DLR event page: 'May 07-11, 2023 at the Ludwig Erhard Haus in Berlin' (7. May - 11. May 2023). The IAA page (https://iaaspace.org/event/14th-iaa-symposium-on-small-satellites-for-earth-system-observation-2023/, source of the abstract deadline) says 07-12 May and has an erroneous Vienna address; host's dates preferred."
     },
     {
       "year": 2025,
@@ -131,6 +131,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

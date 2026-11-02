@@ -187,10 +187,10 @@
       "venue": "Yellowstone Conference Center",
       "start_date": "2026-03-07",
       "end_date": "2026-03-14",
-      "abstract_deadline": null,
-      "source": "https://2026.aeroconf.org/",
+      "abstract_deadline": "2025-07-01",
+      "source": "https://web.archive.org/web/20250906192620/https://www.aeroconf.org/key-dates",
       "continent": "North America",
-      "notes": "47th conference. A third-party listing (spaceagenda) gave 1-8 Mar 2026; official site and AIAA (https://aiaa.org/events/2026-ieee-aerospace-conference/) say 7-14 Mar."
+      "notes": "47th conference. A third-party listing (spaceagenda) gave 1-8 Mar 2026; official site and AIAA (https://aiaa.org/events/2026-ieee-aerospace-conference/) say 7-14 Mar. GPT cross-check 2026-11-02: abstract_deadline null vs GPT 2025-07-01 -> filled; archived official aeroconf.org Key Dates for the 2026 conference (12 Jun and 6 Sep 2025 captures): 'Abstracts Due JUL 1, 2025' (paper submission 3 Oct 2025), no extension shown. GPT's cited PDF is the 2027 Call for Papers and does not cover 2026. Dates/venue per https://2026.aeroconf.org/"
     },
     {
       "year": 2027,
@@ -204,6 +204,19 @@
       "source": "https://www.aeroconf.org/key-dates",
       "continent": "North America",
       "notes": "48th conference. Paper submission deadline 2 Oct 2026; final paper and copyright 8 Jan 2027."
+    },
+    {
+      "year": 2028,
+      "city": null,
+      "region": null,
+      "country": null,
+      "venue": null,
+      "start_date": "2028-03-04",
+      "end_date": "2028-03-11",
+      "abstract_deadline": null,
+      "source": "https://www.aeroconf.org/cms/content_attachments/26/download",
+      "continent": null,
+      "notes": "GPT cross-check 2026-11-02: edition only in GPT pass -> added. Official 2027 IEEE Aerospace Conference Call for Papers (back cover): 'Looking ahead, mark your calendars now for the 2028 IEEE Aerospace Conference March 4 - 11, 2028'. Venue not stated there (Big Sky, MT likely but unconfirmed) -> location left null; no deadlines yet."
     }
   ],
   "sources": [
@@ -218,6 +231,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

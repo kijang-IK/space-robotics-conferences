@@ -44,7 +44,7 @@ aiaa-ascend,ASCEND,space,2024,Las Vegas,Nevada,United States,North America,Caesa
 aiaa-ascend,ASCEND,space,2025,Las Vegas,Nevada,United States,North America,Caesars Forum,2025-07-22,2025-07-24,2024-11-21,https://web.archive.org/web/20241126211950/https://www.ascend.events/presenters/submission-guide/
 aiaa-ascend,ASCEND,space,2026,Washington,District of Columbia,United States,North America,Washington Hilton,2026-05-19,2026-05-21,2025-09-25,https://aiaa.org/2026/03/31/ascend-2026-assembles-space-industrys-most-influential-voices-in-washington-d-c/
 aiaa-ascend,ASCEND,space,2027,Washington,District of Columbia,United States,North America,,2027-05-18,2027-05-20,2026-10-08,https://www.ascend.events/presenters/submission-guide/
-aiaa-ascend,ASCEND,space,2028,,,,,,2028-06-19,2028-06-21,,https://aiaa.org/events_category/forums
+aiaa-ascend,ASCEND,space,2028,Washington,District of Columbia,United States,North America,,2028-06-19,2028-06-21,,https://www.ascend.events/about/future-ascend-dates/
 aiaa-aviation,AIAA AVIATION Forum,aerospace,2015,Dallas,Texas,United States,North America,Hilton Anatole,2015-06-22,2015-06-26,,https://aviation.aiaa.org/about/past-forums/
 aiaa-aviation,AIAA AVIATION Forum,aerospace,2016,Washington,District of Columbia,United States,North America,Washington Hilton,2016-06-13,2016-06-17,,https://aviation.aiaa.org/about/past-forums/
 aiaa-aviation,AIAA AVIATION Forum,aerospace,2017,Denver,Colorado,United States,North America,,2017-06-05,2017-06-09,,https://aviation.aiaa.org/about/past-forums/
@@ -82,7 +82,7 @@ aim,AIM,robotics,2020,Boston (virtual),,United States,North America,Virtual,2020
 aim,AIM,robotics,2021,Delft (virtual),,Netherlands,Europe,Virtual,2021-07-12,2021-07-16,,https://aimrl.gatech.edu/AIM.htm
 aim,AIM,robotics,2022,Sapporo,,Japan,Asia,Royton Sapporo (hybrid),2022-07-11,2022-07-15,2022-03-11,https://www.aim2022.org/
 aim,AIM,robotics,2023,"Seattle, Washington",,United States,North America,,2023-06-27,2023-07-01,2023-02-10,https://aim2023.org/
-aim,AIM,robotics,2024,"Boston, Massachusetts",,United States,North America,,2024-07-15,2024-07-19,,https://ras.papercept.net/images/temp/AIM/AIM24_ProgramAtAGlanceMedia.html
+aim,AIM,robotics,2024,"Boston, Massachusetts",,United States,North America,,2024-07-15,2024-07-19,2024-02-18,https://web.archive.org/web/20240305100920/https://www.aim2024.org/conference-submissions
 aim,AIM,robotics,2025,Hangzhou,,China,Asia,,2025-07-14,2025-07-18,,https://ras.papercept.net/conferences/conferences/AIM25/program
 aim,AIM,robotics,2026,Genoa (Genova),,Italy,Europe,"Magazzini del Cotone, Porto Antico",2026-07-07,2026-07-10,2026-03-24,https://aim2026.com
 aim,AIM,robotics,2027,"Calgary, Alberta",,Canada,North America,,2027-06-29,2027-07-02,2027-01-26,https://aim2027.com/
@@ -117,7 +117,7 @@ astra,ASTRA,space-robotics,2017,Leiden,South Holland,Netherlands,Europe,,2017-06
 astra,ASTRA,space-robotics,2019,Noordwijk,South Holland,Netherlands,Europe,ESA ESTEC,2019-05-27,2019-05-28,,https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Proceedings_of_ASTRA
 astra,ASTRA,space-robotics,2022,Noordwijk,South Holland,Netherlands,Europe,ESA ESTEC,2022-06-01,2022-06-02,2022-03-11,https://atpi.eventsair.com/astra2022/calendar-of-events
 astra,ASTRA,space-robotics,2023,Leiden,South Holland,Netherlands,Europe,Scheltema,2023-10-18,2023-10-20,2023-07-07,https://atpi.eventsair.com/astra2023/calendar-of-events
-astra,ASTRA,space-robotics,2025,Leiden,South Holland,Netherlands,Europe,,2025-10-07,2025-10-09,,https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Proceedings_of_ASTRA
+astra,ASTRA,space-robotics,2025,Leiden,South Holland,Netherlands,Europe,,2025-10-07,2025-10-09,2025-06-15,https://atpi.eventsair.com/25a09--astra-2025/calendar-of-events
 case,CASE,robotics,2015,Gothenburg,,Sweden,Europe,,2015-08-24,2015-08-28,2015-03-15,https://ewh.ieee.org/soc/ras/conf/fullysponsored/case/2015/case2015.org/index.html
 case,CASE,robotics,2016,"Fort Worth, Texas",,United States,North America,,2016-08-21,2016-08-24,2016-03-28,https://ewh.ieee.org/soc/ras/conf/fullysponsored/case/2016/case2016.org/index.html
 case,CASE,robotics,2017,Xi'an,,China,Asia,,2017-08-20,2017-08-23,2017-03-15,https://www.ieee-ras.org/about-ras/latest-news/case2017-regular-special-session-submission-deadline-extended
@@ -140,8 +140,8 @@ corl,CoRL,robotics,2021,London,,United Kingdom,Europe,,2021-11-08,2021-11-11,202
 corl,CoRL,robotics,2022,Auckland,,New Zealand,Oceania,,2022-12-14,2022-12-18,2022-06-15,https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml
 corl,CoRL,robotics,2023,Atlanta,,United States,North America,,2023-11-06,2023-11-09,2023-06-08,https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml
 corl,CoRL,robotics,2024,Munich,,Germany,Europe,,2024-11-06,2024-11-09,2024-06-06,https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml
-corl,CoRL,robotics,2025,Seoul,,South Korea,Asia,COEX Convention & Exhibition Center,2025-09-27,2025-09-30,2025-04-30,https://www.corl.org/contributions
-corl,CoRL,robotics,2026,Austin,,United States,North America,JW Marriott Austin / Hilton Austin (Bass Hall for reception),2026-11-09,2026-11-12,2026-05-28,https://2026.corl.org/contributions
+corl,CoRL,robotics,2025,Seoul,,South Korea,Asia,COEX Convention & Exhibition Center,2025-09-27,2025-09-30,2025-04-30,https://2025.corl.org/
+corl,CoRL,robotics,2026,Austin,,United States,North America,JW Marriott Austin / Hilton Austin (Bass Hall for reception),2026-11-09,2026-11-12,2026-05-28,https://2026.corl.org/
 ecssmet,ECSSMET,space,2014,Braunschweig,Lower Saxony,Germany,Europe,Steigenberger Parkhotel Braunschweig,2014-04-01,2014-04-04,,https://www.esa.int/TEC/Structures/SEMHOQLJC0F_0.html
 ecssmet,ECSSMET,space,2016,Toulouse,Occitanie,France,Europe,Centre de Congrès Pierre Baudis,2016-09-27,2016-09-30,,http://acuriousguy.blogspot.com/2016/08/a-preview-of-14th-european-conference.html
 ecssmet,ECSSMET,space,2018,Noordwijk,South Holland,Netherlands,Europe,ESA-ESTEC,2018-05-28,2018-06-01,,https://ntrs.nasa.gov/citations/20180004816
@@ -160,8 +160,8 @@ esmats,ESMATS,space,2015,Bilbao,Basque Country,Spain,Europe,,2015-09-23,2015-09-
 esmats,ESMATS,space,2017,Hatfield,Hertfordshire,United Kingdom,Europe,University of Hertfordshire,2017-09-20,2017-09-22,,https://www.ebad.com/ebad-and-nea-electronics-to-exhibit-at-esmats-2017/
 esmats,ESMATS,space,2019,Munich,Bavaria,Germany,Europe,Gasteig Cultural and Conference Centre,2019-09-18,2019-09-20,,https://www.esmats.eu/munich/
 esmats,ESMATS,space,2021,Virtual,,,,Virtual (LetsGetDigital platform; afternoon sessions only),2021-09-20,2021-09-24,,https://spaceoneers.io/events/19th-european-space-mechanisms-and-tribology-symposium/
-esmats,ESMATS,space,2023,Warsaw,Masovian Voivodeship,Poland,Europe,POLIN Museum of the History of Polish Jews,2023-09-20,2023-09-22,2023-02-01,https://www.esmats.eu/warsaw/wp-content/uploads/2023/09/ESMATS-2023-v11b.pdf
-esmats,ESMATS,space,2025,Lausanne,Vaud,Switzerland,Europe,SwissTech Convention Center (EPFL campus),2025-09-24,2025-09-26,,https://www.esmats.eu/lausanne/agenda/
+esmats,ESMATS,space,2023,Warsaw,Masovian Voivodeship,Poland,Europe,POLIN Museum of the History of Polish Jews,2023-09-20,2023-09-22,2023-02-15,https://web.archive.org/web/20230204025038/https://www.esmats.eu/warsaw/
+esmats,ESMATS,space,2025,Lausanne,Vaud,Switzerland,Europe,SwissTech Convention Center (EPFL campus),2025-09-24,2025-09-26,2025-02-16,https://www.linkedin.com/posts/esa-space-mechanisms_call-for-papers-activity-7292515993048731649-ZaOP
 esmats,ESMATS,space,2027,Milan,Lombardy,Italy,Europe,,2027-10-06,2027-10-08,,https://esmats.eu/milan/
 eucass,EUCASS,aerospace,2015,Krakow,Lesser Poland,Poland,Europe,ICE Krakow Congress Centre,2015-06-29,2015-07-03,,https://www.eucass.eu/conferences-and-publications/archives/archives-eucass/eucass-2015-krakow
 eucass,EUCASS,aerospace,2017,Milan,Lombardy,Italy,Europe,"Politecnico di Milano, Bovisa Campus",2017-07-03,2017-07-06,,https://www.eucass.eu/conferences-and-publications/archives/archives-eucass/eucass-2017-milan/eucass-2017
@@ -181,14 +181,15 @@ humanoids,Humanoids,robotics,2023,"Austin, Texas",,United States,North America,,
 humanoids,Humanoids,robotics,2024,Nancy,,France,Europe,Prouve Convention Centre (Centre de Congres Prouve),2024-11-22,2024-11-24,2024-07-15,https://2024.ieee-humanoids.org/
 humanoids,Humanoids,robotics,2025,Seoul,,South Korea,Asia,COEX (co-located with CoRL 2025),2025-09-30,2025-10-02,2025-05-15,https://2025humanoids.org/
 humanoids,Humanoids,robotics,2026,"Santa Clara, California",,United States,North America,Santa Clara Convention Center,2026-12-06,2026-12-09,2026-07-24,https://2026.ieee-humanoids.org
+humanoids,Humanoids,robotics,2027,,,,,,,,,https://ras.papercept.net/conferences/scripts/basiclinks.pl?ConfID=572
 i-sairas,i-SAIRAS,space-robotics,2014,Montreal,Quebec,Canada,North America,,2014-06-17,2014-06-19,,https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/i-SAIRAS
 i-sairas,i-SAIRAS,space-robotics,2016,Beijing,,China,Asia,,2016-06-20,2016-06-22,,https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/i-SAIRAS
 i-sairas,i-SAIRAS,space-robotics,2018,Madrid,,Spain,Europe,,2018-06-04,2018-06-05,,https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/i-SAIRAS
 i-sairas,i-SAIRAS,space-robotics,2020,Virtual,,,,Online,2020-10-19,2020-10-23,,https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/i-SAIRAS
-i-sairas,i-SAIRAS,space-robotics,2024,Brisbane,Queensland,Australia,Oceania,Brisbane Convention and Exhibition Centre,2024-11-19,2024-11-21,2024-06-03,https://spacepolicyonline.com/events/intl-symp-on-ai-robotics-and-automation-in-space-2024-nov-19-21-2024-brisbane-australia/
+i-sairas,i-SAIRAS,space-robotics,2024,Brisbane,Queensland,Australia,Oceania,Brisbane Convention and Exhibition Centre,2024-11-19,2024-11-21,2024-06-23,https://web.archive.org/web/20240613113812/https://www.isairas2024.org/
 i-sairas,i-SAIRAS,space-robotics,2026,Cologne,North Rhine-Westphalia,Germany,Europe,Confex Cologne (joint i-SAIRAS & iSpaRo),2026-11-03,2026-11-06,2026-06-24,https://www.isairas-isparo.de/front/content.php?id_article=583
 iaa-ai-for-space,IAA SpaceAI,space,2024,Didcot (Harwell Campus),,United Kingdom,Europe,ESA European Centre for Space Applications and Telecommunications (ECSAT),2024-09-17,2024-09-19,2024-05-27,https://spaice.esa.int/2024/
-iaa-ai-for-space,IAA SpaceAI,space,2025,Suzhou,,China,Asia,,2025-11-01,2025-11-03,2025-08-20,https://iaaspace.org/2nd-iaa-conference-on-ai-in-and-for-space/
+iaa-ai-for-space,IAA SpaceAI,space,2025,Suzhou,,China,Asia,,2025-11-01,2025-11-03,2025-09-15,https://www.susaa.org.cn/iaaspaice/news
 iaa-ai-for-space,IAA SpaceAI,space,2026,Jeju (Seogwipo),,South Korea,Asia,Jeju Shinhwa World Hotel,2026-08-26,2026-08-28,2026-06-15,https://www.iaa-aispace.org
 iaa-dycoss,IAA DyCoSS,space,2014,Rome,,Italy,Europe,,2014-03-24,2014-03-26,,https://portfolio.erau.edu/en/publications/differential-drag-based-roto-translational-control-for-propellant-2/
 iaa-dycoss,IAA DyCoSS,space,2017,Moscow,,Russia,Europe,Peoples' Friendship University of Russia (RUDN University),2017-05-30,2017-06-01,2017-03-15,https://easychair.org/cfp/DyCoSS-2017
@@ -213,7 +214,7 @@ iaa-sseo,IAA SSEO,space,2015,Berlin,,Germany,Europe,,2015-04-20,2015-04-24,,http
 iaa-sseo,IAA SSEO,space,2017,Berlin,,Germany,Europe,"Berlin-Brandenburg Academy of Sciences and Humanities (BBAW), Gendarmenmarkt",2017-04-24,2017-04-28,,https://www.sitael.com/sitael-at-11th-iaa-symposium-small-satellites/
 iaa-sseo,IAA SSEO,space,2019,Berlin,,Germany,Europe,Berlin-Brandenburg Academy of Sciences and Humanities (BBAW),2019-05-06,2019-05-10,,https://iaaspace.org/event/12th-iaa-symposium-on-small-satellites-for-earth-observation-2019/
 iaa-sseo,IAA SSEO,space,2021,Virtual (originally planned for Berlin),,Germany,Europe,,2021-04-27,2021-04-29,,https://spacepolicyonline.com/?p=40253
-iaa-sseo,IAA SSEO,space,2023,Berlin,,Germany,Europe,"Ludwig-Erhard-Haus (IHK Berlin), Fasanenstrasse 85",2023-05-07,2023-05-11,2022-11-28,https://iaaspace.org/event/14th-iaa-symposium-on-small-satellites-for-earth-system-observation-2023/
+iaa-sseo,IAA SSEO,space,2023,Berlin,,Germany,Europe,"Ludwig-Erhard-Haus (IHK Berlin), Fasanenstrasse 85",2023-05-07,2023-05-11,2022-11-28,https://event.dlr.de/en/event/the-14th-iaa-symposium-on-small-satellites-for-earth-system-observation/
 iaa-sseo,IAA SSEO,space,2025,Berlin,,Germany,Europe,"Ludwig-Erhard-Haus (IHK Berlin), Fasanenstrasse 85",2025-05-04,2025-05-08,2025-02-15,https://iaaspace.org/sseo
 iaa-stc,IAA STC (formerly STM Conference),space,2014,"Daytona Beach, FL",,United States,North America,Embry-Riddle Aeronautical University,2014-11-04,2014-11-06,,https://commons.erau.edu/stm/2014
 iaa-stc,IAA STC (formerly STM Conference),space,2015,"Daytona Beach, FL",,United States,North America,Embry-Riddle Aeronautical University,2015-11-12,2015-11-13,,https://commons.erau.edu/stm/2015
@@ -237,9 +238,9 @@ iac,IAC,space,2020,Online (CyberSpace Edition),,,,Virtual,2020-10-12,2020-10-14,
 iac,IAC,space,2021,Dubai,Emirate of Dubai,United Arab Emirates,Asia,Dubai World Trade Centre,2021-10-25,2021-10-29,2021-02-28,https://www.iafastro.org/news/iac-2021-call-for-session-proposals-and-abstracts.html
 iac,IAC,space,2022,Paris,Ile-de-France,France,Europe,Paris Convention Centre (Paris Expo Porte de Versailles),2022-09-18,2022-09-22,2022-02-28,https://www.iafastro.org/news/iac-2022-call-for-session-proposals-and-abstracts.html
 iac,IAC,space,2023,Baku,,Azerbaijan,Europe,Baku Convention Centre and Heydar Aliyev Centre (with temporary exhibition pavilion),2023-10-02,2023-10-06,2023-03-10,https://www.iafastro.org/news/iac-2023-call-for-abstracts-extended-to-10-march.html
-iac,IAC,space,2024,Milan,Lombardy,Italy,Europe,Allianz MiCo (Milano Convention Centre),2024-10-14,2024-10-18,2024-03-11,https://www.iafastro.org/news/the-call-for-iac-2024-late-breaking-abstracts-lba-is-open-for-two-weeks.html
+iac,IAC,space,2024,Milan,Lombardy,Italy,Europe,Allianz MiCo (Milano Convention Centre),2024-10-14,2024-10-18,2024-03-08,https://www.linkedin.com/posts/fathikarouia_two-more-days-to-submit-an-abstract-for-the-activity-7171095691581186048-h-Ku
 iac,IAC,space,2025,Sydney,New South Wales,Australia,Oceania,International Convention Centre Sydney (ICC Sydney),2025-09-29,2025-10-03,2025-03-07,https://www.iafastro.org/news/iac-2025-call-for-ground-breaking-research.html
-iac,IAC,space,2026,"Antalya (Belek, Serik)",Antalya Province,Turkey,Europe,"NEST Congress & Exhibition Center, Belek",2026-10-05,2026-10-09,2026-03-09,https://x.com/iafastro/status/2027432808856125724
+iac,IAC,space,2026,"Antalya (Belek, Serik)",Antalya Province,Turkey,Europe,"NEST Congress & Exhibition Center, Belek",2026-10-05,2026-10-09,2026-03-06,https://www.linkedin.com/posts/international-astronautical-federation_iac2026-activity-7433197399667515392-YSqb
 iac,IAC,space,2027,Poznan,Greater Poland Voivodeship,Poland,Europe,"Poznan International Fair (MTP), ul. Glogowska 10",2027-09-27,2027-10-01,2027-02-28,https://www.iafastro.org/assets/files/events/iac/2027/IAC2027_Call_for_papers.pdf
 iac,IAC,space,2028,Samarkand,Samarkand Region,Uzbekistan,Asia,,2028-10-09,2028-10-13,,https://www.iafastro.org/events/iac/international-astronautical-congress-2028.html
 iac,IAC,space,2029,Geneva,Canton of Geneva,Switzerland,Europe,Palexpo,2029-10-08,2029-10-12,,https://www.iafastro.org/news/iac-2026-press-release-advancing-international-cooperation-for-a-future-with-more-space.html
@@ -249,8 +250,8 @@ icas,ICAS,aerospace,2014,St. Petersburg,,Russia,Europe,,2014-09-07,2014-09-12,,h
 icas,ICAS,aerospace,2016,Daejeon,,South Korea,Asia,Daejeon Convention Center (DCC),2016-09-25,2016-09-30,,https://www.mdpi.com/journal/aerospace/events/4134
 icas,ICAS,aerospace,2018,Belo Horizonte,Minas Gerais,Brazil,South America,Expominas,2018-09-09,2018-09-14,,https://www.icas.org/icas_archive/ICAS2018/data/welcome2018.pdf
 icas,ICAS,aerospace,2020,Shanghai,,China,Asia,,2021-09-06,2021-09-10,,https://aiaa.org/events/32nd-congress-of-the-international-council-of-the-aeronautical-sciences-icas-postponed/
-icas,ICAS,aerospace,2022,Stockholm,Stockholm County,Sweden,Europe,Stockholm Waterfront Congress Centre,2022-09-04,2022-09-09,2022-02-10,https://ftfsweden.se/wp-content/uploads/2023/01/ICAS-2022-Call-for-Papers_Final-July-2021.pdf
-icas,ICAS,aerospace,2024,Florence,Tuscany,Italy,Europe,Firenze Fiera Conference & Exhibition Center,2024-09-09,2024-09-13,2024-01-01,https://ftfsweden.se/wp-content/uploads/2023/05/ICAS-2024-Call-for-Papers.pdf
+icas,ICAS,aerospace,2022,Stockholm,Stockholm County,Sweden,Europe,Stockholm Waterfront Congress Centre,2022-09-04,2022-09-09,2022-02-25,https://icas2022.com/schedule-deadlines/
+icas,ICAS,aerospace,2024,Florence,Tuscany,Italy,Europe,Firenze Fiera Conference & Exhibition Center,2024-09-09,2024-09-13,2024-01-15,https://icas.org/media/cfp24.pdf
 icas,ICAS,aerospace,2026,Sydney,New South Wales,Australia,Oceania,International Convention & Exhibition Centre Sydney (ICC Sydney),2026-09-13,2026-09-18,2026-01-24,https://www.icas2026.com/
 icas,ICAS,aerospace,2028,Montreal,Quebec,Canada,North America,,,,,https://www.icas.org/
 iccas,ICCAS,control,2015,Busan,,South Korea,Asia,BEXCO,2015-10-13,2015-10-16,,https://icros.org/eng/sub/sub04_1.asp
@@ -279,7 +280,7 @@ icra,ICRA,robotics,2024,Yokohama,,Japan,Asia,PACIFICO Yokohama,2024-05-13,2024-0
 icra,ICRA,robotics,2025,Atlanta,,United States,North America,Georgia World Congress Center,2025-05-19,2025-05-23,2024-09-16,https://2025.ieee-icra.org/announcements/paper-submissions/
 icra,ICRA,robotics,2026,Vienna,,Austria,Europe,"VIECON / Messe Wien (Messeplatz 1, 1020 Vienna)",2026-06-01,2026-06-05,2025-09-15,https://2026.ieee-icra.org/contribute/call-for-icra-2026-papers-now-accepting-submissions/
 icra,ICRA,robotics,2027,Seoul,,South Korea,Asia,COEX Convention & Exhibition Center,2027-05-24,2027-05-28,2026-09-16,https://2027.ieee-icra.org/?p=1964
-icra,ICRA,robotics,2028,Rio de Janeiro,,Brazil,South America,Riocentro,2028-05-15,2028-05-19,2027-09-15,https://www.ieee-ras.org/event/deadlines-paper-submission-deadline-icra-2028-ieee-international-conference-on-robotics-and-automation-icra-29490-0/
+icra,ICRA,robotics,2028,Rio de Janeiro,,Brazil,South America,Riocentro,2028-05-15,2028-05-19,2027-09-15,https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/icra-venues-and-archive/
 icra,ICRA,robotics,2029,Milan,,Italy,Europe,,2029-05-07,2029-05-12,2028-09-15,https://www.ieee-ras.org/event/2029-ieee-international-conference-on-robotics-and-automation-icra-68559/
 icra,ICRA,robotics,2030,Bangkok,,Thailand,Asia,,2030-05-13,2030-05-17,2029-09-15,https://www.ieee-ras.org/event/2030-ieee-international-conference-on-robotics-and-automation-icra-74057/
 icuas,ICUAS,robotics,2015,"Denver, Colorado",,United States,North America,Denver Marriott Tech Center,2015-06-09,2015-06-12,,https://www.ieee-ras.org/component/rseventspro/print/556-icuas-2015-international-conference-on-unmanned-aircraft-systems?Itemid=101
@@ -289,8 +290,8 @@ icuas,ICUAS,robotics,2018,"Dallas, Texas",,United States,North America,Dallas Ma
 icuas,ICUAS,robotics,2019,"Atlanta, Georgia",,United States,North America,,2019-06-11,2019-06-14,,https://www.ieee-ras.org/aerial-robotics-and-unmanned-aerial-vehicles/activities
 icuas,ICUAS,robotics,2020,Athens,,Greece,Europe,Divani Caravel Hotel,2020-09-01,2020-09-04,,https://ewh.ieee.org/soc/ras/conf/technicallycosponsored/icuas/ICUAS2020/www.uasconferences.com/2020_icuas/index.html
 icuas,ICUAS,robotics,2021,Athens,,Greece,Europe,Divani Caravel Hotel,2021-06-15,2021-06-18,,https://www.ieee-ras.org/about-ras/ras-calendar/upcoming-ras-events/event/1962-icuas-2021
-icuas,ICUAS,robotics,2022,Dubrovnik,,Croatia,Europe,,2022-06-21,2022-06-24,,https://sin.put.poznan.pl/conferences/details/conference/international-conference-on-unmanned-aircraft-systems-(icuas)
-icuas,ICUAS,robotics,2023,Warsaw,,Poland,Europe,Lazarski University,2023-06-06,2023-06-09,,https://arpas.uk/?p=19296
+icuas,ICUAS,robotics,2022,Dubrovnik,,Croatia,Europe,,2022-06-21,2022-06-24,2022-02-27,https://web.archive.org/web/20220518102507/http://www.uasconferences.com/2022_icuas/important-dates/
+icuas,ICUAS,robotics,2023,Warsaw,,Poland,Europe,Lazarski University,2023-06-06,2023-06-09,2023-02-01,https://web.archive.org/web/20230206134117/http://www.uasconferences.com/2023_icuas/call-for-papers/
 icuas,ICUAS,robotics,2024,"Chania, Crete",,Greece,Europe,"Center of Mediterranean Architecture (KAM), Great Arsenal",2024-06-04,2024-06-07,2024-02-04,https://www.myhuiban.com/conference/4734?lang=en-us
 icuas,ICUAS,robotics,2025,"Charlotte, North Carolina",,United States,North America,,2025-05-14,2025-05-17,2025-02-09,https://uasconferences.com/2025_icuas/
 icuas,ICUAS,robotics,2026,Corfu,,Greece,Europe,Divani Corfu Palace Hotel,2026-06-15,2026-06-18,2026-02-27,https://uasconferences.com/2026_icuas/
@@ -306,8 +307,9 @@ ieee-aerospace,IEEE AeroConf,aerospace,2022,Big Sky,Montana,United States,North 
 ieee-aerospace,IEEE AeroConf,aerospace,2023,Big Sky,Montana,United States,North America,Yellowstone Conference Center,2023-03-04,2023-03-11,2022-07-01,https://ieee-aess.org/files/ieeeaess/2022-06/one_page_cfp.pdf
 ieee-aerospace,IEEE AeroConf,aerospace,2024,Big Sky,Montana,United States,North America,Yellowstone Conference Center,2024-03-02,2024-03-09,2023-07-01,https://web.archive.org/web/20230921151147/https://www.aeroconf.org/key-dates
 ieee-aerospace,IEEE AeroConf,aerospace,2025,Big Sky,Montana,United States,North America,Yellowstone Conference Center,2025-03-01,2025-03-08,2024-07-01,https://web.archive.org/web/20240715081712/https://aeroconf.org/key-dates
-ieee-aerospace,IEEE AeroConf,aerospace,2026,Big Sky,Montana,United States,North America,Yellowstone Conference Center,2026-03-07,2026-03-14,,https://2026.aeroconf.org/
+ieee-aerospace,IEEE AeroConf,aerospace,2026,Big Sky,Montana,United States,North America,Yellowstone Conference Center,2026-03-07,2026-03-14,2025-07-01,https://web.archive.org/web/20250906192620/https://www.aeroconf.org/key-dates
 ieee-aerospace,IEEE AeroConf,aerospace,2027,Big Sky,Montana,United States,North America,Yellowstone Conference Center,2027-03-06,2027-03-13,2026-07-01,https://www.aeroconf.org/key-dates
+ieee-aerospace,IEEE AeroConf,aerospace,2028,,,,,,2028-03-04,2028-03-11,,https://www.aeroconf.org/cms/content_attachments/26/download
 ifac_wc,IFAC WC,control,2017,Toulouse,,France,Europe,,2017-07-09,2017-07-14,2016-11-11,https://ifac2017.org/node/41.html
 ifac_wc,IFAC WC,control,2020,Berlin (virtual),,Germany,Europe,Entirely virtual (IFAC-V 2020),2020-07-12,2020-07-17,2019-10-31,https://ifac2020.org/
 ifac_wc,IFAC WC,control,2023,Yokohama,,Japan,Asia,PACIFICO Yokohama,2023-07-09,2023-07-14,2022-11-11,https://web.archive.org/web/20221208083417/https://www.ifac2023.org/
@@ -322,8 +324,8 @@ iros,IROS,robotics,2019,Macau,,China,Asia,The Venetian Macao,2019-11-04,2019-11-
 iros,IROS,robotics,2020,Las Vegas,,United States,North America,Virtual (on-demand); originally planned for Las Vegas,2020-10-25,2020-10-29,2020-03-01,https://ewh.ieee.org/soc/ras/conf/financiallycosponsored/IROS/IROS2020/www.iros2020.org/2submission/CallforPapers.html
 iros,IROS,robotics,2021,Prague,,Czech Republic,Europe,"Virtual (planned at O2 universum, Prague)",2021-09-27,2021-10-01,2021-03-01,https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml
 iros,IROS,robotics,2022,Kyoto,,Japan,Asia,Kyoto International Conference Center,2022-10-23,2022-10-27,2022-03-01,https://iros2022.org/
-iros,IROS,robotics,2023,Detroit,,United States,North America,Huntington Place,2023-10-01,2023-10-05,2023-03-01,https://ieee-ras.org/about-ras/latest-news/cfp-iros-2023-in-detroit
-iros,IROS,robotics,2024,Abu Dhabi,,United Arab Emirates,Asia,ADNEC (Abu Dhabi National Exhibition Centre),2024-10-14,2024-10-18,2024-03-01,https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml
+iros,IROS,robotics,2023,Detroit,,United States,North America,Huntington Place,2023-10-01,2023-10-05,2023-03-02,https://2023.ieee-iros.org/
+iros,IROS,robotics,2024,Abu Dhabi,,United Arab Emirates,Asia,ADNEC (Abu Dhabi National Exhibition Centre),2024-10-14,2024-10-18,2024-03-15,https://web.archive.org/web/20240314034318/https://iros2024-abudhabi.org/cfp
 iros,IROS,robotics,2025,Hangzhou,,China,Asia,Hangzhou International Expo Center,2025-10-19,2025-10-25,2025-03-02,https://www.iros25.org/
 iros,IROS,robotics,2026,Pittsburgh,,United States,North America,David L. Lawrence Convention Center,2026-09-27,2026-10-01,2026-03-02,https://2026.ieee-iros.org/contribute/call-for-papers/
 iros,IROS,robotics,2027,Florence,,Italy,Europe,Fortezza da Basso,2027-09-27,2027-10-01,2027-03-01,https://www.ieee-ras.org/event/call-for-papers-paper-submission-deadline-iros-2027-ieee-rsj-international-conference-on-intelligent-robots-and-systems-iros-27403-0/
@@ -331,15 +333,17 @@ iros,IROS,robotics,2028,Sydney,,Australia,Oceania,International Convention Centr
 isparo,iSpaRo,space-robotics,2024,Luxembourg City,,Luxembourg,Europe,Neumunster Abbey,2024-06-24,2024-06-27,2024-02-17,https://web.archive.org/web/20240415034417/https://www.isparo.space/contribute
 isparo,iSpaRo,space-robotics,2025,Sendai,Miyagi,Japan,Asia,Sendai International Center,2025-12-01,2025-12-04,2025-08-12,https://www.isparo2025.space/
 isparo,iSpaRo,space-robotics,2026,Cologne,North Rhine-Westphalia,Germany,Europe,Confex Cologne (joint i-SAIRAS & iSpaRo),2026-11-03,2026-11-06,2026-06-24,https://www.isairas-isparo.de/front/content.php?id_article=583
+isparo,iSpaRo,space-robotics,2027,,,,,,,,,https://www.linkedin.com/posts/conference-isparo_isparo-isparo-spacerobotics-activity-7423756819082403840-78gv
 isss,ISSS,space,2017,Kyoto,Kyoto,Japan,Asia,Kyoto Research Park,2017-01-17,2017-01-20,,https://www.citytech.cuny.edu/isss2023/docs/presentations/Welcome_Remarks_Roman.pdf
 isss,ISSS,space,2019,Aachen,North Rhine-Westphalia,Germany,Europe,FH Aachen University of Applied Sciences,2019-07-30,2019-08-02,,https://www.citytech.cuny.edu/isss2023/docs/presentations/Welcome_Remarks_Roman.pdf
 isss,ISSS,space,2023,New York,New York,United States,North America,"New York City College of Technology (City Tech), CUNY, Brooklyn",2023-06-05,2023-06-09,2023-04-02,https://www.citytech.cuny.edu/isss2023/timeline.aspx
 isss,ISSS,space,2025,Delft,South Holland,Netherlands,Europe,"Echo building, Delft University of Technology",2025-06-30,2025-07-04,2025-02-14,https://tudelft.nl/lr/isss-2025
+isss,ISSS,space,2027,Guildford,Surrey,United Kingdom,Europe,"Rik Medlik Building (MS), University of Surrey Stag Hill campus",2027-06-21,2027-06-25,2027-01-29,https://isss2027.pages.surrey.ac.uk/isss2027/
 ists,ISTS,space,2015,Kobe,Hyogo,Japan,Asia,Kobe Convention Center,2015-07-04,2015-07-10,,https://archive.ists.ne.jp/conference/past30/
 ists,ISTS,space,2017,Matsuyama,Ehime,Japan,Asia,Himegin Hall (Ehime Prefectural Citizens' Culture Center),2017-06-03,2017-06-09,,https://www.city.matsuyama.ehime.jp/shisei/keikaku/ists-ehime-matsuyama.files/istshoukoku1.pdf
 ists,ISTS,space,2019,Fukui,Fukui,Japan,Asia,,2019-06-15,2019-06-21,,https://cfml.eng.hokudai.ac.jp/en/news/news_20190613_en.html
-ists,ISTS,space,2022,Beppu (online),Oita,Japan,Asia,"All-online (planned for Beppu, Oita)",2022-02-26,2022-03-04,2021-08-16,https://ists.ne.jp/the33rd/
-ists,ISTS,space,2023,Kurume,Fukuoka,Japan,Asia,Kurume City Plaza,2023-06-03,2023-06-09,2022-10-31,https://ists.ne.jp/the34th/wp-content/uploads/2022/06/ISTS_kurume_A4_0615.pdf
+ists,ISTS,space,2022,Beppu (online),Oita,Japan,Asia,"All-online (planned for Beppu, Oita)",2022-02-26,2022-03-04,2021-08-26,https://ists.ne.jp/the33rd/call_for_papers/37/
+ists,ISTS,space,2023,Kurume,Fukuoka,Japan,Asia,Kurume City Plaza,2023-06-03,2023-06-09,2022-11-14,https://ists.ne.jp/the34th/callforpapers/
 ists,ISTS,space,2025,Tokushima,Tokushima,Japan,Asia,ASTY Tokushima,2025-07-12,2025-07-18,2024-11-19,https://ists.ne.jp/the35th/whatsnew/page/2
 ists,ISTS,space,2027,Toyama,Toyama,Japan,Asia,Toyama International Conference Center,2027-07-17,2027-07-23,2026-12-17,https://ists.ne.jp/the36th/wp-content/uploads/2026/02/ISTS_A2_20260225_B_04-mini.pdf
 rss,RSS,robotics,2015,Rome,,Italy,Europe,Sapienza University of Rome,2015-07-13,2015-07-17,2015-01-22,https://mailman.srv.cs.cmu.edu/pipermail/connectionists/2014-November/027492.html
@@ -362,10 +366,10 @@ smallsat,SmallSat,space,2018,Logan,Utah,United States,North America,Utah State U
 smallsat,SmallSat,space,2019,Logan,Utah,United States,North America,Utah State University campus,2019-08-03,2019-08-08,,https://spacepolicyonline.com/events/small-satellite-conference-2019-aug-3-8-2019-logan-utah/
 smallsat,SmallSat,space,2020,Online,,,,Virtual,2020-08-01,2020-08-06,,https://spacepolicyonline.com/events/34th-annual-small-satellite-conference-aug-1-6-2020-logan-ut/
 smallsat,SmallSat,space,2021,Online,,,,Virtual,2021-08-07,2021-08-12,,https://everythingrf.com/Events/details/462-SmallSat-2021
-smallsat,SmallSat,space,2022,Logan,Utah,United States,North America,Utah State University campus,2022-08-06,2022-08-11,,https://spacepolicyonline.com/events/36th-annual-small-satellite-conference-aug-6-11-2022-logan-utah/
-smallsat,SmallSat,space,2023,Logan,Utah,United States,North America,Utah State University campus,2023-08-05,2023-08-10,,https://spacepolicyonline.com/events/37th-small-satellite-conference-aug-5-10-2023-logan-ut/
+smallsat,SmallSat,space,2022,Logan,Utah,United States,North America,Utah State University campus,2022-08-06,2022-08-11,2022-02-01,https://web.archive.org/web/20220127043322/https://smallsat.org/
+smallsat,SmallSat,space,2023,Logan,Utah,United States,North America,Utah State University campus,2023-08-05,2023-08-10,2023-02-02,https://web.archive.org/web/20230130051847/https://smallsat.org/
 smallsat,SmallSat,space,2024,Logan,Utah,United States,North America,Utah State University campus,2024-08-03,2024-08-08,,https://spacepolicyonline.com/events/2024-smallsat-conference-aug-3-8-2024-logan-ut/
-smallsat,SmallSat,space,2025,Salt Lake City,Utah,United States,North America,Salt Palace Convention Center,2025-08-10,2025-08-13,,https://spacepolicyonline.com/events/39th-annual-small-satellite-smallsat-conference-aug-10-13-2025-salt-lake-city-utah-new-location/
+smallsat,SmallSat,space,2025,Salt Lake City,Utah,United States,North America,Salt Palace Convention Center,2025-08-10,2025-08-13,2025-02-04,https://web.archive.org/web/20250127210521/https://smallsat.org/
 smallsat,SmallSat,space,2026,Salt Lake City,Utah,United States,North America,Salt Palace Convention Center,2026-08-23,2026-08-26,2026-02-05,https://smallsat.org/conference/dates-and-deadlines
 smallsat,SmallSat,space,2027,,,United States,North America,,2027-08-01,2027-08-04,,https://smallsat.org/
 ur,UR,robotics,2015,Goyang,,South Korea,Asia,KINTEX,2015-10-28,2015-10-30,2015-07-20,https://www.aconf.org/conf_62068.html

@@ -133,10 +133,10 @@
       "venue": "Utah State University campus",
       "start_date": "2022-08-06",
       "end_date": "2022-08-11",
-      "abstract_deadline": null,
-      "source": "https://spacepolicyonline.com/events/36th-annual-small-satellite-conference-aug-6-11-2022-logan-utah/",
+      "abstract_deadline": "2022-02-01",
+      "source": "https://web.archive.org/web/20220127043322/https://smallsat.org/",
       "continent": "North America",
-      "notes": "36th."
+      "notes": "36th. GPT cross-check 2026-11-02: abstract_deadline null vs GPT 2022-02-01 -> filled; archived official smallsat.org (27 Jan 2022): 'Abstract Deadline February 1'; official SmallSat LinkedIn post (Dec 2021) also says 'through February 1'; no extension notice found. Dates/venue per https://spacepolicyonline.com/events/36th-annual-small-satellite-conference-aug-6-11-2022-logan-utah/"
     },
     {
       "year": 2023,
@@ -146,10 +146,10 @@
       "venue": "Utah State University campus",
       "start_date": "2023-08-05",
       "end_date": "2023-08-10",
-      "abstract_deadline": null,
-      "source": "https://spacepolicyonline.com/events/37th-small-satellite-conference-aug-5-10-2023-logan-ut/",
+      "abstract_deadline": "2023-02-02",
+      "source": "https://web.archive.org/web/20230130051847/https://smallsat.org/",
       "continent": "North America",
-      "notes": "37th."
+      "notes": "37th. GPT cross-check 2026-11-02: abstract_deadline null vs GPT 2023-02-02 -> filled; archived official smallsat.org (30 Jan 2023): 'Call for Papers Deadline February 2' (GPT cited NASA ODQN, non-organizer); no extension found. Dates/venue per https://spacepolicyonline.com/events/37th-small-satellite-conference-aug-5-10-2023-logan-ut/"
     },
     {
       "year": 2024,
@@ -172,10 +172,10 @@
       "venue": "Salt Palace Convention Center",
       "start_date": "2025-08-10",
       "end_date": "2025-08-13",
-      "abstract_deadline": null,
-      "source": "https://spacepolicyonline.com/events/39th-annual-small-satellite-smallsat-conference-aug-10-13-2025-salt-lake-city-utah-new-location/",
+      "abstract_deadline": "2025-02-04",
+      "source": "https://web.archive.org/web/20250127210521/https://smallsat.org/",
       "continent": "North America",
-      "notes": "39th; first in Salt Lake City (https://www.gpsworld.com/smallsat-conference-heads-to-salt-lake-city). Exhibit days Aug 11-13."
+      "notes": "39th; first in Salt Lake City (https://www.gpsworld.com/smallsat-conference-heads-to-salt-lake-city). Exhibit days Aug 11-13. GPT cross-check 2026-11-02: abstract_deadline null vs GPT 2025-02-04 -> filled; archived official smallsat.org (27 Jan and 4 Feb 2025): 'Call for Papers Closes Feb 4' (GPT cited amsat.org, non-organizer); no extension found. Dates/venue per https://spacepolicyonline.com/events/39th-annual-small-satellite-smallsat-conference-aug-10-13-2025-salt-lake-city-utah-new-location/"
     },
     {
       "year": 2026,
@@ -201,7 +201,7 @@
       "abstract_deadline": null,
       "source": "https://smallsat.org/",
       "continent": "North America",
-      "notes": "41st. Official site shows only 'Save the Date 2027 August 1-4' with no venue. A third-party listing says Salt Palace Convention Center, Salt Lake City (https://theflyingengineer.com/aviation-events/small-satellite-conference-2027/); other listings give conflicting dates (Aug 15-18 or Aug 23-26, 2027) - official dates used."
+      "notes": "41st. Official site shows only 'Save the Date 2027 August 1-4' with no venue. A third-party listing says Salt Palace Convention Center, Salt Lake City (https://theflyingengineer.com/aviation-events/small-satellite-conference-2027/); other listings give conflicting dates (Aug 15-18 or Aug 23-26, 2027) - official dates used. GPT cross-check 2026-11-02: city null vs GPT 'Salt Lake City' -> left null; official smallsat.org 'SmallSat 2027 Save the Date August 1-4, 2027' gives no venue/city; Salt Lake City appears only in the 2026 block and a generic site footer ('Hosted in Salt Lake City, UT, USA'), not stated for 2027. Likely but unconfirmed."
     }
   ],
   "sources": [
@@ -216,6 +216,6 @@
   "notes": "As of 2026-10-16 the official Dates & Deadlines page still shows the 2026 cycle; the 2027 call for abstracts and deadline are not yet published (by pattern, early February 2027 - inference only). 2027 city/venue not stated on the official site (likely Salt Lake City per a third-party listing). Per-edition abstract deadlines 2015-2025 not verified (null). Logan editions were held on the USU campus (specific buildings not recorded).",
   "verification": {
     "claude": "researched 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

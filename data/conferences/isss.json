@@ -88,6 +88,19 @@
       "source": "https://tudelft.nl/lr/isss-2025",
       "continent": "Europe",
       "notes": "7th International Symposium on Space Sailing, chaired by Jeannette Heiligers (TU Delft). Cross-checked 2026-10-16: abstract_deadline 2025-02-14 confirmed on the official key-dates list; the 2nd Announcement PDF (and the page's ESA-sponsorship text) give 7 February 2025, the earlier date."
+    },
+    {
+      "year": 2027,
+      "city": "Guildford",
+      "region": "Surrey",
+      "country": "United Kingdom",
+      "venue": "Rik Medlik Building (MS), University of Surrey Stag Hill campus",
+      "start_date": "2027-06-21",
+      "end_date": "2027-06-25",
+      "abstract_deadline": "2027-01-29",
+      "source": "https://isss2027.pages.surrey.ac.uk/isss2027/",
+      "continent": "Europe",
+      "notes": "GPT cross-check 2026-11-02: edition only in GPT pass -> added. Official ISSS 2027 site: 8th International Symposium on Space Sailing, 21-25 June 2027, Guildford, United Kingdom, Rik Medlik Building (MS), University of Surrey (Surrey Space Centre partner); abstract submission opens 30 Nov 2026 and closes 29 Jan 2027 (original date, extensions possible); notifications 19 Feb 2027."
     }
   ],
   "sources": [
@@ -104,6 +117,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

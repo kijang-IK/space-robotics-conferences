@@ -70,7 +70,7 @@
       "extra_sources": [
         "https://car.osu.edu/sites/default/files/2022-08/IFAC2023_2ndCFP.pdf"
       ],
-      "notes": "Cross-checked 2026-10-16: abstract_deadline changed 2022-10-31 -> 2022-11-11 (official extension of regular/invited paper deadline, archived ifac2023.org); a further 'grace period' to Nov 18, 2022 was announced but is not called an extension, so it is excluded."
+      "notes": "Cross-checked 2026-10-16: abstract_deadline changed 2022-10-31 -> 2022-11-11 (official extension of regular/invited paper deadline, archived ifac2023.org); a further 'grace period' to Nov 18, 2022 was announced but is not called an extension, so it is excluded. GPT cross-check 2026-11-02: abstract_deadline ours 2022-11-11 vs GPT 2022-10-31 -> kept ours. Archived official ifac2023.org news (21 Oct 2022): 'Deadline Extended: Papers submission (->Nov.11), Invited Session proposal (->Oct.31)'; Important Dates: Regular/Invited papers submission November 11, 2022. GPT's Oct 31 is the original paper deadline / the extended invited-session-proposal date. The 'Grace period ... (->Nov.18)' is a grace period, excluded by definition."
     },
     {
       "year": 2026,
@@ -126,6 +126,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

@@ -102,9 +102,10 @@
       "venue": null,
       "start_date": "2025-10-07",
       "end_date": "2025-10-09",
-      "abstract_deadline": null,
-      "source": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Proceedings_of_ASTRA",
-      "continent": "Europe"
+      "abstract_deadline": "2025-06-15",
+      "source": "https://atpi.eventsair.com/25a09--astra-2025/calendar-of-events",
+      "continent": "Europe",
+      "notes": "GPT cross-check 2026-11-02: abstract_deadline null vs GPT 2025-06-15 -> filled; official ASTRA 2025 site (ESA Conference Bureau / ATPI) calendar of events lists 'Abstract submission deadline' 15 June 2025 marked 'Extended Deadline'. Leiden/dates per https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Proceedings_of_ASTRA"
     }
   ],
   "sources": [
@@ -117,6 +118,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

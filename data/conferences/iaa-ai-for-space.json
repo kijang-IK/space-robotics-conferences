@@ -57,10 +57,10 @@
       "venue": null,
       "start_date": "2025-11-01",
       "end_date": "2025-11-03",
-      "abstract_deadline": "2025-08-20",
-      "source": "https://iaaspace.org/2nd-iaa-conference-on-ai-in-and-for-space/",
+      "abstract_deadline": "2025-09-15",
+      "source": "https://www.susaa.org.cn/iaaspaice/news",
       "edition": "2nd (IAA-SPAICE 2025)",
-      "notes": "Deadline from https://spaice.esa.int/2025/ which shows '15. July 20. Aug 2025' (15 Jul original, 20 Aug apparent extension). Venue not stated.",
+      "notes": "Deadline from https://spaice.esa.int/2025/ which shows '15. July 20. Aug 2025' (15 Jul original, 20 Aug apparent extension). Venue not stated. GPT cross-check 2026-11-02: ours 2025-08-20 vs GPT 2025-09-15 -> changed to 2025-09-15; official IAA-SPAICE 2025 news page of co-organiser SUSAA: 27 Jul 2025 'extended from July 15 to August 30', then 27 Aug 2025 'Final Extension of Submission Deadline ... extended to September 15, 2025'. ESA SPAICE page's 20 Aug was an intermediate value.",
       "continent": "Asia"
     },
     {
@@ -93,6 +93,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

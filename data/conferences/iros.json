@@ -176,13 +176,15 @@
       "venue": "Huntington Place",
       "start_date": "2023-10-01",
       "end_date": "2023-10-05",
-      "abstract_deadline": "2023-03-01",
-      "source": "https://ieee-ras.org/about-ras/latest-news/cfp-iros-2023-in-detroit",
+      "abstract_deadline": "2023-03-02",
+      "source": "https://2023.ieee-iros.org/",
       "extra_sources": [
+        "https://ieee-ras.org/about-ras/latest-news/cfp-iros-2023-in-detroit",
         "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/",
         "https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml"
       ],
-      "continent": "North America"
+      "continent": "North America",
+      "notes": "GPT cross-check 2026-11-02: abstract_deadline ours 2023-03-01 vs GPT 2023-03-02 -> GPT. Official 2023.ieee-iros.org important dates: 'March 1, 2023 extended 24 hours to March 2, 2023 (due to server crash): Deadline for Paper submissions'. Official extension, so the final extended date is used; the RAS CFP news item shows the original Mar 1."
     },
     {
       "year": 2024,
@@ -192,14 +194,15 @@
       "venue": "ADNEC (Abu Dhabi National Exhibition Centre)",
       "start_date": "2024-10-14",
       "end_date": "2024-10-18",
-      "abstract_deadline": "2024-03-01",
-      "source": "https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml",
+      "abstract_deadline": "2024-03-15",
+      "source": "https://web.archive.org/web/20240314034318/https://iros2024-abudhabi.org/cfp",
       "extra_sources": [
+        "https://github.com/paperswithcode/ai-deadlines/blob/gh-pages/_data/conferences.yml",
         "https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/",
         "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/iros.yml",
         "https://ai.ucf.edu/ucf-researchers-have-5-papers-accepted-in-iros-2024/"
       ],
-      "notes": "Deadline conflict: ai-deadlines and ServiceNow list March 1, 2024; ccf-deadlines and hyper.ai list March 15, 2024 (possible extension). Official site iros2024-abudhabi.org returned 403.",
+      "notes": "Paper deadline originally March 1, 2024, officially extended to March 15, 2024 (23:59 PST). The iros2024-abudhabi.org domain no longer hosts the conference site; archived copies used. GPT cross-check 2026-11-02: abstract_deadline ours 2024-03-01 vs GPT 2024-03-15 -> GPT. Archived official CFP page (iros2024-abudhabi.org/cfp, captured 2024-03-14 and 2024-05-24) shows 'March 1, 2024' struck and replaced by 'March 15, 2024 Deadline for Papers submissions' (all deadlines 23:59 PST); the 2024-02-27 capture shows the original March 1. Official extension, final date used.",
       "continent": "Asia"
     },
     {
@@ -285,6 +288,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

@@ -146,7 +146,7 @@
       "abstract_deadline": "2022-02-28",
       "source": "https://www.iafastro.org/news/iac-2022-call-for-session-proposals-and-abstracts.html",
       "continent": "Europe",
-      "notes": "Venue per IAF IAC 2022 brochure https://www.iafastro.org/assets/files/publications/iac-publications/2022/iac-2022-brochure-2021-03-23-online-booklet.pdf"
+      "notes": "Venue per IAF IAC 2022 brochure https://www.iafastro.org/assets/files/publications/iac-publications/2022/iac-2022-brochure-2021-03-23-online-booklet.pdf GPT cross-check 2026-11-02: ours 2022-02-28 vs GPT 2022-03-07 -> kept ours; IAF call and official iac2022.org (archived 3 Mar 2022, https://web.archive.org/web/20220303091246/https://iac2022.org/) still show 'Abstract Submission 28 February 2022'. GPT's 7 Mar is from NASA's Orbital Debris Quarterly News (Vol 26 Iss 1, 'abstract submission closed on 7 March 2022') - non-organizer, weak; no IAF extension notice found. Possible unannounced extension remains unverified."
     },
     {
       "year": 2023,
@@ -169,10 +169,10 @@
       "venue": "Allianz MiCo (Milano Convention Centre)",
       "start_date": "2024-10-14",
       "end_date": "2024-10-18",
-      "abstract_deadline": "2024-03-11",
-      "source": "https://www.iafastro.org/news/the-call-for-iac-2024-late-breaking-abstracts-lba-is-open-for-two-weeks.html",
+      "abstract_deadline": "2024-03-08",
+      "source": "https://www.linkedin.com/posts/fathikarouia_two-more-days-to-submit-an-abstract-for-the-activity-7171095691581186048-h-Ku",
       "continent": "Europe",
-      "notes": "Venue per ConfIDent event listing (secondary). Cross-checked 2026-10-16: abstract_deadline changed 2024-02-28 -> 2024-03-11; IAF LBA call news states the regular abstract deadline was 11 March (original 28 Feb per https://www.iafastro.org/news/submit-your-abstract-for-iac-2024-by-28-february.html)."
+      "notes": "Venue per ConfIDent event listing (secondary). Cross-checked 2026-10-16: abstract_deadline changed 2024-02-28 -> 2024-03-11; IAF LBA call news states the regular abstract deadline was 11 March (original 28 Feb per https://www.iafastro.org/news/submit-your-abstract-for-iac-2024-by-28-february.html). GPT cross-check 2026-11-02: ours 2024-03-11 vs GPT 2024-03-08 -> changed to 2024-03-08; the IAF's official extension post (visible as reshared on 6 Mar 2024 in the linked post) states 'The new and final deadline is Friday 8 March (23:59 CET)' and 'There will be NO additional extension'. The IAF LBA news (https://www.iafastro.org/news/the-call-for-iac-2024-late-breaking-abstracts-lba-is-open-for-two-weeks.html) later refers to the regular deadline as 11 March (a Monday) - treated as the portal's actual close/grace, not an announced extension. Unresolved inconsistency between two IAF statements."
     },
     {
       "year": 2025,
@@ -195,10 +195,10 @@
       "venue": "NEST Congress & Exhibition Center, Belek",
       "start_date": "2026-10-05",
       "end_date": "2026-10-09",
-      "abstract_deadline": "2026-03-09",
-      "source": "https://x.com/iafastro/status/2027432808856125724",
+      "abstract_deadline": "2026-03-06",
+      "source": "https://www.linkedin.com/posts/international-astronautical-federation_iac2026-activity-7433197399667515392-YSqb",
       "continent": "Europe",
-      "notes": "Abstract deadline 28 Feb 2026 23:59 CET per IAC 2026 Call for Papers https://www.iafastro.org/assets/files/events/iac/2026/IAC_2026_Call_for_Papers.pdf (a claimed extension to 6 Mar 2026 was NOT verified); manuscript deadline 14 Sep 2026; Late Breaking Abstracts 27 May-10 Jun 2026. Venue per https://www.bdli.de/en/dates/iac-antalya-2026 and https://www.space4water.org/events/77th-international-astronautical-congress-iac-2026 (secondary). Cross-checked 2026-10-16: abstract_deadline changed 2026-02-28 -> 2026-03-09; official IAF post (27 Feb 2026) announced the deadline \"officially extended to 9 March\". The earlier-noted 6 March claim is superseded."
+      "notes": "Abstract deadline 28 Feb 2026 23:59 CET per IAC 2026 Call for Papers https://www.iafastro.org/assets/files/events/iac/2026/IAC_2026_Call_for_Papers.pdf (a claimed extension to 6 Mar 2026 was NOT verified); manuscript deadline 14 Sep 2026; Late Breaking Abstracts 27 May-10 Jun 2026. Venue per https://www.bdli.de/en/dates/iac-antalya-2026 and https://www.space4water.org/events/77th-international-astronautical-congress-iac-2026 (secondary). Cross-checked 2026-10-16: abstract_deadline changed 2026-02-28 -> 2026-03-09; official IAF post (27 Feb 2026) announced the deadline \"officially extended to 9 March\". The earlier-noted 6 March claim is superseded. GPT cross-check 2026-11-02: ours 2026-03-09 vs GPT 2026-03-06 -> changed to 2026-03-06; official IAF LinkedIn post (27 Feb 2026) reads 'IAC 2026 Abstract Deadline Extended until 6 March 2026!'. The IAF X post published 5 minutes later (https://x.com/iafastro/status/2027432808856125724) says 'extended to 9 March' in its text, but its attached graphic reads 'IAC 2026 Abstract Submission Extended Until Friday 6 March!' - 6 March adopted (2 of 3 official statements; weekday matches). 9 March may reflect the portal's actual close; unresolved."
     },
     {
       "year": 2027,
@@ -259,6 +259,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

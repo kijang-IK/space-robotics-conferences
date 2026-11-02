@@ -171,13 +171,13 @@
       "start_date": "2025-09-27",
       "end_date": "2025-09-30",
       "abstract_deadline": "2025-04-30",
-      "source": "https://www.corl.org/contributions",
+      "source": "https://2025.corl.org/",
       "abstract_registration_deadline": "2025-04-23",
       "extra_sources": [
-        "https://2025.corl.org/",
+        "https://www.corl.org/contributions",
         "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/corl.yml"
       ],
-      "notes": "Abstract deadline Apr 23, 2025 per ccf-deadlines / ai-deadlines (third-party); paper deadline Apr 30, 2025 AoE. Co-located with Humanoids 2025.",
+      "notes": "Abstract deadline Apr 23, 2025 AoE; full paper deadline Apr 30, 2025 AoE; supplementary May 7, 2025; camera-ready Aug 28, 2025 (official 2025.corl.org key-dates data). Co-located with Humanoids 2025. GPT cross-check 2026-11-02: abstract_deadline ours 2025-04-30 vs GPT 2025-04-23 -> kept ours. Official 2025.corl.org key-dates data: abstract-deadline 2025-04-23 23:59 AoE, full-paper-submission 2025-04-30 23:59 AoE (no extension; author instructions say deadlines are final). GPT's Apr 23 is the mandatory abstract registration step, stored in abstract_registration_deadline (now officially confirmed); abstract_deadline holds the full-paper deadline per file convention. Source switched from corl.org/contributions (which now shows CoRL 2026) to 2025.corl.org.",
       "continent": "Asia"
     },
     {
@@ -189,14 +189,14 @@
       "start_date": "2026-11-09",
       "end_date": "2026-11-12",
       "abstract_deadline": "2026-05-28",
-      "source": "https://2026.corl.org/contributions",
+      "source": "https://2026.corl.org/",
       "abstract_registration_deadline": "2026-05-25",
       "extra_sources": [
-        "https://2026.corl.org/",
+        "https://2026.corl.org/contributions",
         "https://2026.corl.org/contributions/instruction-for-authors",
         "https://github.com/ccfddl/ccf-deadlines/blob/main/conference/AI/corl.yml"
       ],
-      "notes": "Main conference Nov 9-11, workshops Nov 12 (2026.corl.org; an older corl.org text said workshops Nov 9, main Nov 10-12). Abstract deadline May 25, 2026 per ccf-deadlines/PaperPilot (not verified on official page). Camera-ready Oct 12, 2026.",
+      "notes": "Main conference Nov 9-11, workshops Nov 12 (2026.corl.org; an older corl.org text said workshops Nov 9, main Nov 10-12). Abstract deadline May 25, 2026 AoE; full paper May 28, 2026 AoE; supplementary Jun 4, 2026 (official 2026.corl.org key-dates data). Camera-ready Oct 12, 2026. GPT cross-check 2026-11-02: abstract_deadline ours 2026-05-28 vs GPT 2026-05-25 -> kept ours. Official 2026.corl.org key-dates data: abstract-deadline 2026-05-25 23:59 AoE, full-paper-submission 2026-05-28 23:59 AoE (contributions page: 'Submission Deadline: May 28, 2026 (AoE)'; no extension). GPT's May 25 is the abstract registration step, stored in abstract_registration_deadline (now officially confirmed); abstract_deadline holds the full-paper deadline per file convention.",
       "continent": "North America"
     }
   ],
@@ -215,6 +215,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

@@ -94,10 +94,10 @@
       "venue": "POLIN Museum of the History of Polish Jews",
       "start_date": "2023-09-20",
       "end_date": "2023-09-22",
-      "abstract_deadline": "2023-02-01",
-      "source": "https://www.esmats.eu/warsaw/wp-content/uploads/2023/09/ESMATS-2023-v11b.pdf",
+      "abstract_deadline": "2023-02-15",
+      "source": "https://web.archive.org/web/20230204025038/https://www.esmats.eu/warsaw/",
       "continent": "Europe",
-      "notes": "20th ESMATS, hosted by Astronika. Venue from https://www.esmats.eu/warsaw/ Cross-checked 2026-10-16: abstract_deadline filled 2023-02-01 (official ESMATS 2023 flyer: abstracts due 1 February 2023; no extension found).",
+      "notes": "20th ESMATS, hosted by Astronika. Venue from https://www.esmats.eu/warsaw/ Cross-checked 2026-10-16: abstract_deadline filled 2023-02-01 (official ESMATS 2023 flyer: abstracts due 1 February 2023; no extension found). GPT cross-check 2026-11-02: ours 2023-02-01 vs GPT 2023-02-15 -> changed to 2023-02-15; archived official site (4 Feb 2023): 'The Esmats committee has decided to extend the deadline for abstract submission to 15th February 2023'. The flyer (https://www.esmats.eu/warsaw/wp-content/uploads/2023/09/ESMATS-2023-v11b.pdf) keeps the original 1 Feb. GPT's Scribd copy is non-primary.",
       "extra_sources": [
         "https://astronika.pl/we-are-hosting-esmats-2023/"
       ]
@@ -110,10 +110,10 @@
       "venue": "SwissTech Convention Center (EPFL campus)",
       "start_date": "2025-09-24",
       "end_date": "2025-09-26",
-      "abstract_deadline": null,
-      "source": "https://www.esmats.eu/lausanne/agenda/",
+      "abstract_deadline": "2025-02-16",
+      "source": "https://www.linkedin.com/posts/esa-space-mechanisms_call-for-papers-activity-7292515993048731649-ZaOP",
       "continent": "Europe",
-      "notes": "21st ESMATS, organised by EPFL, CSEM and Almatech with ESA; registration opened 23 Sep 2025."
+      "notes": "21st ESMATS, organised by EPFL, CSEM and Almatech with ESA; registration opened 23 Sep 2025. GPT cross-check 2026-11-02: abstract_deadline null vs GPT 2025-02-16 -> filled; ESA Space Mechanisms LinkedIn post of 4 Feb 2025 (ESA co-organises ESMATS 2025 with EPFL, CSEM and Almatech): 'Abstract Submission Deadline Extended ... to 16th February 2025'. The official esmats.eu/lausanne site no longer lists the deadline and has no archived copy with it; a later further extension cannot be excluded. Venue/dates per https://www.esmats.eu/lausanne/agenda/"
     },
     {
       "year": 2027,
@@ -147,6 +147,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

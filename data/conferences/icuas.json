@@ -125,9 +125,14 @@
       "venue": null,
       "start_date": "2022-06-21",
       "end_date": "2022-06-24",
-      "abstract_deadline": null,
-      "source": "https://sin.put.poznan.pl/conferences/details/conference/international-conference-on-unmanned-aircraft-systems-(icuas)",
-      "continent": "Europe"
+      "abstract_deadline": "2022-02-27",
+      "source": "https://web.archive.org/web/20220518102507/http://www.uasconferences.com/2022_icuas/important-dates/",
+      "continent": "Europe",
+      "extra_sources": [
+        "https://sin.put.poznan.pl/conferences/details/conference/international-conference-on-unmanned-aircraft-systems-(icuas)",
+        "https://web.archive.org/web/20220417221541/http://www.uasconferences.com/2022_icuas/"
+      ],
+      "notes": "GPT cross-check 2026-11-02: fill abstract_deadline (ours null, GPT 2022-02-01) -> 2022-02-27. GPT's Feb 1 is from the original CFP PDF. Official ICUAS 2022 site news: 16 Jan 2022 'Submission deadline extended (Feb. 20)!', 22 Feb 2022 'Submission deadline extended to Feb 27'; archived Important Dates page: 'February 27 [extended], 2022: Full Papers / Invited Papers / Tutorial Proposals Due ***hard deadline!***'. Final extended date used."
     },
     {
       "year": 2023,
@@ -137,9 +142,14 @@
       "venue": "Lazarski University",
       "start_date": "2023-06-06",
       "end_date": "2023-06-09",
-      "abstract_deadline": null,
-      "source": "https://arpas.uk/?p=19296",
-      "continent": "Europe"
+      "abstract_deadline": "2023-02-01",
+      "source": "https://web.archive.org/web/20230206134117/http://www.uasconferences.com/2023_icuas/call-for-papers/",
+      "continent": "Europe",
+      "extra_sources": [
+        "https://arpas.uk/?p=19296",
+        "https://web.archive.org/web/20230414004122/https://www.uasconferences.com/2023_icuas/important-dates/"
+      ],
+      "notes": "GPT cross-check 2026-11-02: fill abstract_deadline (ours null, GPT 2023-02-01) -> 2023-02-01. Official ICUAS 2023 CFP (archived 2023-02-06): 'February 1, 2023 [updated!]: Full Papers / Invited Sessions / Tutorial Proposals Due'; news 12 Dec 2022: new deadline Feb 1, 2023 (previously Jan 15). Important Dates page archived 2023-04-14 still shows Feb 1, 2023, so no further extension."
     },
     {
       "year": 2024,
@@ -212,6 +222,6 @@
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",
-    "gpt": null
+    "gpt": "GPT (Codex, gpt-6.1-sol) blind cross-check of 2022+ editions 2026-11-02, differences adjudicated"
   }
 }

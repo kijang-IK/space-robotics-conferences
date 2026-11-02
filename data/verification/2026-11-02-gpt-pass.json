@@ -1,0 +1,1891 @@
+[
+ {
+  "id": "aas-aiaa-asc",
+  "short_name": "AAS/AIAA ASC",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Charlotte",
+    "country": "United States",
+    "start_date": "2022-08-07",
+    "end_date": "2022-08-11",
+    "abstract_deadline": "2022-04-01",
+    "source": "https://aiaa.org/events/2022-aas-aiaa-astrodynamics-specialist-conference/"
+   },
+   {
+    "year": 2023,
+    "city": "Big Sky",
+    "country": "United States",
+    "start_date": "2023-08-13",
+    "end_date": "2023-08-17",
+    "abstract_deadline": "2023-04-07",
+    "source": "https://space-flight.org/docs/2023_summer/CallForPapers_2023Summer.pdf"
+   },
+   {
+    "year": 2024,
+    "city": "Broomfield",
+    "country": "United States",
+    "start_date": "2024-08-11",
+    "end_date": "2024-08-15",
+    "abstract_deadline": "2024-04-12",
+    "source": "https://www.space-flight.org/docs/2024_summer/CallForPapers_AAS_Aug2024.pdf"
+   },
+   {
+    "year": 2025,
+    "city": "Boston",
+    "country": "United States",
+    "start_date": "2025-08-10",
+    "end_date": "2025-08-14",
+    "abstract_deadline": "2025-04-18",
+    "source": "https://space-flight.org/docs/2025_summer/CallForPapers_AASAIAA_ASC_Aug2025.pdf"
+   },
+   {
+    "year": 2026,
+    "city": "Whistler",
+    "country": "Canada",
+    "start_date": "2026-07-26",
+    "end_date": "2026-07-30",
+    "abstract_deadline": "2026-03-29",
+    "source": "https://space-flight.org/docs/2026_summer/CallForPapers_AASAIAA_ASC_Jul2026.pdf"
+   }
+  ]
+ },
+ {
+  "id": "aiaa-ascend",
+  "short_name": "ASCEND",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Las Vegas",
+    "country": "United States",
+    "start_date": "2022-10-24",
+    "end_date": "2022-10-26",
+    "abstract_deadline": null,
+    "source": "https://aiaa.org/event_tag/accelerating/"
+   },
+   {
+    "year": 2023,
+    "city": "Las Vegas",
+    "country": "United States",
+    "start_date": "2023-10-23",
+    "end_date": "2023-10-25",
+    "abstract_deadline": "2023-03-22",
+    "source": "https://engage.aiaa.org/losangeles-lasvegas/discussion/ascend-call-for-content-22-march-2023-the-last-day-of-submission"
+   },
+   {
+    "year": 2024,
+    "city": "Las Vegas",
+    "country": "United States",
+    "start_date": "2024-07-30",
+    "end_date": "2024-08-01",
+    "abstract_deadline": "2023-12-12",
+    "source": "https://www.ascend.events/presenters-2025/"
+   },
+   {
+    "year": 2025,
+    "city": "Las Vegas",
+    "country": "United States",
+    "start_date": "2025-07-22",
+    "end_date": "2025-07-24",
+    "abstract_deadline": "2024-11-21",
+    "source": "https://www.ascend.events/presenters/space-healthcare-humans-in-space/"
+   },
+   {
+    "year": 2026,
+    "city": "Washington, D.C.",
+    "country": "United States",
+    "start_date": "2026-05-19",
+    "end_date": "2026-05-21",
+    "abstract_deadline": "2025-09-25",
+    "source": "https://www.aiaa.org/2025/09/18/call-for-content-deadline-extended-to-25-september/"
+   },
+   {
+    "year": 2027,
+    "city": "Washington, D.C.",
+    "country": "United States",
+    "start_date": "2027-05-18",
+    "end_date": "2027-05-20",
+    "abstract_deadline": "2026-10-08",
+    "source": "https://www.ascend.events/presenters/"
+   },
+   {
+    "year": 2028,
+    "city": "Washington, D.C.",
+    "country": "United States",
+    "start_date": "2028-06-19",
+    "end_date": "2028-06-21",
+    "abstract_deadline": null,
+    "source": "https://www.ascend.events/about/future-ascend-dates/"
+   }
+  ]
+ },
+ {
+  "id": "aim",
+  "short_name": "AIM",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Sapporo",
+    "country": "Japan",
+    "start_date": "2022-07-11",
+    "end_date": "2022-07-15",
+    "abstract_deadline": "2022-03-11",
+    "source": "https://www.aim2022.org/"
+   },
+   {
+    "year": 2023,
+    "city": "Seattle",
+    "country": "United States",
+    "start_date": "2023-06-27",
+    "end_date": "2023-07-01",
+    "abstract_deadline": "2023-02-10",
+    "source": "https://aim2023.org/"
+   },
+   {
+    "year": 2024,
+    "city": "Boston",
+    "country": "United States",
+    "start_date": "2024-07-15",
+    "end_date": "2024-07-19",
+    "abstract_deadline": "2024-02-08",
+    "source": "https://www.asme.org/getmedia/b3f83eae-d4fc-47b3-b536-43111b33c3fc/dscd_newsletter_winter_2023_v2.pdf"
+   },
+   {
+    "year": 2025,
+    "city": "Hangzhou",
+    "country": "China",
+    "start_date": "2025-07-14",
+    "end_date": "2025-07-18",
+    "abstract_deadline": null,
+    "source": "https://www.aim2025.org/template/1/default/assets/doc/AIM2025CallforPaper_V5.pdf"
+   },
+   {
+    "year": 2026,
+    "city": "Genoa",
+    "country": "Italy",
+    "start_date": "2026-07-07",
+    "end_date": "2026-07-10",
+    "abstract_deadline": "2026-03-24",
+    "source": "https://aim2026.com/"
+   },
+   {
+    "year": 2027,
+    "city": "Calgary",
+    "country": "Canada",
+    "start_date": "2027-06-29",
+    "end_date": "2027-07-02",
+    "abstract_deadline": "2027-01-26",
+    "source": "https://aim2027.com/wp-content/uploads/2026/09/AIM2027_CFP_V2.pdf"
+   }
+  ]
+ },
+ {
+  "id": "astra",
+  "short_name": "ASTRA",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Noordwijk",
+    "country": "Netherlands",
+    "start_date": "2022-06-01",
+    "end_date": "2022-06-02",
+    "abstract_deadline": "2022-03-11",
+    "source": "https://atpi.eventsair.com/astra2022/calendar-of-events"
+   },
+   {
+    "year": 2023,
+    "city": "Leiden",
+    "country": "Netherlands",
+    "start_date": "2023-10-18",
+    "end_date": "2023-10-20",
+    "abstract_deadline": "2023-07-07",
+    "source": "https://atpi.eventsair.com/astra2023/calendar-of-events"
+   },
+   {
+    "year": 2025,
+    "city": "Leiden",
+    "country": "Netherlands",
+    "start_date": "2025-10-07",
+    "end_date": "2025-10-09",
+    "abstract_deadline": "2025-06-15",
+    "source": "https://atpi.eventsair.com/25a09--astra-2025/calendar-of-events"
+   }
+  ]
+ },
+ {
+  "id": "ecssmet",
+  "short_name": "ECSSMET",
+  "editions": [
+   {
+    "year": 2023,
+    "city": "Toulouse",
+    "country": "France",
+    "start_date": "2023-03-28",
+    "end_date": "2023-03-30",
+    "abstract_deadline": "2022-10-15",
+    "source": "https://ecssmet2023.com/"
+   },
+   {
+    "year": 2024,
+    "city": "Noordwijk",
+    "country": "Netherlands",
+    "start_date": "2024-09-23",
+    "end_date": "2024-09-27",
+    "abstract_deadline": "2024-04-05",
+    "source": "https://atpi.eventsair.com/ecssmet2024/calendar-of-events"
+   },
+   {
+    "year": 2026,
+    "city": "Braunschweig",
+    "country": "Germany",
+    "start_date": "2026-09-21",
+    "end_date": "2026-09-25",
+    "abstract_deadline": "2026-05-08",
+    "source": "https://www.linkedin.com/posts/dlr-sy_finalcallecssmet2026-activity-7455835926980796416-8rAk"
+   }
+  ]
+ },
+ {
+  "id": "eucass",
+  "short_name": "EUCASS",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Lille",
+    "country": "France",
+    "start_date": "2022-06-27",
+    "end_date": "2022-07-01",
+    "abstract_deadline": "2022-03-15",
+    "source": "https://www.eucass.eu/2022/"
+   },
+   {
+    "year": 2023,
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "start_date": "2023-07-09",
+    "end_date": "2023-07-13",
+    "abstract_deadline": null,
+    "source": "https://www.eucass.eu/eucass-ceas-2023/"
+   },
+   {
+    "year": 2025,
+    "city": "Rome",
+    "country": "Italy",
+    "start_date": "2025-06-30",
+    "end_date": "2025-07-04",
+    "abstract_deadline": "2025-02-15",
+    "source": "https://www.eucass.eu/2025/keydates/"
+   },
+   {
+    "year": 2027,
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "start_date": "2027-06-28",
+    "end_date": "2027-07-02",
+    "abstract_deadline": "2027-01-15",
+    "source": "https://www.eucass.eu/"
+   }
+  ]
+ },
+ {
+  "id": "iaa-ai-for-space",
+  "short_name": "IAA AI for Space",
+  "editions": [
+   {
+    "year": 2024,
+    "city": "Didcot",
+    "country": "United Kingdom",
+    "start_date": "2024-09-17",
+    "end_date": "2024-09-19",
+    "abstract_deadline": "2024-05-27",
+    "source": "https://spaice.esa.int/2024/call-for-papers/"
+   },
+   {
+    "year": 2025,
+    "city": "Suzhou",
+    "country": "China",
+    "start_date": "2025-11-01",
+    "end_date": "2025-11-03",
+    "abstract_deadline": "2025-09-15",
+    "source": "https://www.susaa.org.cn/iaaspaice/news"
+   },
+   {
+    "year": 2026,
+    "city": "Jeju",
+    "country": "South Korea",
+    "start_date": "2026-08-26",
+    "end_date": "2026-08-28",
+    "abstract_deadline": "2026-06-15",
+    "source": "https://www.iaa-aispace.org/"
+   }
+  ]
+ },
+ {
+  "id": "iaa-icssa",
+  "short_name": "ICSSA",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Madrid",
+    "country": "Spain",
+    "start_date": "2022-04-04",
+    "end_date": "2022-04-06",
+    "abstract_deadline": "2022-01-27",
+    "source": "https://iaaspace.org/event/3rd-iaa-conference-on-space-situational-awareness-icssa-2022/"
+   },
+   {
+    "year": 2024,
+    "city": "Daytona Beach",
+    "country": "United States",
+    "start_date": "2024-05-08",
+    "end_date": "2024-05-10",
+    "abstract_deadline": "2024-02-29",
+    "source": "https://iaaspace.org/event/4th-iaa-conference-on-space-situational-awareness-icssa-2024/"
+   },
+   {
+    "year": 2026,
+    "city": "Madrid",
+    "country": "Spain",
+    "start_date": "2026-04-07",
+    "end_date": "2026-04-09",
+    "abstract_deadline": "2026-01-05",
+    "source": "https://iaaspace.org/event/5th-iaa-conference-on-space-situational-awareness-icssa-2026/"
+   }
+  ]
+ },
+ {
+  "id": "iaa-stc",
+  "short_name": "Space Traffic Conference",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Austin",
+    "country": "United States",
+    "start_date": "2022-03-02",
+    "end_date": "2022-03-03",
+    "abstract_deadline": "2022-01-14",
+    "source": "https://iaaspace.org/event/8th-space-traffic-management-conference-2022/"
+   },
+   {
+    "year": 2023,
+    "city": "Austin",
+    "country": "United States",
+    "start_date": "2023-03-01",
+    "end_date": "2023-03-02",
+    "abstract_deadline": "2022-12-16",
+    "source": "https://iaaspace.org/event/9th-space-traffic-management-conference-2023/"
+   },
+   {
+    "year": 2024,
+    "city": "Austin",
+    "country": "United States",
+    "start_date": "2024-02-28",
+    "end_date": "2024-02-29",
+    "abstract_deadline": "2023-09-30",
+    "source": "https://iaaspace.org/event/10th-space-traffic-management-conference-2024/"
+   },
+   {
+    "year": 2025,
+    "city": "Austin",
+    "country": "United States",
+    "start_date": "2025-03-04",
+    "end_date": "2025-03-05",
+    "abstract_deadline": "2024-10-04",
+    "source": "https://www.strausscenter.org/events/stm-from-the-ground-up-and-back-11th-annual-space-traffic-management-conference/"
+   },
+   {
+    "year": 2026,
+    "city": "Austin",
+    "country": "United States",
+    "start_date": "2026-02-18",
+    "end_date": "2026-02-19",
+    "abstract_deadline": "2025-09-24",
+    "source": "https://iaaspace.org/event/12th-space-traffic-conference-2026/"
+   },
+   {
+    "year": 2027,
+    "city": "Austin",
+    "country": "United States",
+    "start_date": "2027-03-03",
+    "end_date": "2027-03-04",
+    "abstract_deadline": "2026-10-14",
+    "source": "https://iaaspace.org/event/13th-space-traffic-conference-2027/"
+   }
+  ]
+ },
+ {
+  "id": "iccas",
+  "short_name": "ICCAS",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Busan",
+    "country": "South Korea",
+    "start_date": "2022-11-27",
+    "end_date": "2022-12-01",
+    "abstract_deadline": "2022-07-31",
+    "source": "https://2022.iccas.org/"
+   },
+   {
+    "year": 2023,
+    "city": "Yeosu",
+    "country": "South Korea",
+    "start_date": "2023-10-17",
+    "end_date": "2023-10-20",
+    "abstract_deadline": "2023-06-30",
+    "source": "https://2023.iccas.org/"
+   },
+   {
+    "year": 2024,
+    "city": "Jeju",
+    "country": "South Korea",
+    "start_date": "2024-10-29",
+    "end_date": "2024-11-01",
+    "abstract_deadline": "2024-06-14",
+    "source": "https://2024.iccas.org/?page_id=962"
+   },
+   {
+    "year": 2025,
+    "city": "Incheon",
+    "country": "South Korea",
+    "start_date": "2025-11-04",
+    "end_date": "2025-11-07",
+    "abstract_deadline": "2025-07-04",
+    "source": "https://2025.iccas.org/"
+   },
+   {
+    "year": 2026,
+    "city": "Sapporo",
+    "country": "Japan",
+    "start_date": "2026-10-27",
+    "end_date": "2026-10-30",
+    "abstract_deadline": "2026-06-15",
+    "source": "https://2026.iccas.org/"
+   },
+   {
+    "year": 2027,
+    "city": "Jeju",
+    "country": "South Korea",
+    "start_date": "2027-11-02",
+    "end_date": "2027-11-05",
+    "abstract_deadline": null,
+    "source": "https://icros.org/eng/sub/sub04_1.asp"
+   }
+  ]
+ },
+ {
+  "id": "ieee-aerospace",
+  "short_name": "IEEE Aerospace",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Big Sky",
+    "country": "United States",
+    "start_date": "2022-03-05",
+    "end_date": "2022-03-12",
+    "abstract_deadline": "2021-07-01",
+    "source": "https://ieee-aess.org/files/ieeeaess/2021-12/cfp_2022.pdf"
+   },
+   {
+    "year": 2023,
+    "city": "Big Sky",
+    "country": "United States",
+    "start_date": "2023-03-04",
+    "end_date": "2023-03-11",
+    "abstract_deadline": "2022-07-01",
+    "source": "https://phmsociety.org/phm_ieee_aerospace_conference_2023/"
+   },
+   {
+    "year": 2024,
+    "city": "Big Sky",
+    "country": "United States",
+    "start_date": "2024-03-02",
+    "end_date": "2024-03-09",
+    "abstract_deadline": null,
+    "source": "https://2024.aeroconf.org/"
+   },
+   {
+    "year": 2025,
+    "city": "Big Sky",
+    "country": "United States",
+    "start_date": "2025-03-01",
+    "end_date": "2025-03-08",
+    "abstract_deadline": null,
+    "source": "https://2025.aeroconf.org/"
+   },
+   {
+    "year": 2026,
+    "city": "Big Sky",
+    "country": "United States",
+    "start_date": "2026-03-07",
+    "end_date": "2026-03-14",
+    "abstract_deadline": "2025-07-01",
+    "source": "https://2021.aeroconf.org/cms/content_attachments/26/download"
+   },
+   {
+    "year": 2027,
+    "city": "Big Sky",
+    "country": "United States",
+    "start_date": "2027-03-06",
+    "end_date": "2027-03-13",
+    "abstract_deadline": "2026-07-01",
+    "source": "https://aeroconf.org/key-dates"
+   },
+   {
+    "year": 2028,
+    "city": null,
+    "country": null,
+    "start_date": "2028-03-04",
+    "end_date": "2028-03-11",
+    "abstract_deadline": null,
+    "source": "https://www.aeroconf.org/cms/content_attachments/26/download"
+   }
+  ]
+ },
+ {
+  "id": "isparo",
+  "short_name": "iSpaRo",
+  "editions": [
+   {
+    "year": 2024,
+    "city": "Luxembourg",
+    "country": "Luxembourg",
+    "start_date": "2024-06-24",
+    "end_date": "2024-06-27",
+    "abstract_deadline": "2024-01-10",
+    "source": "https://www.linkedin.com/posts/conference-isparo_isparoconference-ieee-callforpapers-activity-7136292687032266752-9FE9"
+   },
+   {
+    "year": 2025,
+    "city": "Sendai",
+    "country": "Japan",
+    "start_date": "2025-12-01",
+    "end_date": "2025-12-04",
+    "abstract_deadline": "2025-08-12",
+    "source": "https://www.isparo2025.space/"
+   },
+   {
+    "year": 2026,
+    "city": "Cologne",
+    "country": "Germany",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-06",
+    "abstract_deadline": "2026-06-24",
+    "source": "https://www.isairas-isparo.de/front/content.php?id_article=607"
+   },
+   {
+    "year": 2027,
+    "city": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "abstract_deadline": null,
+    "source": "https://www.linkedin.com/posts/conference-isparo_isparo-isparo-spacerobotics-activity-7423756819082403840-78gv"
+   }
+  ]
+ },
+ {
+  "id": "rss",
+  "short_name": "RSS",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "New York City",
+    "country": "United States",
+    "start_date": "2022-06-27",
+    "end_date": "2022-07-01",
+    "abstract_deadline": "2022-01-29",
+    "source": "https://roboticsconference.org/2022/"
+   },
+   {
+    "year": 2023,
+    "city": "Daegu",
+    "country": "South Korea",
+    "start_date": "2023-07-10",
+    "end_date": "2023-07-14",
+    "abstract_deadline": "2023-02-03",
+    "source": "https://roboticsconference.org/2023/"
+   },
+   {
+    "year": 2024,
+    "city": "Delft",
+    "country": "Netherlands",
+    "start_date": "2024-07-15",
+    "end_date": "2024-07-19",
+    "abstract_deadline": "2024-02-02",
+    "source": "https://roboticsconference.org/2024/"
+   },
+   {
+    "year": 2025,
+    "city": "Los Angeles",
+    "country": "United States",
+    "start_date": "2025-06-21",
+    "end_date": "2025-06-25",
+    "abstract_deadline": "2025-01-17",
+    "source": "https://roboticsconference.org/2025/"
+   },
+   {
+    "year": 2026,
+    "city": "Sydney",
+    "country": "Australia",
+    "start_date": "2026-07-13",
+    "end_date": "2026-07-17",
+    "abstract_deadline": "2026-01-23",
+    "source": "https://roboticsconference.org/2026/"
+   },
+   {
+    "year": 2027,
+    "city": "Athens",
+    "country": "Greece",
+    "start_date": "2027-07-06",
+    "end_date": "2027-07-11",
+    "abstract_deadline": "2026-12-04",
+    "source": "https://roboticsconference.org/"
+   }
+  ]
+ },
+ {
+  "id": "aas-aiaa-sfm",
+  "short_name": "AAS/AIAA SFM",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "San Diego",
+    "country": "United States",
+    "start_date": "2022-01-03",
+    "end_date": "2022-01-07",
+    "abstract_deadline": "2021-06-01",
+    "source": "https://www.space-flight.org/docs/2022_winter/2022_winter.html"
+   },
+   {
+    "year": 2023,
+    "city": "Austin",
+    "country": "United States",
+    "start_date": "2023-01-15",
+    "end_date": "2023-01-19",
+    "abstract_deadline": "2022-09-30",
+    "source": "https://space-flight.org/docs/2023_winter/CallForPapers_AASAIAA_Jan2023_v2.pdf"
+   },
+   {
+    "year": 2024,
+    "city": "Orlando",
+    "country": "United States",
+    "start_date": "2024-01-08",
+    "end_date": "2024-01-12",
+    "abstract_deadline": "2023-05-25",
+    "source": "https://www.space-flight.org/docs/2024_winter/2024_winter.html"
+   },
+   {
+    "year": 2025,
+    "city": "Lihue",
+    "country": "United States",
+    "start_date": "2025-01-19",
+    "end_date": "2025-01-23",
+    "abstract_deadline": "2024-09-22",
+    "source": "https://space-flight.org/docs/2025_winter/CallForPapers_AASAIAA_Jan2025_final2.pdf"
+   },
+   {
+    "year": 2026,
+    "city": "Orlando",
+    "country": "United States",
+    "start_date": "2026-01-12",
+    "end_date": "2026-01-16",
+    "abstract_deadline": "2025-05-22",
+    "source": "https://www.space-flight.org/docs/2026_winter/CallForPapers_SFM2026.pdf"
+   },
+   {
+    "year": 2027,
+    "city": "New Orleans",
+    "country": "United States",
+    "start_date": "2027-01-17",
+    "end_date": "2027-01-21",
+    "abstract_deadline": "2026-10-04",
+    "source": "https://space-flight.org/docs/2027_winter/2027_winter.html"
+   }
+  ]
+ },
+ {
+  "id": "aiaa-aviation",
+  "short_name": "AIAA AVIATION",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Chicago",
+    "country": "United States",
+    "start_date": "2022-06-27",
+    "end_date": "2022-07-01",
+    "abstract_deadline": null,
+    "source": "https://www.aiaa.org/docs/default-source/uploadedfiles/aiaa-aviation-forum/call-for-papers/mst_av22_adf.pdf?sfvrsn=7c9d044b_0"
+   },
+   {
+    "year": 2023,
+    "city": "San Diego",
+    "country": "United States",
+    "start_date": "2023-06-12",
+    "end_date": "2023-06-16",
+    "abstract_deadline": "2022-11-10",
+    "source": "https://aerospaceamerica.aiaa.org/wp-content/uploads/2025/03/Nov2022.pdf"
+   },
+   {
+    "year": 2024,
+    "city": "Las Vegas",
+    "country": "United States",
+    "start_date": "2024-07-29",
+    "end_date": "2024-08-02",
+    "abstract_deadline": "2023-12-12",
+    "source": "https://connect.hfes.org/discussion/aiaa-aviation-call-for-papers"
+   },
+   {
+    "year": 2025,
+    "city": "Las Vegas",
+    "country": "United States",
+    "start_date": "2025-07-21",
+    "end_date": "2025-07-25",
+    "abstract_deadline": null,
+    "source": "https://aiaa.org/wp-content/uploads/2024/12/mst_cfp_additional_details-2.pdf"
+   },
+   {
+    "year": 2026,
+    "city": "San Diego",
+    "country": "United States",
+    "start_date": "2026-06-08",
+    "end_date": "2026-06-12",
+    "abstract_deadline": "2025-11-13",
+    "source": "https://aviation.aiaa.org/call-for-content/technical-presenter-faqs/"
+   },
+   {
+    "year": 2027,
+    "city": "San Diego",
+    "country": "United States",
+    "start_date": "2027-06-07",
+    "end_date": "2027-06-11",
+    "abstract_deadline": "2026-11-12",
+    "source": "https://aviation.aiaa.org/call-for-content/call-for-papers/"
+   },
+   {
+    "year": 2028,
+    "city": "San Diego",
+    "country": "United States",
+    "start_date": "2028-06-05",
+    "end_date": "2028-06-09",
+    "abstract_deadline": null,
+    "source": "https://aviation.aiaa.org/about/future-aviation-dates/"
+   }
+  ]
+ },
+ {
+  "id": "ams",
+  "short_name": "AMS",
+  "editions": [
+   {
+    "year": 2022,
+    "city": null,
+    "country": null,
+    "start_date": "2022-05-11",
+    "end_date": "2022-05-13",
+    "abstract_deadline": "2021-12-03",
+    "source": "https://www.esmats.eu/esa/ams-2022/"
+   },
+   {
+    "year": 2024,
+    "city": "Virginia Beach",
+    "country": "United States",
+    "start_date": "2024-05-15",
+    "end_date": "2024-05-17",
+    "abstract_deadline": null,
+    "source": "https://aeromechanisms.com/47th-ams-program-2024/"
+   },
+   {
+    "year": 2026,
+    "city": "Huntsville",
+    "country": "United States",
+    "start_date": "2026-05-13",
+    "end_date": "2026-05-15",
+    "abstract_deadline": "2025-11-30",
+    "source": "https://aeromechanisms.com/"
+   },
+   {
+    "year": 2028,
+    "city": null,
+    "country": "United States",
+    "start_date": null,
+    "end_date": null,
+    "abstract_deadline": null,
+    "source": "https://aeromechanisms.com/"
+   }
+  ]
+ },
+ {
+  "id": "case",
+  "short_name": "IEEE CASE",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Mexico City",
+    "country": "Mexico",
+    "start_date": "2022-08-20",
+    "end_date": "2022-08-24",
+    "abstract_deadline": "2022-03-18",
+    "source": "https://www.ewh.ieee.org/soc/ras/conf/fullysponsored/case/CASE%202022/www.case2022.org/Resource/Final%20Submission/index.html"
+   },
+   {
+    "year": 2023,
+    "city": "Auckland",
+    "country": "New Zealand",
+    "start_date": "2023-08-26",
+    "end_date": "2023-08-30",
+    "abstract_deadline": "2023-03-17",
+    "source": "https://www.ewh.ieee.org/soc/ras/conf/fullysponsored/case/CASE%202023/case2023.org/index.html"
+   },
+   {
+    "year": 2024,
+    "city": "Bari",
+    "country": "Italy",
+    "start_date": "2024-08-28",
+    "end_date": "2024-09-01",
+    "abstract_deadline": "2024-03-25",
+    "source": "https://www.linkedin.com/posts/ieee-case_%3F%3F%3F%3F%3F-%3F%3F-%3F%3F%3F%3F%3F-%3F%3F%3F%3F-%3F%3F-activity-7173619462082965504-4aHG"
+   },
+   {
+    "year": 2025,
+    "city": "Los Angeles",
+    "country": "United States",
+    "start_date": "2025-08-17",
+    "end_date": "2025-08-21",
+    "abstract_deadline": "2025-03-15",
+    "source": "https://ewh.ieee.org/soc/ras/conf/fullysponsored/case/CASE2025/2025.ieeecase.org/index.html"
+   },
+   {
+    "year": 2026,
+    "city": "Shenyang",
+    "country": "China",
+    "start_date": "2026-08-17",
+    "end_date": "2026-08-21",
+    "abstract_deadline": null,
+    "source": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case/past-and-future-venues/"
+   },
+   {
+    "year": 2027,
+    "city": "Linz",
+    "country": "Austria",
+    "start_date": "2027-08-23",
+    "end_date": "2027-08-27",
+    "abstract_deadline": "2027-03-01",
+    "source": "https://www.ieee-ras.org/events/page/3/"
+   },
+   {
+    "year": 2028,
+    "city": "Chicago",
+    "country": "United States",
+    "start_date": "2028-08-16",
+    "end_date": "2028-08-20",
+    "abstract_deadline": "2028-03-01",
+    "source": "https://www.ieee-ras.org/events/category/important-dates/page/2/"
+   }
+  ]
+ },
+ {
+  "id": "esa-gnc-icatt",
+  "short_name": "ESA GNC & ICATT",
+  "editions": [
+   {
+    "year": 2023,
+    "city": "Sopot",
+    "country": "Poland",
+    "start_date": "2023-06-12",
+    "end_date": "2023-06-16",
+    "abstract_deadline": "2023-01-20",
+    "source": "https://atpi.eventsair.com/gnc2023/calendar-of-events"
+   },
+   {
+    "year": 2026,
+    "city": "Sevilla",
+    "country": "Spain",
+    "start_date": "2026-09-28",
+    "end_date": "2026-10-02",
+    "abstract_deadline": "2026-02-27",
+    "source": "https://atpi.eventsair.com/gncicatt/calendar-of-events"
+   }
+  ]
+ },
+ {
+  "id": "humanoids",
+  "short_name": "IEEE Humanoids",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Ginowan",
+    "country": "Japan",
+    "start_date": "2022-11-28",
+    "end_date": "2022-11-30",
+    "abstract_deadline": "2022-07-15",
+    "source": "https://www.humanoids2022.org/home"
+   },
+   {
+    "year": 2023,
+    "city": "Austin",
+    "country": "United States",
+    "start_date": "2023-12-12",
+    "end_date": "2023-12-14",
+    "abstract_deadline": "2023-07-22",
+    "source": "https://www.ieee-ras.org/cfp-humanoids-2023-in-austin-tx-usa/"
+   },
+   {
+    "year": 2024,
+    "city": "Nancy",
+    "country": "France",
+    "start_date": "2024-11-22",
+    "end_date": "2024-11-24",
+    "abstract_deadline": "2024-07-15",
+    "source": "https://ewh.ieee.org/soc/ras/conf/fullysponsored/humanoids/HUMANOIDS2024/"
+   },
+   {
+    "year": 2025,
+    "city": "Seoul",
+    "country": "South Korea",
+    "start_date": "2025-09-30",
+    "end_date": "2025-10-02",
+    "abstract_deadline": "2025-05-15",
+    "source": "https://instalker.org/Humanoids2025"
+   },
+   {
+    "year": 2026,
+    "city": "Santa Clara",
+    "country": "United States",
+    "start_date": "2026-12-06",
+    "end_date": "2026-12-09",
+    "abstract_deadline": "2026-07-24",
+    "source": "https://lists.robocup.org/archives/list/robocup-humanoid%40lists.robocup.org/latest?count=%27&count=200&page=1"
+   },
+   {
+    "year": 2027,
+    "city": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "abstract_deadline": null,
+    "source": "https://ras.papercept.net/conferences/scripts/basiclinks.pl?ConfID=572"
+   }
+  ]
+ },
+ {
+  "id": "iaa-dycoss",
+  "short_name": "IAA DyCoSS",
+  "editions": []
+ },
+ {
+  "id": "iaa-pdc",
+  "short_name": "IAA PDC",
+  "editions": [
+   {
+    "year": 2023,
+    "city": "Vienna",
+    "country": "Austria",
+    "start_date": "2023-04-03",
+    "end_date": "2023-04-07",
+    "abstract_deadline": "2022-12-23",
+    "source": "https://iaaspace.org/event/8th-iaa-planetary-defense-conference-2023/"
+   },
+   {
+    "year": 2025,
+    "city": "Stellenbosch",
+    "country": "South Africa",
+    "start_date": "2025-05-05",
+    "end_date": "2025-05-09",
+    "abstract_deadline": "2024-12-15",
+    "source": "https://iaaspace.org/event/9th-iaa-planetary-defense-conference-2025/"
+   },
+   {
+    "year": 2027,
+    "city": "Montreal",
+    "country": "Canada",
+    "start_date": "2027-05-03",
+    "end_date": "2027-05-07",
+    "abstract_deadline": "2026-11-23",
+    "source": "https://iaaspace.org/event/10th-iaa-planetary-defense-conference-2027/"
+   }
+  ]
+ },
+ {
+  "id": "iac",
+  "short_name": "IAC",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Paris",
+    "country": "France",
+    "start_date": "2022-09-18",
+    "end_date": "2022-09-22",
+    "abstract_deadline": "2022-03-07",
+    "source": "https://ufdcimages.uflib.ufl.edu/AA/00/05/88/53/00096/03-2022.pdf"
+   },
+   {
+    "year": 2023,
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "start_date": "2023-10-02",
+    "end_date": "2023-10-06",
+    "abstract_deadline": "2023-03-10",
+    "source": "https://www.iafastro.org/news/iac-2023-call-for-abstracts-extended-to-10-march.html"
+   },
+   {
+    "year": 2024,
+    "city": "Milan",
+    "country": "Italy",
+    "start_date": "2024-10-14",
+    "end_date": "2024-10-18",
+    "abstract_deadline": "2024-03-08",
+    "source": "https://www.linkedin.com/posts/fathikarouia_two-more-days-to-submit-an-abstract-for-the-activity-7171095691581186048-h-Ku"
+   },
+   {
+    "year": 2025,
+    "city": "Sydney",
+    "country": "Australia",
+    "start_date": "2025-09-29",
+    "end_date": "2025-10-03",
+    "abstract_deadline": "2025-03-07",
+    "source": "https://www.linkedin.com/posts/international-astronautical-federation_iac2025-activity-7301256390596067328-bIE-"
+   },
+   {
+    "year": 2026,
+    "city": "Antalya",
+    "country": "Türkiye",
+    "start_date": "2026-10-05",
+    "end_date": "2026-10-09",
+    "abstract_deadline": "2026-03-06",
+    "source": "https://www.linkedin.com/posts/international-astronautical-federation_iac2026-activity-7433197399667515392-YSqb"
+   },
+   {
+    "year": 2027,
+    "city": "Poznań",
+    "country": "Poland",
+    "start_date": "2027-09-27",
+    "end_date": "2027-10-01",
+    "abstract_deadline": null,
+    "source": "https://www.iafastro.org/events/iac/"
+   },
+   {
+    "year": 2028,
+    "city": "Samarkand",
+    "country": "Uzbekistan",
+    "start_date": "2028-10-09",
+    "end_date": "2028-10-13",
+    "abstract_deadline": null,
+    "source": "https://www.iafastro.org/events/iac/"
+   },
+   {
+    "year": 2029,
+    "city": "Geneva",
+    "country": "Switzerland",
+    "start_date": "2029-10-08",
+    "end_date": "2029-10-12",
+    "abstract_deadline": null,
+    "source": "https://www.swissmem.ch/en/media-corner/media-releases/worlds-leading-space-congress-coming-to-geneva-in-2029.html"
+   }
+  ]
+ },
+ {
+  "id": "icra",
+  "short_name": "IEEE ICRA",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Philadelphia",
+    "country": "United States",
+    "start_date": "2022-05-23",
+    "end_date": "2022-05-27",
+    "abstract_deadline": "2021-09-15",
+    "source": "https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2022/icra2022.org/contribute/call-for-papers.html"
+   },
+   {
+    "year": 2023,
+    "city": "London",
+    "country": "United Kingdom",
+    "start_date": "2023-05-29",
+    "end_date": "2023-06-02",
+    "abstract_deadline": "2022-09-15",
+    "source": "https://www.mirmi.tum.de/fileadmin/w00byb/mirmi/Newsletters/Newsletter_PDF/2022_08_17_MIRMI_Newsletter.pdf"
+   },
+   {
+    "year": 2024,
+    "city": "Yokohama",
+    "country": "Japan",
+    "start_date": "2024-05-13",
+    "end_date": "2024-05-17",
+    "abstract_deadline": "2023-09-15",
+    "source": "https://www.ieee-ras.org/images/conferences/ICRA/2024/icra2024_cfp.pdf"
+   },
+   {
+    "year": 2025,
+    "city": "Atlanta",
+    "country": "United States",
+    "start_date": "2025-05-19",
+    "end_date": "2025-05-23",
+    "abstract_deadline": "2024-09-16",
+    "source": "https://www.ewh.ieee.org/soc/ras/conf/fullysponsored/icra/ICRA2025/2025.ieee-icra.org/announcements/paper-submissions/index.html"
+   },
+   {
+    "year": 2026,
+    "city": "Vienna",
+    "country": "Austria",
+    "start_date": "2026-06-01",
+    "end_date": "2026-06-05",
+    "abstract_deadline": "2025-09-15",
+    "source": "https://2026.ieee-icra.org/contribute/"
+   },
+   {
+    "year": 2027,
+    "city": "Seoul",
+    "country": "South Korea",
+    "start_date": "2027-05-24",
+    "end_date": "2027-05-28",
+    "abstract_deadline": "2026-09-16",
+    "source": "https://2027.ieee-icra.org/contribute/call-for-icra-2027-papers-now-accepting-submissions/"
+   },
+   {
+    "year": 2028,
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "start_date": "2028-05-15",
+    "end_date": "2028-05-19",
+    "abstract_deadline": null,
+    "source": "https://www.ieee-ras.org/event/2028-ieee-international-conference-on-robotics-and-automation-icra-64236/"
+   },
+   {
+    "year": 2029,
+    "city": "Milan",
+    "country": "Italy",
+    "start_date": "2029-05-07",
+    "end_date": "2029-05-12",
+    "abstract_deadline": "2028-09-15",
+    "source": "https://www.ieee-ras.org/event/2029-ieee-international-conference-on-robotics-and-automation-icra-68559/"
+   },
+   {
+    "year": 2030,
+    "city": "Bangkok",
+    "country": "Thailand",
+    "start_date": "2030-05-13",
+    "end_date": "2030-05-17",
+    "abstract_deadline": "2029-09-15",
+    "source": "https://www.ieee-ras.org/events/list/page/5/"
+   }
+  ]
+ },
+ {
+  "id": "ifac_wc",
+  "short_name": "IFAC World Congress",
+  "editions": [
+   {
+    "year": 2023,
+    "city": "Yokohama",
+    "country": "Japan",
+    "start_date": "2023-07-09",
+    "end_date": "2023-07-14",
+    "abstract_deadline": "2022-10-31",
+    "source": "https://www.ifac2023.org/archives/001/202404/IFAC2023_FinalReport.pdf"
+   },
+   {
+    "year": 2026,
+    "city": "Busan",
+    "country": "South Korea",
+    "start_date": "2026-08-23",
+    "end_date": "2026-08-28",
+    "abstract_deadline": "2025-12-05",
+    "source": "https://www.ifac-control.org/newsletter_archive/IFAC_Newsletter_2025_6_December.pdf"
+   },
+   {
+    "year": 2029,
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "start_date": "2029-07-08",
+    "end_date": "2029-07-13",
+    "abstract_deadline": null,
+    "source": "https://conferences.ifac-control.org/wc2029/"
+   },
+   {
+    "year": 2032,
+    "city": "Honolulu",
+    "country": "United States",
+    "start_date": null,
+    "end_date": null,
+    "abstract_deadline": null,
+    "source": "https://ifac-control.org/conferences/ifac-congresses/"
+   }
+  ]
+ },
+ {
+  "id": "isss",
+  "short_name": "ISSS",
+  "editions": [
+   {
+    "year": 2023,
+    "city": "New York City",
+    "country": "United States",
+    "start_date": "2023-06-05",
+    "end_date": "2023-06-09",
+    "abstract_deadline": null,
+    "source": "https://www.citytech.cuny.edu/ISSS2023/docs/program_book_of_abstracts.pdf"
+   },
+   {
+    "year": 2025,
+    "city": "Delft",
+    "country": "Netherlands",
+    "start_date": "2025-06-30",
+    "end_date": "2025-07-04",
+    "abstract_deadline": "2025-02-14",
+    "source": "https://www.tudelft.nl/lr/isss-2025"
+   },
+   {
+    "year": 2027,
+    "city": "Guildford",
+    "country": "United Kingdom",
+    "start_date": "2027-06-21",
+    "end_date": "2027-06-25",
+    "abstract_deadline": "2027-01-29",
+    "source": "https://isss2027.pages.surrey.ac.uk/isss2027/"
+   }
+  ]
+ },
+ {
+  "id": "smallsat",
+  "short_name": "SmallSat",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Logan",
+    "country": "United States",
+    "start_date": "2022-08-06",
+    "end_date": "2022-08-11",
+    "abstract_deadline": "2022-02-01",
+    "source": "https://www.linkedin.com/posts/smallsatconf_small-satellite-conference-activity-6876253245971451904-YC-W"
+   },
+   {
+    "year": 2023,
+    "city": "Logan",
+    "country": "United States",
+    "start_date": "2023-08-05",
+    "end_date": "2023-08-10",
+    "abstract_deadline": "2023-02-02",
+    "source": "https://ufdcimages.uflib.ufl.edu/AA/00/05/88/53/00101/06-2023.pdf"
+   },
+   {
+    "year": 2024,
+    "city": "Logan",
+    "country": "United States",
+    "start_date": "2024-08-03",
+    "end_date": "2024-08-08",
+    "abstract_deadline": null,
+    "source": "https://content.govdelivery.com/accounts/USDOIGS/bulletins/3a6e7df"
+   },
+   {
+    "year": 2025,
+    "city": "Salt Lake City",
+    "country": "United States",
+    "start_date": "2025-08-10",
+    "end_date": "2025-08-13",
+    "abstract_deadline": "2025-02-04",
+    "source": "https://www.amsat.org/2024/"
+   },
+   {
+    "year": 2026,
+    "city": "Salt Lake City",
+    "country": "United States",
+    "start_date": "2026-08-23",
+    "end_date": "2026-08-26",
+    "abstract_deadline": "2026-02-05",
+    "source": "https://smallsat.org/downloads/call-for-papers.pdf"
+   },
+   {
+    "year": 2027,
+    "city": "Salt Lake City",
+    "country": "United States",
+    "start_date": "2027-08-01",
+    "end_date": "2027-08-04",
+    "abstract_deadline": null,
+    "source": "https://smallsat.org/"
+   }
+  ]
+ },
+ {
+  "id": "aas-gnc-breckenridge",
+  "short_name": "AAS GN&C",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Breckenridge",
+    "country": "United States",
+    "start_date": "2022-02-04",
+    "end_date": "2022-02-09",
+    "abstract_deadline": null,
+    "source": "https://aas-rocky-mountain-section.org/wp-content/uploads/2022/01/44th_AAS_GNC_Conf_Program-2022_Draft-Final.pdf"
+   },
+   {
+    "year": 2023,
+    "city": "Breckenridge",
+    "country": "United States",
+    "start_date": "2023-02-03",
+    "end_date": "2023-02-08",
+    "abstract_deadline": "2022-09-09",
+    "source": "https://aas-rocky-mountain-section.org/wp-content/uploads/2023/06/Updated-AAS-45th_Conference_Call_For_Papers.pdf"
+   },
+   {
+    "year": 2024,
+    "city": "Breckenridge",
+    "country": "United States",
+    "start_date": "2024-02-02",
+    "end_date": "2024-02-07",
+    "abstract_deadline": "2023-09-08",
+    "source": "https://aas-rocky-mountain-section.org/wp-content/uploads/2023/08/46th_AAS_GNC_Conference_Flyer_v6.pdf"
+   },
+   {
+    "year": 2025,
+    "city": "Breckenridge",
+    "country": "United States",
+    "start_date": "2025-01-31",
+    "end_date": "2025-02-05",
+    "abstract_deadline": "2024-09-06",
+    "source": "https://aas-rocky-mountain-section.org/wp-content/uploads/2024/07/47th_AAS_GNC_Conference_Flyer2025_RevA.pdf"
+   },
+   {
+    "year": 2026,
+    "city": "Breckenridge",
+    "country": "United States",
+    "start_date": "2026-01-30",
+    "end_date": "2026-02-04",
+    "abstract_deadline": "2025-09-08",
+    "source": "https://aas-rocky-mountain-section.org/wp-content/uploads/2025/07/48th_AAS_GNC_Conference_Flyer.pdf"
+   },
+   {
+    "year": 2027,
+    "city": "Breckenridge",
+    "country": "United States",
+    "start_date": "2027-02-05",
+    "end_date": "2027-02-10",
+    "abstract_deadline": "2026-09-14",
+    "source": "https://aas-rms.org/wp-content/uploads/2026/08/49th_AAS_GNC_Conference_Flyer_RevD.pdf"
+   }
+  ]
+ },
+ {
+  "id": "aiaa-scitech",
+  "short_name": "AIAA SciTech",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "San Diego",
+    "country": "United States",
+    "start_date": "2022-01-03",
+    "end_date": "2022-01-07",
+    "abstract_deadline": "2021-06-01",
+    "source": "https://www.aiaa.org/docs/default-source/uploadedfiles/aiaa-scitech-forum/callforpapers/str_adf_st22.pdf?sfvrsn=9784d9d3_0"
+   },
+   {
+    "year": 2023,
+    "city": "National Harbor",
+    "country": "United States",
+    "start_date": "2023-01-23",
+    "end_date": "2023-01-27",
+    "abstract_deadline": null,
+    "source": "https://www.aiaa.org/docs/default-source/uploadedfiles/aiaa-scitech-forum/callforpapers/str-adf-v3.pdf"
+   },
+   {
+    "year": 2024,
+    "city": "Orlando",
+    "country": "United States",
+    "start_date": "2024-01-08",
+    "end_date": "2024-01-12",
+    "abstract_deadline": "2023-05-25",
+    "source": "https://www.aiaa.org/docs/default-source/uploadedfiles/aiaa-scitech-forum/callforpapers/str_additional-input_scitech24.pdf?sfvrsn=db6bcd1a_2"
+   },
+   {
+    "year": 2025,
+    "city": "Orlando",
+    "country": "United States",
+    "start_date": "2025-01-06",
+    "end_date": "2025-01-10",
+    "abstract_deadline": "2024-05-23",
+    "source": "https://aiaa.org/wp-content/uploads/2024/12/is_additional.pdf"
+   },
+   {
+    "year": 2026,
+    "city": "Orlando",
+    "country": "United States",
+    "start_date": "2026-01-12",
+    "end_date": "2026-01-16",
+    "abstract_deadline": "2025-05-22",
+    "source": "https://aiaa.org/wp-content/uploads/2025/03/IS_Additional.pdf"
+   },
+   {
+    "year": 2027,
+    "city": "Orlando",
+    "country": "United States",
+    "start_date": "2027-01-11",
+    "end_date": "2027-01-15",
+    "abstract_deadline": "2026-05-21",
+    "source": "https://scitech.aiaa.org/wp-content/uploads/2026/03/IS_Additional.pdf"
+   }
+  ]
+ },
+ {
+  "id": "apisat",
+  "short_name": "APISAT",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Niigata",
+    "country": "Japan",
+    "start_date": "2022-10-12",
+    "end_date": "2022-10-14",
+    "abstract_deadline": "2022-05-23",
+    "source": "https://smartconf.jp/content/apisat2022"
+   },
+   {
+    "year": 2023,
+    "city": "Lingshui",
+    "country": "China",
+    "start_date": "2023-10-16",
+    "end_date": "2023-10-18",
+    "abstract_deadline": "2023-05-31",
+    "source": "https://ksas.or.kr/conference/ConferenceView.asp?AC=2&CODE=CI20230501"
+   },
+   {
+    "year": 2024,
+    "city": "Adelaide",
+    "country": "Australia",
+    "start_date": "2024-10-28",
+    "end_date": "2024-10-30",
+    "abstract_deadline": "2024-06-27",
+    "source": "https://apisat-c10000.eorganiser.com.au/index.php?r=site%2Flogin"
+   },
+   {
+    "year": 2025,
+    "city": "Seoul",
+    "country": "South Korea",
+    "start_date": "2025-10-27",
+    "end_date": "2025-10-29",
+    "abstract_deadline": "2025-06-13",
+    "source": "https://apisat2025.org/"
+   },
+   {
+    "year": 2026,
+    "city": "Sapporo",
+    "country": "Japan",
+    "start_date": "2026-10-27",
+    "end_date": "2026-10-29",
+    "abstract_deadline": "2026-06-05",
+    "source": "https://smartconf.jp/content/apisat2026/"
+   }
+  ]
+ },
+ {
+  "id": "corl",
+  "short_name": "CoRL",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Auckland",
+    "country": "New Zealand",
+    "start_date": "2022-12-14",
+    "end_date": "2022-12-18",
+    "abstract_deadline": "2022-06-15",
+    "source": "https://aideadlin.es/conference/?id=corl22"
+   },
+   {
+    "year": 2023,
+    "city": "Atlanta",
+    "country": "United States",
+    "start_date": "2023-11-06",
+    "end_date": "2023-11-09",
+    "abstract_deadline": "2023-06-08",
+    "source": "https://www.corl2023.org/"
+   },
+   {
+    "year": 2024,
+    "city": "Munich",
+    "country": "Germany",
+    "start_date": "2024-11-06",
+    "end_date": "2024-11-09",
+    "abstract_deadline": "2024-06-06",
+    "source": "https://2024.corl.org/"
+   },
+   {
+    "year": 2025,
+    "city": "Seoul",
+    "country": "South Korea",
+    "start_date": "2025-09-27",
+    "end_date": "2025-09-30",
+    "abstract_deadline": "2025-04-23",
+    "source": "https://openreview.net/group?id=robot-learning.org%2FCoRL%2F2025%2FConference"
+   },
+   {
+    "year": 2026,
+    "city": "Austin",
+    "country": "United States",
+    "start_date": "2026-11-09",
+    "end_date": "2026-11-12",
+    "abstract_deadline": "2026-05-25",
+    "source": "https://www.linkedin.com/posts/goldbergken_the-conference-on-robot-learning-corl-has-activity-7436771971331207168-YqzI"
+   }
+  ]
+ },
+ {
+  "id": "esmats",
+  "short_name": "ESMATS",
+  "editions": [
+   {
+    "year": 2023,
+    "city": "Warsaw",
+    "country": "Poland",
+    "start_date": "2023-09-20",
+    "end_date": "2023-09-22",
+    "abstract_deadline": "2023-02-15",
+    "source": "https://www.scribd.com/document/625598193/ESMATS-2023-v5a2"
+   },
+   {
+    "year": 2025,
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "start_date": "2025-09-24",
+    "end_date": "2025-09-26",
+    "abstract_deadline": "2025-02-16",
+    "source": "https://www.linkedin.com/posts/esa-space-mechanisms_call-for-papers-activity-7292515993048731649-ZaOP"
+   },
+   {
+    "year": 2027,
+    "city": "Milan",
+    "country": "Italy",
+    "start_date": "2027-10-06",
+    "end_date": "2027-10-08",
+    "abstract_deadline": null,
+    "source": "https://www.esmats.eu/"
+   }
+  ]
+ },
+ {
+  "id": "i-sairas",
+  "short_name": "i-SAIRAS",
+  "editions": [
+   {
+    "year": 2024,
+    "city": "Brisbane",
+    "country": "Australia",
+    "start_date": "2024-11-19",
+    "end_date": "2024-11-21",
+    "abstract_deadline": "2024-06-23",
+    "source": "https://www.linkedin.com/posts/isairas2024_dear-colleagues-we-are-delighted-to-announce-activity-7179013651733913600-CayI"
+   },
+   {
+    "year": 2026,
+    "city": "Cologne",
+    "country": "Germany",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-06",
+    "abstract_deadline": "2026-06-24",
+    "source": "https://www.isairas-isparo.de/front/content.php?id_article=610"
+   }
+  ]
+ },
+ {
+  "id": "iaa-fse",
+  "short_name": "IAA FSE",
+  "editions": [
+   {
+    "year": 2025,
+    "city": "Turin",
+    "country": "Italy",
+    "start_date": "2025-06-09",
+    "end_date": "2025-06-11",
+    "abstract_deadline": "2025-04-04",
+    "source": "https://iaaspace.org/event/12th-iaa-symposium-on-the-future-of-space-exploration/"
+   }
+  ]
+ },
+ {
+  "id": "iaa-sseo",
+  "short_name": "IAA SSEO",
+  "editions": [
+   {
+    "year": 2023,
+    "city": "Berlin",
+    "country": "Germany",
+    "start_date": "2023-05-07",
+    "end_date": "2023-05-12",
+    "abstract_deadline": "2022-11-28",
+    "source": "https://iaaspace.org/event/14th-iaa-symposium-on-small-satellites-for-earth-system-observation-2023/"
+   },
+   {
+    "year": 2025,
+    "city": "Berlin",
+    "country": "Germany",
+    "start_date": "2025-05-04",
+    "end_date": "2025-05-08",
+    "abstract_deadline": "2025-02-15",
+    "source": "https://iaaspace.org/event/15th-iaa-symposium-on-small-satellites-for-earth-system-observation-2025/"
+   }
+  ]
+ },
+ {
+  "id": "icas",
+  "short_name": "ICAS",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Stockholm",
+    "country": "Sweden",
+    "start_date": "2022-09-04",
+    "end_date": "2022-09-09",
+    "abstract_deadline": "2022-02-25",
+    "source": "https://icas2022.com/schedule-deadlines/"
+   },
+   {
+    "year": 2024,
+    "city": "Florence",
+    "country": "Italy",
+    "start_date": "2024-09-09",
+    "end_date": "2024-09-13",
+    "abstract_deadline": "2024-01-15",
+    "source": "https://icas.org/media/cfp24.pdf"
+   },
+   {
+    "year": 2026,
+    "city": "Sydney",
+    "country": "Australia",
+    "start_date": "2026-09-13",
+    "end_date": "2026-09-18",
+    "abstract_deadline": "2026-01-24",
+    "source": "https://icas2026.com/news/"
+   },
+   {
+    "year": 2028,
+    "city": "Montreal",
+    "country": "Canada",
+    "start_date": null,
+    "end_date": null,
+    "abstract_deadline": null,
+    "source": "https://www.icas.org/"
+   }
+  ]
+ },
+ {
+  "id": "icuas",
+  "short_name": "ICUAS",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Dubrovnik",
+    "country": "Croatia",
+    "start_date": "2022-06-21",
+    "end_date": "2022-06-24",
+    "abstract_deadline": "2022-02-01",
+    "source": "https://www.uasconferences.com/2022_icuas/wp-content/uploads/CFP-ICUAS2022.pdf"
+   },
+   {
+    "year": 2023,
+    "city": "Warsaw",
+    "country": "Poland",
+    "start_date": "2023-06-06",
+    "end_date": "2023-06-09",
+    "abstract_deadline": "2023-02-01",
+    "source": "https://uasconferences.com/2023_icuas/call-for-papers/"
+   },
+   {
+    "year": 2024,
+    "city": "Chania",
+    "country": "Greece",
+    "start_date": "2024-06-04",
+    "end_date": "2024-06-07",
+    "abstract_deadline": null,
+    "source": "https://uasconferences.com/2024_icuas/wp-content/uploads/CFP-ICUAS2024.pdf"
+   },
+   {
+    "year": 2025,
+    "city": "Charlotte",
+    "country": "United States",
+    "start_date": "2025-05-14",
+    "end_date": "2025-05-17",
+    "abstract_deadline": "2025-02-09",
+    "source": "https://uasconferences.com/2025_icuas/"
+   },
+   {
+    "year": 2026,
+    "city": "Corfu",
+    "country": "Greece",
+    "start_date": "2026-06-15",
+    "end_date": "2026-06-18",
+    "abstract_deadline": "2026-02-27",
+    "source": "https://uasconferences.com/2026_icuas/"
+   },
+   {
+    "year": 2027,
+    "city": "Fortaleza",
+    "country": "Brazil",
+    "start_date": "2027-06-14",
+    "end_date": "2027-06-17",
+    "abstract_deadline": "2027-02-05",
+    "source": "https://uasconferences.com/2027_icuas/"
+   }
+  ]
+ },
+ {
+  "id": "iros",
+  "short_name": "IROS",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Kyoto",
+    "country": "Japan",
+    "start_date": "2022-10-23",
+    "end_date": "2022-10-27",
+    "abstract_deadline": "2022-03-01",
+    "source": "https://iros2022.org/"
+   },
+   {
+    "year": 2023,
+    "city": "Detroit",
+    "country": "United States",
+    "start_date": "2023-10-01",
+    "end_date": "2023-10-05",
+    "abstract_deadline": "2023-03-02",
+    "source": "https://2023.ieee-iros.org/"
+   },
+   {
+    "year": 2024,
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "start_date": "2024-10-14",
+    "end_date": "2024-10-18",
+    "abstract_deadline": "2024-03-15",
+    "source": "https://iros2024-abudhabi.org/cfp"
+   },
+   {
+    "year": 2025,
+    "city": "Hangzhou",
+    "country": "China",
+    "start_date": "2025-10-19",
+    "end_date": "2025-10-25",
+    "abstract_deadline": "2025-03-02",
+    "source": "https://www.iros25.org/CallForPapersv2"
+   },
+   {
+    "year": 2026,
+    "city": "Pittsburgh",
+    "country": "United States",
+    "start_date": "2026-09-27",
+    "end_date": "2026-10-01",
+    "abstract_deadline": "2026-03-02",
+    "source": "https://doongli.github.io/doc/iros_2026_special_session_poster.pdf"
+   },
+   {
+    "year": 2027,
+    "city": "Florence",
+    "country": "Italy",
+    "start_date": "2027-09-27",
+    "end_date": "2027-10-01",
+    "abstract_deadline": "2027-03-01",
+    "source": "https://www.ieee-ras.org/event/2027-ieee-rsj-international-conference-on-intelligent-robots-and-systems-iros-70525/"
+   },
+   {
+    "year": 2028,
+    "city": "Sydney",
+    "country": "Australia",
+    "start_date": "2028-10-02",
+    "end_date": "2028-10-06",
+    "abstract_deadline": null,
+    "source": "https://www.besydney.com.au/media/v4wpfp31/besydney-media-release-sydney-attracting-ai-events-iros.pdf"
+   }
+  ]
+ },
+ {
+  "id": "ists",
+  "short_name": "ISTS",
+  "editions": [
+   {
+    "year": 2022,
+    "city": null,
+    "country": null,
+    "start_date": "2022-02-26",
+    "end_date": "2022-03-04",
+    "abstract_deadline": "2021-08-26",
+    "source": "https://ists.ne.jp/the33rd/call_for_papers/37/"
+   },
+   {
+    "year": 2023,
+    "city": "Kurume",
+    "country": "Japan",
+    "start_date": "2023-06-03",
+    "end_date": "2023-06-09",
+    "abstract_deadline": "2022-11-14",
+    "source": "https://ists.ne.jp/the34th/callforpapers/"
+   },
+   {
+    "year": 2025,
+    "city": "Tokushima",
+    "country": "Japan",
+    "start_date": "2025-07-12",
+    "end_date": "2025-07-18",
+    "abstract_deadline": "2024-11-19",
+    "source": "https://ists.ne.jp/the35th/callforpapers/"
+   },
+   {
+    "year": 2027,
+    "city": "Toyama",
+    "country": "Japan",
+    "start_date": "2027-07-17",
+    "end_date": "2027-07-23",
+    "abstract_deadline": "2026-12-17",
+    "source": "https://ists.ne.jp/the36th/"
+   }
+  ]
+ },
+ {
+  "id": "ur",
+  "short_name": "UR",
+  "editions": [
+   {
+    "year": 2022,
+    "city": "Jeju",
+    "country": "South Korea",
+    "start_date": "2022-07-04",
+    "end_date": "2022-07-06",
+    "abstract_deadline": "2022-02-18",
+    "source": "https://2022.ubiquitousrobots.org/"
+   },
+   {
+    "year": 2023,
+    "city": "Honolulu",
+    "country": "United States",
+    "start_date": "2023-06-25",
+    "end_date": "2023-06-28",
+    "abstract_deadline": "2023-02-18",
+    "source": "https://2023.ubiquitousrobots.org/"
+   },
+   {
+    "year": 2024,
+    "city": "New York",
+    "country": "United States",
+    "start_date": "2024-06-24",
+    "end_date": "2024-06-27",
+    "abstract_deadline": "2024-02-02",
+    "source": "https://2024.ubiquitousrobots.org/call-for-papers/"
+   },
+   {
+    "year": 2025,
+    "city": "College Station",
+    "country": "United States",
+    "start_date": "2025-06-30",
+    "end_date": "2025-07-02",
+    "abstract_deadline": "2025-03-08",
+    "source": "https://2025.ubiquitousrobots.org/"
+   },
+   {
+    "year": 2026,
+    "city": "Ibaraki",
+    "country": "Japan",
+    "start_date": "2026-07-15",
+    "end_date": "2026-07-18",
+    "abstract_deadline": "2026-02-27",
+    "source": "https://2026.ubiquitousrobots.org/"
+   }
+  ]
+ }
+]
