@@ -1,0 +1,279 @@
+{
+  "id": "spie-ssnde",
+  "short_name": "SPIE SS+NDE",
+  "full_name": "SPIE Smart Structures + Nondestructive Evaluation",
+  "category": "aerospace",
+  "organizer": "SPIE (the international society for optics and photonics); run as a symposium of 9-11 parallel conferences, each publishing its own Proceedings of SPIE volume",
+  "fields": [
+    "smart structures, adaptive and multifunctional materials",
+    "electroactive polymer actuators and sensors (artificial muscles)",
+    "soft mechatronics, soft robotics and wearable/implantable systems",
+    "bioinspired materials and systems",
+    "structural health monitoring (SHM) and nondestructive evaluation (NDE)",
+    "sensors and smart structures for civil, mechanical and aerospace systems",
+    "metamaterials, vibration control and energy harvesting",
+    "digital twins and AI for NDE/SHM"
+  ],
+  "frequency": "annual",
+  "typical_month": "March (2020 was planned for late April and replaced by an online Digital Forum)",
+  "official_url": "https://spie.org/conferences-and-exhibitions/smart-structures-nde",
+  "submission": {
+    "type": "Abstract (200-300 words) submitted to one of the symposium conferences and reviewed by its chairs; accepted authors submit a manuscript for the Proceedings of SPIE (SPIE Digital Library)",
+    "typical_abstract_deadline": "Late August to mid-September of the year before the meeting (about 6-7 months ahead); SPIE often extends the deadline or keeps accepting late/post-deadline abstracts",
+    "typical_final_deadline": "Manuscripts due about 2-4 weeks before the meeting (2027: 3 Mar 2027; 2026: 25 Feb 2026; 2025: 26 Feb 2025)",
+    "notes": "abstract_deadline fields hold the main abstract deadline including official extensions; post-deadline/late submission windows (which SPIE runs almost every year, subject to chair approval) are excluded. 2027: abstracts due 30 Sep 2026 (official page lists it with 'Late submissions still being accepted'), author notification 7 Dec 2026, manuscripts due 3 Mar 2027. 2025: deadline 11 Sep 2024, extended to 30 Sep 2024. 2018: deadline 21 Aug 2017, post-deadline submissions accepted through 15 Sep 2017. 2023: post-deadline abstracts accepted until 23 Jan 2023."
+  },
+  "next_edition": {
+    "year": 2027,
+    "city": "Vancouver",
+    "country": "Canada",
+    "start_date": "2027-03-22",
+    "end_date": "2027-03-25",
+    "abstract_deadline": "2026-09-30",
+    "status": "closed",
+    "source": "https://spie.org/conferences-and-exhibitions/smart-structures-nde/presenters/abstract-submission-guidelines",
+    "notes": "Official SPIE pages (read 2026-11-03; Wayback capture 2026-11-01 of the event home page) give 22-25 March 2027, Vancouver, BC, Canada, and 'Abstract submission deadline is 30 September 2026. Post-deadline submissions may still be considered.' Author notification 7 Dec 2026; manuscripts due 3 Mar 2027. Venue not stated on the pages that could be read (third-party listings give the Sheraton Vancouver Wall Centre, the 2025-2026 venue). Whether 30 Sep 2026 was itself an extension of an earlier date could not be checked (no earlier 2026 capture of the guidelines page).",
+    "continent": "North America"
+  },
+  "editions": [
+    {
+      "year": 2015,
+      "city": "San Diego",
+      "region": "California",
+      "country": "United States",
+      "venue": "Town & Country Resort and Convention Center",
+      "start_date": "2015-03-08",
+      "end_date": "2015-03-12",
+      "abstract_deadline": "2014-08-25",
+      "source": "https://web.archive.org/web/20140805063916/http://spie.org/Documents/ConferencesExhibitions/ssnde15-call-for-papers-L.pdf",
+      "extra_sources": [
+        "https://web.archive.org/web/20150316143913/http://spie.org/Documents/ConferencesExhibitions/ssnde15-final-L.pdf"
+      ],
+      "continent": "North America",
+      "notes": "Official call for papers and final technical program (archived). Deadline is the CFP date; whether it was later extended was not checked (no archived event page from Aug-Sep 2014 was found)."
+    },
+    {
+      "year": 2016,
+      "city": "Las Vegas",
+      "region": "Nevada",
+      "country": "United States",
+      "venue": "JW Marriott Las Vegas Resort & Spa",
+      "start_date": "2016-03-20",
+      "end_date": "2016-03-24",
+      "abstract_deadline": "2015-09-08",
+      "source": "https://web.archive.org/web/20150908004839/http://spie.org/Documents/ConferencesExhibitions/ssnde16-call-L.pdf",
+      "extra_sources": [
+        "https://web.archive.org/web/20170421042001/http://spie.org/Documents/ConferencesExhibitions/ssnde16-final-L.pdf"
+      ],
+      "continent": "North America",
+      "notes": "Official call for papers and final technical program (archived). Deadline is the CFP date; extension not checked."
+    },
+    {
+      "year": 2017,
+      "city": "Portland",
+      "region": "Oregon",
+      "country": "United States",
+      "venue": "Portland Marriott Downtown Waterfront Hotel",
+      "start_date": "2017-03-25",
+      "end_date": "2017-03-29",
+      "abstract_deadline": "2016-09-12",
+      "source": "https://web.archive.org/web/20160907032811/https://spie.org/conferences-and-exhibitions/smart-structures/nde",
+      "extra_sources": [
+        "https://web.archive.org/web/20201029121225/https://spie.org/conferences-and-exhibitions/past-conferences-and-exhibitions/smart-structures-and-materials/nde-2017?SSO=1"
+      ],
+      "continent": "North America",
+      "notes": "Official event page (archived Aug-Sep 2016) lists 'Abstract Deadline 12 September 2016', author notification 21 Nov 2016; by Oct 2016 the deadline line read 'Submit Your Abstract Now' (post-deadline window). Technical conferences began on 26 March."
+    },
+    {
+      "year": 2018,
+      "city": "Denver",
+      "region": "Colorado",
+      "country": "United States",
+      "venue": "Embassy Suites by Hilton Denver Downtown Convention Center",
+      "start_date": "2018-03-04",
+      "end_date": "2018-03-08",
+      "abstract_deadline": "2017-08-21",
+      "source": "https://web.archive.org/web/20170713070012/http://spie.org/Documents/ConferencesExhibitions/SSN18-Call-lr.pdf",
+      "extra_sources": [
+        "https://web.archive.org/web/20170910125336/https://spie.org/conferences-and-exhibitions/smart-structures/nde",
+        "https://web.archive.org/web/20190312235452/http://spie.org/conferences-and-exhibitions/past-conferences-and-exhibitions/smart-structures-and-materials/nde-2018"
+      ],
+      "continent": "North America",
+      "notes": "Call for papers: abstracts due 21 Aug 2017. The event page (Sep 2017) adds 'Post-deadline submissions accepted through 15 September' (excluded, not an extension)."
+    },
+    {
+      "year": 2019,
+      "city": "Denver",
+      "region": "Colorado",
+      "country": "United States",
+      "venue": "Embassy Suites by Hilton Denver Downtown Convention Center",
+      "start_date": "2019-03-03",
+      "end_date": "2019-03-07",
+      "abstract_deadline": "2018-08-22",
+      "source": "https://web.archive.org/web/20180807113647/https://spie.org/conferences-and-exhibitions/smart-structures/nde",
+      "extra_sources": [
+        "https://web.archive.org/web/20190401020545/http://spie.org/conferences-and-exhibitions/past-conferences-and-exhibitions/smart-structures-and-materials/nde-2019"
+      ],
+      "continent": "North America",
+      "notes": "Official event page (Aug 2018): abstracts due 22 Aug 2018, author notification 29 Oct 2018. By Sep 2018 the page showed 'Submit Your Abstract Now' (post-deadline window), with no extended date."
+    },
+    {
+      "year": 2020,
+      "city": "Virtual",
+      "region": null,
+      "country": null,
+      "venue": "Virtual Digital Forum (originally planned for 26-30 April 2020 at the Anaheim Marriott, Anaheim, California)",
+      "start_date": "2020-04-27",
+      "end_date": "2020-05-08",
+      "abstract_deadline": "2019-10-16",
+      "source": "https://web.archive.org/web/20200828235459/https://spie.org/conferences-and-exhibitions/past-conferences-and-exhibitions/smart-structures-and-materials/nde-2020",
+      "extra_sources": [
+        "https://web.archive.org/web/20190723034310/https://spie.org/conferences-and-exhibitions/smart-structures/nde"
+      ],
+      "continent": null,
+      "notes": "The in-person meeting in Anaheim was cancelled due to COVID-19 and replaced by a free online Digital Forum (pre-recorded presentations available 27 April - 8 May 2020). Abstract deadline 16 Oct 2019 per the event page (shown from June 2019 onward), author notification 20 Dec 2019."
+    },
+    {
+      "year": 2021,
+      "city": "Virtual",
+      "region": null,
+      "country": null,
+      "venue": "Virtual Digital Forum (originally planned for 7-11 March 2021 at the Hilton Long Beach, California)",
+      "start_date": "2021-03-22",
+      "end_date": "2021-03-26",
+      "abstract_deadline": "2020-08-26",
+      "source": "https://web.archive.org/web/20210413214024/https://spie.org/conferences-and-exhibitions/smart-structures/nde",
+      "extra_sources": [
+        "https://web.archive.org/web/20200616234557/https://spie.org/conferences-and-exhibitions/smart-structures/nde",
+        "https://web.archive.org/web/20210104063127/https://spie.org/conferences-and-exhibitions/smart-structures/nde"
+      ],
+      "continent": null,
+      "notes": "Held online only as a Digital Forum on 22-26 March 2021 (the Jan 2021 page still showed 7-10 March). Abstract deadline 26 Aug 2020 per the event page (Jun-Aug 2020); by Dec 2020 the page listed only post-deadline submissions."
+    },
+    {
+      "year": 2022,
+      "city": "Long Beach",
+      "region": "California",
+      "country": "United States",
+      "venue": "Hilton Long Beach",
+      "start_date": "2022-03-06",
+      "end_date": "2022-03-10",
+      "abstract_deadline": "2021-08-25",
+      "source": "https://web.archive.org/web/20210922120222/https://spie.org/conferences-and-exhibitions/smart-structures-nde",
+      "extra_sources": [
+        "https://web.archive.org/web/20220128060000/https://spie.org/conferences-and-exhibitions/smart-structures-nde/attend/hotel-and-travel",
+        "https://web.archive.org/web/20211026043512/https://spie.org/conferences-and-exhibitions/smart-structures-nde/presenters/abstract-submission-guidelines"
+      ],
+      "continent": "North America",
+      "notes": "Event page (Sep 2021): 'Abstracts are due 25 August 2021'. Post-deadline abstracts were accepted through 10 Jan 2022 (excluded). The Hilton Long Beach is named as the conference hotel."
+    },
+    {
+      "year": 2023,
+      "city": "Long Beach",
+      "region": "California",
+      "country": "United States",
+      "venue": "Hilton Long Beach",
+      "start_date": "2023-03-12",
+      "end_date": "2023-03-16",
+      "abstract_deadline": "2022-09-14",
+      "source": "https://web.archive.org/web/20220716171340/https://spie.org/documents/cfp-flyers/SS23/ssn01call.pdf",
+      "extra_sources": [
+        "https://web.archive.org/web/20220820055005/https://www.spie.org/conferences-and-exhibitions/smart-structures-nde/presenters/abstract-submission-guidelines",
+        "https://web.archive.org/web/20230209114810/https://spie.org/conferences-and-exhibitions/smart-structures-nde/attend/hotel-and-travel"
+      ],
+      "continent": "North America",
+      "notes": "Call for papers and abstract guidelines: abstracts due 14 Sep 2022; post-deadline abstracts due 23 Jan 2023 (excluded). No extension wording found in the Sep 2022 event-page capture. The Hilton Long Beach is named as the conference hotel."
+    },
+    {
+      "year": 2024,
+      "city": "Long Beach",
+      "region": "California",
+      "country": "United States",
+      "venue": "Hilton Long Beach",
+      "start_date": "2024-03-25",
+      "end_date": "2024-03-28",
+      "abstract_deadline": "2023-09-13",
+      "source": "https://web.archive.org/web/20230528183214/https://spie.org/conferences-and-exhibitions/smart-structures-nde/presenters/abstract-submission-guidelines",
+      "extra_sources": [
+        "https://web.archive.org/web/20240129003822/https://spie.org/conferences-and-exhibitions/smart-structures-nde",
+        "https://web.archive.org/web/20230922104445/https://spie.org/conferences-and-exhibitions/smart-structures-nde/attend/hotel-and-travel"
+      ],
+      "continent": "North America",
+      "notes": "Abstract guidelines (May 2023): abstracts due 13 Sep 2023, author notification 4 Dec 2023, manuscripts due 6 Mar 2024. No Sep-Nov 2023 capture exists, so a possible extension could not be checked. Hotel page lists the Hilton Long Beach."
+    },
+    {
+      "year": 2025,
+      "city": "Vancouver",
+      "region": "British Columbia",
+      "country": "Canada",
+      "venue": "Sheraton Vancouver Wall Centre",
+      "start_date": "2025-03-17",
+      "end_date": "2025-03-20",
+      "abstract_deadline": "2024-09-30",
+      "source": "https://web.archive.org/web/20241107195230/https://spie.org/conferences-and-exhibitions/smart-structures-nde/presenters/abstract-submission-guidelines",
+      "extra_sources": [
+        "https://web.archive.org/web/20240927071238/https://spie.org/conferences-and-exhibitions/smart-structures-nde",
+        "https://web.archive.org/web/20240908023858/https://spie.org/conferences-and-exhibitions/smart-structures-nde/presenters/abstract-submission-guidelines",
+        "https://web.archive.org/web/20241107195610/https://spie.org/conferences-and-exhibitions/smart-structures-nde/attend/hotel-and-travel"
+      ],
+      "continent": "North America",
+      "notes": "Original deadline 11 Sep 2024. The event home page (27 Sep 2024) states 'The submission deadline has been extended to 30 September'; the guidelines page words it as 'Late submissions now accepted until 30 September 2024'. Treated as an official extension. The Sheraton Vancouver Wall Centre is named as the conference hotel."
+    },
+    {
+      "year": 2026,
+      "city": "Vancouver",
+      "region": "British Columbia",
+      "country": "Canada",
+      "venue": "Sheraton Vancouver Wall Centre",
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-19",
+      "abstract_deadline": "2025-09-10",
+      "source": "https://web.archive.org/web/20251010221056/https://spie.org/documents/cfp-flyers/SS26/SSN01.pdf",
+      "extra_sources": [
+        "https://web.archive.org/web/20250818165308/https://spie.org/conferences-and-exhibitions/smart-structures-nde/presenters/abstract-submission-guidelines",
+        "https://web.archive.org/web/20260303130000/https://spie.org/conferences-and-exhibitions/smart-structures-nde"
+      ],
+      "continent": "North America",
+      "notes": "Call for papers and abstract guidelines: abstracts due 10 Sep 2025, author notification 24 Nov 2025, manuscripts due 25 Feb 2026. No Sep-Oct 2025 capture of the event or guidelines page with deadline text was found, so a possible extension could not be checked. Event page (Mar 2026): 'The Sheraton Vancouver Wall Centre ... is the home of Smart Structures + Nondestructive Evaluation 2026.' Crossref proceedings metadata gives 16-20 March (on-demand period included)."
+    },
+    {
+      "year": 2027,
+      "city": "Vancouver",
+      "region": "British Columbia",
+      "country": "Canada",
+      "venue": null,
+      "start_date": "2027-03-22",
+      "end_date": "2027-03-25",
+      "abstract_deadline": "2026-09-30",
+      "source": "https://spie.org/conferences-and-exhibitions/smart-structures-nde/presenters/abstract-submission-guidelines",
+      "extra_sources": [
+        "https://web.archive.org/web/20261101195853/https://spie.org/conferences-and-exhibitions/smart-structures-nde",
+        "https://spie.org/conferences-and-exhibitions/smart-structures-nde/program/conferences"
+      ],
+      "continent": "North America",
+      "notes": "Official pages read 2026-11-03: 'Abstracts due - Late submissions still being accepted: 30 September 2026'; author notification 7 Dec 2026; manuscripts due 3 Mar 2027. Venue not confirmed on an official page that could be read (third-party listings give the Sheraton Vancouver Wall Centre). Eleven conferences announced, including two new ones (Metamaterials, Metasurfaces, and Metastructures; A Tribute Conference Honoring Daniel Inman)."
+    }
+  ],
+  "sources": [
+    "https://spie.org/conferences-and-exhibitions/smart-structures-nde",
+    "https://spie.org/conferences-and-exhibitions/smart-structures-nde/presenters/abstract-submission-guidelines",
+    "https://spie.org/conferences-and-exhibitions/smart-structures-nde/program/conferences",
+    "https://web.archive.org/web/20261101195853/https://spie.org/conferences-and-exhibitions/smart-structures-nde",
+    "https://web.archive.org/web/20241107195230/https://spie.org/conferences-and-exhibitions/smart-structures-nde/presenters/abstract-submission-guidelines",
+    "https://web.archive.org/web/20240927071238/https://spie.org/conferences-and-exhibitions/smart-structures-nde",
+    "https://web.archive.org/web/20210413214024/https://spie.org/conferences-and-exhibitions/smart-structures/nde",
+    "https://web.archive.org/web/20200828235459/https://spie.org/conferences-and-exhibitions/past-conferences-and-exhibitions/smart-structures-and-materials/nde-2020",
+    "https://web.archive.org/web/20140805063916/http://spie.org/Documents/ConferencesExhibitions/ssnde15-call-for-papers-L.pdf",
+    "https://web.archive.org/web/20150908004839/http://spie.org/Documents/ConferencesExhibitions/ssnde16-call-L.pdf",
+    "https://web.archive.org/web/20170713070012/http://spie.org/Documents/ConferencesExhibitions/SSN18-Call-lr.pdf",
+    "https://web.archive.org/web/20220716171340/https://spie.org/documents/cfp-flyers/SS23/ssn01call.pdf",
+    "https://web.archive.org/web/20251010221056/https://spie.org/documents/cfp-flyers/SS26/SSN01.pdf",
+    "https://api.crossref.org/works?query.container-title=Active+and+Passive+Smart+Structures+and+Integrated+Systems&filter=prefix:10.1117"
+  ],
+  "notes": "spie.org and the SPIE Digital Library sit behind a bot check, so most values come from Wayback Machine copies of official spie.org pages and call-for-papers/program PDFs; the 2027 pages were read live on 2026-11-03. Proceedings metadata deposited by SPIE at Crossref (event name, location, dates per volume) was used as a cross-check for every year 2015-2026; its end dates sometimes include on-demand access periods (e.g. 2022 to 11 Apr, 2023 to 17 Mar), so official event-page dates are used. Dates are the full symposium span shown by SPIE (conferences plus courses). SPIE runs post-deadline/late abstract windows almost every year; those are excluded. Unverified: whether the 2015, 2016, 2024 and 2026 deadlines were extended (no captures from the deadline period), and the 2027 venue. Venues for 2022-2026 are the hotels SPIE names as the conference hotel / home of the meeting.",
+  "verification": {
+    "claude": "researched 2026-11-03 (first pass only)",
+    "crosscheck": null,
+    "gpt": null
+  }
+}

@@ -17,7 +17,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [`?cat=space-robotics`](https://kijang-ik.github.io/space-robotics-conferences/?cat=space-robotics) | 분야 필터 (space, aerospace, space-robotics, robotics, control) |
 | [`?view=topics&picks=spacecraft-gnc,space-robotics`](https://kijang-ik.github.io/space-robotics-conferences/?view=topics&picks=spacecraft-gnc,space-robotics) | 키워드 매칭 결과 공유 |
 
-> **기준일 / As of: 2026-11-03** · 학회 39개 conferences · 개최 기록 385건 editions  
+> **기준일 / As of: 2026-11-03** · 학회 40개 conferences · 개최 기록 398건 editions  
 > 모든 값에는 출처 URL이 붙어 있습니다 / Every value has a source URL (`data/conferences/*.json`).  
 > 마감일은 자주 연장되니 **제출 전 반드시 공식 사이트를 확인하세요.** / Deadlines change often — **always check the official site before submitting.**
 
@@ -79,6 +79,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [EUCASS](https://www.eucass.eu/)<br><sub>European Conference for Aeronautics and Space Sciences (now styled 'European Conference for AeroSpace Sciences')</sub> | Biennial (odd years; 2022 and 2023 were back-to-back after the COVID shift)<br><sub>Late June - early July</sub> | One-page A4 abstract (oral or poster); full paper for proceedings | Mid-January of the conference year (2025: 15 Jan; 2027: 15 Jan) | 2027 Glasgow, United Kingdom<br><sub>2027-06-28 ~ 07-02</sub> | 2027-01-15 | OPEN |
 | [ICAS](https://www.icas.org/)<br><sub>Congress of the International Council of the Aeronautical Sciences (ICAS Congress)</sub> | biennial (even years)<br><sub>September</sub> | extended abstract or draft manuscript (minimum 1,000 words, with key figures/equations/re… | January of the congress year (1 Jan 2024; 10 Jan 2026 extended to 24 Jan 2026); 10 Feb in… | 2028 Montreal, Canada<br><sub>TBA</sub> | – | TBA |
 | [IEEE AeroConf](https://www.aeroconf.org/)<br><sub>IEEE Aerospace Conference</sub> | annual<br><sub>March (first/second week)</sub> | abstract (300-500 words) for screening, then mandatory full paper (6-20 pages, IEEE templ… | July 1 of the year before the conference | 2027 Big Sky, United States<br><sub>2027-03-06 ~ 03-13</sub> | 2026-07-01 | CLOSED |
+| [SPIE SS+NDE](https://spie.org/conferences-and-exhibitions/smart-structures-nde)<br><sub>SPIE Smart Structures + Nondestructive Evaluation</sub> | annual<br><sub>March (2020 was planned for late April and replaced by an online Digital Forum)</sub> | Abstract (200-300 words) submitted to one of the symposium conferences and reviewed by it… | Late August to mid-September of the year before the meeting (about 6-7 months ahead); SPI… | 2027 Vancouver, Canada<br><sub>2027-03-22 ~ 03-25</sub> | 2026-09-30 | CLOSED |
 
 ### 우주 로봇 / Space Robotics
 
@@ -516,6 +517,26 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [2017](https://2017.aeroconf.org/) | Big Sky, United States | Yellowstone Conference Center | 2017-03-04 ~ 03-11 | – |
 | [2016](https://2016.aeroconf.org/) | Big Sky, United States | Yellowstone Conference Center | 2016-03-05 ~ 03-12 | – |
 | [2015](https://2015.aeroconf.org/information) | Big Sky, United States | Yellowstone Conference Center | 2015-03-07 ~ 03-14 | – |
+
+</details>
+
+<details><summary><b>SPIE SS+NDE</b> — SPIE Smart Structures + Nondestructive Evaluation (13)</summary>
+
+| 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
+|---|---|---|---|---|
+| [2027](https://spie.org/conferences-and-exhibitions/smart-structures-nde/presenters/abstract-submission-guidelines) | Vancouver, Canada | – | 2027-03-22 ~ 03-25 | 2026-09-30 |
+| [2026](https://web.archive.org/web/20251010221056/https://spie.org/documents/cfp-flyers/SS26/SSN01.pdf) | Vancouver, Canada | Sheraton Vancouver Wall Centre | 2026-03-16 ~ 03-19 | 2025-09-10 |
+| [2025](https://web.archive.org/web/20241107195230/https://spie.org/conferences-and-exhibitions/smart-structures-nde/presenters/abstract-submission-guidelines) | Vancouver, Canada | Sheraton Vancouver Wall Centre | 2025-03-17 ~ 03-20 | 2024-09-30 |
+| [2024](https://web.archive.org/web/20230528183214/https://spie.org/conferences-and-exhibitions/smart-structures-nde/presenters/abstract-submission-guidelines) | Long Beach, United States | Hilton Long Beach | 2024-03-25 ~ 03-28 | 2023-09-13 |
+| [2023](https://web.archive.org/web/20220716171340/https://spie.org/documents/cfp-flyers/SS23/ssn01call.pdf) | Long Beach, United States | Hilton Long Beach | 2023-03-12 ~ 03-16 | 2022-09-14 |
+| [2022](https://web.archive.org/web/20210922120222/https://spie.org/conferences-and-exhibitions/smart-structures-nde) | Long Beach, United States | Hilton Long Beach | 2022-03-06 ~ 03-10 | 2021-08-25 |
+| [2021](https://web.archive.org/web/20210413214024/https://spie.org/conferences-and-exhibitions/smart-structures/nde) | Virtual | Virtual Digital Forum (originally planned for 7-11 March 2021 at the Hilton Long Beach, California) | 2021-03-22 ~ 03-26 | 2020-08-26 |
+| [2020](https://web.archive.org/web/20200828235459/https://spie.org/conferences-and-exhibitions/past-conferences-and-exhibitions/smart-structures-and-materials/nde-2020) | Virtual | Virtual Digital Forum (originally planned for 26-30 April 2020 at the Anaheim Marriott, Anaheim, California) | 2020-04-27 ~ 05-08 | 2019-10-16 |
+| [2019](https://web.archive.org/web/20180807113647/https://spie.org/conferences-and-exhibitions/smart-structures/nde) | Denver, United States | Embassy Suites by Hilton Denver Downtown Convention Center | 2019-03-03 ~ 03-07 | 2018-08-22 |
+| [2018](https://web.archive.org/web/20170713070012/http://spie.org/Documents/ConferencesExhibitions/SSN18-Call-lr.pdf) | Denver, United States | Embassy Suites by Hilton Denver Downtown Convention Center | 2018-03-04 ~ 03-08 | 2017-08-21 |
+| [2017](https://web.archive.org/web/20160907032811/https://spie.org/conferences-and-exhibitions/smart-structures/nde) | Portland, United States | Portland Marriott Downtown Waterfront Hotel | 2017-03-25 ~ 03-29 | 2016-09-12 |
+| [2016](https://web.archive.org/web/20150908004839/http://spie.org/Documents/ConferencesExhibitions/ssnde16-call-L.pdf) | Las Vegas, United States | JW Marriott Las Vegas Resort & Spa | 2016-03-20 ~ 03-24 | 2015-09-08 |
+| [2015](https://web.archive.org/web/20140805063916/http://spie.org/Documents/ConferencesExhibitions/ssnde15-call-for-papers-L.pdf) | San Diego, United States | Town & Country Resort and Convention Center | 2015-03-08 ~ 03-12 | 2014-08-25 |
 
 </details>
 

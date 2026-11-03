@@ -1,0 +1,120 @@
+{
+  "id": "spie-ssnde",
+  "edition_analyzed": 2026,
+  "method": "paper-counts",
+  "method_note": "SPIE SS+NDE 2026 (Vancouver, 16-19 Mar 2026) ran nine conferences, each published as its own Proceedings of SPIE volume (13944-13952). The session-level program on spie.org is behind a bot check and was not archived, so instead every published item in the nine volumes was counted from the proceedings metadata SPIE deposits at Crossref (front matter excluded): 323 items, including 13 '(Conference Presentation)' records without a manuscript. Each item was hand-assigned one taxonomy id from its title (mapping is the dataset author's judgement), and items whose title names an AI/ML method (deep learning, neural network, PINN, transformer, GNN, LLM, generative AI, random forest, autoencoder, reinforcement learning, 'AI-'/'machine learning', etc.; 39 items) were split 0.5 ai-ml + 0.5 topic. Rules: SHM/NDE/damage detection/inspection/condition monitoring -> phm; sensors, transducers, energy harvesters, flexible/wearable/implantable electronics -> mechatronics; actuator materials and devices (EAP, IPMC, DEA, coiled artificial muscles, piezo/SMA actuators) -> mechanisms; papers framed around soft robots, robotic fish/joints, soft exosuits/rehab robots or soft-robot sensing -> soft-robotics; metamaterials, vibration/wave control, materials and structural mechanics -> structures; kirigami and self-folding/folding shape-memory structures (3 items) -> deployable-structures. Result in paper-equivalents: phm 93.5, mechatronics 78.5, structures 51.5, mechanisms 36, ai-ml 23.5, soft-robotics 22.5, deployable-structures 2.5. Ids below 0.02 were dropped and the rest renormalized over 308 of 323 paper-equivalents: field-robotics 4 (quadruped/robotic inspection, submersible probe), automation 3, uav 1.5, and 1 or less each for estimation, medical-robotics, space-robotics (vacuum zipping actuators for space robotics), exploration (lunar regolith drilling), autonomous-vehicles, hri and multi-robot. deployable-structures is kept although below the cut-off, as in other files. The 2027 call (11 conferences) renames 'Sensors and Smart Structures Technologies...' to 'AI-Powered Sensors, Digital Twins, and Smart Structures...' and adds 'Metamaterials, Metasurfaces, and Metastructures' and a tribute conference honoring Daniel Inman; these are not reflected in the 2026 counts.",
+  "tracks": [
+    {
+      "name": "Soft Mechatronics and Wearable Systems 2026",
+      "sessions": null,
+      "papers": 58,
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13948.toc"
+    },
+    {
+      "name": "Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2026",
+      "sessions": null,
+      "papers": 48,
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13949.toc"
+    },
+    {
+      "name": "Electroactive Polymer Actuators, Sensors, and Devices (EAPAD) 2026",
+      "sessions": null,
+      "papers": 45,
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13945.toc"
+    },
+    {
+      "name": "Nondestructive Characterization and Monitoring of Advanced Materials, Aerospace, Civil Infrastructure, and Transportation XX",
+      "sessions": null,
+      "papers": 38,
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13950.toc"
+    },
+    {
+      "name": "Multifunctional Materials and Structures II",
+      "sessions": null,
+      "papers": 34,
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13947.toc"
+    },
+    {
+      "name": "Health Monitoring of Structural and Biological Systems XX",
+      "sessions": null,
+      "papers": 32,
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13951.toc"
+    },
+    {
+      "name": "Active and Passive Smart Structures and Integrated Systems XX",
+      "sessions": null,
+      "papers": 31,
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13946.toc"
+    },
+    {
+      "name": "Digital Twins, AI, and NDE for Industry Applications and Energy Systems 2026",
+      "sessions": null,
+      "papers": 20,
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13952.toc"
+    },
+    {
+      "name": "Biologically Inspired Materials, Processes, and Systems (BIMPS) 2026",
+      "sessions": null,
+      "papers": 17,
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13944.toc"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "phm",
+      "weight": 0.304,
+      "evidence": "93.5 of 323 paper-equivalents: Sensors and Smart Structures (26); Nondestructive Characterization and Monitoring (26); Health Monitoring of Structural and Biological Systems (23.5); Digital Twins, AI, and NDE (12.5); Active and Passive Smart Structures (2); Multifunctional Materials and Structures (2); BIMPS (1); Soft Mechatronics (0.5). Guided/Lamb-wave SHM, ultrasonic and thermographic NDE, distributed fiber-optic bridge monitoring, battery and wind-turbine-blade inspection."
+    },
+    {
+      "id": "mechatronics",
+      "weight": 0.255,
+      "evidence": "78.5 of 323 paper-equivalents: Soft Mechatronics and Wearable Systems (37.5); Sensors and Smart Structures (12); Active and Passive Smart Structures (8.5); EAPAD (6.5); Multifunctional Materials and Structures (5); Nondestructive Characterization (5); BIMPS (2); Health Monitoring (1); Digital Twins (1). Wearable/implantable bioelectronics and e-textiles, flexible strain and pressure sensors, piezoelectric/electromagnetic vibration energy harvesters, dielectric-elastomer self-sensing."
+    },
+    {
+      "id": "structures",
+      "weight": 0.167,
+      "evidence": "51.5 of 323 paper-equivalents: Multifunctional Materials and Structures (18); Active and Passive Smart Structures (12.5); BIMPS (8); Soft Mechatronics (5); Nondestructive Characterization (2.5); Health Monitoring (2.5); Sensors and Smart Structures (2); Digital Twins (1). Elastic/acoustic metamaterials and phononic crystals, vibration and noise damping, architected and multifunctional materials, morphing chiral-lattice airfoils, adaptive multistable facades."
+    },
+    {
+      "id": "mechanisms",
+      "weight": 0.117,
+      "evidence": "36 of 323 paper-equivalents: EAPAD (25); Multifunctional Materials and Structures (6); Active and Passive Smart Structures (4); Sensors and Smart Structures (1). Dielectric elastomer and IPMC actuators, twisted and coiled polymer artificial muscles, piezoelectric ultrasonic motors, SMA actuators."
+    },
+    {
+      "id": "ai-ml",
+      "weight": 0.076,
+      "evidence": "23.5 of 323 paper-equivalents (39 titles naming an AI/ML method, 0.5 each, plus 4 AI-centric titles at 1): Health Monitoring (4); Sensors and Smart Structures (3.5); Nondestructive Characterization (3.5); Soft Mechatronics (3); BIMPS (2.5); Digital Twins (2.5); Active and Passive Smart Structures (2); Multifunctional Materials (1.5); EAPAD (1). Deep learning crack/damage detection, PINNs, GNNs, transformers, LLM/visual-language inspection, diffusion-model data synthesis."
+    },
+    {
+      "id": "soft-robotics",
+      "weight": 0.073,
+      "evidence": "22.5 of 323 paper-equivalents: EAPAD (10.5); Soft Mechatronics and Wearable Systems (10); BIMPS (1); Active and Passive Smart Structures (1). Untethered soft robots, robotic fish and cuttlefish gaits, soft exosuits and hand-rehabilitation robots, liquid-crystal-elastomer and SMA soft actuators, sensor skins for soft-robot proprioception."
+    },
+    {
+      "id": "deployable-structures",
+      "weight": 0.008,
+      "evidence": "2.5 of 323 paper-equivalents: Multifunctional Materials and Structures (1.5: laser-induced-graphene hinges for self-folding shape-memory polymers; ML prediction of SMP folding, split with ai-ml); Active and Passive Smart Structures (1: folding-wall tension-activated kirigami)."
+    }
+  ],
+  "top_terms": [
+    "structural health monitoring (SHM)",
+    "guided / Lamb waves and zero-group-velocity modes",
+    "dielectric elastomer actuators and sensors",
+    "twisted and coiled polymer artificial muscles",
+    "ionic polymer-metal composites (IPMC)",
+    "wearable and implantable bioelectronics",
+    "vibration energy harvesting",
+    "elastic and acoustic metamaterials",
+    "distributed fiber-optic sensing",
+    "digital twins for NDE",
+    "soft robotics",
+    "deep learning damage detection"
+  ],
+  "sources": [
+    "https://api.crossref.org/works?filter=prefix:10.1117,type:proceedings-article,from-pub-date:2026-01-01&query.container-title=Soft+Mechatronics+and+Wearable+Systems+2026",
+    "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/browse/spie-spie-smart-structures-and-materials-nondestructive-evaluation/",
+    "https://spie.org/conferences-and-exhibitions/smart-structures-nde/program/conferences",
+    "https://web.archive.org/web/20251010221056/https://spie.org/documents/cfp-flyers/SS26/SSN01.pdf"
+  ],
+  "retrieved": "2026-11-03"
+}
