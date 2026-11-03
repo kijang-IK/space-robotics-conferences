@@ -220,6 +220,8 @@ svg.i { width: 15px; height: 15px; flex: none; vertical-align: -2px; fill: none;
 .hold-item .nm { font-weight: 700; display: flex; gap: 6px; align-items: center; }
 .pred-txt { color: var(--ink-2); font-size: 13px; margin-top: 4px; }
 .pred-txt b { color: var(--ink); }
+.mc.pc { border-style: dashed; box-shadow: none; background: transparent; }
+.mc.pc .pc-note { margin: -4px 0 0; padding: 0 16px 10px; }
 
 /* ---------- calendar ---------- */
 .cal { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 12px; }
@@ -959,22 +961,50 @@ function card(x) {
   if (open) el.append(h('div', { class: 'detail' }, detail(x.c)));
   return el;
 }
+// Unannounced deadline, placed in its estimated month. An estimate that has already passed sits in this month.
+function predCard(c) {
+  const p = c.pred;
+  const late = p.date < TODAY;
+  const [, m, dd] = ymd(p.date);
+  const starred = state.stars.has(c.id);
+  const ne = c.ne && c.ne.year === p.year ? c.ne : null;
+  return h('article', { class: 'card mc pc', id: `card-${c.id}-pred` },
+    h('div', { class: 'mc-top' },
+      h('div', { style: 'min-width:0' },
+        h('div', { class: 'kicker' }, h('span', { class: 'type' }, '예상 마감'), '·', h('span', null, CAT[c.category]), '·', h('span', null, '공지 전')),
+        h('h3', null, link(`${c.short_name} ${p.year}`, c.official_url),
+          h('button', { type: 'button', class: 'starbtn', 'aria-pressed': String(starred), 'aria-label': starred ? '내 학회에서 빼기' : '내 학회에 추가', title: '내 학회', onclick: () => toggleStar(c.id) }, starred ? '★' : '☆')),
+        h('div', { class: 'full' }, c.full_name),
+        h('div', { class: 'loc' }, icon('pin'), ne ? `${place(ne)} · ${krange(ne)}` : '개최지·일정 미정')),
+      h('div', { class: 'left' }, h('b', null, late ? '확인 필요' : `약 ${days(p.date, TODAY)}일`), h('span', null, `${m}월 ${part(dd)} 예상`))),
+    h('div', { class: 'pred-txt pc-note' }, `±${p.spread}일 · 과거 ${p.n}회 ${p.method}`, late ? ' · 예상 시기가 지났으니 공지를 확인하세요' : ''),
+    h('div', { class: 'tags' }, keywordTags(c)),
+    h('div', { class: 'mc-foot' },
+      h('button', { type: 'button', onclick: () => focusHistory(c.id) }, '과거 일정 보기'),
+      h('button', { type: 'button', title: '이 학회로 바로 가는 링크 복사', onclick: () => shareLink(urlFor(new URLSearchParams({ c: c.id })), `${c.short_name} ${p.year} 예상 마감`) }, '링크 복사'),
+      c.official_url ? h('a', { class: 'go', href: c.official_url }, '공식 홈페이지', icon('ext')) : null));
+}
 function renderBoard(list) {
   const ents = entriesFor(list);
   const frag = document.createDocumentFragment();
-  const months = [...new Set(ents.map((x) => x.date.slice(0, 7)))];
+  const usable = (c) => c.pred && c.pred.date && !c.pred.irregular;
+  const preds = list.filter((c) => !c.nd && usable(c))
+    .map((c) => ({ pred: c, date: c.pred.date < TODAY ? TODAY : c.pred.date }));
+  const all = [...ents, ...preds].sort((a, b) => a.date.localeCompare(b.date));
+  const months = [...new Set(all.map((x) => x.date.slice(0, 7)))];
   for (const mk of months) {
-    const items = ents.filter((x) => x.date.slice(0, 7) === mk);
+    const items = all.filter((x) => x.date.slice(0, 7) === mk);
+    const np = items.filter((x) => x.pred).length;
     const [y, m] = mk.split('-').map(Number);
     frag.append(h('section', { class: 'month' },
-      h('div', { class: 'mlbl' }, h('b', null, `${m}월`), h('span', null, `${y}년 · ${items.length}건`)),
-      h('div', { class: 'cards' }, items.map(card))));
+      h('div', { class: 'mlbl' }, h('b', null, `${m}월`), h('span', null, [`${y}년`, items.length > np ? `${items.length - np}건` : null, np ? `예상 ${np}건` : null].filter(Boolean).join(' · '))),
+      h('div', { class: 'cards' }, items.map((x) => (x.pred ? predCard(x.pred) : card(x))))));
   }
-  if (!ents.some((x) => x.date >= TODAY)) frag.append(h('p', { class: 'empty' }, '조건에 맞는 다가오는 마감이 없습니다. 「지난 마감 포함」을 켜거나 「과거 일정·예측」에서 예상 시기를 확인하세요.'));
-  const hold = list.filter((c) => !c.nd).sort((a, b) => ((a.pred && a.pred.date) || '9999').localeCompare((b.pred && b.pred.date) || '9999'));
+  if (!all.some((x) => x.date >= TODAY)) frag.append(h('p', { class: 'empty' }, '조건에 맞는 다가오는 마감이 없습니다. 「지난 마감 포함」을 켜거나 「과거 일정·예측」에서 예상 시기를 확인하세요.'));
+  const hold = list.filter((c) => !c.nd && !usable(c));
   if (hold.length) {
     frag.append(h('section', { class: 'month' },
-      h('div', { class: 'mlbl' }, h('b', null, '공지 전'), h('span', null, `${hold.length}곳 · 예상 시기순`)),
+      h('div', { class: 'mlbl' }, h('b', null, '시기 미정'), h('span', null, `${hold.length}곳 · 공지 전`)),
       h('div', { class: 'hold' }, hold.map((c) => h('div', { class: 'hold-item' },
         h('div', { class: 'nm' }, link(c.short_name, c.official_url), state.stars.has(c.id) ? h('span', { style: 'color:var(--primary)' }, '★') : null),
         h('div', { class: 'sub' }, c.ne && c.ne.year ? `${c.ne.year} · ${place(c.ne)} · ${krange(c.ne)}` : '다음 회차 미정'),
