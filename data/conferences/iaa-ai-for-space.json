@@ -3,7 +3,7 @@
   "short_name": "IAA SpaceAI",
   "full_name": "IAA Conference on AI for Space (also titled 'IAA Conference on AI in and for Space'; 1st edition held jointly with ESA's SPAICE conference)",
   "category": "space",
-  "organizer": "International Academy of Astronautics (IAA). 2024: joint with ESA (SPAICE, ESA Advanced Concepts Team) at ECSAT. 2025: IAA in collaboration with ESA SPAICE series (IAA-SPAICE 2025), Suzhou. 2026 (3rd, Jeju): Organized by IAA; hosted and locally organized by Jeju National University; site footer also shows logos linking to Jeju Special Self-Governing Province, KAIST Space Institute (ksi.kaist.ac.kr), Jeju Tourism Organization and Mobilint (exact co-organizer vs supporter role per logo not separable from page text). Organizing Committee chairs: Nam Seo Goo (Konkuk Univ.), Jae-Hung Han (KAIST), Hyojung Ahn (Jeju National Univ.). General Chair: Olivier Contant (IAA Executive Director).",
+  "organizer": "International Academy of Astronautics (IAA). 2024: joint with ESA (SPAICE, ESA Advanced Concepts Team) at ECSAT. 2025: IAA in collaboration with ESA SPAICE series (IAA-SPAICE 2025), Suzhou. 2026 (3rd, Jeju): Organized by IAA; hosted and locally organized by Jeju National University; site footer also shows logos linking to Jeju Special Self-Governing Province, KAIST Space Institute (ksi.kaist.ac.kr), Jeju Tourism Organization and Mobilint (exact co-organizer vs supporter role per logo not separable from page text). Organizing Committee chairs: Nam Seo Goo (Konkuk Univ.), Jae-Hung Han (KAIST), Hyojung Ahn (Jeju National Univ.). General Chair: Olivier Contant (IAA Executive Director). 2027 (4th, Singapore): organised by IAA and NTU Satellite Research Centre (SaRC), hosted by Nanyang Technological University, supported by ESA.",
   "fields": [
     "AI",
     "autonomy",
@@ -14,25 +14,25 @@
     "neuromorphic computing",
     "Earth observation"
   ],
-  "frequency": "annual (2024, 2025, 2026 so far)",
-  "typical_month": "August-November (Sep 2024, Nov 2025, Aug 2026)",
-  "official_url": "https://www.iaa-aispace.org",
+  "frequency": "annual (2024, 2025, 2026, 2027 announced)",
+  "typical_month": "July-November (Sep 2024, Nov 2025, Aug 2026, Jul 2027)",
+  "official_url": "https://www.iaa-spaceai.org/",
   "submission": {
     "type": "short paper (up to 4 pages excl. references) -> single-round double-blind review -> oral/poster; accepted oral papers submit revised manuscript for proceedings",
-    "typical_abstract_deadline": "May-August (2024: 27 May; 2025: 20 Aug; 2026: 15 Jun - all after extensions)",
-    "typical_final_deadline": "~2-4 weeks before conference (2024: 1 Aug; 2026: 9 Aug)",
-    "notes": "2026 deadlines differ between sources: iaaspace.org event page says abstract 'May 01, 2026 extended to May 25, 2026', final paper Aug 2, 2026; the official site iaa-aispace.org shows abstract May 01 (also shown as May 10) -> June 15, 2026, notification June 1 -> June 30, final paper Aug 2 -> Aug 9, 2026. 2024: special issues in Acta Astronautica and Springer Astrodynamics."
+    "typical_abstract_deadline": "About 2-5 months before the conference (2024: 27 May; 2025: 15 Sep; 2026: 15 Jun - all after extensions; 2027: 1 Feb, original)",
+    "typical_final_deadline": "~2-6 weeks before the conference (2024: 1 Aug; 2026: 9 Aug; 2027: 1 Jun)",
+    "notes": "2027: short paper up to 4 pages (excl. references), abstract submission via Microsoft CMT 1 Nov 2026 - 1 Feb 2027, notification 1 Apr 2027, final paper 1 Jun 2027, in-person presentation required; selected papers invited to a journal special issue. 2026 deadlines differ between sources: iaaspace.org event page says abstract 'May 01, 2026 extended to May 25, 2026', final paper Aug 2, 2026; the official site iaa-aispace.org shows abstract May 01 (also shown as May 10) -> June 15, 2026, notification June 1 -> June 30, final paper Aug 2 -> Aug 9, 2026. 2024: special issues in Acta Astronautica and Springer Astrodynamics."
   },
   "next_edition": {
-    "year": null,
-    "city": null,
-    "country": null,
-    "start_date": null,
-    "end_date": null,
-    "abstract_deadline": null,
-    "status": "not yet announced",
-    "source": "https://iaaspace.org/events/",
-    "continent": null
+    "year": 2027,
+    "city": "Singapore",
+    "country": "Singapore",
+    "start_date": "2027-07-11",
+    "end_date": "2027-07-15",
+    "abstract_deadline": "2027-02-01",
+    "status": "announced; abstract submission opens 2026-11-01",
+    "source": "https://www.iaa-spaceai.org/",
+    "continent": "Asia"
   },
   "editions": [
     {
@@ -76,9 +76,26 @@
       "edition": "3rd",
       "notes": "Abstract deadline is the latest extension on the official site; iaaspace.org says extended to 2026-05-25. Event page: https://iaaspace.org/event/3rd-iaa-conference-on-ai-for-space/ (its address field wrongly says Montreal). Held alongside the 2026 Jeju Global Future Aerospace Confesta (Aug 27-28) at the same venue.",
       "continent": "Asia"
+    },
+    {
+      "year": 2027,
+      "city": "Singapore",
+      "region": null,
+      "country": "Singapore",
+      "venue": null,
+      "start_date": "2027-07-11",
+      "end_date": "2027-07-15",
+      "abstract_deadline": "2027-02-01",
+      "source": "https://www.iaa-spaceai.org/",
+      "edition": "4th",
+      "notes": "Update 2026-11-03: new edition added from the official site (announced 15 Oct 2026). Hosted by Nanyang Technological University (NTU), organised by IAA with NTU Satellite Research Centre (SaRC), supported by ESA. 11 Jul registration, 12-14 Jul technical tracks, 15 Jul NTU visit. Abstract submission (Microsoft CMT) opens 1 Nov 2026; abstract deadline 1 Feb 2027 23:59 AoE; notification 1 Apr 2027; early-bird registration 1 May 2027; final paper 1 Jun 2027 (https://www.iaa-spaceai.org/call-for-papers/). Venue: \"will be announced soon\" (https://www.iaa-spaceai.org/news/).",
+      "continent": "Asia"
     }
   ],
   "sources": [
+    "https://www.iaa-spaceai.org/",
+    "https://www.iaa-spaceai.org/call-for-papers/",
+    "https://www.iaa-spaceai.org/news/",
     "https://www.iaa-aispace.org",
     "https://www.iaa-aispace.org/About",
     "https://www.iaa-aispace.org/Program",
@@ -89,7 +106,7 @@
     "https://spaice.esa.int/2024/",
     "https://spaice.esa.int/2024/key-dates/"
   ],
-  "notes": "User-requested top-priority series. Official name on its site: '3rd IAA Conference on AI for Space' (header also says '3rd IAA Conference on AI in and for Space'; short name IAA SpaceAI). No 4th edition announced on iaaspace.org or iaa-aispace.org as of 2026-10-16 (annual cadence suggests 2027 but unverified). Korean involvement verified: Jeju National University is host/local organizer; KAIST and Konkuk Univ. professors chair the OC; KARI, KASI, KAI and ETRI researchers sit on the Scientific Committee. KARI/KASA/KSAS are NOT listed as organizers. A separate sample site (jejuai.bo9jeong.co.kr, titled '(sample) Jeju National Univ. AI international conference') mirrors the content; iaa-aispace.org is treated as official. iaa-aispace.org returns 403 to some fetchers; content was retrieved with a browser user-agent.",
+  "notes": "User-requested top-priority series. Official name on its site: '3rd IAA Conference on AI for Space' (header also says '3rd IAA Conference on AI in and for Space'; short name IAA SpaceAI). 4th edition (Singapore, 11-15 Jul 2027) announced 15 Oct 2026 on the new series site iaa-spaceai.org; the 2026 Jeju site remains iaa-aispace.org. Korean involvement verified: Jeju National University is host/local organizer; KAIST and Konkuk Univ. professors chair the OC; KARI, KASI, KAI and ETRI researchers sit on the Scientific Committee. KARI/KASA/KSAS are NOT listed as organizers. A separate sample site (jejuai.bo9jeong.co.kr, titled '(sample) Jeju National Univ. AI international conference') mirrors the content; iaa-aispace.org is treated as official. iaa-aispace.org returns 403 to some fetchers; content was retrieved with a browser user-agent.",
   "verification": {
     "claude": "researched 2026-10-16",
     "crosscheck": "independent blind re-research of 2022+ editions, conflicts adjudicated 2026-10-16",

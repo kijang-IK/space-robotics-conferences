@@ -17,7 +17,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [`?cat=space-robotics`](https://kijang-ik.github.io/space-robotics-conferences/?cat=space-robotics) | 분야 필터 (space, aerospace, space-robotics, robotics, control) |
 | [`?view=topics&picks=spacecraft-gnc,space-robotics`](https://kijang-ik.github.io/space-robotics-conferences/?view=topics&picks=spacecraft-gnc,space-robotics) | 키워드 매칭 결과 공유 |
 
-> **기준일 / As of: 2026-11-03** · 학회 40개 conferences · 개최 기록 398건 editions  
+> **기준일 / As of: 2026-11-03** · 학회 40개 conferences · 개최 기록 399건 editions  
 > 모든 값에는 출처 URL이 붙어 있습니다 / Every value has a source URL (`data/conferences/*.json`).  
 > 마감일은 자주 연장되니 **제출 전 반드시 공식 사이트를 확인하세요.** / Deadlines change often — **always check the official site before submitting.**
 
@@ -37,6 +37,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | **2027-01-15** | [EUCASS](https://www.eucass.eu/) | 2027 | Glasgow, United Kingdom | 2027-06-28 ~ 07-02 |
 | **2027-01-26** | [AIM](https://aim2027.com/) | 2027 | Calgary, Alberta, Canada | 2027-06-29 ~ 07-02 |
 | **2027-01-29** | [ISSS](https://tudelft.nl/lr/isss-2025) | 2027 | Guildford, United Kingdom | 2027-06-21 ~ 06-25 |
+| **2027-02-01** | [IAA SpaceAI](https://www.iaa-spaceai.org/) | 2027 | Singapore, Singapore | 2027-07-11 ~ 07-15 |
 | **2027-02-05** | [ICUAS](https://uasconferences.com/2027_icuas/) | 2027 | Fortaleza, Brazil | 2027-06-14 ~ 06-17 |
 | **2027-02-28** | [IAC](https://www.iafastro.org/events/iac/) | 2027 | Poznan, Poland | 2027-09-27 ~ 10-01 |
 | **2027-03-01** | [CASE](https://2027.ieeecase.org/) | 2027 | Linz, Austria | 2027-08-23 ~ 08-27 |
@@ -60,7 +61,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [IAA FSE](https://iaaspace.org/fse)<br><sub>IAA Symposium on the Future of Space Exploration</sub> | biennial 2015-2019, then 2025 (irregular); 13th reportedly planned for 2027<br><sub>June-July</sub> | one-page abstract -> extended abstract/paper/presentation upload; best papers to Acta Ast… | spring (2025: extended abstract 4 Apr 2025) | 2027 Turin, Italy<br><sub>TBA</sub> | – | TBA |
 | [IAA ICSSA](https://iaaspace.org/icssa)<br><sub>IAA Conference on Space Situational Awareness</sub> | roughly biennial (2017, 2020, 2022, 2024, 2026)<br><sub>January-May (varies)</sub> | abstract (Word file via UF portal) -> paper; top papers invited to a special issue of Act… | ~3 months before conference (2026: 5 Jan 2026) | TBA | – | TBA |
 | [IAA PDC](https://iaaspace.org/pdc)<br><sub>IAA Planetary Defense Conference</sub> | biennial (odd years)<br><sub>April-May</sub> | abstract (250-500 words) -> extended abstract / full manuscript + poster/presentation for… | late November-December of the preceding year | 2027 Montreal, Quebec, Canada<br><sub>2027-05-03 ~ 05-07</sub> | 2026-11-23 | OPEN |
-| [IAA SpaceAI](https://www.iaa-aispace.org)<br><sub>IAA Conference on AI for Space (also titled 'IAA Conference on AI in and for Space'; 1st edition held jointly with ESA's SPAICE conference)</sub> | annual (2024, 2025, 2026 so far)<br><sub>August-November (Sep 2024, Nov 2025, Aug 2026)</sub> | short paper (up to 4 pages excl. references) -> single-round double-blind review -> oral/… | May-August (2024: 27 May; 2025: 20 Aug; 2026: 15 Jun - all after extensions) | TBA | – | TBA |
+| [IAA SpaceAI](https://www.iaa-spaceai.org/)<br><sub>IAA Conference on AI for Space (also titled 'IAA Conference on AI in and for Space'; 1st edition held jointly with ESA's SPAICE conference)</sub> | annual (2024, 2025, 2026, 2027 announced)<br><sub>July-November (Sep 2024, Nov 2025, Aug 2026, Jul 2027)</sub> | short paper (up to 4 pages excl. references) -> single-round double-blind review -> oral/… | About 2-5 months before the conference (2024: 27 May; 2025: 15 Sep; 2026: 15 Jun - all af… | 2027 Singapore, Singapore<br><sub>2027-07-11 ~ 07-15</sub> | 2027-02-01 | OPEN |
 | [IAA SSEO](https://iaaspace.org/sseo)<br><sub>IAA Symposium on Small Satellites for Earth System Observation (formerly 'Small Satellites for Earth Observation')</sub> | biennial (odd years)<br><sub>April-May</sub> | abstract -> selected contributed papers; full paper for proceedings | mid-February of conference year (2025: 15 Feb) | 2027 Berlin (expected), Germany<br><sub>TBA</sub> | – | TBA |
 | [IAA STC (formerly STM Conference)](https://iaaspace.org/stc)<br><sub>Space Traffic Conference (formerly Annual Space Traffic Management Conference; 'IAA-UT Space Traffic Management Conference')</sub> | annual<br><sub>February-March (Austin era); November/January (Embry-Riddle era)</sub> | abstract (max 500 words, emailed) -> full paper | October of the preceding year for 2027 edition (14 Oct 2026); 2021 edition: 8 Jan 2021 | 2027 Austin, TX, United States<br><sub>2027-03-03 ~ 03-04</sub> | 2026-10-14 | CLOSED |
 | [IAC](https://www.iafastro.org/events/iac/)<br><sub>International Astronautical Congress</sub> | annual<br><sub>September/October</sub> | abstract-only for selection (max 400 words, no tables/drawings), followed by full manuscr… | 28 February (23:59 CET) of the congress year; IAF has frequently extended by about one we… | 2027 Poznan, Poland<br><sub>2027-09-27 ~ 10-01</sub> | 2027-02-28 | OPEN |
@@ -270,10 +271,11 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 
 </details>
 
-<details><summary><b>IAA SpaceAI</b> — IAA Conference on AI for Space (also titled 'IAA Conference on AI in and for Space'; 1st edition held jointly with ESA's SPAICE conference) (3)</summary>
+<details><summary><b>IAA SpaceAI</b> — IAA Conference on AI for Space (also titled 'IAA Conference on AI in and for Space'; 1st edition held jointly with ESA's SPAICE conference) (4)</summary>
 
 | 연도 Year | 개최지 Location | 장소 Venue | 일정 Dates | 마감 Deadline |
 |---|---|---|---|---|
+| [2027](https://www.iaa-spaceai.org/) | Singapore, Singapore | – | 2027-07-11 ~ 07-15 | 2027-02-01 |
 | [2026](https://www.iaa-aispace.org) | Jeju (Seogwipo), South Korea | Jeju Shinhwa World Hotel | 2026-08-26 ~ 08-28 | 2026-06-15 |
 | [2025](https://www.susaa.org.cn/iaaspaice/news) | Suzhou, China | – | 2025-11-01 ~ 11-03 | 2025-09-15 |
 | [2024](https://spaice.esa.int/2024/) | Didcot (Harwell Campus), United Kingdom | ESA European Centre for Space Applications and Telecommunications (ECSAT) | 2024-09-17 ~ 09-19 | 2024-05-27 |
