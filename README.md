@@ -17,7 +17,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [`?cat=space-robotics`](https://kijang-ik.github.io/space-robotics-conferences/?cat=space-robotics) | 분야 필터 (space, aerospace, space-robotics, robotics, control) |
 | [`?view=topics&picks=spacecraft-gnc,space-robotics`](https://kijang-ik.github.io/space-robotics-conferences/?view=topics&picks=spacecraft-gnc,space-robotics) | 키워드 매칭 결과 공유 |
 
-> **기준일 / As of: 2026-11-03** · 학회 40개 conferences · 개최 기록 399건 editions  
+> **기준일 / As of: 2026-11-08** · 학회 40개 conferences · 개최 기록 399건 editions  
 > 모든 값에는 출처 URL이 붙어 있습니다 / Every value has a source URL (`data/conferences/*.json`).  
 > 마감일은 자주 연장되니 **제출 전 반드시 공식 사이트를 확인하세요.** / Deadlines change often — **always check the official site before submitting.**
 
@@ -88,7 +88,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 |---|---|---|---|---|---|---|
 | [ASTRA](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Automation_and_Robotics/Conferences_and_Symposia)<br><sub>ESA Symposium (formerly Workshop) on Advanced Space Technologies in Robotics and Automation</sub> | Biennial (odd years, plus 2022), staggered with i-SAIRAS<br><sub>Varies: May-June (2015-2022), October (2023, 2025)</sub> | Abstract submission (extended abstract), then paper for proceedings published on ESA's Pr… | – | TBA | – | TBA |
 | [i-SAIRAS](https://www.isairas-isparo.de/front/index.php)<br><sub>International Symposium on Artificial Intelligence, Robotics and Automation in Space</sub> | Biennial (even years since 2010; no 2022 edition)<br><sub>Varies: June (2014-2018), October-November (2020-2026)</sub> | Abstract-based (Call for Abstracts), with optional full paper after acceptance | About 5 months before the event (early June for a November event) | 2026 Cologne, Germany<br><sub>2026-11-03 ~ 11-06</sub> | 2026-06-24 | CLOSED |
-| [iSpaRo](https://www.isparo.space/)<br><sub>International Conference on Space Robotics (iSpaRo)</sub> | Annual (new series since 2024)<br><sub>Varies: June (2024), December (2025), November (2026)</sub> | Full paper only, no abstract stage. 6 pages (US letter) plus up to 2 optional extra pages… | Full paper about 4-6 months before the event (2024: 10 Dec 2023; 2025: 12 Aug 2025; 2026:… | 2026 Cologne, Germany<br><sub>2026-11-03 ~ 11-06</sub> | 2026-06-24 | CLOSED |
+| [iSpaRo](https://www.isparo.space/)<br><sub>International Conference on Space Robotics (iSpaRo)</sub> | Annual (new series since 2024)<br><sub>Varies: June (2024), December (2025), November (2026)</sub> | Full paper only, no abstract stage. 6 pages (US letter) plus up to 2 optional extra pages… | Full paper about 4-6 months before the event (2024: 10 Dec 2023; 2025: 12 Aug 2025; 2026:… | 2027 TBA<br><sub>TBA</sub> | – | TBA |
 
 ### 로봇 / Robotics
 
