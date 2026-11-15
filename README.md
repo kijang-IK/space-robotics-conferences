@@ -17,7 +17,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 | [`?cat=space-robotics`](https://kijang-ik.github.io/space-robotics-conferences/?cat=space-robotics) | 분야 필터 (space, aerospace, space-robotics, robotics, control) |
 | [`?view=topics&picks=spacecraft-gnc,space-robotics`](https://kijang-ik.github.io/space-robotics-conferences/?view=topics&picks=spacecraft-gnc,space-robotics) | 키워드 매칭 결과 공유 |
 
-> **기준일 / As of: 2026-11-08** · 학회 40개 conferences · 개최 기록 399건 editions  
+> **기준일 / As of: 2026-11-15** · 학회 40개 conferences · 개최 기록 399건 editions  
 > 모든 값에는 출처 URL이 붙어 있습니다 / Every value has a source URL (`data/conferences/*.json`).  
 > 마감일은 자주 연장되니 **제출 전 반드시 공식 사이트를 확인하세요.** / Deadlines change often — **always check the official site before submitting.**
 
@@ -30,7 +30,6 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 
 | 마감 Deadline | 학회 Conference | 회차 Edition | 개최지 Location | 일정 Dates |
 |---|---|---|---|---|
-| **2026-11-12** | [AIAA AVIATION Forum](https://aviation.aiaa.org/) | 2027 | San Diego, United States | 2027-06-07 ~ 06-11 |
 | **2026-11-23** | [IAA PDC](https://iaaspace.org/pdc) | 2027 | Montreal, Quebec, Canada | 2027-05-03 ~ 05-07 |
 | **2026-12-04** | [RSS](https://roboticsconference.org/) | 2027 | Athens, Greece | 2027-07-06 ~ 07-11 |
 | **2026-12-17** | [ISTS](https://ists.ne.jp/) | 2027 | Toyama, Japan | 2027-07-17 ~ 07-23 |
@@ -74,7 +73,7 @@ Timeline, calendar and sortable table views, a conference × topic heatmap, venu
 
 | 학회 Conference | 주기·시기 Frequency | 제출 방식 Submission | 통상 마감 Typical deadline | 다음 회차 Next | 마감 Deadline | 상태 Status |
 |---|---|---|---|---|---|---|
-| [AIAA AVIATION Forum](https://aviation.aiaa.org/)<br><sub>AIAA Aviation and Aeronautics Forum and Exposition (AIAA AVIATION Forum)</sub> | annual<br><sub>June (August 2021; late July 2024 and 2025)</sub> | extended abstract reviewed (committee-specific requirements, e.g. V/STOL 1,000-2,500 word… | mid-November of the previous year (13 Nov 2025 for AVIATION 2026; 12 Nov 2026 for AVIATIO… | 2027 San Diego, United States<br><sub>2027-06-07 ~ 06-11</sub> | 2026-11-12 | OPEN |
+| [AIAA AVIATION Forum](https://aviation.aiaa.org/)<br><sub>AIAA Aviation and Aeronautics Forum and Exposition (AIAA AVIATION Forum)</sub> | annual<br><sub>June (August 2021; late July 2024 and 2025)</sub> | extended abstract reviewed (committee-specific requirements, e.g. V/STOL 1,000-2,500 word… | mid-November of the previous year (13 Nov 2025 for AVIATION 2026; 12 Nov 2026 for AVIATIO… | 2027 San Diego, United States<br><sub>2027-06-07 ~ 06-11</sub> | 2026-11-12 | CLOSED |
 | [AIAA SciTech Forum](https://scitech.aiaa.org/)<br><sub>AIAA Science and Technology Forum and Exposition (AIAA SciTech Forum)</sub> | annual<br><sub>January</sub> | extended abstract or draft manuscript (min. 1,000 words) reviewed; full final manuscript … | late May of the previous year (22 May 2025 for SciTech 2026; 21 May 2026 for SciTech 2027… | 2027 Orlando, United States<br><sub>2027-01-11 ~ 01-15</sub> | 2026-05-21 | CLOSED |
 | [APISAT](https://smartconf.jp/content/apisat2026/)<br><sub>Asia-Pacific International Symposium on Aerospace Technology</sub> | Annual since 2009 (1st: Gifu 2009); the 2020 edition was postponed to 2021 because of COVID-19<br><sub>October-November (occasionally September or December)</sub> | Abstract first (about 1 page), then a full paper; 'No Paper No Podium, No Podium No Paper… | Mid-May to late June of the conference year (2022: 23 May; 2023: 15 May; 2024: 27 Jun ext… | 2026 Sapporo, Japan<br><sub>2026-10-27 ~ 10-29</sub> | 2026-06-05 | CLOSED |
 | [EUCASS](https://www.eucass.eu/)<br><sub>European Conference for Aeronautics and Space Sciences (now styled 'European Conference for AeroSpace Sciences')</sub> | Biennial (odd years; 2022 and 2023 were back-to-back after the COVID shift)<br><sub>Late June - early July</sub> | One-page A4 abstract (oral or poster); full paper for proceedings | Mid-January of the conference year (2025: 15 Jan; 2027: 15 Jan) | 2027 Glasgow, United Kingdom<br><sub>2027-06-28 ~ 07-02</sub> | 2027-01-15 | OPEN |
