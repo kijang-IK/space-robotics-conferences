@@ -30,6 +30,9 @@ Prioritise conferences whose deadline is within the next 60 days or still unanno
   sites) may be used only when nothing else exists, and the note must say `(aggregator-only)`.
 - `abstract_deadline` = the main regular abstract/paper submission deadline, including official
   extensions. Exclude late-breaking, poster-only, workshop and grace-period dates.
+- Optional extra deadlines, shown as separate entries on the site: `abstract_registration_deadline`
+  (abstract/intent registration before the main deadline) and `student_paper_deadline` (a separate
+  student-session/competition paper deadline, e.g. ISTS). Add them only from a primary source.
 - Dates are `YYYY-MM-DD`. Keep the existing schema, 2-space indentation and a trailing newline.
   Keep `editions` sorted by year. New editions use the same fields as existing ones
   (`year, city, region, country, venue, start_date, end_date, abstract_deadline, source,

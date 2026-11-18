@@ -19,7 +19,7 @@
     "type": "Online abstract submission, then a full paper upload; 'No Paper, No Presentation' policy",
     "typical_abstract_deadline": "About 7-8 months before the event (Oct-Dec of the previous year)",
     "typical_final_deadline": "About 1 month before the event (Apr-Jun)",
-    "notes": "36th (2027): abstract submission opened 17 Sep 2026, abstract deadline 17 Dec 2026, paper deadline 17 Jun 2027. 35th (2025): abstract deadline 5 Nov 2024, full paper deadline 30 May 2025 (TBD at the time). 34th (2023): abstract deadline 31 Oct 2022, paper upload 30 Apr 2023."
+    "notes": "Student Session (finalist selection for Student Awards; first author must be a student): apply with the regular abstract, then upload a full paper by an earlier special deadline (36th: 17 Mar 2027 vs regular paper 17 Jun 2027; 35th: 5 Nov 2024, same day as the original abstract deadline). 36th (2027): abstract submission opened 17 Sep 2026, abstract deadline 17 Dec 2026, paper deadline 17 Jun 2027. 35th (2025): abstract deadline 5 Nov 2024, full paper deadline 30 May 2025 (TBD at the time). 34th (2023): abstract deadline 31 Oct 2022, paper upload 30 Apr 2023."
   },
   "next_edition": {
     "year": 2027,
@@ -104,9 +104,10 @@
       "start_date": "2025-07-12",
       "end_date": "2025-07-18",
       "abstract_deadline": "2024-11-19",
+      "student_paper_deadline": "2024-11-05",
       "source": "https://ists.ne.jp/the35th/whatsnew/page/2",
       "continent": "Asia",
-      "notes": "Cross-checked 2026-10-16: abstract_deadline changed 2024-11-05 -> 2024-11-19; official What's New post (5 Nov 2024) extended the Call for Papers to 19 Nov 2024 (original 5 Nov per CFP https://ists.ne.jp/the35th/wp-content/uploads/2024/06/Call-for-PapersISTS_A4_0521-1.pdf)."
+      "notes": "Cross-checked 2026-10-16: abstract_deadline changed 2024-11-05 -> 2024-11-19; official What's New post (5 Nov 2024) extended the Call for Papers to 19 Nov 2024 (original 5 Nov per CFP https://ists.ne.jp/the35th/wp-content/uploads/2024/06/Call-for-PapersISTS_A4_0521-1.pdf). Update 2026-11-18: student_paper_deadline added from the official Important Dates page (\"Special Deadline for Paper Upload only for Student Session: Nov.5, 2024\", https://ists.ne.jp/the35th/importantdates-p/); whether the 19 Nov abstract extension also applied to student papers was not confirmed."
     },
     {
       "year": 2027,
@@ -117,8 +118,10 @@
       "start_date": "2027-07-17",
       "end_date": "2027-07-23",
       "abstract_deadline": "2026-12-17",
+      "student_paper_deadline": "2027-03-17",
       "source": "https://ists.ne.jp/the36th/wp-content/uploads/2026/02/ISTS_A2_20260225_B_04-mini.pdf",
-      "continent": "Asia"
+      "continent": "Asia",
+      "notes": "Update 2026-11-18: student_paper_deadline added. Student Session applicants submit the same abstract by 2026-12-17 (ticking the Student Session option), then a full paper for finalist selection: paper submission opens 2027-02-18, deadline 2027-03-17 JST (\"strict and will not be extended\"), selection results 2027-04-19. Non-finalists move to the General Session (regular paper deadline 2027-06-17). Sources: https://ists.ne.jp/the36th/importantdates-p/ , https://ists.ne.jp/the36th/student-session/"
     }
   ],
   "sources": [

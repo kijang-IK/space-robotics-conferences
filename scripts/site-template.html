@@ -535,7 +535,7 @@ const CAT_ORDER = Object.keys(CAT);
 const CAT_GROUPS = [['우주 계열', ['space', 'aerospace', 'space-robotics']], ['로봇·제어', ['robotics', 'control']]];
 // Venues whose main deadline is a full/regular paper rather than an abstract.
 const PAPER_FIRST = new Set(['icra', 'iros', 'rss', 'corl', 'humanoids', 'case', 'aim', 'icuas', 'ur', 'iccas', 'ifac_wc', 'isparo']);
-const TYPE_KO = { abstract: '초록 마감', paper: '논문 마감', reg: '초록 등록 마감' };
+const TYPE_KO = { abstract: '초록 마감', paper: '논문 마감', reg: '초록 등록 마감', student: '학생 세션 논문 마감' };
 const KW = {}, KW_GROUP = {};
 DATA.taxonomy.groups.forEach((g) => g.keywords.forEach((k) => { KW[k.id] = k; KW_GROUP[k.id] = g.group; }));
 const GROUP_KO = { 'Space': '우주', 'Aeronautics': '항공', 'Robotics': '로봇', 'Cross-cutting': '공통' };
@@ -672,7 +672,7 @@ for (const c of DATA.conferences) {
     seen.add(k);
     ENTRIES.push({ c, e, date, type, key: `${c.id}-${e.year}-${type}` });
   };
-  for (const e of eds) { add(e, e.abstract_registration_deadline, 'reg'); add(e, e.abstract_deadline, c.mainType); }
+  for (const e of eds) { add(e, e.abstract_registration_deadline, 'reg'); add(e, e.abstract_deadline, c.mainType); add(e, e.student_paper_deadline, 'student'); }
 }
 ENTRIES.sort((a, b) => a.date.localeCompare(b.date) || a.c.short_name.localeCompare(b.c.short_name));
 
