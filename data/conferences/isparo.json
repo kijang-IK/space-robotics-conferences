@@ -21,15 +21,15 @@
     "notes": "The page-limit and review rules are from the 2026 call for papers (https://www.isairas-isparo.de/front/content.php?id_article=607); the 6+2 page format was also confirmed for 2025 via search. 2026: full paper 16 Jun 2026, extended to 24 Jun 2026 (PST, 'no further extensions'); notification 31 Aug 2026 (IEEE notification 28 Aug); camera-ready 24 Sep 2026; half-day workshops on 5 Nov 2026; late-breaking results track. 2025: paper deadline 12 Aug, notification 22 Sep, camera-ready 20 Oct (23:59 PT; year implied by the 2025 site) (https://www.isparo2025.space/). 2024: paper deadline 10 Dec 2023, notification 25 Feb 2024, camera-ready 1 Apr 2024 (https://www.spacer.lu/isparo_24/call_for_papers); the 2024 page limit was not verified."
   },
   "next_edition": {
-    "year": 2026,
-    "city": "Cologne",
-    "country": "Germany",
-    "start_date": "2026-11-03",
-    "end_date": "2026-11-06",
-    "abstract_deadline": "2026-06-24",
-    "status": "closed",
-    "source": "https://www.isairas-isparo.de/front/content.php?id_article=583",
-    "continent": "Europe"
+    "year": 2027,
+    "city": "Cambridge",
+    "country": "United States",
+    "start_date": "2027-12-06",
+    "end_date": "2027-12-09",
+    "abstract_deadline": null,
+    "status": "announced; paper deadline TBA",
+    "source": "https://www.isparo2027.space/",
+    "continent": "North America"
   },
   "editions": [
     {
@@ -71,19 +71,21 @@
     },
     {
       "year": 2027,
-      "city": null,
-      "region": null,
-      "country": null,
-      "venue": null,
-      "start_date": null,
-      "end_date": null,
+      "city": "Cambridge",
+      "region": "Massachusetts",
+      "country": "United States",
+      "venue": "MIT Samberg Conference Center",
+      "start_date": "2027-12-06",
+      "end_date": "2027-12-09",
       "abstract_deadline": null,
-      "source": "https://www.linkedin.com/posts/conference-isparo_isparo-isparo-spacerobotics-activity-7423756819082403840-78gv",
-      "continent": null,
-      "notes": "GPT cross-check 2026-11-02: edition only in GPT pass -> added. Official iSpaRo LinkedIn (1 Feb 2026): Steering Committee 'Call for Letters of Intent' for organizing future editions, 'iSpaRo 2027 LOI submission deadline: end of March 2026'. No host city, dates or deadlines announced as of 2026-11-02 -> all left null."
+      "source": "https://www.isparo2027.space/",
+      "continent": "North America",
+      "notes": "GPT cross-check 2026-11-02: edition only in GPT pass -> added. Official iSpaRo LinkedIn (1 Feb 2026): Steering Committee 'Call for Letters of Intent' for organizing future editions, 'iSpaRo 2027 LOI submission deadline: end of March 2026'. No host city, dates or deadlines announced as of 2026-11-02 -> all left null. Update 2026-11-19: official site https://www.isparo2027.space/ announces iSpaRo 2027 at MIT Samberg Conference Center, Cambridge, Massachusetts, USA, 6-9 Dec 2027; General Chair Zac Manchester (MIT) (https://www.isparo2027.space/committee/). Important Dates page lists workshop proposals, paper submission, notification, camera-ready and early registration as TBA (23:59 AoE) (https://www.isparo2027.space/important-dates/), so abstract_deadline stays null."
     }
   ],
   "sources": [
+    "https://www.isparo2027.space/",
+    "https://www.isparo2027.space/important-dates/",
     "https://www.isairas-isparo.de/front/index.php",
     "https://www.isairas-isparo.de/front/content.php?id_article=583",
     "https://www.isairas-isparo.de/front/content.php?id_article=604",
